@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flixpatrol-scraper"
+version = "0.1.0"
+description = "Reliable scraper for FlixPatrol TOP 10 pages."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12.0",
+    "requests>=2.31.0",
+]
+
+[project.scripts]
+flixpatrol-scraper = "flixpatrol_scraper.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["flixpatrol_scraper*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
