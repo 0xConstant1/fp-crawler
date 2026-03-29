@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 import sys
 
+from .regions import SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
@@ -16,18 +17,7 @@ from .scraper import (
 )
 from .tmdb import TMDB_DEFAULT_LANGUAGE, TMDBResolver, TMDBResolverError
 
-SUPPORTED_REGIONS_PATH = Path(__file__).resolve().parents[1] / "supported_regions.txt"
 FLIXPATROL_MAX_WORKERS = 4
-
-
-def load_supported_regions(path: Path = SUPPORTED_REGIONS_PATH) -> list[str]:
-    regions: list[str] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        value = line.strip()
-        if not value:
-            continue
-        regions.append(value.strip("/").split("/")[-1].lower())
-    return regions
 
 
 def normalize_region_token(value: str) -> str:
@@ -59,9 +49,9 @@ def parse_region_targets(
         token = normalize_region_token(raw_value)
         if not token:
             continue
-        if token != "global" and token not in supported_regions:
+        if token != "global" and token not in SUPPORTED_REGION_SET:
             raise ValueError(
-                f"Unsupported region {raw_value!r}. See supported_regions.txt for valid values."
+                f"Unsupported region {raw_value!r}. See flixpatrol_scraper.regions for valid values."
             )
         if token not in seen:
             seen.add(token)
@@ -160,14 +150,14 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--region",
         help=(
-            "Region slug or comma-separated region slugs from supported_regions.txt. "
+            "Region slug or comma-separated region slugs from flixpatrol_scraper.regions. "
             "Use 'global' for the world page."
         ),
     )
     parser.add_argument(
         "--all-regions",
         action="store_true",
-        help="Scrape global plus every region listed in supported_regions.txt.",
+        help="Scrape global plus every region listed in flixpatrol_scraper.regions.",
     )
     parser.add_argument(
         "--output",
@@ -205,7 +195,7 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(argv)
-    supported_regions = load_supported_regions()
+    supported_regions = list(SUPPORTED_REGION_SLUGS)
 
     try:
         region_targets = parse_region_targets(
