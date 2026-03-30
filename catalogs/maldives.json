@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/maldives/",
-  "page_title": "TOP 10 on Streaming in Maldives on March 28, 2026",
+  "page_title": "TOP 10 on Streaming in Maldives on March 29, 2026",
   "region": "maldives",
-  "date": "March 28, 2026",
-  "scraped_at_utc": "2026-03-29T08:14:33.834225+00:00",
+  "date": "March 29, 2026",
+  "scraped_at_utc": "2026-03-30T08:36:20.835822+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Maldives on March 28, 2026",
+      "heading": "TOP Movies on Netflix in Maldives on March 29, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "March 28, 2026",
+      "date": "March 29, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,20 +24,20 @@
         },
         {
           "rank": 2,
+          "title": "Dhurandhar",
+          "tmdb": {
+            "id": 1291608,
+            "media_type": "movie",
+            "release_date": "2025-12-05"
+          }
+        },
+        {
+          "rank": 3,
           "title": "BTS: THE RETURN",
           "tmdb": {
             "id": 1628116,
             "media_type": "movie",
             "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Border 2",
-          "tmdb": {
-            "id": 1213898,
-            "media_type": "movie",
-            "release_date": "2026-01-23"
           }
         },
         {
@@ -51,11 +51,11 @@
         },
         {
           "rank": 5,
-          "title": "Dhurandhar",
+          "title": "Border 2",
           "tmdb": {
-            "id": 1291608,
+            "id": 1213898,
             "media_type": "movie",
-            "release_date": "2025-12-05"
+            "release_date": "2026-01-23"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Raazi",
+          "title": "The Red Line",
           "tmdb": {
-            "id": 491629,
+            "id": 1630433,
             "media_type": "movie",
-            "release_date": "2018-05-10"
+            "release_date": "2026-03-22"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Maldives on March 28, 2026",
+      "heading": "TOP TV Shows on Netflix in Maldives on March 29, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "March 28, 2026",
+      "date": "March 29, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,15 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Jujutsu Kaisen",
-          "tmdb": {
-            "id": 95479,
-            "media_type": "tv",
-            "release_date": "2020-10-03"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Something Very Bad Is Going to Happen",
           "tmdb": {
             "id": 259265,
@@ -141,7 +132,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Phantom Lawyer",
           "tmdb": {
             "id": 281010,
@@ -150,7 +141,21 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Jujutsu Kaisen",
+          "tmdb": {
+            "id": 95479,
+            "media_type": "tv",
+            "release_date": "2020-10-03"
+          }
+        },
+        {
           "rank": 5,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 6,
           "title": "Inside",
           "tmdb": {
             "id": 256052,
@@ -159,34 +164,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Unicorn Academy: Secrets Revealed",
-          "tmdb": {
-            "id": 316945,
-            "media_type": "tv",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Heartbreak High",
-          "tmdb": {
-            "id": 158154,
-            "media_type": "tv",
-            "release_date": "2022-09-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "BTS THE COMEBACK LIVE | ARIRANG",
-          "tmdb": {
-            "id": 1628123,
-            "media_type": "movie",
-            "release_date": "2026-03-21"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Radioactive Emergency",
           "tmdb": {
             "id": 292474,
@@ -195,12 +173,30 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Homicide",
+          "rank": 8,
+          "title": "Detective Hole",
           "tmdb": {
-            "id": 5291,
+            "id": 249597,
             "media_type": "tv",
-            "release_date": "1964-10-20"
+            "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Heartbreak High",
+          "tmdb": {
+            "id": 158154,
+            "media_type": "tv",
+            "release_date": "2022-09-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Unicorn Academy: Secrets Revealed",
+          "tmdb": {
+            "id": 316945,
+            "media_type": "tv",
+            "release_date": "2026-03-19"
           }
         }
       ]
