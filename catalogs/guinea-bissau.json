@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/guinea-bissau/",
-  "page_title": "TOP 10 on Streaming in Guinea-Bissau on March 29, 2026",
+  "page_title": "TOP 10 on Streaming in Guinea-Bissau on March 30, 2026",
   "region": "guinea-bissau",
-  "date": "March 29, 2026",
-  "scraped_at_utc": "2026-03-30T08:35:58.038104+00:00",
+  "date": "March 30, 2026",
+  "scraped_at_utc": "2026-03-31T08:26:44.403945+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Guinea-Bissau on March 29, 2026",
+      "heading": "TOP Movies on Apple TV in Guinea-Bissau on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 7,
       "entries": [
         {
@@ -80,14 +80,23 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Guinea-Bissau on March 29, 2026",
+      "heading": "TOP TV Shows on Apple TV in Guinea-Bissau on March 30, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Hijack",
+          "tmdb": {
+            "id": 198102,
+            "media_type": "tv",
+            "release_date": "2023-06-28"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -96,21 +105,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Hijack",
-          "tmdb": {
-            "id": 198102,
-            "media_type": "tv",
-            "release_date": "2023-06-28"
           }
         },
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 5,
-          "title": "The Last Thing He Told Me",
-          "tmdb": {
-            "id": 201289,
-            "media_type": "tv",
-            "release_date": "2023-04-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Imperfect Women",
           "tmdb": {
             "id": 108181,
             "media_type": "tv",
             "release_date": "2026-03-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Last Thing He Told Me",
+          "tmdb": {
+            "id": 201289,
+            "media_type": "tv",
+            "release_date": "2023-04-13"
           }
         },
         {
@@ -160,20 +160,20 @@
         },
         {
           "rank": 9,
-          "title": "Echo 3",
-          "tmdb": {
-            "id": 106116,
-            "media_type": "tv",
-            "release_date": "2022-11-22"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Foundation",
+          "tmdb": {
+            "id": 93740,
+            "media_type": "tv",
+            "release_date": "2021-09-23"
           }
         }
       ]

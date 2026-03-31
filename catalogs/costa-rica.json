@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/costa-rica/",
-  "page_title": "TOP 10 on Streaming in Costa Rica on March 29, 2026",
+  "page_title": "TOP 10 on Streaming in Costa Rica on March 30, 2026",
   "region": "costa-rica",
-  "date": "March 29, 2026",
-  "scraped_at_utc": "2026-03-30T08:35:43.143747+00:00",
+  "date": "March 30, 2026",
+  "scraped_at_utc": "2026-03-31T08:26:27.577754+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on Netflix in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Knights of the Zodiac",
+          "tmdb": {
+            "id": 455476,
+            "media_type": "movie",
+            "release_date": "2023-04-27"
+          }
+        },
+        {
+          "rank": 2,
           "title": "40 Acres",
           "tmdb": {
             "id": 1319951,
@@ -23,52 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "53 Sundays",
           "tmdb": {
             "id": 1276704,
             "media_type": "movie",
-            "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Peaky Blinders: The Immortal Man",
-          "tmdb": {
-            "id": 875828,
-            "media_type": "movie",
-            "release_date": "2026-03-05"
+            "release_date": "2026-03-26"
           }
         },
         {
           "rank": 4,
-          "title": "It Would Be Night in Caracas",
-          "tmdb": {
-            "id": 1516445,
-            "media_type": "movie",
-            "release_date": "2025-10-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "War Machine",
-          "tmdb": {
-            "id": 1265609,
-            "media_type": "movie",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 7,
           "title": "What Happens in Vegas",
           "tmdb": {
             "id": 9029,
@@ -77,21 +50,48 @@
           }
         },
         {
-          "rank": 8,
-          "title": "BTS: THE RETURN",
+          "rank": 5,
+          "title": "War Machine",
           "tmdb": {
-            "id": 1628116,
+            "id": 1265609,
             "media_type": "movie",
-            "release_date": "2026-03-27"
+            "release_date": "2026-02-12"
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
+          "title": "Peaky Blinders: The Immortal Man",
+          "tmdb": {
+            "id": 875828,
+            "media_type": "movie",
+            "release_date": "2026-03-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Red Line",
           "tmdb": {
             "id": 1630433,
             "media_type": "movie",
             "release_date": "2026-03-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "It Would Be Night in Caracas",
+          "tmdb": {
+            "id": 1516445,
+            "media_type": "movie",
+            "release_date": "2025-10-26"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on Netflix in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,15 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "The Predator of Seville",
-          "tmdb": {
-            "id": 316295,
-            "media_type": "tv",
-            "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Something Very Bad Is Going to Happen",
           "tmdb": {
             "id": 259265,
@@ -141,25 +132,16 @@
           }
         },
         {
+          "rank": 3,
+          "title": "The Predator of Seville",
+          "tmdb": {
+            "id": 316295,
+            "media_type": "tv",
+            "release_date": "2026-03-27"
+          }
+        },
+        {
           "rank": 4,
-          "title": "Virgin River",
-          "tmdb": {
-            "id": 88324,
-            "media_type": "tv",
-            "release_date": "2019-12-06"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "ONE PIECE",
-          "tmdb": {
-            "id": 111110,
-            "media_type": "tv",
-            "release_date": "2023-08-31"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Detective Hole",
           "tmdb": {
             "id": 249597,
@@ -168,25 +150,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "That Night",
+          "rank": 5,
+          "title": "Virgin River",
           "tmdb": {
-            "id": 283673,
+            "id": 88324,
             "media_type": "tv",
-            "release_date": "2026-03-13"
+            "release_date": "2019-12-06"
           }
         },
         {
-          "rank": 8,
-          "title": "BTS THE COMEBACK LIVE | ARIRANG",
+          "rank": 6,
+          "title": "ONE PIECE",
           "tmdb": {
-            "id": 1628123,
-            "media_type": "movie",
-            "release_date": "2026-03-21"
+            "id": 111110,
+            "media_type": "tv",
+            "release_date": "2023-08-31"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Love & Death",
           "tmdb": {
             "id": 124800,
@@ -195,22 +177,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "DOC",
+          "tmdb": {
+            "id": 10042,
+            "media_type": "tv",
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Beauty in Black",
           "tmdb": {
             "id": 246246,
             "media_type": "tv",
             "release_date": "2024-10-24"
           }
+        },
+        {
+          "rank": 10,
+          "title": "That Night",
+          "tmdb": {
+            "id": 283673,
+            "media_type": "tv",
+            "release_date": "2026-03-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on HBO Max in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,42 +224,6 @@
         },
         {
           "rank": 2,
-          "title": "The Eagle",
-          "tmdb": {
-            "id": 49494,
-            "media_type": "movie",
-            "release_date": "2011-02-08"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Bad Guys 2",
-          "tmdb": {
-            "id": 1175942,
-            "media_type": "movie",
-            "release_date": "2025-07-24"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Virgin of the Quarry Lake",
-          "tmdb": {
-            "id": 862739,
-            "media_type": "movie",
-            "release_date": "2026-01-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Kingdom of the Planet of the Apes",
-          "tmdb": {
-            "id": 653346,
-            "media_type": "movie",
-            "release_date": "2024-05-08"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Jumanji: Welcome to the Jungle",
           "tmdb": {
             "id": 353486,
@@ -268,12 +232,48 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Jurassic World Rebirth",
+          "rank": 3,
+          "title": "The Eagle",
           "tmdb": {
-            "id": 1234821,
+            "id": 49494,
             "media_type": "movie",
-            "release_date": "2025-07-01"
+            "release_date": "2011-02-08"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Bad Guys 2",
+          "tmdb": {
+            "id": 1175942,
+            "media_type": "movie",
+            "release_date": "2025-07-24"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Virgin of the Quarry Lake",
+          "tmdb": {
+            "id": 862739,
+            "media_type": "movie",
+            "release_date": "2026-01-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Kingdom of the Planet of the Apes",
+          "tmdb": {
+            "id": 653346,
+            "media_type": "movie",
+            "release_date": "2024-05-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
           }
         },
         {
@@ -287,30 +287,30 @@
         },
         {
           "rank": 9,
-          "title": "Oh, Hi!",
-          "tmdb": {
-            "id": 1339658,
-            "media_type": "movie",
-            "release_date": "2025-07-25"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Good Shepherd",
           "tmdb": {
             "id": 1247,
             "media_type": "movie",
             "release_date": "2006-12-11"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Jurassic World Rebirth",
+          "tmdb": {
+            "id": 1234821,
+            "media_type": "movie",
+            "release_date": "2025-07-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on HBO Max in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,20 +351,20 @@
         },
         {
           "rank": 5,
-          "title": "La Promesa",
-          "tmdb": {
-            "id": 212907,
-            "media_type": "tv",
-            "release_date": "2023-01-12"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
             "media_type": "tv",
             "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "La Promesa",
+          "tmdb": {
+            "id": 212907,
+            "media_type": "tv",
+            "release_date": "2023-01-12"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Costa Rica on March 29, 2026",
+      "heading": "TOP Overall on Disney+ in Costa Rica on March 30, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -451,15 +451,6 @@
         },
         {
           "rank": 5,
-          "title": "Hannah Montana: The Movie",
-          "tmdb": {
-            "id": 18126,
-            "media_type": "movie",
-            "release_date": "2009-04-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Mike & Nick & Nick & Alice",
           "tmdb": {
             "id": 1115544,
@@ -468,21 +459,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Predator: Badlands",
           "tmdb": {
             "id": 1242898,
             "media_type": "movie",
             "release_date": "2025-11-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Hannah Montana: The Movie",
+          "tmdb": {
+            "id": 18126,
+            "media_type": "movie",
+            "release_date": "2009-04-10"
           }
         },
         {
@@ -496,39 +496,39 @@
         },
         {
           "rank": 10,
-          "title": "The Devil Wears Prada",
+          "title": "Moana 2",
           "tmdb": {
-            "id": 350,
+            "id": 1241982,
             "media_type": "movie",
-            "release_date": "2006-06-29"
+            "release_date": "2024-11-21"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on Amazon Prime in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Mercy",
-          "tmdb": {
-            "id": 1236153,
-            "media_type": "movie",
-            "release_date": "2026-01-20"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Agent Zeta",
           "tmdb": {
             "id": 1314786,
             "media_type": "movie",
             "release_date": "2026-03-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Mercy",
+          "tmdb": {
+            "id": 1236153,
+            "media_type": "movie",
+            "release_date": "2026-01-20"
           }
         },
         {
@@ -542,33 +542,6 @@
         },
         {
           "rank": 4,
-          "title": "Someone Like You",
-          "tmdb": {
-            "id": 12658,
-            "media_type": "movie",
-            "release_date": "2001-03-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Sidelined: The QB and Me",
-          "tmdb": {
-            "id": 957119,
-            "media_type": "movie",
-            "release_date": "2025-02-06"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Good Fortune",
-          "tmdb": {
-            "id": 1114967,
-            "media_type": "movie",
-            "release_date": "2025-10-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
@@ -577,7 +550,43 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Good Fortune",
+          "tmdb": {
+            "id": 1114967,
+            "media_type": "movie",
+            "release_date": "2025-10-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Someone Like You",
+          "tmdb": {
+            "id": 12658,
+            "media_type": "movie",
+            "release_date": "2001-03-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Sidelined: The QB and Me",
+          "tmdb": {
+            "id": 957119,
+            "media_type": "movie",
+            "release_date": "2025-02-06"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Goodrich",
+          "tmdb": {
+            "id": 1088096,
+            "media_type": "movie",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Collective",
           "tmdb": {
             "id": 1060090,
@@ -586,31 +595,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Falling in Love in Niagara",
           "tmdb": {
             "id": 1258379,
             "media_type": "movie",
             "release_date": "2025-05-29"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Goodrich",
-          "tmdb": {
-            "id": 1088096,
-            "media_type": "movie",
-            "release_date": "2024-10-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,20 +633,20 @@
         },
         {
           "rank": 3,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 4,
           "title": "House of David",
           "tmdb": {
             "id": 243881,
             "media_type": "tv",
             "release_date": "2025-02-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -696,21 +696,21 @@
         },
         {
           "rank": 10,
-          "title": "La Ley del Corazón",
+          "title": "56 Days",
           "tmdb": {
-            "id": 92369,
+            "id": 241372,
             "media_type": "tv",
-            "release_date": "2016-11-28"
+            "release_date": "2026-02-18"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on Paramount+ in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -742,11 +742,11 @@
         },
         {
           "rank": 4,
-          "title": "The Naked Gun",
+          "title": "Night Hunter",
           "tmdb": {
-            "id": 1035259,
+            "id": 441282,
             "media_type": "movie",
-            "release_date": "2025-07-30"
+            "release_date": "2019-08-08"
           }
         },
         {
@@ -760,11 +760,11 @@
         },
         {
           "rank": 6,
-          "title": "Night Hunter",
+          "title": "Take Cover",
           "tmdb": {
-            "id": 441282,
+            "id": 1094974,
             "media_type": "movie",
-            "release_date": "2019-08-08"
+            "release_date": "2024-10-04"
           }
         },
         {
@@ -778,11 +778,11 @@
         },
         {
           "rank": 8,
-          "title": "Take Cover",
+          "title": "The Naked Gun",
           "tmdb": {
-            "id": 1094974,
+            "id": 1035259,
             "media_type": "movie",
-            "release_date": "2024-10-04"
+            "release_date": "2025-07-30"
           }
         },
         {
@@ -796,30 +796,30 @@
         },
         {
           "rank": 10,
-          "title": "Scary Movie 2",
+          "title": "Scream VI",
           "tmdb": {
-            "id": 4248,
+            "id": 934433,
             "media_type": "movie",
-            "release_date": "2001-07-04"
+            "release_date": "2023-03-08"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "UFC Fight Night",
+          "title": "Y: Marshals",
           "tmdb": {
-            "id": 213831,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": null
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -833,11 +833,11 @@
         },
         {
           "rank": 3,
-          "title": "Y: Marshals",
+          "title": "South Park",
           "tmdb": {
-            "id": 290856,
+            "id": 2190,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "1997-08-13"
           }
         },
         {
@@ -851,11 +851,11 @@
         },
         {
           "rank": 5,
-          "title": "South Park",
+          "title": "UFC Fight Night",
           "tmdb": {
-            "id": 2190,
+            "id": 213831,
             "media_type": "tv",
-            "release_date": "1997-08-13"
+            "release_date": null
           }
         },
         {
@@ -896,21 +896,21 @@
         },
         {
           "rank": 10,
-          "title": "Sabrina, the Teenage Witch",
+          "title": "Zoey 101",
           "tmdb": {
-            "id": 605,
+            "id": 1778,
             "media_type": "tv",
-            "release_date": "1996-09-27"
+            "release_date": "2005-01-09"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on Apple TV in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -933,15 +933,6 @@
         },
         {
           "rank": 3,
-          "title": "The Lost Bus",
-          "tmdb": {
-            "id": 1236470,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -950,12 +941,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
             "media_type": "movie",
             "release_date": "2025-08-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Lost Bus",
+          "tmdb": {
+            "id": 1236470,
+            "media_type": "movie",
+            "release_date": "2025-09-19"
           }
         },
         {
@@ -978,15 +978,6 @@
         },
         {
           "rank": 8,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -995,22 +986,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Wolfs",
+          "rank": 9,
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 877817,
+            "id": 1029575,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on Apple TV in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1069,15 +1069,6 @@
         },
         {
           "rank": 7,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1086,31 +1077,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Silo",
+          "rank": 8,
+          "title": "Ted Lasso",
           "tmdb": {
-            "id": 125988,
+            "id": 97546,
             "media_type": "tv",
-            "release_date": "2023-05-04"
+            "release_date": "2020-08-14"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Morning Show",
           "tmdb": {
             "id": 90282,
             "media_type": "tv",
             "release_date": "2019-11-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Costa Rica on March 29, 2026",
+      "heading": "TOP Movies on Apple TV Store in Costa Rica on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1133,33 +1133,6 @@
         },
         {
           "rank": 3,
-          "title": "Sentimental Value",
-          "tmdb": {
-            "id": 1124566,
-            "media_type": "movie",
-            "release_date": "2025-08-20"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Wicked: For Good",
-          "tmdb": {
-            "id": 967941,
-            "media_type": "movie",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Five Nights at Freddy's 2",
-          "tmdb": {
-            "id": 1228246,
-            "media_type": "movie",
-            "release_date": "2025-12-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dracula",
           "tmdb": {
             "id": 1246049,
@@ -1168,25 +1141,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The SpongeBob Movie: Search for SquarePants",
+          "rank": 4,
+          "title": "Sentimental Value",
           "tmdb": {
-            "id": 991494,
+            "id": 1124566,
             "media_type": "movie",
-            "release_date": "2025-12-16"
+            "release_date": "2025-08-20"
           }
         },
         {
-          "rank": 8,
-          "title": "Spider-Man: Homecoming",
+          "rank": 5,
+          "title": "The Ten Commandments",
           "tmdb": {
-            "id": 315635,
+            "id": 6844,
             "media_type": "movie",
-            "release_date": "2017-07-05"
+            "release_date": "1956-10-05"
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -1195,35 +1168,16 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Gladiator",
+          "rank": 7,
+          "title": "One Battle After Another",
           "tmdb": {
-            "id": 98,
+            "id": 1054867,
             "media_type": "movie",
-            "release_date": "2000-05-04"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Costa Rica on March 29, 2026",
-      "category": "movies",
-      "platform": "Claro Video",
-      "date": "March 29, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Coraline",
-          "tmdb": {
-            "id": 14836,
-            "media_type": "movie",
-            "release_date": "2009-02-05"
+            "release_date": "2025-09-23"
           }
         },
         {
-          "rank": 2,
+          "rank": 8,
           "title": "Spider-Man: Across the Spider-Verse",
           "tmdb": {
             "id": 569094,
@@ -1232,21 +1186,67 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Happy Feet",
+          "rank": 9,
+          "title": "The King of Kings",
           "tmdb": {
-            "id": 9836,
+            "id": 1181107,
             "media_type": "movie",
-            "release_date": "2006-11-16"
+            "release_date": "2025-04-07"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "No Other Choice",
+          "tmdb": {
+            "id": 639988,
+            "media_type": "movie",
+            "release_date": "2025-09-24"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "claro-video.movies",
+      "heading": "TOP Movies on Claro Video in Costa Rica on March 30, 2026",
+      "category": "movies",
+      "platform": "Claro Video",
+      "date": "March 30, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Spider-Man: Across the Spider-Verse",
+          "tmdb": {
+            "id": 569094,
+            "media_type": "movie",
+            "release_date": "2023-05-31"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Sherlock Gnomes",
+          "tmdb": {
+            "id": 370567,
+            "media_type": "movie",
+            "release_date": "2018-03-15"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Coraline",
+          "tmdb": {
+            "id": 14836,
+            "media_type": "movie",
+            "release_date": "2009-02-05"
           }
         },
         {
           "rank": 4,
-          "title": "The Boss Baby: Family Business",
+          "title": "Mummies",
           "tmdb": {
-            "id": 459151,
+            "id": 816904,
             "media_type": "movie",
-            "release_date": "2021-07-01"
+            "release_date": "2023-01-05"
           }
         },
         {
@@ -1260,6 +1260,33 @@
         },
         {
           "rank": 6,
+          "title": "The Boss Baby: Family Business",
+          "tmdb": {
+            "id": 459151,
+            "media_type": "movie",
+            "release_date": "2021-07-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Astro Boy",
+          "tmdb": {
+            "id": 16577,
+            "media_type": "movie",
+            "release_date": "2009-10-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Happy Feet",
+          "tmdb": {
+            "id": 9836,
+            "media_type": "movie",
+            "release_date": "2006-11-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Trolls World Tour",
           "tmdb": {
             "id": 446893,
@@ -1268,62 +1295,26 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Zookeeper",
           "tmdb": {
             "id": 38317,
             "media_type": "movie",
             "release_date": "2011-07-06"
           }
-        },
-        {
-          "rank": 8,
-          "title": "POKÉMON Detective Pikachu",
-          "tmdb": {
-            "id": 447404,
-            "media_type": "movie",
-            "release_date": "2019-05-03"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Sherlock Gnomes",
-          "tmdb": {
-            "id": 370567,
-            "media_type": "movie",
-            "release_date": "2018-03-15"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Pink Panther",
-          "tmdb": {
-            "id": 12096,
-            "media_type": "movie",
-            "release_date": "2006-02-10"
-          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Costa Rica on March 29, 2026",
+      "heading": "TOP TV Shows on Claro Video in Costa Rica on March 30, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "El Torito",
-          "tmdb": {
-            "id": 13411,
-            "media_type": "tv",
-            "release_date": "1972-04-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Cantinflas y sus amigos",
           "tmdb": {
             "id": 205936,
@@ -1332,17 +1323,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Kate Winslet: Y La Búsqueda De La Autenticidad",
-          "tmdb": null
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "La Hermandad",
           "tmdb": {
             "id": 66930,
             "media_type": "tv",
             "release_date": "2016-06-02"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "El Torito",
+          "tmdb": {
+            "id": 13411,
+            "media_type": "tv",
+            "release_date": "1972-04-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Claramente",
+          "tmdb": {
+            "id": 101069,
+            "media_type": "tv",
+            "release_date": "2019-03-19"
           }
         },
         {
@@ -1352,29 +1356,6 @@
         },
         {
           "rank": 6,
-          "title": "Herederos por accidente",
-          "tmdb": {
-            "id": 103435,
-            "media_type": "tv",
-            "release_date": "2020-03-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "MUNDO KARLI Presenta: Karli y los nubecinos",
-          "tmdb": null
-        },
-        {
-          "rank": 8,
-          "title": "The Son",
-          "tmdb": {
-            "id": 67232,
-            "media_type": "tv",
-            "release_date": "2017-04-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "La Negociadora",
           "tmdb": {
             "id": 118630,
@@ -1383,12 +1364,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Grand Hotel",
+          "rank": 7,
+          "title": "Herederos por accidente",
           "tmdb": {
-            "id": 75221,
+            "id": 103435,
             "media_type": "tv",
-            "release_date": "2015-09-01"
+            "release_date": "2020-03-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Confidencial: Historias de feminismo, pasión y poder",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "Hijos de su madre",
+          "tmdb": {
+            "id": 88468,
+            "media_type": "tv",
+            "release_date": "2018-06-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "World's Busiest Cities",
+          "tmdb": {
+            "id": 73534,
+            "media_type": "tv",
+            "release_date": "2017-08-30"
           }
         }
       ]

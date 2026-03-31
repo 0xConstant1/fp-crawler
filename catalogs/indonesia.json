@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/indonesia/",
-  "page_title": "TOP 10 on Streaming in Indonesia on March 29, 2026",
+  "page_title": "TOP 10 on Streaming in Indonesia on March 30, 2026",
   "region": "indonesia",
-  "date": "March 29, 2026",
-  "scraped_at_utc": "2026-03-30T08:36:09.533591+00:00",
+  "date": "March 30, 2026",
+  "scraped_at_utc": "2026-03-31T08:26:57.516307+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Viu in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Netflix in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -125,7 +125,11 @@
         {
           "rank": 2,
           "title": "Until The Last of You",
-          "tmdb": null
+          "tmdb": {
+            "id": 1414703,
+            "media_type": "movie",
+            "release_date": "2025-11-13"
+          }
         },
         {
           "rank": 3,
@@ -147,15 +151,6 @@
         },
         {
           "rank": 5,
-          "title": "BTS: THE RETURN",
-          "tmdb": {
-            "id": 1628116,
-            "media_type": "movie",
-            "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Kuncen",
           "tmdb": {
             "id": 1292645,
@@ -164,16 +159,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Kang Solah from Kang Mak x Nenek Gayung",
-          "tmdb": {
-            "id": 1504156,
-            "media_type": "movie",
-            "release_date": "2025-09-25"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "The Red Line",
           "tmdb": {
             "id": 1630433,
@@ -182,12 +168,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Jangan Panggil Mama Kafir",
+          "rank": 7,
+          "title": "BTS: THE RETURN",
           "tmdb": {
-            "id": 1536837,
+            "id": 1628116,
             "media_type": "movie",
-            "release_date": "2025-10-16"
+            "release_date": "2026-03-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Kang Solah from Kang Mak x Nenek Gayung",
+          "tmdb": {
+            "id": 1504156,
+            "media_type": "movie",
+            "release_date": "2025-09-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mardaani 3",
+          "tmdb": {
+            "id": 1339876,
+            "media_type": "movie",
+            "release_date": "2026-01-30"
           }
         },
         {
@@ -203,10 +207,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Netflix in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -229,19 +233,19 @@
         },
         {
           "rank": 3,
-          "title": "BTS THE COMEBACK LIVE | ARIRANG",
+          "title": "Girl from Nowhere: The Reset",
           "tmdb": {
-            "id": 1628123,
-            "media_type": "movie",
-            "release_date": "2026-03-21"
+            "id": 310935,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
           "rank": 4,
-          "title": "The Heart of Suhita",
+          "title": "BTS THE COMEBACK LIVE | ARIRANG",
           "tmdb": {
-            "id": 317459,
-            "media_type": "tv",
+            "id": 1628123,
+            "media_type": "movie",
             "release_date": "2026-03-21"
           }
         },
@@ -256,6 +260,24 @@
         },
         {
           "rank": 6,
+          "title": "The Heart of Suhita",
+          "tmdb": {
+            "id": 317459,
+            "media_type": "tv",
+            "release_date": "2026-03-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Something Very Bad Is Going to Happen",
+          "tmdb": {
+            "id": 259265,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Jujutsu Kaisen",
           "tmdb": {
             "id": 95479,
@@ -264,30 +286,12 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Girl from Nowhere: The Reset",
-          "tmdb": {
-            "id": 310935,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Boyfriend on Demand",
           "tmdb": {
             "id": 281016,
             "media_type": "tv",
             "release_date": "2026-03-06"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Something Very Bad Is Going to Happen",
-          "tmdb": {
-            "id": 259265,
-            "media_type": "tv",
-            "release_date": "2026-03-26"
           }
         },
         {
@@ -303,10 +307,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on HBO Max in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -320,6 +324,15 @@
         },
         {
           "rank": 2,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 3,
           "title": "HIM",
           "tmdb": {
             "id": 986097,
@@ -328,7 +341,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Naked Gun",
           "tmdb": {
             "id": 1035259,
@@ -337,52 +350,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Get Out",
-          "tmdb": {
-            "id": 419430,
-            "media_type": "movie",
-            "release_date": "2017-02-24"
-          }
-        },
-        {
           "rank": 5,
-          "title": "One Battle After Another",
+          "title": "Wolf Man",
           "tmdb": {
-            "id": 1054867,
+            "id": 710295,
             "media_type": "movie",
-            "release_date": "2025-09-23"
+            "release_date": "2025-01-15"
           }
         },
         {
           "rank": 6,
-          "title": "Sinners",
-          "tmdb": {
-            "id": 1233413,
-            "media_type": "movie",
-            "release_date": "2025-04-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Nobody 2",
-          "tmdb": {
-            "id": 1007734,
-            "media_type": "movie",
-            "release_date": "2025-08-13"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Pacific Rim",
-          "tmdb": {
-            "id": 68726,
-            "media_type": "movie",
-            "release_date": "2013-07-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Us",
           "tmdb": {
             "id": 458723,
@@ -391,22 +368,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Splitsville",
+          "rank": 7,
+          "title": "Get Out",
           "tmdb": {
-            "id": 1337562,
+            "id": 419430,
             "media_type": "movie",
-            "release_date": "2025-08-21"
+            "release_date": "2017-02-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Sinners",
+          "tmdb": {
+            "id": 1233413,
+            "media_type": "movie",
+            "release_date": "2025-04-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Pacific Rim",
+          "tmdb": {
+            "id": 68726,
+            "media_type": "movie",
+            "release_date": "2013-07-11"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on HBO Max in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,15 +424,6 @@
         },
         {
           "rank": 2,
-          "title": "The Village Barber",
-          "tmdb": {
-            "id": 312826,
-            "media_type": "tv",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Practical Guide to Love",
           "tmdb": {
             "id": 287344,
@@ -437,12 +432,21 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Mad Concrete Dreams",
           "tmdb": {
             "id": 281965,
             "media_type": "tv",
             "release_date": "2026-03-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Village Barber",
+          "tmdb": {
+            "id": 312826,
+            "media_type": "tv",
+            "release_date": "2026-01-30"
           }
         },
         {
@@ -483,30 +487,30 @@
         },
         {
           "rank": 9,
-          "title": "A Knight of the Seven Kingdoms",
-          "tmdb": {
-            "id": 224372,
-            "media_type": "tv",
-            "release_date": "2026-01-18"
-          }
-        },
-        {
-          "rank": 10,
           "title": "ted",
           "tmdb": {
             "id": 201834,
             "media_type": "tv",
             "release_date": "2024-01-11"
           }
+        },
+        {
+          "rank": 10,
+          "title": "A Knight of the Seven Kingdoms",
+          "tmdb": {
+            "id": 224372,
+            "media_type": "tv",
+            "release_date": "2026-01-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Indonesia on March 29, 2026",
+      "heading": "TOP Overall on Amazon Prime in Indonesia on March 30, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,20 +542,20 @@
         },
         {
           "rank": 4,
-          "title": "Agent Zeta",
-          "tmdb": {
-            "id": 1314786,
-            "media_type": "movie",
-            "release_date": "2026-03-20"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
             "media_type": "movie",
             "release_date": "2026-03-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Agent Zeta",
+          "tmdb": {
+            "id": 1314786,
+            "media_type": "movie",
+            "release_date": "2026-03-20"
           }
         },
         {
@@ -565,20 +569,20 @@
         },
         {
           "rank": 7,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 8,
           "title": "56 Days",
           "tmdb": {
             "id": 241372,
             "media_type": "tv",
             "release_date": "2026-02-18"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -603,10 +607,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Amazon Prime in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -620,20 +624,20 @@
         },
         {
           "rank": 2,
-          "title": "Agent Zeta",
-          "tmdb": {
-            "id": 1314786,
-            "media_type": "movie",
-            "release_date": "2026-03-20"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
             "media_type": "movie",
             "release_date": "2026-03-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Agent Zeta",
+          "tmdb": {
+            "id": 1314786,
+            "media_type": "movie",
+            "release_date": "2026-03-20"
           }
         },
         {
@@ -647,6 +651,15 @@
         },
         {
           "rank": 5,
+          "title": "Dungeons & Dragons: Honor Among Thieves",
+          "tmdb": {
+            "id": 493529,
+            "media_type": "movie",
+            "release_date": "2023-03-23"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Transformers: Rise of the Beasts",
           "tmdb": {
             "id": 667538,
@@ -655,7 +668,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Siege at Thorn High",
           "tmdb": {
             "id": 1280089,
@@ -664,21 +677,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Expensive Candy",
           "tmdb": {
             "id": 1014887,
             "media_type": "movie",
             "release_date": "2022-09-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Dungeons & Dragons: Honor Among Thieves",
-          "tmdb": {
-            "id": 493529,
-            "media_type": "movie",
-            "release_date": "2023-03-23"
           }
         },
         {
@@ -703,10 +707,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -738,20 +742,20 @@
         },
         {
           "rank": 4,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "56 Days",
           "tmdb": {
             "id": 241372,
             "media_type": "tv",
             "release_date": "2026-02-18"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -803,10 +807,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Apple TV in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,6 +833,15 @@
         },
         {
           "rank": 3,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -837,21 +850,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
             "media_type": "movie",
             "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
           }
         },
         {
@@ -903,10 +907,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Apple TV in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -938,20 +942,20 @@
         },
         {
           "rank": 4,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
           }
         },
         {
@@ -992,21 +996,21 @@
         },
         {
           "rank": 10,
-          "title": "Severance",
+          "title": "Pluribus",
           "tmdb": {
-            "id": 95396,
+            "id": 225171,
             "media_type": "tv",
-            "release_date": "2022-02-17"
+            "release_date": "2025-11-06"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Apple TV Store in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1020,42 +1024,6 @@
         },
         {
           "rank": 2,
-          "title": "Black Phone 2",
-          "tmdb": {
-            "id": 1197137,
-            "media_type": "movie",
-            "release_date": "2025-10-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Stray Kids: The dominATE Experience",
-          "tmdb": {
-            "id": 1600421,
-            "media_type": "movie",
-            "release_date": "2026-02-04"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Interstellar",
-          "tmdb": {
-            "id": 157336,
-            "media_type": "movie",
-            "release_date": "2014-11-05"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Anaconda",
           "tmdb": {
             "id": 1234731,
@@ -1064,21 +1032,57 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Interstellar",
+          "tmdb": {
+            "id": 157336,
+            "media_type": "movie",
+            "release_date": "2014-11-05"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Black Phone 2",
+          "tmdb": {
+            "id": 1197137,
+            "media_type": "movie",
+            "release_date": "2025-10-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Warcraft",
+          "tmdb": {
+            "id": 68735,
+            "media_type": "movie",
+            "release_date": "2016-05-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "tmdb": {
+            "id": 673,
+            "media_type": "movie",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Wicked: For Good",
           "tmdb": {
             "id": 967941,
             "media_type": "movie",
             "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Prince of Egypt",
-          "tmdb": {
-            "id": 9837,
-            "media_type": "movie",
-            "release_date": "1998-12-16"
           }
         },
         {
@@ -1092,39 +1096,39 @@
         },
         {
           "rank": 10,
-          "title": "Uncharted",
+          "title": "The Prince of Egypt",
           "tmdb": {
-            "id": 335787,
+            "id": 9837,
             "media_type": "movie",
-            "release_date": "2022-02-10"
+            "release_date": "1998-12-16"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Google in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Mission: Impossible - The Final Reckoning",
+          "title": "Stray Kids: The dominATE Experience",
           "tmdb": {
-            "id": 575265,
+            "id": 1600421,
             "media_type": "movie",
-            "release_date": "2025-05-17"
+            "release_date": "2026-02-04"
           }
         },
         {
           "rank": 2,
-          "title": "Primate",
+          "title": "F1",
           "tmdb": {
-            "id": 1315303,
+            "id": 911430,
             "media_type": "movie",
-            "release_date": "2026-01-01"
+            "release_date": "2025-06-25"
           }
         },
         {
@@ -1138,24 +1142,6 @@
         },
         {
           "rank": 4,
-          "title": "Five Nights at Freddy's 2",
-          "tmdb": {
-            "id": 1228246,
-            "media_type": "movie",
-            "release_date": "2025-12-03"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "A Minecraft Movie",
-          "tmdb": {
-            "id": 950387,
-            "media_type": "movie",
-            "release_date": "2025-03-31"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Superman",
           "tmdb": {
             "id": 1061474,
@@ -1164,25 +1150,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Mission: Impossible - The Final Reckoning",
+          "tmdb": {
+            "id": 575265,
+            "media_type": "movie",
+            "release_date": "2025-05-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Primate",
+          "tmdb": {
+            "id": 1315303,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
+          }
+        },
+        {
           "rank": 7,
-          "title": "Chainsaw Man - The Movie: Reze Arc",
-          "tmdb": {
-            "id": 1218925,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "28 Years Later: The Bone Temple",
-          "tmdb": {
-            "id": 1272837,
-            "media_type": "movie",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Wicked: For Good",
           "tmdb": {
             "id": 967941,
@@ -1191,22 +1177,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Sinners",
+          "tmdb": {
+            "id": 1233413,
+            "media_type": "movie",
+            "release_date": "2025-04-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Conjuring: Last Rites",
           "tmdb": {
             "id": 1038392,
             "media_type": "movie",
             "release_date": "2025-09-03"
           }
+        },
+        {
+          "rank": 10,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "catchplay.overall",
-      "heading": "TOP Overall on Catchplay in Indonesia on March 29, 2026",
+      "heading": "TOP Overall on Catchplay in Indonesia on March 30, 2026",
       "category": "overall",
       "platform": "Catchplay",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1303,10 +1307,10 @@
     },
     {
       "catalog_id": "catchplay.movies",
-      "heading": "TOP Movies on Catchplay in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Catchplay in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Catchplay",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1403,10 +1407,10 @@
     },
     {
       "catalog_id": "catchplay.series",
-      "heading": "TOP TV Shows on Catchplay in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Catchplay in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Catchplay",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1503,10 +1507,10 @@
     },
     {
       "catalog_id": "catchplay.rental-movies",
-      "heading": "TOP Rental Movies on Catchplay in Indonesia on March 29, 2026",
+      "heading": "TOP Rental Movies on Catchplay in Indonesia on March 30, 2026",
       "category": "rental movies",
       "platform": "Catchplay",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -1594,10 +1598,10 @@
     },
     {
       "catalog_id": "vidio.overall",
-      "heading": "TOP Overall on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Overall on Vidio in Indonesia on March 30, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1630,20 +1634,20 @@
         },
         {
           "rank": 5,
-          "title": "Algojo",
-          "tmdb": {
-            "id": 284021,
-            "media_type": "tv",
-            "release_date": null
-          }
-        },
-        {
-          "rank": 6,
           "title": "Sugar Baby",
           "tmdb": {
             "id": 1196656,
             "media_type": "movie",
             "release_date": "2023-11-24"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Algojo",
+          "tmdb": {
+            "id": 284021,
+            "media_type": "tv",
+            "release_date": null
           }
         },
         {
@@ -1682,10 +1686,10 @@
     },
     {
       "catalog_id": "vidio.overall-in-japanese",
-      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on March 30, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1717,20 +1721,20 @@
         },
         {
           "rank": 4,
-          "title": "Tojima Wants to Be a Kamen Rider",
-          "tmdb": {
-            "id": 285788,
-            "media_type": "tv",
-            "release_date": "2025-10-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Frieren: Beyond Journey's End",
           "tmdb": {
             "id": 209867,
             "media_type": "tv",
             "release_date": "2023-09-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Tojima Wants to Be a Kamen Rider",
+          "tmdb": {
+            "id": 285788,
+            "media_type": "tv",
+            "release_date": "2025-10-05"
           }
         },
         {
@@ -1782,10 +1786,10 @@
     },
     {
       "catalog_id": "vidio.overall-in-korean",
-      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on March 30, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1882,10 +1886,10 @@
     },
     {
       "catalog_id": "vidio.movies",
-      "heading": "TOP Movies on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Movies on Vidio in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1908,15 +1912,6 @@
         },
         {
           "rank": 3,
-          "title": "Rangga & Cinta",
-          "tmdb": {
-            "id": 1296742,
-            "media_type": "movie",
-            "release_date": "2025-10-02"
-          }
-        },
-        {
-          "rank": 4,
           "title": "GJLS: Ibuku Ibu-Ibu",
           "tmdb": {
             "id": 1308412,
@@ -1925,16 +1920,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Expend4bles",
+          "rank": 4,
+          "title": "Rangga & Cinta",
           "tmdb": {
-            "id": 299054,
+            "id": 1296742,
             "media_type": "movie",
-            "release_date": "2023-09-15"
+            "release_date": "2025-10-02"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Fate of the Furious",
           "tmdb": {
             "id": 337339,
@@ -1943,12 +1938,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Fast and the Furious: Tokyo Drift",
           "tmdb": {
             "id": 9615,
             "media_type": "movie",
             "release_date": "2006-06-03"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Expend4bles",
+          "tmdb": {
+            "id": 299054,
+            "media_type": "movie",
+            "release_date": "2023-09-15"
           }
         },
         {
@@ -1982,10 +1986,10 @@
     },
     {
       "catalog_id": "vidio.movies-in-english",
-      "heading": "TOP Movies (in English) on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Movies (in English) on Vidio in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1999,20 +2003,20 @@
         },
         {
           "rank": 2,
-          "title": "Expend4bles",
-          "tmdb": {
-            "id": 299054,
-            "media_type": "movie",
-            "release_date": "2023-09-15"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Fast and the Furious: Tokyo Drift",
           "tmdb": {
             "id": 9615,
             "media_type": "movie",
             "release_date": "2006-06-03"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Expend4bles",
+          "tmdb": {
+            "id": 299054,
+            "media_type": "movie",
+            "release_date": "2023-09-15"
           }
         },
         {
@@ -2082,10 +2086,10 @@
     },
     {
       "catalog_id": "vidio.movies-in-indonesian",
-      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on March 30, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2099,20 +2103,20 @@
         },
         {
           "rank": 2,
-          "title": "Rangga & Cinta",
-          "tmdb": {
-            "id": 1296742,
-            "media_type": "movie",
-            "release_date": "2025-10-02"
-          }
-        },
-        {
-          "rank": 3,
           "title": "GJLS: Ibuku Ibu-Ibu",
           "tmdb": {
             "id": 1308412,
             "media_type": "movie",
             "release_date": "2025-06-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Rangga & Cinta",
+          "tmdb": {
+            "id": 1296742,
+            "media_type": "movie",
+            "release_date": "2025-10-02"
           }
         },
         {
@@ -2182,10 +2186,10 @@
     },
     {
       "catalog_id": "vidio.series",
-      "heading": "TOP TV Shows on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows on Vidio in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2199,20 +2203,20 @@
         },
         {
           "rank": 2,
-          "title": "Algojo",
-          "tmdb": {
-            "id": 284021,
-            "media_type": "tv",
-            "release_date": null
-          }
-        },
-        {
-          "rank": 3,
           "title": "Sugar Baby",
           "tmdb": {
             "id": 306917,
             "media_type": "tv",
             "release_date": "2025-11-29"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Algojo",
+          "tmdb": {
+            "id": 284021,
+            "media_type": "tv",
+            "release_date": null
           }
         },
         {
@@ -2282,10 +2286,10 @@
     },
     {
       "catalog_id": "vidio.series-in-indonesian",
-      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on March 29, 2026",
+      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on March 30, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2320,17 +2324,17 @@
         },
         {
           "rank": 7,
+          "title": "Petualangan Rahasia Queena",
+          "tmdb": null
+        },
+        {
+          "rank": 8,
           "title": "Lorong Waktu",
           "tmdb": {
             "id": 50241,
             "media_type": "tv",
             "release_date": null
           }
-        },
-        {
-          "rank": 8,
-          "title": "Petualangan Rahasia Queena",
-          "tmdb": null
         },
         {
           "rank": 9,

@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/estonia/",
-  "page_title": "TOP 10 on Streaming in Estonia on March 29, 2026",
+  "page_title": "TOP 10 on Streaming in Estonia on March 30, 2026",
   "region": "estonia",
-  "date": "March 29, 2026",
-  "scraped_at_utc": "2026-03-30T08:35:49.110102+00:00",
+  "date": "March 30, 2026",
+  "scraped_at_utc": "2026-03-31T08:26:35.812155+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Estonia on March 29, 2026",
+      "heading": "TOP Movies on Netflix in Estonia on March 30, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -51,6 +51,15 @@
         },
         {
           "rank": 5,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 6,
           "title": "BTS: THE RETURN",
           "tmdb": {
             "id": 1628116,
@@ -59,21 +68,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Downhill",
           "tmdb": {
             "id": 560391,
             "media_type": "movie",
             "release_date": "2020-02-06"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "KPop Demon Hunters",
-          "tmdb": {
-            "id": 803796,
-            "media_type": "movie",
-            "release_date": "2025-06-20"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Estonia on March 29, 2026",
+      "heading": "TOP TV Shows on Netflix in Estonia on March 30, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -151,15 +151,6 @@
         },
         {
           "rank": 5,
-          "title": "Outlander",
-          "tmdb": {
-            "id": 56570,
-            "media_type": "tv",
-            "release_date": "2014-08-09"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Heartbreak High",
           "tmdb": {
             "id": 158154,
@@ -168,12 +159,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Homicide",
           "tmdb": {
             "id": 5291,
             "media_type": "tv",
             "release_date": "1964-10-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Outlander",
+          "tmdb": {
+            "id": 56570,
+            "media_type": "tv",
+            "release_date": "2014-08-09"
           }
         },
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall on HBO Max in Estonia on March 29, 2026",
+      "heading": "TOP Overall on HBO Max in Estonia on March 30, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -242,20 +242,20 @@
         },
         {
           "rank": 4,
-          "title": "One Battle After Another",
-          "tmdb": {
-            "id": 1054867,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Privileges",
           "tmdb": {
             "id": 283853,
             "media_type": "tv",
             "release_date": "2026-03-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "DTF St. Louis",
+          "tmdb": {
+            "id": 206828,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -269,24 +269,6 @@
         },
         {
           "rank": 7,
-          "title": "DTF St. Louis",
-          "tmdb": {
-            "id": 206828,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Dune",
-          "tmdb": {
-            "id": 438631,
-            "media_type": "movie",
-            "release_date": "2021-09-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Unsane",
           "tmdb": {
             "id": 467660,
@@ -295,22 +277,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Southern Chronicles",
+          "rank": 8,
+          "title": "90 Day Fiancé: Before the 90 Days",
           "tmdb": {
-            "id": 1252855,
+            "id": 73319,
+            "media_type": "tv",
+            "release_date": "2017-08-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Dune",
+          "tmdb": {
+            "id": 438631,
             "media_type": "movie",
-            "release_date": "2025-01-24"
+            "release_date": "2021-09-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Estonia on March 29, 2026",
+      "heading": "TOP Overall on Disney+ in Estonia on March 30, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,11 +351,11 @@
         },
         {
           "rank": 5,
-          "title": "Bluey's Big Play",
+          "title": "Lucky Luke",
           "tmdb": {
-            "id": 1453792,
-            "media_type": "movie",
-            "release_date": "2025-04-20"
+            "id": 259405,
+            "media_type": "tv",
+            "release_date": "2026-03-23"
           }
         },
         {
@@ -369,29 +369,29 @@
         },
         {
           "rank": 7,
-          "title": "Lucky Luke",
-          "tmdb": {
-            "id": 259405,
-            "media_type": "tv",
-            "release_date": "2026-03-23"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Zootopia",
-          "tmdb": {
-            "id": 269149,
-            "media_type": "movie",
-            "release_date": "2016-02-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Paradise",
           "tmdb": {
             "id": 245927,
             "media_type": "tv",
             "release_date": "2025-01-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Bluey's Big Play",
+          "tmdb": {
+            "id": 1453792,
+            "media_type": "movie",
+            "release_date": "2025-04-20"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
           }
         },
         {
@@ -407,23 +407,14 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Estonia on March 29, 2026",
+      "heading": "TOP Movies on Apple TV in Estonia on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
@@ -432,7 +423,25 @@
           }
         },
         {
+          "rank": 2,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
           "rank": 3,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -441,21 +450,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Finch",
-          "tmdb": {
-            "id": 522402,
-            "media_type": "movie",
-            "release_date": "2021-11-04"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Ghosted",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 868759,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2023-04-18"
+            "release_date": "2025-11-11"
           }
         },
         {
@@ -469,24 +469,6 @@
         },
         {
           "rank": 7,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
@@ -495,22 +477,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Family Plan 2",
+          "rank": 8,
+          "title": "Finch",
           "tmdb": {
-            "id": 1363123,
+            "id": 522402,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2021-11-04"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Lost Bus",
+          "tmdb": {
+            "id": 1236470,
+            "media_type": "movie",
+            "release_date": "2025-09-19"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Estonia on March 29, 2026",
+      "heading": "TOP TV Shows on Apple TV in Estonia on March 30, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -560,20 +560,20 @@
         },
         {
           "rank": 6,
-          "title": "Hijack",
-          "tmdb": {
-            "id": 198102,
-            "media_type": "tv",
-            "release_date": "2023-06-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Tehran",
           "tmdb": {
             "id": 103913,
             "media_type": "tv",
             "release_date": "2020-06-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Hijack",
+          "tmdb": {
+            "id": 198102,
+            "media_type": "tv",
+            "release_date": "2023-06-28"
           }
         },
         {
@@ -587,48 +587,48 @@
         },
         {
           "rank": 9,
-          "title": "The Hunt",
-          "tmdb": {
-            "id": 64313,
-            "media_type": "tv",
-            "release_date": "2015-11-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
             "media_type": "tv",
             "release_date": "2022-04-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Severance",
+          "tmdb": {
+            "id": 95396,
+            "media_type": "tv",
+            "release_date": "2022-02-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Estonia on March 29, 2026",
+      "heading": "TOP Movies on Apple TV Store in Estonia on March 30, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The SpongeBob Movie: Search for SquarePants",
+          "title": "Anaconda",
           "tmdb": {
-            "id": 991494,
+            "id": 1234731,
             "media_type": "movie",
-            "release_date": "2025-12-16"
+            "release_date": "2025-12-24"
           }
         },
         {
           "rank": 2,
-          "title": "Sinners",
+          "title": "Send Help",
           "tmdb": {
-            "id": 1233413,
+            "id": 1198994,
             "media_type": "movie",
-            "release_date": "2025-04-16"
+            "release_date": "2026-01-22"
           }
         },
         {
@@ -642,42 +642,6 @@
         },
         {
           "rank": 4,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Bullet Train",
-          "tmdb": {
-            "id": 718930,
-            "media_type": "movie",
-            "release_date": "2022-08-03"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "A Man Called Otto",
-          "tmdb": {
-            "id": 937278,
-            "media_type": "movie",
-            "release_date": "2022-12-28"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Send Help",
-          "tmdb": {
-            "id": 1198994,
-            "media_type": "movie",
-            "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Dune: Part Two",
           "tmdb": {
             "id": 693134,
@@ -686,31 +650,67 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Anaconda",
+          "rank": 5,
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 1234731,
+            "id": 4247,
             "media_type": "movie",
-            "release_date": "2025-12-24"
+            "release_date": "2000-07-07"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The SpongeBob Movie: Search for SquarePants",
+          "tmdb": {
+            "id": 991494,
+            "media_type": "movie",
+            "release_date": "2025-12-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Inside Out 2",
+          "tmdb": {
+            "id": 1022789,
+            "media_type": "movie",
+            "release_date": "2024-06-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Lord of the Rings: The Two Towers",
+          "tmdb": {
+            "id": 121,
+            "media_type": "movie",
+            "release_date": "2002-12-18"
           }
         },
         {
           "rank": 10,
-          "title": "Sherlock Holmes: A Game of Shadows",
+          "title": "Sinners",
           "tmdb": {
-            "id": 58574,
+            "id": 1233413,
             "media_type": "movie",
-            "release_date": "2011-11-22"
+            "release_date": "2025-04-16"
           }
         }
       ]
     },
     {
       "catalog_id": "go3.movies",
-      "heading": "TOP Movies on GO3 in Estonia on March 29, 2026",
+      "heading": "TOP Movies on GO3 in Estonia on March 30, 2026",
       "category": "movies",
       "platform": "GO3",
-      "date": "March 29, 2026",
+      "date": "March 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,6 +733,15 @@
         },
         {
           "rank": 3,
+          "title": "Perfect Strangers",
+          "tmdb": {
+            "id": 381341,
+            "media_type": "movie",
+            "release_date": "2016-02-11"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Frozen",
           "tmdb": {
             "id": 109445,
@@ -741,25 +750,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The SpongeBob Movie: Search for SquarePants",
-          "tmdb": {
-            "id": 991494,
-            "media_type": "movie",
-            "release_date": "2025-12-16"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Jurassic World Rebirth",
-          "tmdb": {
-            "id": 1234821,
-            "media_type": "movie",
-            "release_date": "2025-07-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Elio",
           "tmdb": {
             "id": 1022787,
@@ -768,7 +759,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Jurassic World Rebirth",
+          "tmdb": {
+            "id": 1234821,
+            "media_type": "movie",
+            "release_date": "2025-07-01"
+          }
+        },
+        {
           "rank": 7,
+          "title": "The SpongeBob Movie: Search for SquarePants",
+          "tmdb": {
+            "id": 991494,
+            "media_type": "movie",
+            "release_date": "2025-12-16"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Cars",
           "tmdb": {
             "id": 920,
@@ -777,21 +786,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Lilo & Stitch",
           "tmdb": {
             "id": 552524,
             "media_type": "movie",
             "release_date": "2025-05-17"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Perfect Strangers",
-          "tmdb": {
-            "id": 381341,
-            "media_type": "movie",
-            "release_date": "2016-02-11"
           }
         },
         {
