@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/france/",
-  "page_title": "TOP 10 on Streaming in France on March 30, 2026",
+  "page_title": "TOP 10 on Streaming in France on April 1, 2026",
   "region": "france",
-  "date": "March 30, 2026",
-  "scraped_at_utc": "2026-03-31T08:26:43.473808+00:00",
+  "date": "April 1, 2026",
+  "scraped_at_utc": "2026-04-01T15:57:31.553229+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in France on March 30, 2026",
+      "heading": "TOP Movies on Netflix in France on April 1, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Let Him Go",
+          "tmdb": {
+            "id": 596161,
+            "media_type": "movie",
+            "release_date": "2020-11-05"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Sous écrous",
           "tmdb": {
             "id": 1279871,
@@ -23,7 +32,25 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Trolls World Tour",
+          "tmdb": {
+            "id": 446893,
+            "media_type": "movie",
+            "release_date": "2020-03-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Un petit miracle",
+          "tmdb": {
+            "id": 964898,
+            "media_type": "movie",
+            "release_date": "2023-01-25"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Peaky Blinders: The Immortal Man",
           "tmdb": {
             "id": 875828,
@@ -32,16 +59,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Planet B",
-          "tmdb": {
-            "id": 1064758,
-            "media_type": "movie",
-            "release_date": "2024-12-25"
-          }
-        },
-        {
-          "rank": 4,
+          "rank": 6,
           "title": "Twilight",
           "tmdb": {
             "id": 8966,
@@ -50,16 +68,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "War Machine",
+          "rank": 7,
+          "title": "Humint",
           "tmdb": {
-            "id": 1265609,
+            "id": 1268127,
             "media_type": "movie",
-            "release_date": "2026-02-12"
+            "release_date": "2026-02-11"
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "What Happens in Vegas",
           "tmdb": {
             "id": 9029,
@@ -68,16 +86,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Retirement Home",
-          "tmdb": {
-            "id": 736500,
-            "media_type": "movie",
-            "release_date": "2022-02-16"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "The Twilight Saga: New Moon",
           "tmdb": {
             "id": 18239,
@@ -86,31 +95,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Red Line",
-          "tmdb": {
-            "id": 1630433,
-            "media_type": "movie",
-            "release_date": "2026-03-22"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Nosferatu",
+          "title": "War Machine",
           "tmdb": {
-            "id": 426063,
+            "id": 1265609,
             "media_type": "movie",
-            "release_date": "2024-12-25"
+            "release_date": "2026-02-12"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in France on March 30, 2026",
+      "heading": "TOP TV Shows on Netflix in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,6 +142,15 @@
         },
         {
           "rank": 4,
+          "title": "Raw",
+          "tmdb": {
+            "id": 4656,
+            "media_type": "tv",
+            "release_date": "1993-01-11"
+          }
+        },
+        {
+          "rank": 5,
           "title": "ONE PIECE",
           "tmdb": {
             "id": 111110,
@@ -150,21 +159,12 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Outlander",
-          "tmdb": {
-            "id": 56570,
-            "media_type": "tv",
-            "release_date": "2014-08-09"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Radioactive Emergency",
+          "title": "Ripple",
           "tmdb": {
-            "id": 292474,
+            "id": 263346,
             "media_type": "tv",
-            "release_date": "2026-03-18"
+            "release_date": "2025-12-03"
           }
         },
         {
@@ -178,239 +178,67 @@
         },
         {
           "rank": 8,
+          "title": "Outlander",
+          "tmdb": {
+            "id": 56570,
+            "media_type": "tv",
+            "release_date": "2014-08-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Radioactive Emergency",
+          "tmdb": {
+            "id": 292474,
+            "media_type": "tv",
+            "release_date": "2026-03-18"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Predator of Seville",
           "tmdb": {
             "id": 316295,
             "media_type": "tv",
             "release_date": "2026-03-27"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Heartbreak High",
-          "tmdb": {
-            "id": 158154,
-            "media_type": "tv",
-            "release_date": "2022-09-14"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Virgin River",
-          "tmdb": {
-            "id": 88324,
-            "media_type": "tv",
-            "release_date": "2019-12-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in France on March 30, 2026",
+      "heading": "TOP Kids Movies on Netflix in France on April 1, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "March 30, 2026",
-      "title_count": 10,
+      "date": "April 1, 2026",
+      "title_count": 2,
       "entries": [
         {
           "rank": 1,
-          "title": "KPop Demon Hunters",
+          "title": "Trolls World Tour",
           "tmdb": {
-            "id": 803796,
+            "id": 446893,
             "media_type": "movie",
-            "release_date": "2025-06-20"
+            "release_date": "2020-03-11"
           }
         },
         {
           "rank": 2,
-          "title": "Despicable Me 4",
+          "title": "Trolls",
           "tmdb": {
-            "id": 519182,
+            "id": 136799,
             "media_type": "movie",
-            "release_date": "2024-06-20"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Shark Tale",
-          "tmdb": {
-            "id": 10555,
-            "media_type": "movie",
-            "release_date": "2004-09-20"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Boss Baby",
-          "tmdb": {
-            "id": 295693,
-            "media_type": "movie",
-            "release_date": "2017-03-23"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Wicked",
-          "tmdb": {
-            "id": 402431,
-            "media_type": "movie",
-            "release_date": "2024-10-16"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Asterix & Obelix: The Middle Kingdom",
-          "tmdb": {
-            "id": 643215,
-            "media_type": "movie",
-            "release_date": "2023-02-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Shrek",
-          "tmdb": {
-            "id": 808,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Grinch",
-          "tmdb": {
-            "id": 360920,
-            "media_type": "movie",
-            "release_date": "2018-11-08"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Minions",
-          "tmdb": {
-            "id": 211672,
-            "media_type": "movie",
-            "release_date": "2015-06-17"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Despicable Me 3",
-          "tmdb": {
-            "id": 324852,
-            "media_type": "movie",
-            "release_date": "2017-06-15"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in France on March 30, 2026",
-      "category": "kids tv shows",
-      "platform": "Netflix",
-      "date": "March 30, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Unicorn Academy: Secrets Revealed",
-          "tmdb": {
-            "id": 316945,
-            "media_type": "tv",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Dinosaurs",
-          "tmdb": {
-            "id": 313298,
-            "media_type": "tv",
-            "release_date": "2026-03-06"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Gabby's Dollhouse",
-          "tmdb": {
-            "id": 111474,
-            "media_type": "tv",
-            "release_date": "2021-01-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Les Sisters",
-          "tmdb": {
-            "id": 74974,
-            "media_type": "tv",
-            "release_date": "2017-08-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Simon",
-          "tmdb": {
-            "id": 79888,
-            "media_type": "tv",
-            "release_date": "2016-12-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Paw Patrol",
-          "tmdb": {
-            "id": 57532,
-            "media_type": "tv",
-            "release_date": "2013-08-12"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Peppa Pig",
-          "tmdb": {
-            "id": 12225,
-            "media_type": "tv",
-            "release_date": "2004-05-31"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Trotro",
-          "tmdb": {
-            "id": 63775,
-            "media_type": "tv",
-            "release_date": "2004-10-23"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Asterix & Obelix: The Big Fight",
-          "tmdb": {
-            "id": 122781,
-            "media_type": "tv",
-            "release_date": "2025-04-30"
+            "release_date": "2016-10-13"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in France on March 30, 2026",
+      "heading": "TOP Movies on HBO Max in France on April 1, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,15 +270,6 @@
         },
         {
           "rank": 4,
-          "title": "The Twilight Saga: Breaking Dawn - Part 2",
-          "tmdb": {
-            "id": 50620,
-            "media_type": "movie",
-            "release_date": "2012-11-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Shazam! Fury of the Gods",
           "tmdb": {
             "id": 594767,
@@ -459,7 +278,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Twilight Saga: Breaking Dawn - Part 1",
           "tmdb": {
             "id": 50619,
@@ -468,16 +287,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Daybreakers",
+          "rank": 6,
+          "title": "The Twilight Saga: Breaking Dawn - Part 2",
           "tmdb": {
-            "id": 19901,
+            "id": 50620,
             "media_type": "movie",
-            "release_date": "2010-01-06"
+            "release_date": "2012-11-13"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "La La Land",
           "tmdb": {
             "id": 313369,
@@ -486,7 +305,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Dune",
           "tmdb": {
             "id": 438631,
@@ -495,22 +314,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Joker: Folie à Deux",
           "tmdb": {
             "id": 889737,
             "media_type": "movie",
             "release_date": "2024-10-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Daybreakers",
+          "tmdb": {
+            "id": 19901,
+            "media_type": "movie",
+            "release_date": "2010-01-06"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in France on March 30, 2026",
+      "heading": "TOP TV Shows on HBO Max in France on April 1, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,11 +352,11 @@
         },
         {
           "rank": 2,
-          "title": "Privileges",
+          "title": "Rooster",
           "tmdb": {
-            "id": 283853,
+            "id": 254953,
             "media_type": "tv",
-            "release_date": "2026-03-27"
+            "release_date": "2026-03-08"
           }
         },
         {
@@ -542,15 +370,6 @@
         },
         {
           "rank": 4,
-          "title": "Rooster",
-          "tmdb": {
-            "id": 254953,
-            "media_type": "tv",
-            "release_date": "2026-03-08"
-          }
-        },
-        {
-          "rank": 5,
           "title": "DTF St. Louis",
           "tmdb": {
             "id": 206828,
@@ -559,25 +378,25 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Confidante",
+          "rank": 5,
+          "title": "Privileges",
           "tmdb": {
-            "id": 224011,
+            "id": 283853,
             "media_type": "tv",
-            "release_date": "2024-10-11"
+            "release_date": "2026-03-27"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gold Rush",
+          "tmdb": {
+            "id": 34634,
+            "media_type": "tv",
+            "release_date": "2010-12-03"
           }
         },
         {
           "rank": 7,
-          "title": "A Knight of the Seven Kingdoms",
-          "tmdb": {
-            "id": 224372,
-            "media_type": "tv",
-            "release_date": "2026-01-18"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Walking Dead",
           "tmdb": {
             "id": 1402,
@@ -586,31 +405,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Pitt",
+          "rank": 8,
+          "title": "Last Week Tonight with John Oliver",
           "tmdb": {
-            "id": 250307,
+            "id": 60694,
             "media_type": "tv",
-            "release_date": "2025-01-09"
+            "release_date": "2014-04-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Confidante",
+          "tmdb": {
+            "id": 224011,
+            "media_type": "tv",
+            "release_date": "2024-10-11"
           }
         },
         {
           "rank": 10,
-          "title": "Like Water for Chocolate",
+          "title": "The Comeback",
           "tmdb": {
-            "id": 235635,
+            "id": 1999,
             "media_type": "tv",
-            "release_date": "2024-11-03"
+            "release_date": "2005-06-05"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in France on March 30, 2026",
+      "heading": "TOP Overall on Disney+ in France on April 1, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,11 +461,11 @@
         },
         {
           "rank": 3,
-          "title": "Hannah Montana 20th Anniversary Special",
+          "title": "Paradise",
           "tmdb": {
-            "id": 1637319,
-            "media_type": "movie",
-            "release_date": "2026-03-23"
+            "id": 245927,
+            "media_type": "tv",
+            "release_date": "2025-01-26"
           }
         },
         {
@@ -651,29 +479,29 @@
         },
         {
           "rank": 5,
-          "title": "Lilo & Stitch",
-          "tmdb": {
-            "id": 552524,
-            "media_type": "movie",
-            "release_date": "2025-05-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Versa",
-          "tmdb": {
-            "id": 1500099,
-            "media_type": "movie",
-            "release_date": "2025-04-15"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
             "media_type": "tv",
             "release_date": "2025-03-04"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Hannah Montana 20th Anniversary Special",
+          "tmdb": {
+            "id": 1637319,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Mike & Nick & Nick & Alice",
+          "tmdb": {
+            "id": 1115544,
+            "media_type": "movie",
+            "release_date": "2026-03-14"
           }
         },
         {
@@ -687,39 +515,39 @@
         },
         {
           "rank": 9,
-          "title": "Mike & Nick & Nick & Alice",
+          "title": "Avengers: Endgame",
           "tmdb": {
-            "id": 1115544,
+            "id": 299534,
             "media_type": "movie",
-            "release_date": "2026-03-14"
+            "release_date": "2019-04-24"
           }
         },
         {
           "rank": 10,
-          "title": "Paradise",
+          "title": "Avengers: Infinity War",
           "tmdb": {
-            "id": 245927,
-            "media_type": "tv",
-            "release_date": "2025-01-26"
+            "id": 299536,
+            "media_type": "movie",
+            "release_date": "2018-04-25"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in France on March 30, 2026",
+      "heading": "TOP Movies on Amazon Prime in France on April 1, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Afterburn",
+          "title": "Venom: The Last Dance",
           "tmdb": {
-            "id": 507244,
+            "id": 912649,
             "media_type": "movie",
-            "release_date": "2025-08-20"
+            "release_date": "2024-10-22"
           }
         },
         {
@@ -733,24 +561,15 @@
         },
         {
           "rank": 3,
-          "title": "The World Upside Down",
+          "title": "Afterburn",
           "tmdb": {
-            "id": 964876,
+            "id": 507244,
             "media_type": "movie",
-            "release_date": "2024-10-16"
+            "release_date": "2025-08-20"
           }
         },
         {
           "rank": 4,
-          "title": "Pretty Lethal",
-          "tmdb": {
-            "id": 1084187,
-            "media_type": "movie",
-            "release_date": "2026-03-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Bound",
           "tmdb": {
             "id": 9303,
@@ -759,12 +578,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Armour",
+          "rank": 5,
+          "title": "The World Upside Down",
           "tmdb": {
-            "id": 661832,
+            "id": 964876,
             "media_type": "movie",
-            "release_date": "2020-10-06"
+            "release_date": "2024-10-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Pretty Lethal",
+          "tmdb": {
+            "id": 1084187,
+            "media_type": "movie",
+            "release_date": "2026-03-13"
           }
         },
         {
@@ -778,39 +606,39 @@
         },
         {
           "rank": 8,
-          "title": "The Threesome",
+          "title": "Armour",
           "tmdb": {
-            "id": 993708,
+            "id": 661832,
             "media_type": "movie",
-            "release_date": "2025-09-04"
+            "release_date": "2020-10-06"
           }
         },
         {
           "rank": 9,
-          "title": "Alienoid: Return to the Future",
+          "title": "Venom",
           "tmdb": {
-            "id": 626412,
+            "id": 335983,
             "media_type": "movie",
-            "release_date": "2024-01-10"
+            "release_date": "2018-09-28"
           }
         },
         {
           "rank": 10,
-          "title": "Gad Elmaleh : Lui-même",
+          "title": "Heretics",
           "tmdb": {
-            "id": 1647134,
+            "id": 1399208,
             "media_type": "movie",
-            "release_date": "2026-03-06"
+            "release_date": "2024-12-06"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in France on March 30, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -860,15 +688,6 @@
         },
         {
           "rank": 6,
-          "title": "Cross",
-          "tmdb": {
-            "id": 213306,
-            "media_type": "tv",
-            "release_date": "2024-11-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
@@ -877,16 +696,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "56 Days",
+          "rank": 7,
+          "title": "Cross",
           "tmdb": {
-            "id": 241372,
+            "id": 213306,
             "media_type": "tv",
-            "release_date": "2026-02-18"
+            "release_date": "2024-11-14"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Culte",
           "tmdb": {
             "id": 235974,
@@ -895,22 +714,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Reacher",
+          "rank": 9,
+          "title": "Siren's Kiss",
           "tmdb": {
-            "id": 108978,
+            "id": 310800,
             "media_type": "tv",
-            "release_date": "2022-02-03"
+            "release_date": "2026-03-02"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "56 Days",
+          "tmdb": {
+            "id": 241372,
+            "media_type": "tv",
+            "release_date": "2026-02-18"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in France on March 30, 2026",
+      "heading": "TOP Movies on Paramount+ in France on April 1, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -933,42 +761,6 @@
         },
         {
           "rank": 3,
-          "title": "Smile 2",
-          "tmdb": {
-            "id": 1100782,
-            "media_type": "movie",
-            "release_date": "2024-10-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Scream VI",
-          "tmdb": {
-            "id": 934433,
-            "media_type": "movie",
-            "release_date": "2023-03-08"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Fear Below",
-          "tmdb": {
-            "id": 1232933,
-            "media_type": "movie",
-            "release_date": "2025-05-02"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Drive",
           "tmdb": {
             "id": 64690,
@@ -977,7 +769,52 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Top Gun: Maverick",
+          "tmdb": {
+            "id": 361743,
+            "media_type": "movie",
+            "release_date": "2022-05-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Smile 2",
+          "tmdb": {
+            "id": 1100782,
+            "media_type": "movie",
+            "release_date": "2024-10-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Fear Below",
+          "tmdb": {
+            "id": 1232933,
+            "media_type": "movie",
+            "release_date": "2025-05-02"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Scream VI",
+          "tmdb": {
+            "id": 934433,
+            "media_type": "movie",
+            "release_date": "2023-03-08"
+          }
+        },
+        {
           "rank": 8,
+          "title": "American Sweatshop",
+          "tmdb": {
+            "id": 1215020,
+            "media_type": "movie",
+            "release_date": "2025-09-19"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Smile",
           "tmdb": {
             "id": 882598,
@@ -986,31 +823,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Astronaut",
-          "tmdb": {
-            "id": 1086260,
-            "media_type": "movie",
-            "release_date": "2025-09-26"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Scream",
+          "title": "Jack Reacher: Never Go Back",
           "tmdb": {
-            "id": 4232,
+            "id": 343611,
             "media_type": "movie",
-            "release_date": "1996-12-20"
+            "release_date": "2016-10-19"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in France on March 30, 2026",
+      "heading": "TOP TV Shows on Paramount+ in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1024,60 +852,6 @@
         },
         {
           "rank": 2,
-          "title": "Fire Country",
-          "tmdb": {
-            "id": 202297,
-            "media_type": "tv",
-            "release_date": "2022-10-07"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Dexter",
-          "tmdb": {
-            "id": 1405,
-            "media_type": "tv",
-            "release_date": "2006-10-01"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Criminal Minds",
-          "tmdb": {
-            "id": 4057,
-            "media_type": "tv",
-            "release_date": "2005-09-22"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "SEAL Team",
-          "tmdb": {
-            "id": 71789,
-            "media_type": "tv",
-            "release_date": "2017-09-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "SpongeBob SquarePants",
           "tmdb": {
             "id": 387,
@@ -1086,31 +860,85 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Tulsa King",
+          "rank": 3,
+          "title": "Fire Country",
           "tmdb": {
-            "id": 153312,
+            "id": 202297,
             "media_type": "tv",
-            "release_date": "2022-11-13"
+            "release_date": "2022-10-07"
           }
         },
         {
-          "rank": 10,
+          "rank": 4,
+          "title": "Y: Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Criminal Minds",
+          "tmdb": {
+            "id": 4057,
+            "media_type": "tv",
+            "release_date": "2005-09-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Dexter",
+          "tmdb": {
+            "id": 1405,
+            "media_type": "tv",
+            "release_date": "2006-10-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Landman",
           "tmdb": {
             "id": 157741,
             "media_type": "tv",
             "release_date": "2024-11-17"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Tulsa King",
+          "tmdb": {
+            "id": 153312,
+            "media_type": "tv",
+            "release_date": "2022-11-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in France on March 30, 2026",
+      "heading": "TOP Movies on Apple TV in France on April 1, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1133,20 +961,20 @@
         },
         {
           "rank": 3,
-          "title": "The Family Plan 2",
-          "tmdb": {
-            "id": 1363123,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
           }
         },
         {
@@ -1160,15 +988,6 @@
         },
         {
           "rank": 6,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -1177,7 +996,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Argylle",
           "tmdb": {
             "id": 848538,
@@ -1186,49 +1023,40 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Instigators",
           "tmdb": {
             "id": 1059064,
             "media_type": "movie",
             "release_date": "2024-08-02"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in France on March 30, 2026",
+      "heading": "TOP TV Shows on Apple TV in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 2,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
           }
         },
         {
@@ -1307,19 +1135,19 @@
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in France on March 30, 2026",
+      "heading": "TOP Movies on Amazon in France on April 1, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Zootopia 2",
+          "title": "Predator: Badlands",
           "tmdb": {
-            "id": 1084242,
+            "id": 1242898,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2025-11-05"
           }
         },
         {
@@ -1333,11 +1161,11 @@
         },
         {
           "rank": 3,
-          "title": "Predator: Badlands",
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 1242898,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2025-11-05"
+            "release_date": "2025-11-26"
           }
         },
         {
@@ -1351,24 +1179,6 @@
         },
         {
           "rank": 5,
-          "title": "A Little Something Extra",
-          "tmdb": {
-            "id": 1152014,
-            "media_type": "movie",
-            "release_date": "2024-04-18"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "One Battle After Another",
-          "tmdb": {
-            "id": 1054867,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Dune: Part Two",
           "tmdb": {
             "id": 693134,
@@ -1377,12 +1187,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Visitors",
+          "rank": 6,
+          "title": "A Little Something Extra",
           "tmdb": {
-            "id": 102699,
+            "id": 1152014,
             "media_type": "movie",
-            "release_date": "1972-02-02"
+            "release_date": "2024-04-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Venom: Let There Be Carnage",
+          "tmdb": {
+            "id": 580489,
+            "media_type": "movie",
+            "release_date": "2021-09-30"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Regretting You",
+          "tmdb": {
+            "id": 1327862,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
           }
         },
         {
@@ -1396,21 +1224,21 @@
         },
         {
           "rank": 10,
-          "title": "Asterix & Obelix: Mission Cleopatra",
+          "title": "Cocorico",
           "tmdb": {
-            "id": 2899,
+            "id": 973912,
             "media_type": "movie",
-            "release_date": "2002-01-30"
+            "release_date": "2024-02-07"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in France on March 30, 2026",
+      "heading": "TOP Movies on Apple TV Store in France on April 1, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1424,42 +1252,15 @@
         },
         {
           "rank": 2,
-          "title": "Now You See Me: Now You Don't",
+          "title": "Avatar: Fire and Ash",
           "tmdb": {
-            "id": 425274,
+            "id": 83533,
             "media_type": "movie",
-            "release_date": "2025-11-12"
+            "release_date": "2025-12-17"
           }
         },
         {
           "rank": 3,
-          "title": "Case 137",
-          "tmdb": {
-            "id": 509783,
-            "media_type": "movie",
-            "release_date": "2018-08-18"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "A Private Life",
-          "tmdb": {
-            "id": 1290432,
-            "media_type": "movie",
-            "release_date": "2025-09-27"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Predator: Badlands",
-          "tmdb": {
-            "id": 1242898,
-            "media_type": "movie",
-            "release_date": "2025-11-05"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -1468,7 +1269,43 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Case 137",
+          "tmdb": {
+            "id": 509783,
+            "media_type": "movie",
+            "release_date": "2018-08-18"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "A Private Life",
+          "tmdb": {
+            "id": 1290432,
+            "media_type": "movie",
+            "release_date": "2025-09-27"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Predator: Badlands",
+          "tmdb": {
+            "id": 1242898,
+            "media_type": "movie",
+            "release_date": "2025-11-05"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
@@ -1477,40 +1314,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Richest Woman in the World",
-          "tmdb": {
-            "id": 1309725,
-            "media_type": "movie",
-            "release_date": "2025-10-29"
-          }
-        },
-        {
           "rank": 9,
-          "title": "One Battle After Another",
-          "tmdb": {
-            "id": 1054867,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "One Battle After Another",
+          "tmdb": {
+            "id": 1054867,
+            "media_type": "movie",
+            "release_date": "2025-09-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in France on March 30, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1524,29 +1352,29 @@
         },
         {
           "rank": 2,
-          "title": "The Mentalist",
+          "title": "Chernobyl",
           "tmdb": {
-            "id": 5920,
+            "id": 87108,
             "media_type": "tv",
-            "release_date": "2008-09-23"
+            "release_date": "2019-05-06"
           }
         },
         {
           "rank": 3,
-          "title": "Euphoria",
+          "title": "House",
           "tmdb": {
-            "id": 85552,
+            "id": 1408,
             "media_type": "tv",
-            "release_date": "2019-06-16"
+            "release_date": "2004-11-16"
           }
         },
         {
           "rank": 4,
-          "title": "A Knight of the Seven Kingdoms",
+          "title": "Mad Men",
           "tmdb": {
-            "id": 224372,
+            "id": 1104,
             "media_type": "tv",
-            "release_date": "2026-01-18"
+            "release_date": "2007-07-19"
           }
         },
         {
@@ -1560,33 +1388,15 @@
         },
         {
           "rank": 6,
-          "title": "Gangs of London",
+          "title": "He Even Has Your Eyes",
           "tmdb": {
-            "id": 85021,
+            "id": 97693,
             "media_type": "tv",
-            "release_date": "2020-04-23"
+            "release_date": "2020-02-12"
           }
         },
         {
           "rank": 7,
-          "title": "Law & Order: Special Victims Unit",
-          "tmdb": {
-            "id": 2734,
-            "media_type": "tv",
-            "release_date": "1999-09-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Miami Vice",
-          "tmdb": {
-            "id": 1908,
-            "media_type": "tv",
-            "release_date": "1984-09-16"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Blacklist",
           "tmdb": {
             "id": 46952,
@@ -1595,22 +1405,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Chernobyl",
+          "rank": 8,
+          "title": "Gangs of London",
           "tmdb": {
-            "id": 87108,
+            "id": 85021,
             "media_type": "tv",
-            "release_date": "2019-05-06"
+            "release_date": "2020-04-23"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "A Knight of the Seven Kingdoms",
+          "tmdb": {
+            "id": 224372,
+            "media_type": "tv",
+            "release_date": "2026-01-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in France on March 30, 2026",
+      "heading": "TOP Movies on Google in France on April 1, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1624,15 +1452,6 @@
         },
         {
           "rank": 2,
-          "title": "Kaamelott: The Second Chapter (Part I)",
-          "tmdb": {
-            "id": 1076897,
-            "media_type": "movie",
-            "release_date": "2025-10-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Predator: Badlands",
           "tmdb": {
             "id": 1242898,
@@ -1641,21 +1460,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "One Battle After Another",
-          "tmdb": {
-            "id": 1054867,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
             "media_type": "movie",
             "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Kaamelott: The Second Chapter (Part I)",
+          "tmdb": {
+            "id": 1076897,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "One Battle After Another",
+          "tmdb": {
+            "id": 1054867,
+            "media_type": "movie",
+            "release_date": "2025-09-23"
           }
         },
         {
@@ -1678,52 +1506,43 @@
         },
         {
           "rank": 8,
+          "title": "A Little Something Extra",
+          "tmdb": {
+            "id": 1152014,
+            "media_type": "movie",
+            "release_date": "2024-04-18"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Les Condés",
+          "tmdb": {
+            "id": 1407934,
+            "media_type": "movie",
+            "release_date": "2025-03-26"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Jurassic World Rebirth",
           "tmdb": {
             "id": 1234821,
             "media_type": "movie",
             "release_date": "2025-07-01"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Wicked: For Good",
-          "tmdb": {
-            "id": 967941,
-            "media_type": "movie",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Case 137",
-          "tmdb": {
-            "id": 509783,
-            "media_type": "movie",
-            "release_date": "2018-08-18"
-          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in France on March 30, 2026",
+      "heading": "TOP Movies on Rakuten TV in France on April 1, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "One Battle After Another",
-          "tmdb": {
-            "id": 1054867,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Sinners",
           "tmdb": {
             "id": 1233413,
@@ -1732,43 +1551,25 @@
           }
         },
         {
-          "rank": 3,
-          "title": "How to Make a Killing",
+          "rank": 2,
+          "title": "Yoroï",
           "tmdb": {
-            "id": 467905,
+            "id": 1358491,
             "media_type": "movie",
-            "release_date": "2026-02-19"
+            "release_date": "2025-10-18"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Zootopia",
+          "tmdb": {
+            "id": 269149,
+            "media_type": "movie",
+            "release_date": "2016-02-11"
           }
         },
         {
           "rank": 4,
-          "title": "Dog 51",
-          "tmdb": {
-            "id": 1266798,
-            "media_type": "movie",
-            "release_date": "2025-10-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Chickenhare and the Secret of the Groundhog",
-          "tmdb": {
-            "id": 1215532,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Iron Man",
           "tmdb": {
             "id": 1726,
@@ -1777,7 +1578,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "Playdate",
           "tmdb": {
             "id": 1248226,
@@ -1786,12 +1587,39 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Hit Man",
+          "rank": 6,
+          "title": "Ready or Not",
           "tmdb": {
-            "id": 974635,
+            "id": 567609,
             "media_type": "movie",
-            "release_date": "2024-05-16"
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Shrinking Man",
+          "tmdb": {
+            "id": 1233506,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "How to Make a Killing",
+          "tmdb": {
+            "id": 467905,
+            "media_type": "movie",
+            "release_date": "2026-02-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Jurassic World Rebirth",
+          "tmdb": {
+            "id": 1234821,
+            "media_type": "movie",
+            "release_date": "2025-07-01"
           }
         },
         {
@@ -1807,10 +1635,10 @@
     },
     {
       "catalog_id": "canal.overall",
-      "heading": "TOP Overall on Canal+ in France on March 30, 2026",
+      "heading": "TOP Overall on Canal+ in France on April 1, 2026",
       "category": "overall",
       "platform": "Canal+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1833,15 +1661,6 @@
         },
         {
           "rank": 3,
-          "title": "Caught Stealing",
-          "tmdb": {
-            "id": 1245993,
-            "media_type": "movie",
-            "release_date": "2025-08-26"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Connemara",
           "tmdb": {
             "id": 979976,
@@ -1850,21 +1669,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Materialists",
+          "rank": 4,
+          "title": "Caught Stealing",
           "tmdb": {
-            "id": 1136867,
+            "id": 1245993,
             "media_type": "movie",
-            "release_date": "2025-06-12"
+            "release_date": "2025-08-26"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Y: Marshals",
           "tmdb": {
             "id": 290856,
             "media_type": "tv",
             "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gangs of London",
+          "tmdb": {
+            "id": 85021,
+            "media_type": "tv",
+            "release_date": "2020-04-23"
           }
         },
         {
@@ -1887,30 +1715,30 @@
         },
         {
           "rank": 9,
+          "title": "Materialists",
+          "tmdb": {
+            "id": 1136867,
+            "media_type": "movie",
+            "release_date": "2025-06-12"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Hunt",
           "tmdb": {
             "id": 514847,
             "media_type": "movie",
             "release_date": "2020-03-11"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Better Days",
-          "tmdb": {
-            "id": 106830,
-            "media_type": "tv",
-            "release_date": "2020-08-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "canal.series",
-      "heading": "TOP TV Shows on Canal+ in France on March 30, 2026",
+      "heading": "TOP TV Shows on Canal+ in France on April 1, 2026",
       "category": "tv shows",
       "platform": "Canal+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1933,6 +1761,15 @@
         },
         {
           "rank": 3,
+          "title": "Gangs of London",
+          "tmdb": {
+            "id": 85021,
+            "media_type": "tv",
+            "release_date": "2020-04-23"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -1941,7 +1778,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Imperfect Women",
           "tmdb": {
             "id": 108181,
@@ -1950,21 +1787,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Hunt",
           "tmdb": {
             "id": 64313,
             "media_type": "tv",
             "release_date": "2015-11-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Gangs of London",
-          "tmdb": {
-            "id": 85021,
-            "media_type": "tv",
-            "release_date": "2020-04-23"
           }
         },
         {
@@ -1996,34 +1824,25 @@
         },
         {
           "rank": 10,
-          "title": "King & Conqueror",
+          "title": "For All Mankind",
           "tmdb": {
-            "id": 240558,
+            "id": 87917,
             "media_type": "tv",
-            "release_date": "2025-08-24"
+            "release_date": "2019-11-01"
           }
         }
       ]
     },
     {
       "catalog_id": "tf1.overall",
-      "heading": "TOP Overall on TF1 in France on March 30, 2026",
+      "heading": "TOP Overall on TF1 in France on April 1, 2026",
       "category": "overall",
       "platform": "TF1",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Voice",
-          "tmdb": {
-            "id": 37678,
-            "media_type": "tv",
-            "release_date": "2011-04-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Koh-Lanta",
           "tmdb": {
             "id": 67997,
@@ -2032,25 +1851,16 @@
           }
         },
         {
+          "rank": 2,
+          "title": "The Voice",
+          "tmdb": {
+            "id": 37678,
+            "media_type": "tv",
+            "release_date": "2011-04-26"
+          }
+        },
+        {
           "rank": 3,
-          "title": "Danse avec les stars",
-          "tmdb": {
-            "id": 68298,
-            "media_type": "tv",
-            "release_date": "2011-02-12"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "S.W.A.T.",
-          "tmdb": {
-            "id": 71790,
-            "media_type": "tv",
-            "release_date": "2017-11-02"
-          }
-        },
-        {
-          "rank": 5,
           "title": "JLC Family",
           "tmdb": {
             "id": 92216,
@@ -2059,162 +1869,34 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Barbie",
-          "tmdb": {
-            "id": 346698,
-            "media_type": "movie",
-            "release_date": "2023-07-19"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Erica",
-          "tmdb": {
-            "id": 251983,
-            "media_type": "tv",
-            "release_date": "2025-01-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Amazing Spider-Man 2",
-          "tmdb": {
-            "id": 102382,
-            "media_type": "movie",
-            "release_date": "2014-04-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "FBI: Most Wanted",
-          "tmdb": {
-            "id": 94372,
-            "media_type": "tv",
-            "release_date": "2020-01-07"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Maison de retraite, la série",
-          "tmdb": {
-            "id": 305506,
-            "media_type": "tv",
-            "release_date": "2026-03-09"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "tf1.movies",
-      "heading": "TOP Movies on TF1 in France on March 30, 2026",
-      "category": "movies",
-      "platform": "TF1",
-      "date": "March 30, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Barbie",
-          "tmdb": {
-            "id": 346698,
-            "media_type": "movie",
-            "release_date": "2023-07-19"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Amazing Spider-Man 2",
-          "tmdb": {
-            "id": 102382,
-            "media_type": "movie",
-            "release_date": "2014-04-16"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Jurassic World: Fallen Kingdom",
-          "tmdb": {
-            "id": 351286,
-            "media_type": "movie",
-            "release_date": "2018-06-06"
-          }
-        },
-        {
           "rank": 4,
-          "title": "R.A.I.D. Special Unit",
+          "title": "Monsieur Parizot",
           "tmdb": {
-            "id": 382597,
-            "media_type": "movie",
-            "release_date": "2017-02-01"
+            "id": 240002,
+            "media_type": "tv",
+            "release_date": "2024-10-07"
           }
         },
         {
           "rank": 5,
-          "title": "Leon: The Professional",
+          "title": "Danse avec les stars",
           "tmdb": {
-            "id": 101,
-            "media_type": "movie",
-            "release_date": "1994-09-14"
+            "id": 68298,
+            "media_type": "tv",
+            "release_date": "2011-02-12"
           }
         },
         {
           "rank": 6,
-          "title": "Plane",
+          "title": "Barbie",
           "tmdb": {
-            "id": 646389,
+            "id": 346698,
             "media_type": "movie",
-            "release_date": "2023-01-11"
+            "release_date": "2023-07-19"
           }
         },
         {
           "rank": 7,
-          "title": "White House Down",
-          "tmdb": {
-            "id": 117251,
-            "media_type": "movie",
-            "release_date": "2013-06-27"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Oldies But Goodies",
-          "tmdb": {
-            "id": 1083300,
-            "media_type": "movie",
-            "release_date": "2024-02-14"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Robin Hood",
-          "tmdb": {
-            "id": 203121,
-            "media_type": "movie",
-            "release_date": "2013-08-20"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Men in Black",
-          "tmdb": {
-            "id": 607,
-            "media_type": "movie",
-            "release_date": "1997-07-02"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "tf1.series",
-      "heading": "TOP TV Shows on TF1 in France on March 30, 2026",
-      "category": "tv shows",
-      "platform": "TF1",
-      "date": "March 30, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
           "title": "S.W.A.T.",
           "tmdb": {
             "id": 71790,
@@ -2223,25 +1905,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Maison de retraite, la série",
-          "tmdb": {
-            "id": 305506,
-            "media_type": "tv",
-            "release_date": "2026-03-09"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Erica",
-          "tmdb": {
-            "id": 251983,
-            "media_type": "tv",
-            "release_date": "2025-01-06"
-          }
-        },
-        {
-          "rank": 4,
+          "rank": 8,
           "title": "FBI: Most Wanted",
           "tmdb": {
             "id": 94372,
@@ -2250,12 +1914,176 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Elsbeth",
+          "rank": 9,
+          "title": "Jurassic World Dominion",
           "tmdb": {
-            "id": 226285,
+            "id": 507086,
+            "media_type": "movie",
+            "release_date": "2022-06-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Familles nombreuses : la vie en XXL",
+          "tmdb": {
+            "id": 118473,
             "media_type": "tv",
-            "release_date": "2024-02-29"
+            "release_date": "2020-07-06"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "tf1.movies",
+      "heading": "TOP Movies on TF1 in France on April 1, 2026",
+      "category": "movies",
+      "platform": "TF1",
+      "date": "April 1, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Barbie",
+          "tmdb": {
+            "id": 346698,
+            "media_type": "movie",
+            "release_date": "2023-07-19"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Jurassic World: Fallen Kingdom",
+          "tmdb": {
+            "id": 351286,
+            "media_type": "movie",
+            "release_date": "2018-06-06"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Back to Mom's",
+          "tmdb": {
+            "id": 383869,
+            "media_type": "movie",
+            "release_date": "2016-06-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Amazing Spider-Man 2",
+          "tmdb": {
+            "id": 102382,
+            "media_type": "movie",
+            "release_date": "2014-04-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Plane",
+          "tmdb": {
+            "id": 646389,
+            "media_type": "movie",
+            "release_date": "2023-01-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Men in Black II",
+          "tmdb": {
+            "id": 608,
+            "media_type": "movie",
+            "release_date": "2002-07-03"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Leon: The Professional",
+          "tmdb": {
+            "id": 101,
+            "media_type": "movie",
+            "release_date": "1994-09-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "8 Women",
+          "tmdb": {
+            "id": 1958,
+            "media_type": "movie",
+            "release_date": "2002-02-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Amazing Spider-Man",
+          "tmdb": {
+            "id": 1930,
+            "media_type": "movie",
+            "release_date": "2012-06-23"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Dinner Game",
+          "tmdb": {
+            "id": 9421,
+            "media_type": "movie",
+            "release_date": "1998-04-15"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "tf1.series",
+      "heading": "TOP TV Shows on TF1 in France on April 1, 2026",
+      "category": "tv shows",
+      "platform": "TF1",
+      "date": "April 1, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Monsieur Parizot",
+          "tmdb": {
+            "id": 240002,
+            "media_type": "tv",
+            "release_date": "2024-10-07"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "S.W.A.T.",
+          "tmdb": {
+            "id": 71790,
+            "media_type": "tv",
+            "release_date": "2017-11-02"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "FBI: Most Wanted",
+          "tmdb": {
+            "id": 94372,
+            "media_type": "tv",
+            "release_date": "2020-01-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Erica",
+          "tmdb": {
+            "id": 251983,
+            "media_type": "tv",
+            "release_date": "2025-01-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "A Impostora",
+          "tmdb": {
+            "id": 93421,
+            "media_type": "tv",
+            "release_date": "2016-09-04"
           }
         },
         {
@@ -2269,24 +2097,15 @@
         },
         {
           "rank": 7,
-          "title": "Step Up",
+          "title": "Drop Dead Diva",
           "tmdb": {
-            "id": 75379,
+            "id": 18520,
             "media_type": "tv",
-            "release_date": "2018-01-31"
+            "release_date": "2009-07-12"
           }
         },
         {
           "rank": 8,
-          "title": "Terra Brava",
-          "tmdb": {
-            "id": 94987,
-            "media_type": "tv",
-            "release_date": "2019-10-28"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Beartown",
           "tmdb": {
             "id": 110173,
@@ -2295,26 +2114,44 @@
           }
         },
         {
-          "rank": 10,
-          "title": "HIP - High Intellectual Potential",
+          "rank": 9,
+          "title": "Step Up",
           "tmdb": {
-            "id": 112738,
+            "id": 75379,
             "media_type": "tv",
-            "release_date": "2021-04-29"
+            "release_date": "2018-01-31"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Law & Order: Special Victims Unit",
+          "tmdb": {
+            "id": 2734,
+            "media_type": "tv",
+            "release_date": "1999-09-20"
           }
         }
       ]
     },
     {
       "catalog_id": "tf1.reality-shows",
-      "heading": "TOP Reality Shows on TF1 in France on March 30, 2026",
+      "heading": "TOP Reality Shows on TF1 in France on April 1, 2026",
       "category": "reality shows",
       "platform": "TF1",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Koh-Lanta",
+          "tmdb": {
+            "id": 67997,
+            "media_type": "tv",
+            "release_date": "2001-08-04"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Voice : La Plus Belle Voix",
           "tmdb": {
             "id": 70329,
@@ -2323,21 +2160,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Danse avec les stars",
           "tmdb": {
             "id": 68298,
             "media_type": "tv",
             "release_date": "2011-02-12"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Koh-Lanta",
-          "tmdb": {
-            "id": 67997,
-            "media_type": "tv",
-            "release_date": "2001-08-04"
           }
         },
         {
@@ -2387,43 +2215,34 @@
         },
         {
           "rank": 9,
-          "title": "Tattoo Cover : Sauveurs de tatouages",
-          "tmdb": {
-            "id": 197667,
-            "media_type": "tv",
-            "release_date": "2018-03-29"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Quotidien",
           "tmdb": {
             "id": 67824,
             "media_type": "tv",
             "release_date": "2016-09-12"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Les Anges de la Téléréalité",
+          "tmdb": {
+            "id": 68702,
+            "media_type": "tv",
+            "release_date": "2011-01-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "france-tv.overall",
-      "heading": "TOP Overall on france.tv in France on March 30, 2026",
+      "heading": "TOP Overall on france.tv in France on April 1, 2026",
       "category": "overall",
       "platform": "france.tv",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Murders in...",
-          "tmdb": {
-            "id": 66627,
-            "media_type": "tv",
-            "release_date": "2013-04-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Chronicles of the Sun",
           "tmdb": {
             "id": 81329,
@@ -2432,7 +2251,25 @@
           }
         },
         {
+          "rank": 2,
+          "title": "All to Play For",
+          "tmdb": {
+            "id": 966488,
+            "media_type": "movie",
+            "release_date": "2023-11-21"
+          }
+        },
+        {
           "rank": 3,
+          "title": "Murders in...",
+          "tmdb": {
+            "id": 66627,
+            "media_type": "tv",
+            "release_date": "2013-04-23"
+          }
+        },
+        {
+          "rank": 4,
           "title": "À priori",
           "tmdb": {
             "id": 258003,
@@ -2441,16 +2278,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Le Quiz des champions",
+          "rank": 5,
+          "title": "Un dimanche à la campagne",
           "tmdb": {
-            "id": 136161,
+            "id": 239994,
             "media_type": "tv",
-            "release_date": "2021-10-09"
+            "release_date": "2022-10-23"
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Apparences",
           "tmdb": {
             "id": 283964,
@@ -2459,7 +2296,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Véronique",
           "tmdb": {
             "id": 559665,
@@ -2468,62 +2305,44 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Deadly Tropics",
-          "tmdb": {
-            "id": 95705,
-            "media_type": "tv",
-            "release_date": "2019-11-22"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Complément d'enquête",
+          "title": "Quelle époque !",
           "tmdb": {
-            "id": 16847,
+            "id": 210931,
             "media_type": "tv",
-            "release_date": "2001-09-17"
+            "release_date": "2022-09-24"
           }
         },
         {
           "rank": 9,
+          "title": "Beyond Paradise",
+          "tmdb": {
+            "id": 205072,
+            "media_type": "tv",
+            "release_date": "2023-02-24"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Je sais pas",
           "tmdb": {
             "id": 275825,
             "media_type": "tv",
             "release_date": "2025-06-22"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Man on the Train",
-          "tmdb": {
-            "id": 22016,
-            "media_type": "movie",
-            "release_date": "2002-10-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "m6.overall",
-      "heading": "TOP Overall on M6+ in France on March 30, 2026",
+      "heading": "TOP Overall on M6+ in France on April 1, 2026",
       "category": "overall",
       "platform": "M6+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "L'Île de la tentation",
-          "tmdb": {
-            "id": 88615,
-            "media_type": "tv",
-            "release_date": "2002-07-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Married at First Sight",
           "tmdb": {
             "id": 60989,
@@ -2532,7 +2351,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Top Chef",
           "tmdb": {
             "id": 41822,
@@ -2541,7 +2360,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "L'Île de la tentation",
+          "tmdb": {
+            "id": 88615,
+            "media_type": "tv",
+            "release_date": "2002-07-06"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Les Traîtres",
+          "tmdb": {
+            "id": 208398,
+            "media_type": "tv",
+            "release_date": "2022-08-17"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Power : Qui a le pouvoir",
           "tmdb": {
             "id": 250805,
@@ -2550,7 +2387,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Pékin Express",
           "tmdb": {
             "id": 80605,
@@ -2559,7 +2396,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Cauchemar en cuisine avec Philippe Etchebest",
+          "tmdb": {
+            "id": 69021,
+            "media_type": "tv",
+            "release_date": "2011-04-18"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Body of Proof",
           "tmdb": {
             "id": 32708,
@@ -2568,58 +2414,40 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Le prime des vérités",
-          "tmdb": {
-            "id": 317738,
-            "media_type": "tv",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Qui veut épouser mon fils ?",
-          "tmdb": {
-            "id": 294794,
-            "media_type": "tv",
-            "release_date": "2010-10-29"
-          }
-        },
-        {
           "rank": 9,
+          "title": "Tout beau tout n9uf",
+          "tmdb": {
+            "id": 291306,
+            "media_type": "tv",
+            "release_date": "2025-09-01"
+          }
+        },
+        {
+          "rank": 10,
           "title": "How to Get Away with Murder",
           "tmdb": {
             "id": 61056,
             "media_type": "tv",
             "release_date": "2014-09-25"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Rookie",
-          "tmdb": {
-            "id": 79744,
-            "media_type": "tv",
-            "release_date": "2018-10-16"
-          }
         }
       ]
     },
     {
       "catalog_id": "m6.movies",
-      "heading": "TOP Movies on M6+ in France on March 30, 2026",
+      "heading": "TOP Movies on M6+ in France on April 1, 2026",
       "category": "movies",
       "platform": "M6+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Hot Shots! Part Deux",
+          "title": "Life Is Beautiful",
           "tmdb": {
-            "id": 9255,
+            "id": 637,
             "media_type": "movie",
-            "release_date": "1993-05-21"
+            "release_date": "1997-12-20"
           }
         },
         {
@@ -2660,20 +2488,20 @@
         },
         {
           "rank": 6,
-          "title": "The Whole Nine Yards",
-          "tmdb": {
-            "id": 2069,
-            "media_type": "movie",
-            "release_date": "2000-02-18"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Lives of Others",
           "tmdb": {
             "id": 582,
             "media_type": "movie",
             "release_date": "2006-03-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "18 Years Old and Rising",
+          "tmdb": {
+            "id": 91052,
+            "media_type": "movie",
+            "release_date": "2011-07-20"
           }
         },
         {
@@ -2707,10 +2535,10 @@
     },
     {
       "catalog_id": "m6.series",
-      "heading": "TOP TV Shows on M6+ in France on March 30, 2026",
+      "heading": "TOP TV Shows on M6+ in France on April 1, 2026",
       "category": "tv shows",
       "platform": "M6+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -2798,23 +2626,14 @@
     },
     {
       "catalog_id": "m6.documentaries",
-      "heading": "TOP Documentaries on M6+ in France on March 30, 2026",
+      "heading": "TOP Documentaries on M6+ in France on April 1, 2026",
       "category": "documentaries",
       "platform": "M6+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Enquêtes criminelles",
-          "tmdb": {
-            "id": 113630,
-            "media_type": "tv",
-            "release_date": "2008-10-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Enquête Exclusive",
           "tmdb": {
             "id": 55275,
@@ -2823,12 +2642,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Sur la route avec Matt Pokora",
+          "rank": 2,
+          "title": "Arnaques !",
           "tmdb": {
-            "id": 314653,
+            "id": 238897,
             "media_type": "tv",
-            "release_date": "2026-02-26"
+            "release_date": "2021-08-16"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Un jour, un doc",
+          "tmdb": {
+            "id": 205638,
+            "media_type": "tv",
+            "release_date": "2022-06-13"
           }
         },
         {
@@ -2842,29 +2670,15 @@
         },
         {
           "rank": 5,
-          "title": "Julian Assange: The Price of Truth",
+          "title": "The Lie",
           "tmdb": {
-            "id": 786411,
+            "id": 539649,
             "media_type": "movie",
-            "release_date": "2021-01-15"
+            "release_date": "2018-09-13"
           }
         },
         {
           "rank": 6,
-          "title": "Un jour, un doc",
-          "tmdb": {
-            "id": 205638,
-            "media_type": "tv",
-            "release_date": "2022-06-13"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Élodie Poux en vrai",
-          "tmdb": null
-        },
-        {
-          "rank": 8,
           "title": "Capital",
           "tmdb": {
             "id": 64505,
@@ -2873,32 +2687,50 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Le château de mes rêves",
+          "rank": 7,
+          "title": "Enquêtes criminelles",
           "tmdb": {
-            "id": 219822,
+            "id": 113630,
             "media_type": "tv",
-            "release_date": "2022-07-25"
+            "release_date": "2008-10-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Un chef au bout du monde avec Philippe Etchebest",
+          "tmdb": {
+            "id": 238760,
+            "media_type": "tv",
+            "release_date": "2023-11-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Enquête d'action",
+          "tmdb": {
+            "id": 62079,
+            "media_type": "tv",
+            "release_date": "2005-10-26"
           }
         },
         {
           "rank": 10,
-          "title": "Arnaques !",
+          "title": "66 minutes",
           "tmdb": {
-            "id": 238897,
+            "id": 117970,
             "media_type": "tv",
-            "release_date": "2021-08-16"
+            "release_date": "2006-10-01"
           }
         }
       ]
     },
     {
       "catalog_id": "m6.reality-shows",
-      "heading": "TOP Reality Shows on M6+ in France on March 30, 2026",
+      "heading": "TOP Reality Shows on M6+ in France on April 1, 2026",
       "category": "reality shows",
       "platform": "M6+",
-      "date": "March 30, 2026",
-      "title_count": 9,
+      "date": "April 1, 2026",
+      "title_count": 10,
       "entries": [
         {
           "rank": 1,
@@ -2925,33 +2757,6 @@
         },
         {
           "rank": 4,
-          "title": "Les Marseillais",
-          "tmdb": {
-            "id": 68699,
-            "media_type": "tv",
-            "release_date": "2012-11-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Le Cross : Les Marseillais VS Le Reste du Monde VS Les Motivés",
-          "tmdb": {
-            "id": 214342,
-            "media_type": "tv",
-            "release_date": "2022-11-21"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Wave",
-          "tmdb": {
-            "id": 619263,
-            "media_type": "movie",
-            "release_date": "2019-09-21"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Real Housewives of Beverly Hills",
           "tmdb": {
             "id": 32390,
@@ -2960,7 +2765,43 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Wave",
+          "tmdb": {
+            "id": 619263,
+            "media_type": "movie",
+            "release_date": "2019-09-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Les apprentis champions",
+          "tmdb": {
+            "id": 255391,
+            "media_type": "tv",
+            "release_date": "2024-05-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Les Marseillais",
+          "tmdb": {
+            "id": 68699,
+            "media_type": "tv",
+            "release_date": "2012-11-19"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Le Cross : Les Marseillais VS Le Reste du Monde VS Les Motivés",
+          "tmdb": {
+            "id": 214342,
+            "media_type": "tv",
+            "release_date": "2022-11-21"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Keeping Up with the Kardashians",
           "tmdb": {
             "id": 14814,
@@ -2969,7 +2810,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Les cinquante",
           "tmdb": {
             "id": 209400,
@@ -2981,14 +2822,23 @@
     },
     {
       "catalog_id": "m6.entertainment-shows",
-      "heading": "TOP Entertainment Shows on M6+ in France on March 30, 2026",
+      "heading": "TOP Entertainment Shows on M6+ in France on April 1, 2026",
       "category": "entertainment shows",
       "platform": "M6+",
-      "date": "March 30, 2026",
+      "date": "April 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Les Traîtres",
+          "tmdb": {
+            "id": 208398,
+            "media_type": "tv",
+            "release_date": "2022-08-17"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Married at First Sight",
           "tmdb": {
             "id": 60989,
@@ -2997,7 +2847,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Top Chef",
           "tmdb": {
             "id": 41822,
@@ -3006,7 +2856,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Pékin Express",
           "tmdb": {
             "id": 80605,
@@ -3015,34 +2865,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Qui veut épouser mon fils ?",
-          "tmdb": {
-            "id": 294794,
-            "media_type": "tv",
-            "release_date": "2010-10-29"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Le prime des vérités",
-          "tmdb": {
-            "id": 317738,
-            "media_type": "tv",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Tout beau tout n9uf",
-          "tmdb": {
-            "id": 291306,
-            "media_type": "tv",
-            "release_date": "2025-09-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Cauchemar en cuisine avec Philippe Etchebest",
           "tmdb": {
             "id": 69021,
@@ -3051,27 +2874,49 @@
           }
         },
         {
-          "rank": 8,
-          "title": "La Roue de la fortune",
+          "rank": 6,
+          "title": "Qui veut épouser mon fils ?",
           "tmdb": {
-            "id": 12754,
+            "id": 294794,
             "media_type": "tv",
-            "release_date": "1987-01-05"
+            "release_date": "2010-10-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Les traîtres : révélations sur la suite...",
+          "tmdb": {
+            "id": 261325,
+            "media_type": "tv",
+            "release_date": "2024-08-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Tout beau tout n9uf",
+          "tmdb": {
+            "id": 291306,
+            "media_type": "tv",
+            "release_date": "2025-09-01"
           }
         },
         {
           "rank": 9,
-          "title": "Y'a que la vérité qui compte",
+          "title": "Le prime des vérités",
           "tmdb": {
-            "id": 114323,
+            "id": 317738,
             "media_type": "tv",
-            "release_date": "2002-06-10"
+            "release_date": "2026-01-14"
           }
         },
         {
           "rank": 10,
-          "title": "Le Jet de Luxe",
-          "tmdb": null
+          "title": "Top chef: hidden brigade",
+          "tmdb": {
+            "id": 221936,
+            "media_type": "tv",
+            "release_date": "2023-03-08"
+          }
         }
       ]
     }
