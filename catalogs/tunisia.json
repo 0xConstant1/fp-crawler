@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/tunisia/",
-  "page_title": "TOP 10 on Streaming in Tunisia on April 1, 2026",
+  "page_title": "TOP 10 on Streaming in Tunisia on April 2, 2026",
   "region": "tunisia",
-  "date": "April 1, 2026",
-  "scraped_at_utc": "2026-04-01T15:58:39.847197+00:00",
+  "date": "April 2, 2026",
+  "scraped_at_utc": "2026-04-02T15:52:17.349064+00:00",
   "charts": [
     {
       "catalog_id": "osn.movies",
-      "heading": "TOP Movies on OSN in Tunisia on April 1, 2026",
+      "heading": "TOP Movies on OSN in Tunisia on April 2, 2026",
       "category": "movies",
       "platform": "OSN",
-      "date": "April 1, 2026",
-      "title_count": 10,
+      "date": "April 2, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
+          "title": "Sinners",
+          "tmdb": {
+            "id": 1233413,
+            "media_type": "movie",
+            "release_date": "2025-04-16"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Harry Potter and the Chamber of Secrets",
           "tmdb": {
             "id": 672,
@@ -23,25 +32,43 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Siko Siko",
-          "tmdb": {
-            "id": 1316416,
-            "media_type": "movie",
-            "release_date": "2025-03-30"
-          }
-        },
-        {
           "rank": 3,
-          "title": "Companion",
+          "title": "The Bibi Files",
           "tmdb": {
-            "id": 1084199,
+            "id": 1353263,
             "media_type": "movie",
-            "release_date": "2025-01-22"
+            "release_date": "2024-12-13"
           }
         },
         {
           "rank": 4,
+          "title": "Beetlejuice Beetlejuice",
+          "tmdb": {
+            "id": 917496,
+            "media_type": "movie",
+            "release_date": "2024-09-04"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "tmdb": {
+            "id": 120,
+            "media_type": "movie",
+            "release_date": "2001-12-18"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
@@ -50,67 +77,31 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Harry Potter and the Deathly Hallows: Part 1",
-          "tmdb": {
-            "id": 12444,
-            "media_type": "movie",
-            "release_date": "2010-11-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Prisoner of Azkaban",
-          "tmdb": {
-            "id": 673,
-            "media_type": "movie",
-            "release_date": "2004-05-31"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Harry Potter and the Order of the Phoenix",
-          "tmdb": {
-            "id": 675,
-            "media_type": "movie",
-            "release_date": "2007-07-08"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Kill Bill: Vol. 1",
+          "title": "Fathers and Daughters",
           "tmdb": {
-            "id": 24,
+            "id": 254172,
             "media_type": "movie",
-            "release_date": "2003-10-10"
+            "release_date": "2015-10-01"
           }
         },
         {
           "rank": 9,
-          "title": "Sex and the City",
+          "title": "Harry Potter and the Goblet of Fire",
           "tmdb": {
-            "id": 4564,
+            "id": 674,
             "media_type": "movie",
-            "release_date": "2008-05-12"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Capernaum",
-          "tmdb": {
-            "id": 517814,
-            "media_type": "movie",
-            "release_date": "2018-09-20"
+            "release_date": "2005-11-16"
           }
         }
       ]
     },
     {
       "catalog_id": "osn.series",
-      "heading": "TOP TV Shows on OSN in Tunisia on April 1, 2026",
+      "heading": "TOP TV Shows on OSN in Tunisia on April 2, 2026",
       "category": "tv shows",
       "platform": "OSN",
-      "date": "April 1, 2026",
+      "date": "April 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,11 +133,11 @@
         },
         {
           "rank": 4,
-          "title": "From",
+          "title": "Euphoria",
           "tmdb": {
-            "id": 124364,
+            "id": 85552,
             "media_type": "tv",
-            "release_date": "2022-02-20"
+            "release_date": "2019-06-16"
           }
         },
         {
@@ -169,11 +160,24 @@
         },
         {
           "rank": 7,
-          "title": "Al Tufah Al Haram",
-          "tmdb": null
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
+          }
         },
         {
           "rank": 8,
+          "title": "A Knight of the Seven Kingdoms",
+          "tmdb": {
+            "id": 224372,
+            "media_type": "tv",
+            "release_date": "2026-01-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Office",
           "tmdb": {
             "id": 2316,
@@ -182,31 +186,18 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Sopranos",
-          "tmdb": {
-            "id": 1398,
-            "media_type": "tv",
-            "release_date": "1999-01-10"
-          }
+          "title": "Al Tufah Al Haram",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "shahid.movies",
-      "heading": "TOP Movies on Shahid in Tunisia on April 1, 2026",
+      "heading": "TOP Movies on Shahid in Tunisia on April 2, 2026",
       "category": "movies",
       "platform": "Shahid",
-      "date": "April 1, 2026",
+      "date": "April 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -303,10 +294,10 @@
     },
     {
       "catalog_id": "shahid.series",
-      "heading": "TOP TV Shows on Shahid in Tunisia on April 1, 2026",
+      "heading": "TOP TV Shows on Shahid in Tunisia on April 2, 2026",
       "category": "tv shows",
       "platform": "Shahid",
-      "date": "April 1, 2026",
+      "date": "April 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -403,10 +394,10 @@
     },
     {
       "catalog_id": "starz.movies",
-      "heading": "TOP Movies on Starz in Tunisia on April 1, 2026",
+      "heading": "TOP Movies on Starz in Tunisia on April 2, 2026",
       "category": "movies",
       "platform": "Starz",
-      "date": "April 1, 2026",
+      "date": "April 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,6 +411,11 @@
         },
         {
           "rank": 2,
+          "title": "Ellembi 8 Gega",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
           "title": "Azima's Gang",
           "tmdb": {
             "id": 1214832,
@@ -428,43 +424,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Wicker Park",
-          "tmdb": {
-            "id": 11208,
-            "media_type": "movie",
-            "release_date": "2004-09-03"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Omar & Salma 3",
-          "tmdb": {
-            "id": 103427,
-            "media_type": "movie",
-            "release_date": "2012-01-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Terrifier 3",
-          "tmdb": {
-            "id": 1034541,
-            "media_type": "movie",
-            "release_date": "2024-10-09"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Once Upon a Time... in Hollywood",
-          "tmdb": {
-            "id": 466272,
-            "media_type": "movie",
-            "release_date": "2019-07-24"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Expend4bles",
           "tmdb": {
             "id": 299054,
@@ -473,40 +433,67 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Love and Other Drugs",
+          "rank": 5,
+          "title": "Not Me",
           "tmdb": {
-            "id": 43347,
+            "id": 882178,
             "media_type": "movie",
-            "release_date": "2010-11-22"
+            "release_date": "2018-03-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Rambo III",
+          "tmdb": {
+            "id": 1370,
+            "media_type": "movie",
+            "release_date": "1988-05-24"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Terrifier 3",
+          "tmdb": {
+            "id": 1034541,
+            "media_type": "movie",
+            "release_date": "2024-10-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "My Wife's Ex",
+          "tmdb": {
+            "id": 1276086,
+            "media_type": "movie",
+            "release_date": "2024-07-24"
           }
         },
         {
           "rank": 9,
-          "title": "Godless: The Eastfield Exorcism",
+          "title": "The Revenant",
           "tmdb": {
-            "id": 1088157,
+            "id": 281957,
             "media_type": "movie",
-            "release_date": "2023-03-08"
+            "release_date": "2015-12-25"
           }
         },
         {
           "rank": 10,
-          "title": "The Ministry of Ungentlemanly Warfare",
+          "title": "Spider-Man: Into the Spider-Verse",
           "tmdb": {
-            "id": 799583,
+            "id": 324857,
             "media_type": "movie",
-            "release_date": "2024-04-18"
+            "release_date": "2018-12-06"
           }
         }
       ]
     },
     {
       "catalog_id": "starz.series",
-      "heading": "TOP TV Shows on Starz in Tunisia on April 1, 2026",
+      "heading": "TOP TV Shows on Starz in Tunisia on April 2, 2026",
       "category": "tv shows",
       "platform": "Starz",
-      "date": "April 1, 2026",
+      "date": "April 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -547,20 +534,20 @@
         },
         {
           "rank": 5,
+          "title": "The Strike",
+          "tmdb": {
+            "id": 314097,
+            "media_type": "tv",
+            "release_date": "2026-02-18"
+          }
+        },
+        {
+          "rank": 6,
           "title": "El Nos",
           "tmdb": {
             "id": 276068,
             "media_type": "tv",
             "release_date": "2025-03-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Assassin",
-          "tmdb": {
-            "id": 262352,
-            "media_type": "tv",
-            "release_date": "2025-07-25"
           }
         },
         {
@@ -592,11 +579,11 @@
         },
         {
           "rank": 10,
-          "title": "Mehmed: Sultan of Conquests",
+          "title": "Die Nibelungen - Kampf der Königreiche",
           "tmdb": {
-            "id": 246621,
+            "id": 304371,
             "media_type": "tv",
-            "release_date": "2024-02-27"
+            "release_date": "2025-11-06"
           }
         }
       ]
