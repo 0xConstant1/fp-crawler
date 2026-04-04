@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/kenya/",
-  "page_title": "TOP 10 on Streaming in Kenya on April 3, 2026",
+  "page_title": "TOP 10 on Streaming in Kenya on April 4, 2026",
   "region": "kenya",
-  "date": "April 3, 2026",
-  "scraped_at_utc": "2026-04-03T15:51:12.343546+00:00",
+  "date": "April 4, 2026",
+  "scraped_at_utc": "2026-04-04T15:45:18.516353+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Kenya on April 3, 2026",
+      "heading": "TOP Movies on Netflix in Kenya on April 4, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 3, 2026",
+      "date": "April 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,6 +24,15 @@
         },
         {
           "rank": 2,
+          "title": "Behind the Scenes",
+          "tmdb": {
+            "id": 488579,
+            "media_type": "movie",
+            "release_date": "1914-10-26"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Untold: The Death & Life of Lamar Odom",
           "tmdb": {
             "id": 1641961,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Red Line",
           "tmdb": {
             "id": 1630433,
@@ -41,43 +50,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Hollow Man II",
-          "tmdb": {
-            "id": 8997,
-            "media_type": "movie",
-            "release_date": "2006-05-23"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Marksman",
-          "tmdb": {
-            "id": 634528,
-            "media_type": "movie",
-            "release_date": "2021-01-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Bicentennial Man",
-          "tmdb": {
-            "id": 2277,
-            "media_type": "movie",
-            "release_date": "1999-12-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Smile 2",
-          "tmdb": {
-            "id": 1100782,
-            "media_type": "movie",
-            "release_date": "2024-10-16"
-          }
-        },
-        {
-          "rank": 8,
           "title": "War Machine",
           "tmdb": {
             "id": 1265609,
@@ -86,31 +59,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "What Happens in Vegas",
+          "rank": 6,
+          "title": "Hollow Man II",
           "tmdb": {
-            "id": 9029,
+            "id": 8997,
             "media_type": "movie",
-            "release_date": "2008-05-07"
+            "release_date": "2006-05-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Extraction",
+          "tmdb": {
+            "id": 545609,
+            "media_type": "movie",
+            "release_date": "2020-04-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Smile 2",
+          "tmdb": {
+            "id": 1100782,
+            "media_type": "movie",
+            "release_date": "2024-10-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Marksman",
+          "tmdb": {
+            "id": 634528,
+            "media_type": "movie",
+            "release_date": "2021-01-15"
           }
         },
         {
           "rank": 10,
-          "title": "Mardaani 3",
+          "title": "The Truth and Tragedy of Moriah Wilson",
           "tmdb": {
-            "id": 1339876,
+            "id": 1629369,
             "media_type": "movie",
-            "release_date": "2026-01-30"
+            "release_date": "2026-03-19"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Kenya on April 3, 2026",
+      "heading": "TOP TV Shows on Netflix in Kenya on April 4, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 3, 2026",
+      "date": "April 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -160,11 +160,11 @@
         },
         {
           "rank": 6,
-          "title": "Heartbreak High",
+          "title": "Sullivan's Crossing",
           "tmdb": {
-            "id": 158154,
+            "id": 211564,
             "media_type": "tv",
-            "release_date": "2022-09-14"
+            "release_date": "2023-03-19"
           }
         },
         {
@@ -178,15 +178,6 @@
         },
         {
           "rank": 8,
-          "title": "Sullivan's Crossing",
-          "tmdb": {
-            "id": 211564,
-            "media_type": "tv",
-            "release_date": "2023-03-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fatal Seduction",
           "tmdb": {
             "id": 227975,
@@ -195,12 +186,21 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Something Very Bad Is Going to Happen",
+          "rank": 9,
+          "title": "Heartbreak High",
           "tmdb": {
-            "id": 259265,
+            "id": 158154,
             "media_type": "tv",
-            "release_date": "2026-03-26"
+            "release_date": "2022-09-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Bloodhounds",
+          "tmdb": {
+            "id": 127529,
+            "media_type": "tv",
+            "release_date": "2023-06-09"
           }
         }
       ]
