@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/san-marino/",
-  "page_title": "TOP 10 on Streaming in San Marino on April 6, 2026",
+  "page_title": "TOP 10 on Streaming in San Marino on April 7, 2026",
   "region": "san-marino",
-  "date": "April 6, 2026",
-  "scraped_at_utc": "2026-04-06T15:49:38.684918+00:00",
+  "date": "April 7, 2026",
+  "scraped_at_utc": "2026-04-07T16:00:57.341635+00:00",
   "charts": [
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in San Marino on April 6, 2026",
+      "heading": "TOP Overall on Disney+ in San Marino on April 7, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Star Wars: Maul - Shadow Lord",
+          "tmdb": {
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Love Story",
           "tmdb": {
             "id": 131142,
@@ -32,21 +41,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Mike & Nick & Nick & Alice",
+          "title": "Secrets of the Bees",
           "tmdb": {
-            "id": 1115544,
-            "media_type": "movie",
-            "release_date": "2026-03-14"
+            "id": 218274,
+            "media_type": "tv",
+            "release_date": "2026-03-31"
           }
         },
         {
@@ -60,15 +60,24 @@
         },
         {
           "rank": 6,
-          "title": "Hannah Montana 20th Anniversary Special",
+          "title": "Mike & Nick & Nick & Alice",
           "tmdb": {
-            "id": 1637319,
+            "id": 1115544,
             "media_type": "movie",
-            "release_date": "2026-03-23"
+            "release_date": "2026-03-14"
           }
         },
         {
           "rank": 7,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Resident Evil",
           "tmdb": {
             "id": 108296,
@@ -77,30 +86,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Secrets of the Bees",
-          "tmdb": {
-            "id": 218274,
-            "media_type": "tv",
-            "release_date": "2026-03-31"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Scrubs",
-          "tmdb": {
-            "id": 4556,
-            "media_type": "tv",
-            "release_date": "2001-10-02"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Paradise",
           "tmdb": {
             "id": 245927,
             "media_type": "tv",
             "release_date": "2025-01-26"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Resident Evil: Apocalypse",
+          "tmdb": {
+            "id": 1577,
+            "media_type": "movie",
+            "release_date": "2004-09-10"
           }
         }
       ]

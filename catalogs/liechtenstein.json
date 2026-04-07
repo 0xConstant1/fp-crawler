@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/liechtenstein/",
-  "page_title": "TOP 10 on Streaming in Liechtenstein on April 6, 2026",
+  "page_title": "TOP 10 on Streaming in Liechtenstein on April 7, 2026",
   "region": "liechtenstein",
-  "date": "April 6, 2026",
-  "scraped_at_utc": "2026-04-06T15:49:07.300021+00:00",
+  "date": "April 7, 2026",
+  "scraped_at_utc": "2026-04-07T16:00:26.228475+00:00",
   "charts": [
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Liechtenstein on April 6, 2026",
+      "heading": "TOP Overall on Disney+ in Liechtenstein on April 7, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Star Wars: Maul - Shadow Lord",
+          "tmdb": {
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -23,7 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Guardians of the Galaxy Volume 3",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
           "title": "Secrets of the Bees",
           "tmdb": {
             "id": 218274,
@@ -32,7 +46,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Scrubs",
           "tmdb": {
             "id": 4556,
@@ -41,7 +55,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Zootopia",
           "tmdb": {
             "id": 269149,
@@ -50,30 +64,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Mike & Nick & Nick & Alice",
           "tmdb": {
             "id": 1115544,
             "media_type": "movie",
             "release_date": "2026-03-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ice Age",
-          "tmdb": {
-            "id": 425,
-            "media_type": "movie",
-            "release_date": "2002-03-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Predator: Badlands",
-          "tmdb": {
-            "id": 1242898,
-            "media_type": "movie",
-            "release_date": "2025-11-05"
           }
         },
         {
@@ -87,20 +83,20 @@
         },
         {
           "rank": 9,
-          "title": "Hannah Montana 20th Anniversary Special",
-          "tmdb": {
-            "id": 1637319,
-            "media_type": "movie",
-            "release_date": "2026-03-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
             "media_type": "tv",
             "release_date": "2025-03-04"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Pirates of the Caribbean: Dead Man's Chest",
+          "tmdb": {
+            "id": 58,
+            "media_type": "movie",
+            "release_date": "2006-07-06"
           }
         }
       ]

@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/cyprus/",
-  "page_title": "TOP 10 on Streaming in Cyprus on April 6, 2026",
+  "page_title": "TOP 10 on Streaming in Cyprus on April 7, 2026",
   "region": "cyprus",
-  "date": "April 6, 2026",
-  "scraped_at_utc": "2026-04-06T15:48:32.502286+00:00",
+  "date": "April 7, 2026",
+  "scraped_at_utc": "2026-04-07T15:59:50.808355+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Cyprus on April 6, 2026",
+      "heading": "TOP Movies on Netflix in Cyprus on April 7, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,6 +33,15 @@
         },
         {
           "rank": 3,
+          "title": "Sniper 3",
+          "tmdb": {
+            "id": 14247,
+            "media_type": "movie",
+            "release_date": "2005-02-24"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Venom: The Last Dance",
           "tmdb": {
             "id": 912649,
@@ -41,43 +50,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Extraction",
-          "tmdb": {
-            "id": 545609,
-            "media_type": "movie",
-            "release_date": "2020-04-23"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Eat Pray Bark",
-          "tmdb": {
-            "id": 1635276,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Let Him Go",
-          "tmdb": {
-            "id": 596161,
-            "media_type": "movie",
-            "release_date": "2020-11-05"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Truth and Tragedy of Moriah Wilson",
-          "tmdb": {
-            "id": 1629369,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Feel My Voice",
           "tmdb": {
             "id": 1620551,
@@ -86,31 +59,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Extraction",
+          "tmdb": {
+            "id": 545609,
+            "media_type": "movie",
+            "release_date": "2020-04-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Eat Pray Bark",
+          "tmdb": {
+            "id": 1635276,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Truth and Tragedy of Moriah Wilson",
+          "tmdb": {
+            "id": 1629369,
+            "media_type": "movie",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Let Him Go",
+          "tmdb": {
+            "id": 596161,
+            "media_type": "movie",
+            "release_date": "2020-11-05"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Humint",
           "tmdb": {
             "id": 1268127,
             "media_type": "movie",
             "release_date": "2026-02-11"
           }
-        },
-        {
-          "rank": 10,
-          "title": "French Girl",
-          "tmdb": {
-            "id": 1024452,
-            "media_type": "movie",
-            "release_date": "2024-03-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Cyprus on April 6, 2026",
+      "heading": "TOP TV Shows on Netflix in Cyprus on April 7, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Detective Hole",
-          "tmdb": {
-            "id": 249597,
-            "media_type": "tv",
-            "release_date": "2026-03-26"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Parish",
-          "tmdb": {
-            "id": 194741,
-            "media_type": "tv",
-            "release_date": "2024-03-31"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Bloodhounds",
           "tmdb": {
             "id": 127529,
@@ -150,21 +132,39 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Something Very Bad Is Going to Happen",
+          "rank": 3,
+          "title": "Detective Hole",
           "tmdb": {
-            "id": 259265,
+            "id": 249597,
             "media_type": "tv",
             "release_date": "2026-03-26"
           }
         },
         {
-          "rank": 6,
-          "title": "Gangs of Galicia",
+          "rank": 4,
+          "title": "Parish",
           "tmdb": {
-            "id": 227042,
+            "id": 194741,
             "media_type": "tv",
-            "release_date": "2024-06-21"
+            "release_date": "2024-03-31"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Something Very Bad Is Going to Happen",
+          "tmdb": {
+            "id": 259265,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
           }
         },
         {
@@ -178,48 +178,48 @@
         },
         {
           "rank": 8,
-          "title": "The Predator of Seville",
+          "title": "Gangs of Galicia",
           "tmdb": {
-            "id": 316295,
+            "id": 227042,
             "media_type": "tv",
-            "release_date": "2026-03-27"
+            "release_date": "2024-06-21"
           }
         },
         {
           "rank": 9,
-          "title": "High Tides",
+          "title": "The Bad Guys: Breaking In",
           "tmdb": {
-            "id": 203616,
+            "id": 302540,
             "media_type": "tv",
-            "release_date": "2023-05-12"
+            "release_date": "2025-11-06"
           }
         },
         {
           "rank": 10,
-          "title": "Virgin River",
+          "title": "NASA+ Live on Netflix",
           "tmdb": {
-            "id": 88324,
+            "id": 318843,
             "media_type": "tv",
-            "release_date": "2019-12-06"
+            "release_date": "2025-07-31"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Cyprus on April 6, 2026",
+      "heading": "TOP Movies on Apple TV in Cyprus on April 7, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Argylle",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 848538,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2024-01-31"
+            "release_date": "2025-11-11"
           }
         },
         {
@@ -233,15 +233,24 @@
         },
         {
           "rank": 3,
-          "title": "The Family Plan 2",
+          "title": "Argylle",
           "tmdb": {
-            "id": 1363123,
+            "id": 848538,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2024-01-31"
           }
         },
         {
           "rank": 4,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Lost Bus",
           "tmdb": {
             "id": 1236470,
@@ -250,7 +259,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -259,21 +268,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Killers of the Flower Moon",
+          "title": "Ghosted",
           "tmdb": {
-            "id": 466420,
+            "id": 868759,
             "media_type": "movie",
-            "release_date": "2023-10-18"
+            "release_date": "2023-04-18"
           }
         },
         {
@@ -287,30 +287,30 @@
         },
         {
           "rank": 9,
-          "title": "The Instigators",
+          "title": "Highest 2 Lowest",
           "tmdb": {
-            "id": 1059064,
+            "id": 1242434,
             "media_type": "movie",
-            "release_date": "2024-08-02"
+            "release_date": "2025-08-14"
           }
         },
         {
           "rank": 10,
-          "title": "Ghosted",
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 868759,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "2023-04-18"
+            "release_date": "2023-10-18"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Cyprus on April 6, 2026",
+      "heading": "TOP TV Shows on Apple TV in Cyprus on April 7, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,15 +342,6 @@
         },
         {
           "rank": 4,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Last Thing He Told Me",
           "tmdb": {
             "id": 201289,
@@ -359,21 +350,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Imperfect Women",
+          "rank": 5,
+          "title": "Monarch: Legacy of Monsters",
           "tmdb": {
-            "id": 108181,
+            "id": 202411,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2023-11-16"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Tehran",
           "tmdb": {
             "id": 103913,
             "media_type": "tv",
             "release_date": "2020-06-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Imperfect Women",
+          "tmdb": {
+            "id": 108181,
+            "media_type": "tv",
+            "release_date": "2026-03-17"
           }
         },
         {
@@ -396,34 +396,25 @@
         },
         {
           "rank": 10,
-          "title": "Slow Horses",
+          "title": "The Morning Show",
           "tmdb": {
-            "id": 95480,
+            "id": 90282,
             "media_type": "tv",
-            "release_date": "2022-04-01"
+            "release_date": "2019-11-01"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Cyprus on April 6, 2026",
+      "heading": "TOP Movies on Apple TV Store in Cyprus on April 7, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ratatouille",
-          "tmdb": {
-            "id": 2062,
-            "media_type": "movie",
-            "release_date": "2007-06-28"
-          }
-        },
-        {
-          "rank": 2,
           "title": "One Battle After Another",
           "tmdb": {
             "id": 1054867,
@@ -432,52 +423,34 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Monsters, Inc.",
+          "rank": 2,
+          "title": "A Minecraft Movie",
           "tmdb": {
-            "id": 585,
+            "id": 950387,
             "media_type": "movie",
-            "release_date": "2001-11-01"
+            "release_date": "2025-03-31"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Nobody 2",
+          "tmdb": {
+            "id": 1007734,
+            "media_type": "movie",
+            "release_date": "2025-08-13"
           }
         },
         {
           "rank": 4,
-          "title": "Pirates of the Caribbean: At Worlds End",
+          "title": "Captain America: The First Avenger",
           "tmdb": {
-            "id": 285,
+            "id": 1771,
             "media_type": "movie",
-            "release_date": "2007-05-19"
+            "release_date": "2011-07-22"
           }
         },
         {
           "rank": 5,
-          "title": "No Country for Old Men",
-          "tmdb": {
-            "id": 6977,
-            "media_type": "movie",
-            "release_date": "2007-11-09"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Prisoner of Azkaban",
-          "tmdb": {
-            "id": 673,
-            "media_type": "movie",
-            "release_date": "2004-05-31"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Big Short",
-          "tmdb": {
-            "id": 318846,
-            "media_type": "movie",
-            "release_date": "2015-12-11"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -486,121 +459,148 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Moana",
+          "rank": 6,
+          "title": "Stelios",
           "tmdb": {
-            "id": 1108427,
+            "id": 1329088,
             "media_type": "movie",
-            "release_date": "2026-07-08"
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Godfather",
+          "tmdb": {
+            "id": 238,
+            "media_type": "movie",
+            "release_date": "1972-03-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Finding Nemo",
+          "tmdb": {
+            "id": 12,
+            "media_type": "movie",
+            "release_date": "2003-05-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Lilo & Stitch",
+          "tmdb": {
+            "id": 552524,
+            "media_type": "movie",
+            "release_date": "2025-05-17"
           }
         },
         {
           "rank": 10,
-          "title": "Dead Poets Society",
+          "title": "Uptown Girls",
           "tmdb": {
-            "id": 207,
+            "id": 14926,
             "media_type": "movie",
-            "release_date": "1989-06-02"
+            "release_date": "2003-08-15"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Cyprus on April 6, 2026",
+      "heading": "TOP Movies on Google in Cyprus on April 7, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 6, 2026",
+      "date": "April 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "GOAT",
+          "title": "Bring Her Back",
           "tmdb": {
-            "id": 1297842,
+            "id": 1151031,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2025-05-28"
           }
         },
         {
           "rank": 2,
-          "title": "Send Help",
+          "title": "War of the Worlds",
           "tmdb": {
-            "id": 1198994,
+            "id": 755898,
             "media_type": "movie",
-            "release_date": "2026-01-22"
+            "release_date": "2025-07-29"
           }
         },
         {
           "rank": 3,
-          "title": "The Housemaid",
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
           "tmdb": {
-            "id": 1368166,
+            "id": 120,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2001-12-18"
           }
         },
         {
           "rank": 4,
-          "title": "Shelter",
+          "title": "Deep Blue Sea 2",
           "tmdb": {
-            "id": 1290821,
+            "id": 492336,
             "media_type": "movie",
-            "release_date": "2026-01-28"
+            "release_date": "2018-04-17"
           }
         },
         {
           "rank": 5,
-          "title": "Spider-Man: No Way Home",
+          "title": "Poseidon",
           "tmdb": {
-            "id": 634649,
+            "id": 503,
             "media_type": "movie",
-            "release_date": "2021-12-15"
+            "release_date": "2006-05-03"
           }
         },
         {
           "rank": 6,
-          "title": "Zootopia 2",
+          "title": "Deep Blue Sea 3",
           "tmdb": {
-            "id": 1084242,
+            "id": 703745,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2020-08-25"
           }
         },
         {
           "rank": 7,
-          "title": "Good Luck, Have Fun, Don't Die",
+          "title": "The Running Man",
           "tmdb": {
-            "id": 1119449,
+            "id": 798645,
             "media_type": "movie",
-            "release_date": "2026-02-13"
+            "release_date": "2025-11-11"
           }
         },
         {
           "rank": 8,
-          "title": "Greenland 2: Migration",
+          "title": "Black Knight",
           "tmdb": {
-            "id": 840464,
+            "id": 11469,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2001-11-21"
           }
         },
         {
           "rank": 9,
-          "title": "Marty Supreme",
+          "title": "Where Hope Grows",
           "tmdb": {
-            "id": 1317288,
+            "id": 243352,
             "media_type": "movie",
-            "release_date": "2025-12-19"
+            "release_date": "2014-04-06"
           }
         },
         {
           "rank": 10,
-          "title": "The Super Mario Bros. Movie",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 502356,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2023-04-05"
+            "release_date": "2001-11-16"
           }
         }
       ]
