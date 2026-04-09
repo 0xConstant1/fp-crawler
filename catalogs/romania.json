@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/romania/",
-  "page_title": "TOP 10 on Streaming in Romania on April 8, 2026",
+  "page_title": "TOP 10 on Streaming in Romania on April 9, 2026",
   "region": "romania",
-  "date": "April 8, 2026",
-  "scraped_at_utc": "2026-04-08T16:02:49.144853+00:00",
+  "date": "April 9, 2026",
+  "scraped_at_utc": "2026-04-09T16:04:20.385486+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Romania on April 8, 2026",
+      "heading": "TOP Movies on Netflix in Romania on April 9, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Damned",
+          "tmdb": {
+            "id": 850439,
+            "media_type": "movie",
+            "release_date": "2025-01-03"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Humint",
           "tmdb": {
             "id": 1268127,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Eat Pray Bark",
           "tmdb": {
             "id": 1635276,
             "media_type": "movie",
             "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Let Him Go",
-          "tmdb": {
-            "id": 596161,
-            "media_type": "movie",
-            "release_date": "2020-11-05"
           }
         },
         {
@@ -51,20 +51,20 @@
         },
         {
           "rank": 5,
-          "title": "Extraction",
-          "tmdb": {
-            "id": 545609,
-            "media_type": "movie",
-            "release_date": "2020-04-23"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Striking Distance",
           "tmdb": {
             "id": 11074,
             "media_type": "movie",
             "release_date": "1993-09-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Let Him Go",
+          "tmdb": {
+            "id": 596161,
+            "media_type": "movie",
+            "release_date": "2020-11-05"
           }
         },
         {
@@ -78,35 +78,35 @@
         },
         {
           "rank": 8,
-          "title": "The Last Giant",
-          "tmdb": null
+          "title": "Extraction",
+          "tmdb": {
+            "id": 545609,
+            "media_type": "movie",
+            "release_date": "2020-04-23"
+          }
         },
         {
           "rank": 9,
-          "title": "Hollow Man II",
+          "title": "Transformers One",
           "tmdb": {
-            "id": 8997,
+            "id": 698687,
             "media_type": "movie",
-            "release_date": "2006-05-23"
+            "release_date": "2024-09-11"
           }
         },
         {
           "rank": 10,
-          "title": "The Truth and Tragedy of Moriah Wilson",
-          "tmdb": {
-            "id": 1629369,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
+          "title": "The Last Giant",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Romania on April 8, 2026",
+      "heading": "TOP TV Shows on Netflix in Romania on April 9, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -129,6 +129,15 @@
         },
         {
           "rank": 3,
+          "title": "Trust Me: The False Prophet",
+          "tmdb": {
+            "id": 316898,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Bloodhounds",
           "tmdb": {
             "id": 127529,
@@ -137,21 +146,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ripple",
           "tmdb": {
             "id": 263346,
             "media_type": "tv",
             "release_date": "2025-12-03"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Detective Hole",
-          "tmdb": {
-            "id": 249597,
-            "media_type": "tv",
-            "release_date": "2026-03-26"
           }
         },
         {
@@ -165,20 +165,20 @@
         },
         {
           "rank": 7,
-          "title": "Something Very Bad Is Going to Happen",
+          "title": "Detective Hole",
           "tmdb": {
-            "id": 259265,
+            "id": 249597,
             "media_type": "tv",
             "release_date": "2026-03-26"
           }
         },
         {
           "rank": 8,
-          "title": "Outlander",
+          "title": "Something Very Bad Is Going to Happen",
           "tmdb": {
-            "id": 56570,
+            "id": 259265,
             "media_type": "tv",
-            "release_date": "2014-08-09"
+            "release_date": "2026-03-26"
           }
         },
         {
@@ -192,21 +192,221 @@
         },
         {
           "rank": 10,
-          "title": "Agent from Above",
+          "title": "Danny Go!",
           "tmdb": {
-            "id": 213703,
+            "id": 258124,
             "media_type": "tv",
-            "release_date": "2026-04-02"
+            "release_date": "2019-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Romania on April 9, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "April 9, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Trolls",
+          "tmdb": {
+            "id": 136799,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Trolls World Tour",
+          "tmdb": {
+            "id": 446893,
+            "media_type": "movie",
+            "release_date": "2020-03-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Peter Rabbit 2: The Runaway",
+          "tmdb": {
+            "id": 522478,
+            "media_type": "movie",
+            "release_date": "2021-03-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Despicable Me 3",
+          "tmdb": {
+            "id": 324852,
+            "media_type": "movie",
+            "release_date": "2017-06-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Madagascar",
+          "tmdb": {
+            "id": 953,
+            "media_type": "movie",
+            "release_date": "2005-05-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Minions",
+          "tmdb": {
+            "id": 211672,
+            "media_type": "movie",
+            "release_date": "2015-06-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Croods: A New Age",
+          "tmdb": {
+            "id": 529203,
+            "media_type": "movie",
+            "release_date": "2020-11-25"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-series",
+      "heading": "TOP Kids TV Shows on Netflix in Romania on April 9, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "April 9, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "LEGO Ninjago: Dragons Rising",
+          "tmdb": {
+            "id": 212989,
+            "media_type": "tv",
+            "release_date": "2023-06-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Unicorn Academy: Secrets Revealed",
+          "tmdb": {
+            "id": 316945,
+            "media_type": "tv",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Bad Guys: Breaking In",
+          "tmdb": {
+            "id": 302540,
+            "media_type": "tv",
+            "release_date": "2025-11-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Creature Cases",
+          "tmdb": {
+            "id": 195407,
+            "media_type": "tv",
+            "release_date": "2022-04-12"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Dinosaurs",
+          "tmdb": {
+            "id": 313298,
+            "media_type": "tv",
+            "release_date": "2026-03-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Amazing World of Gumball",
+          "tmdb": {
+            "id": 37606,
+            "media_type": "tv",
+            "release_date": "2011-05-03"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Romania on April 8, 2026",
+      "heading": "TOP Movies on HBO Max in Romania on April 9, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -229,15 +429,6 @@
         },
         {
           "rank": 3,
-          "title": "Finding Harry: The Craft Behind the Magic",
-          "tmdb": {
-            "id": 1662432,
-            "media_type": "movie",
-            "release_date": "2026-04-05"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Holland",
           "tmdb": {
             "id": 257094,
@@ -246,7 +437,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Elevation",
           "tmdb": {
             "id": 1035048,
@@ -255,21 +446,30 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Finding Harry: The Craft Behind the Magic",
+          "tmdb": {
+            "id": 1662432,
+            "media_type": "movie",
+            "release_date": "2026-04-05"
+          }
+        },
+        {
           "rank": 6,
+          "title": "The Empire",
+          "tmdb": {
+            "id": 929831,
+            "media_type": "movie",
+            "release_date": "2024-02-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Order",
           "tmdb": {
             "id": 1082195,
             "media_type": "movie",
             "release_date": "2024-12-05"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "I Am the End of the World",
-          "tmdb": {
-            "id": 1386877,
-            "media_type": "movie",
-            "release_date": "2025-01-09"
           }
         },
         {
@@ -283,88 +483,34 @@
         },
         {
           "rank": 9,
-          "title": "The Tomorrow War",
+          "title": "Adam's Sake",
           "tmdb": {
-            "id": 588228,
+            "id": 1293858,
             "media_type": "movie",
-            "release_date": "2021-09-03"
+            "release_date": "2025-09-17"
           }
         },
         {
           "rank": 10,
-          "title": "Caught Stealing",
+          "title": "I Am the End of the World",
           "tmdb": {
-            "id": 1245993,
+            "id": 1386877,
             "media_type": "movie",
-            "release_date": "2025-08-26"
+            "release_date": "2025-01-09"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Romania on April 8, 2026",
+      "heading": "TOP TV Shows on HBO Max in Romania on April 9, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Rooster",
-          "tmdb": {
-            "id": 254953,
-            "media_type": "tv",
-            "release_date": "2026-03-08"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Pitt",
-          "tmdb": {
-            "id": 250307,
-            "media_type": "tv",
-            "release_date": "2025-01-09"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "DTF St. Louis",
-          "tmdb": {
-            "id": 206828,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Doc",
-          "tmdb": {
-            "id": 10042,
-            "media_type": "tv",
-            "release_date": "2001-03-11"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Privileges",
-          "tmdb": {
-            "id": 283853,
-            "media_type": "tv",
-            "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Lady",
           "tmdb": {
             "id": 298425,
@@ -373,40 +519,94 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Handmaid's Tale",
+          "rank": 2,
+          "title": "Rooster",
           "tmdb": {
-            "id": 69478,
+            "id": 254953,
             "media_type": "tv",
-            "release_date": "2017-04-26"
+            "release_date": "2026-03-08"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Pitt",
+          "tmdb": {
+            "id": 250307,
+            "media_type": "tv",
+            "release_date": "2025-01-09"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Other Bennet Sister",
+          "tmdb": {
+            "id": 273866,
+            "media_type": "tv",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "DTF St. Louis",
+          "tmdb": {
+            "id": 206828,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Doc",
+          "tmdb": {
+            "id": 10042,
+            "media_type": "tv",
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Privileges",
+          "tmdb": {
+            "id": 283853,
+            "media_type": "tv",
+            "release_date": "2026-03-27"
           }
         },
         {
           "rank": 9,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Comeback",
           "tmdb": {
             "id": 1999,
             "media_type": "tv",
             "release_date": "2005-06-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Fargo",
-          "tmdb": {
-            "id": 60622,
-            "media_type": "tv",
-            "release_date": "2014-04-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Romania on April 8, 2026",
+      "heading": "TOP Overall on Disney+ in Romania on April 9, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,33 +620,15 @@
         },
         {
           "rank": 2,
-          "title": "Zootopia 2",
+          "title": "The Testaments",
           "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
           }
         },
         {
           "rank": 3,
-          "title": "Mike & Nick & Nick & Alice",
-          "tmdb": {
-            "id": 1115544,
-            "media_type": "movie",
-            "release_date": "2026-03-14"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Love Story",
-          "tmdb": {
-            "id": 131142,
-            "media_type": "tv",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 5,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -455,7 +637,43 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Mike & Nick & Nick & Alice",
+          "tmdb": {
+            "id": 1115544,
+            "media_type": "movie",
+            "release_date": "2026-03-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Love Story",
+          "tmdb": {
+            "id": 131142,
+            "media_type": "tv",
+            "release_date": "2026-02-12"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Secrets of the Bees",
           "tmdb": {
             "id": 218274,
@@ -464,16 +682,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Pizza Movie",
-          "tmdb": {
-            "id": 1493859,
-            "media_type": "movie",
-            "release_date": "2026-03-13"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Paradise",
           "tmdb": {
             "id": 245927,
@@ -482,31 +691,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Hannah Montana 20th Anniversary Special",
-          "tmdb": {
-            "id": 1637319,
-            "media_type": "movie",
-            "release_date": "2026-03-23"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Daredevil: Born Again",
+          "title": "Brave",
           "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
+            "id": 62177,
+            "media_type": "movie",
+            "release_date": "2012-06-21"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Romania on April 8, 2026",
+      "heading": "TOP Movies on Amazon Prime in Romania on April 9, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -529,15 +729,6 @@
         },
         {
           "rank": 3,
-          "title": "Agent Zeta",
-          "tmdb": {
-            "id": 1314786,
-            "media_type": "movie",
-            "release_date": "2026-03-20"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
@@ -546,12 +737,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Our Fault",
+          "rank": 4,
+          "title": "Agent Zeta",
           "tmdb": {
-            "id": 1156594,
+            "id": 1314786,
             "media_type": "movie",
-            "release_date": "2025-10-15"
+            "release_date": "2026-03-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Teen Wolf: The Movie",
+          "tmdb": {
+            "id": 877703,
+            "media_type": "movie",
+            "release_date": "2023-01-18"
           }
         },
         {
@@ -574,11 +774,11 @@
         },
         {
           "rank": 8,
-          "title": "Teen Wolf: The Movie",
+          "title": "Our Fault",
           "tmdb": {
-            "id": 877703,
+            "id": 1156594,
             "media_type": "movie",
-            "release_date": "2023-01-18"
+            "release_date": "2025-10-15"
           }
         },
         {
@@ -603,41 +803,14 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Romania on April 8, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Romania on April 9, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "House of David",
-          "tmdb": {
-            "id": 243881,
-            "media_type": "tv",
-            "release_date": "2025-02-27"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Scarpetta",
-          "tmdb": {
-            "id": 240740,
-            "media_type": "tv",
-            "release_date": "2026-03-11"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Young Sherlock",
-          "tmdb": {
-            "id": 255661,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "INVINCIBLE",
           "tmdb": {
             "id": 95557,
@@ -646,12 +819,39 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Siren's Kiss",
+          "rank": 2,
+          "title": "The Boys",
           "tmdb": {
-            "id": 310800,
+            "id": 76479,
             "media_type": "tv",
-            "release_date": "2026-03-02"
+            "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "House of David",
+          "tmdb": {
+            "id": 243881,
+            "media_type": "tv",
+            "release_date": "2025-02-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Scarpetta",
+          "tmdb": {
+            "id": 240740,
+            "media_type": "tv",
+            "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -665,6 +865,15 @@
         },
         {
           "rank": 7,
+          "title": "Siren's Kiss",
+          "tmdb": {
+            "id": 310800,
+            "media_type": "tv",
+            "release_date": "2026-03-02"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
@@ -673,7 +882,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
@@ -682,31 +891,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Cross",
           "tmdb": {
             "id": 213306,
             "media_type": "tv",
             "release_date": "2024-11-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Reacher",
-          "tmdb": {
-            "id": 108978,
-            "media_type": "tv",
-            "release_date": "2022-02-03"
-          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Romania on April 8, 2026",
+      "heading": "TOP Movies on Rakuten TV in Romania on April 9, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -792,21 +992,21 @@
         },
         {
           "rank": 10,
-          "title": "One Battle After Another",
+          "title": "Sinners",
           "tmdb": {
-            "id": 1054867,
+            "id": 1233413,
             "media_type": "movie",
-            "release_date": "2025-09-23"
+            "release_date": "2025-04-16"
           }
         }
       ]
     },
     {
       "catalog_id": "voyo.overall",
-      "heading": "TOP Overall on Voyo in Romania on April 8, 2026",
+      "heading": "TOP Overall on Voyo in Romania on April 9, 2026",
       "category": "overall",
       "platform": "Voyo",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -899,28 +1099,28 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Romania on April 8, 2026",
+      "heading": "TOP Movies on SkyShowtime in Romania on April 9, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Nobody 2",
-          "tmdb": {
-            "id": 1007734,
-            "media_type": "movie",
-            "release_date": "2025-08-13"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Bad Guys 2",
           "tmdb": {
             "id": 1175942,
             "media_type": "movie",
             "release_date": "2025-07-24"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Nobody 2",
+          "tmdb": {
+            "id": 1007734,
+            "media_type": "movie",
+            "release_date": "2025-08-13"
           }
         },
         {
@@ -934,20 +1134,20 @@
         },
         {
           "rank": 4,
-          "title": "Like a Boss",
-          "tmdb": {
-            "id": 526019,
-            "media_type": "movie",
-            "release_date": "2020-01-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Immortal",
           "tmdb": {
             "id": 254872,
             "media_type": "movie",
             "release_date": "1969-09-30"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Like a Boss",
+          "tmdb": {
+            "id": 526019,
+            "media_type": "movie",
+            "release_date": "2020-01-09"
           }
         },
         {
@@ -961,15 +1161,6 @@
         },
         {
           "rank": 7,
-          "title": "The Last GunFight",
-          "tmdb": {
-            "id": 1465038,
-            "media_type": "movie",
-            "release_date": "2025-05-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Prophecy: Forsaken",
           "tmdb": {
             "id": 37529,
@@ -978,49 +1169,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Naked Gun",
+          "rank": 8,
+          "title": "The Prophecy: Uprising",
           "tmdb": {
-            "id": 1035259,
+            "id": 19564,
             "media_type": "movie",
-            "release_date": "2025-07-30"
+            "release_date": "2005-06-07"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Shadowhunter",
+          "tmdb": {
+            "id": 203116,
+            "media_type": "movie",
+            "release_date": "1993-02-10"
           }
         },
         {
           "rank": 10,
-          "title": "Welcome to Sudden Death",
+          "title": "The Last GunFight",
           "tmdb": {
-            "id": 741067,
+            "id": 1465038,
             "media_type": "movie",
-            "release_date": "2020-09-09"
+            "release_date": "2025-05-27"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Romania on April 8, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Romania on April 9, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "April 8, 2026",
+      "date": "April 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Y: Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Gomorrah",
           "tmdb": {
             "id": 61068,
             "media_type": "tv",
             "release_date": "2014-05-06"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Y: Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
