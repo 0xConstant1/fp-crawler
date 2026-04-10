@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/united-kingdom/",
-  "page_title": "TOP 10 on Streaming in the United Kingdom on April 9, 2026",
+  "page_title": "TOP 10 on Streaming in the United Kingdom on April 10, 2026",
   "region": "united-kingdom",
-  "date": "April 9, 2026",
-  "scraped_at_utc": "2026-04-09T16:04:45.388541+00:00",
+  "date": "April 10, 2026",
+  "scraped_at_utc": "2026-04-10T15:51:32.085210+00:00",
   "charts": [
     {
       "catalog_id": "hayu.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on hayu in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on hayu in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "hayu",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Valley",
+          "tmdb": {
+            "id": 247758,
+            "media_type": "tv",
+            "release_date": "2024-03-19"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Below Deck Down Under",
           "tmdb": {
             "id": 125506,
             "media_type": "tv",
             "release_date": "2022-03-17"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Summer House",
-          "tmdb": {
-            "id": 69720,
-            "media_type": "tv",
-            "release_date": "2017-01-13"
           }
         },
         {
@@ -51,6 +51,15 @@
         },
         {
           "rank": 5,
+          "title": "Southern Hospitality",
+          "tmdb": {
+            "id": 203448,
+            "media_type": "tv",
+            "release_date": "2022-11-28"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Real Housewives of Atlanta",
           "tmdb": {
             "id": 17380,
@@ -59,30 +68,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Summer House",
+          "tmdb": {
+            "id": 69720,
+            "media_type": "tv",
+            "release_date": "2017-01-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Ladies of London",
           "tmdb": {
             "id": 60939,
             "media_type": "tv",
             "release_date": "2014-06-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Valley",
-          "tmdb": {
-            "id": 247758,
-            "media_type": "tv",
-            "release_date": "2024-03-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Below Deck Down Under",
-          "tmdb": {
-            "id": 125506,
-            "media_type": "tv",
-            "release_date": "2022-03-17"
           }
         },
         {
@@ -92,25 +92,43 @@
         },
         {
           "rank": 10,
-          "title": "The Real Housewives of Beverly Hills",
+          "title": "Below Deck Down Under",
           "tmdb": {
-            "id": 32390,
+            "id": 125506,
             "media_type": "tv",
-            "release_date": "2010-10-14"
+            "release_date": "2022-03-17"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Netflix in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Meg 2: The Trench",
+          "tmdb": {
+            "id": 615656,
+            "media_type": "movie",
+            "release_date": "2023-08-02"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Barbie",
+          "tmdb": {
+            "id": 346698,
+            "media_type": "movie",
+            "release_date": "2023-07-19"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Truth and Tragedy of Moriah Wilson",
           "tmdb": {
             "id": 1629369,
@@ -119,7 +137,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Untold: Chess Mates",
           "tmdb": {
             "id": 1641962,
@@ -128,30 +146,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Let Him Go",
           "tmdb": {
             "id": 596161,
             "media_type": "movie",
             "release_date": "2020-11-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Untold: The Death & Life of Lamar Odom",
-          "tmdb": {
-            "id": 1641961,
-            "media_type": "movie",
-            "release_date": "2026-03-31"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Trolls",
-          "tmdb": {
-            "id": 136799,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
           }
         },
         {
@@ -165,6 +165,24 @@
         },
         {
           "rank": 7,
+          "title": "Trolls",
+          "tmdb": {
+            "id": 136799,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Untold: The Death & Life of Lamar Odom",
+          "tmdb": {
+            "id": 1641961,
+            "media_type": "movie",
+            "release_date": "2026-03-31"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Peaky Blinders: The Immortal Man",
           "tmdb": {
             "id": 875828,
@@ -173,40 +191,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Care",
-          "tmdb": {
-            "id": 1090497,
-            "media_type": "movie",
-            "release_date": "2023-03-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "A Line of Fire",
-          "tmdb": {
-            "id": 1367575,
-            "media_type": "movie",
-            "release_date": "2025-04-05"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Sniper: The Last Stand",
+          "title": "2 Hearts",
           "tmdb": {
-            "id": 1410082,
+            "id": 710356,
             "media_type": "movie",
-            "release_date": "2025-01-21"
+            "release_date": "2020-10-16"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in the United Kingdom on April 9, 2026",
+      "heading": "TOP TV Shows on Netflix in the United Kingdom on April 10, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -256,20 +256,20 @@
         },
         {
           "rank": 6,
-          "title": "Raw",
-          "tmdb": {
-            "id": 4656,
-            "media_type": "tv",
-            "release_date": "1993-01-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Swindlers",
           "tmdb": {
             "id": 314965,
             "media_type": "tv",
             "release_date": "2026-02-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Deadly Class",
+          "tmdb": {
+            "id": 75663,
+            "media_type": "tv",
+            "release_date": "2019-01-16"
           }
         },
         {
@@ -283,48 +283,48 @@
         },
         {
           "rank": 9,
-          "title": "WWE NXT",
+          "title": "Big Mistakes",
           "tmdb": {
-            "id": 31991,
+            "id": 291506,
             "media_type": "tv",
-            "release_date": "2010-02-23"
+            "release_date": "2026-04-09"
           }
         },
         {
           "rank": 10,
-          "title": "Bloodhounds",
+          "title": "Raw",
           "tmdb": {
-            "id": 127529,
+            "id": 4656,
             "media_type": "tv",
-            "release_date": "2023-06-09"
+            "release_date": "1993-01-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in the United Kingdom on April 9, 2026",
+      "heading": "TOP Kids Movies on Netflix in the United Kingdom on April 10, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Trolls",
-          "tmdb": {
-            "id": 136799,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 2,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
             "media_type": "movie",
             "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Trolls",
+          "tmdb": {
+            "id": 136799,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
           }
         },
         {
@@ -347,20 +347,20 @@
         },
         {
           "rank": 5,
-          "title": "Nanny McPhee",
-          "tmdb": {
-            "id": 11283,
-            "media_type": "movie",
-            "release_date": "2005-10-21"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Garfield Movie",
           "tmdb": {
             "id": 748783,
             "media_type": "movie",
             "release_date": "2024-04-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Nanny McPhee",
+          "tmdb": {
+            "id": 11283,
+            "media_type": "movie",
+            "release_date": "2005-10-21"
           }
         },
         {
@@ -374,15 +374,6 @@
         },
         {
           "rank": 8,
-          "title": "Nanny McPhee and the Big Bang",
-          "tmdb": {
-            "id": 35019,
-            "media_type": "movie",
-            "release_date": "2010-03-26"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Migration",
           "tmdb": {
             "id": 940551,
@@ -391,22 +382,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Bee Movie",
           "tmdb": {
             "id": 5559,
             "media_type": "movie",
             "release_date": "2007-10-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Nanny McPhee and the Big Bang",
+          "tmdb": {
+            "id": 35019,
+            "media_type": "movie",
+            "release_date": "2010-03-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in the United Kingdom on April 9, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in the United Kingdom on April 10, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -438,11 +438,11 @@
         },
         {
           "rank": 4,
-          "title": "Mark Rober's CrunchLabs",
+          "title": "The Bad Guys: Breaking In",
           "tmdb": {
-            "id": 306074,
+            "id": 302540,
             "media_type": "tv",
-            "release_date": "2025-11-19"
+            "release_date": "2025-11-06"
           }
         },
         {
@@ -456,6 +456,15 @@
         },
         {
           "rank": 6,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Dinosaurs",
           "tmdb": {
             "id": 313298,
@@ -464,21 +473,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Detetive Labrador",
           "tmdb": {
             "id": 219799,
             "media_type": "tv",
             "release_date": "2022-10-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Bad Guys: Breaking In",
-          "tmdb": {
-            "id": 302540,
-            "media_type": "tv",
-            "release_date": "2025-11-06"
           }
         },
         {
@@ -492,25 +492,34 @@
         },
         {
           "rank": 10,
-          "title": "Ben and Holly's Little Kingdom",
+          "title": "Bebefinn",
           "tmdb": {
-            "id": 32388,
+            "id": 241948,
             "media_type": "tv",
-            "release_date": "2009-05-04"
+            "release_date": "2023-02-01"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall on Disney+ in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Testaments",
+          "tmdb": {
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -519,7 +528,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Raising Chelsea",
           "tmdb": {
             "id": 317771,
@@ -528,52 +537,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Pizza Movie",
-          "tmdb": {
-            "id": 1493859,
-            "media_type": "movie",
-            "release_date": "2026-03-13"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Secrets of the Bees",
-          "tmdb": {
-            "id": 218274,
-            "media_type": "tv",
-            "release_date": "2026-03-31"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Paradise",
-          "tmdb": {
-            "id": 245927,
-            "media_type": "tv",
-            "release_date": "2025-01-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Mike & Nick & Nick & Alice",
-          "tmdb": {
-            "id": 1115544,
-            "media_type": "movie",
-            "release_date": "2026-03-14"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
@@ -582,49 +546,85 @@
           }
         },
         {
+          "rank": 5,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Secrets of the Bees",
+          "tmdb": {
+            "id": 218274,
+            "media_type": "tv",
+            "release_date": "2026-03-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Paradise",
+          "tmdb": {
+            "id": 245927,
+            "media_type": "tv",
+            "release_date": "2025-01-26"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Pizza Movie",
+          "tmdb": {
+            "id": 1493859,
+            "media_type": "movie",
+            "release_date": "2026-03-13"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Love Story",
           "tmdb": {
             "id": 131142,
             "media_type": "tv",
             "release_date": "2026-02-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Scrubs",
-          "tmdb": {
-            "id": 4556,
-            "media_type": "tv",
-            "release_date": "2001-10-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall on Amazon Prime in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -656,20 +656,20 @@
         },
         {
           "rank": 6,
-          "title": "Melania",
-          "tmdb": {
-            "id": 1413097,
-            "media_type": "movie",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Godzilla x Kong: The New Empire",
           "tmdb": {
             "id": 823464,
             "media_type": "movie",
             "release_date": "2024-03-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Memory of a Killer",
+          "tmdb": {
+            "id": 291339,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
           }
         },
         {
@@ -692,21 +692,21 @@
         },
         {
           "rank": 10,
-          "title": "Bait",
+          "title": "Mercy",
           "tmdb": {
-            "id": 257519,
-            "media_type": "tv",
-            "release_date": "2026-03-25"
+            "id": 1236153,
+            "media_type": "movie",
+            "release_date": "2026-01-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Amazon Prime in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,15 +720,6 @@
         },
         {
           "rank": 2,
-          "title": "Melania",
-          "tmdb": {
-            "id": 1413097,
-            "media_type": "movie",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Godzilla x Kong: The New Empire",
           "tmdb": {
             "id": 823464,
@@ -737,7 +728,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Rory McIlroy: The Masters Wait",
           "tmdb": {
             "id": 1646341,
@@ -746,12 +737,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Mercy",
           "tmdb": {
             "id": 1236153,
             "media_type": "movie",
             "release_date": "2026-01-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Grown Ups",
+          "tmdb": {
+            "id": 38365,
+            "media_type": "movie",
+            "release_date": "2010-06-24"
           }
         },
         {
@@ -765,24 +765,15 @@
         },
         {
           "rank": 7,
-          "title": "Grown Ups",
+          "title": "Godzilla",
           "tmdb": {
-            "id": 38365,
+            "id": 124905,
             "media_type": "movie",
-            "release_date": "2010-06-24"
+            "release_date": "2014-05-14"
           }
         },
         {
           "rank": 8,
-          "title": "Saipan",
-          "tmdb": {
-            "id": 1322692,
-            "media_type": "movie",
-            "release_date": "2025-11-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Mortal Kombat",
           "tmdb": {
             "id": 460465,
@@ -791,40 +782,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Godzilla",
+          "rank": 9,
+          "title": "Saipan",
           "tmdb": {
-            "id": 124905,
+            "id": 1322692,
             "media_type": "movie",
-            "release_date": "2014-05-14"
+            "release_date": "2025-11-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Pretty Lethal",
+          "tmdb": {
+            "id": 1084187,
+            "media_type": "movie",
+            "release_date": "2026-03-13"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in the United Kingdom on April 9, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in the United Kingdom on April 10, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -847,6 +847,15 @@
         },
         {
           "rank": 5,
+          "title": "Memory of a Killer",
+          "tmdb": {
+            "id": 291339,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Scarpetta",
           "tmdb": {
             "id": 240740,
@@ -855,7 +864,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Bait",
           "tmdb": {
             "id": 257519,
@@ -864,7 +873,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
@@ -873,21 +882,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Cross",
           "tmdb": {
             "id": 213306,
             "media_type": "tv",
             "release_date": "2024-11-14"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Memory of a Killer",
-          "tmdb": {
-            "id": 291339,
-            "media_type": "tv",
-            "release_date": "2026-01-25"
           }
         },
         {
@@ -903,10 +903,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Paramount+ in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -929,6 +929,15 @@
         },
         {
           "rank": 3,
+          "title": "Dumb Money",
+          "tmdb": {
+            "id": 792293,
+            "media_type": "movie",
+            "release_date": "2023-09-15"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Occupant",
           "tmdb": {
             "id": 1280444,
@@ -937,7 +946,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Naked Gun",
           "tmdb": {
             "id": 1035259,
@@ -946,7 +955,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Survive",
           "tmdb": {
             "id": 1132079,
@@ -955,21 +964,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Astronaut",
           "tmdb": {
             "id": 1086260,
             "media_type": "movie",
             "release_date": "2025-09-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Gaslit by My Husband: The Morgan Metzer Story",
-          "tmdb": {
-            "id": 1302733,
-            "media_type": "movie",
-            "release_date": "2024-06-09"
           }
         },
         {
@@ -983,11 +983,11 @@
         },
         {
           "rank": 9,
-          "title": "South Park (Not Suitable for Children)",
+          "title": "Gaslit by My Husband: The Morgan Metzer Story",
           "tmdb": {
-            "id": 1219926,
+            "id": 1302733,
             "media_type": "movie",
-            "release_date": "2023-12-20"
+            "release_date": "2024-06-09"
           }
         },
         {
@@ -1003,10 +1003,10 @@
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in the United Kingdom on April 9, 2026",
+      "heading": "TOP TV Shows on Paramount+ in the United Kingdom on April 10, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1047,20 +1047,20 @@
         },
         {
           "rank": 5,
-          "title": "Y: Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Geordie Shore",
           "tmdb": {
             "id": 39416,
             "media_type": "tv",
             "release_date": "2011-05-24"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Y: Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -1074,20 +1074,20 @@
         },
         {
           "rank": 8,
-          "title": "NCIS: Los Angeles",
-          "tmdb": {
-            "id": 17610,
-            "media_type": "tv",
-            "release_date": "2009-09-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Landman",
           "tmdb": {
             "id": 157741,
             "media_type": "tv",
             "release_date": "2024-11-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "NCIS: Los Angeles",
+          "tmdb": {
+            "id": 17610,
+            "media_type": "tv",
+            "release_date": "2009-09-22"
           }
         },
         {
@@ -1103,10 +1103,10 @@
     },
     {
       "catalog_id": "paramount.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1138,24 +1138,6 @@
         },
         {
           "rank": 4,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "MobLand",
-          "tmdb": {
-            "id": 247718,
-            "media_type": "tv",
-            "release_date": "2025-03-30"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Celebrity Ex on the Beach",
           "tmdb": {
             "id": 98996,
@@ -1164,49 +1146,67 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Naked Gun",
+          "rank": 5,
+          "title": "Yellowstone",
           "tmdb": {
-            "id": 1035259,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "NCIS: Origins",
+          "tmdb": {
+            "id": 243006,
+            "media_type": "tv",
+            "release_date": "2024-10-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "MobLand",
+          "tmdb": {
+            "id": 247718,
+            "media_type": "tv",
+            "release_date": "2025-03-30"
           }
         },
         {
           "rank": 8,
-          "title": "Stolen Girl",
+          "title": "NCIS: Sydney",
           "tmdb": {
-            "id": 1280450,
-            "media_type": "movie",
-            "release_date": "2025-09-04"
+            "id": 157950,
+            "media_type": "tv",
+            "release_date": "2023-11-10"
           }
         },
         {
           "rank": 9,
-          "title": "Dead of Winter",
-          "tmdb": {
-            "id": 1235746,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
             "media_type": "tv",
             "release_date": "2022-11-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Star Trek: Starfleet Academy",
+          "tmdb": {
+            "id": 223530,
+            "media_type": "tv",
+            "release_date": "2026-01-15"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Apple TV in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1256,15 +1256,6 @@
         },
         {
           "rank": 6,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -1273,16 +1264,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -1291,22 +1273,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in the United Kingdom on April 9, 2026",
+      "heading": "TOP TV Shows on Apple TV in the United Kingdom on April 10, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1383,52 +1383,34 @@
         },
         {
           "rank": 9,
-          "title": "Severance",
-          "tmdb": {
-            "id": 95396,
-            "media_type": "tv",
-            "release_date": "2022-02-17"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Last Thing He Told Me",
           "tmdb": {
             "id": 201289,
             "media_type": "tv",
             "release_date": "2023-04-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Tehran",
+          "tmdb": {
+            "id": 103913,
+            "media_type": "tv",
+            "release_date": "2020-06-22"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Your Friends & Neighbors",
-          "tmdb": {
-            "id": 241609,
-            "media_type": "tv",
-            "release_date": "2025-04-10"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Imperfect Women",
           "tmdb": {
             "id": 108181,
@@ -1437,7 +1419,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -1446,25 +1428,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Hijack",
-          "tmdb": {
-            "id": 198102,
-            "media_type": "tv",
-            "release_date": "2023-06-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Last Thing He Told Me",
-          "tmdb": {
-            "id": 201289,
-            "media_type": "tv",
-            "release_date": "2023-04-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1473,7 +1455,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Hijack",
+          "tmdb": {
+            "id": 198102,
+            "media_type": "tv",
+            "release_date": "2023-06-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Last Thing He Told Me",
+          "tmdb": {
+            "id": 201289,
+            "media_type": "tv",
+            "release_date": "2023-04-13"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -1482,31 +1491,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "F1",
           "tmdb": {
             "id": 911430,
             "media_type": "movie",
             "release_date": "2025-06-25"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Amazon in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1574,20 +1574,20 @@
         },
         {
           "rank": 8,
-          "title": "One Battle After Another",
+          "title": "The Super Mario Bros. Movie",
           "tmdb": {
-            "id": 1054867,
+            "id": 502356,
             "media_type": "movie",
-            "release_date": "2025-09-23"
+            "release_date": "2023-04-05"
           }
         },
         {
           "rank": 9,
-          "title": "Fackham Hall",
+          "title": "Five Nights at Freddy's 2",
           "tmdb": {
-            "id": 1175174,
+            "id": 1228246,
             "media_type": "movie",
-            "release_date": "2025-12-05"
+            "release_date": "2025-12-03"
           }
         },
         {
@@ -1603,10 +1603,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Apple TV Store in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1638,20 +1638,20 @@
         },
         {
           "rank": 4,
-          "title": "Fast X",
-          "tmdb": {
-            "id": 385687,
-            "media_type": "movie",
-            "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
             "media_type": "movie",
             "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Fast X",
+          "tmdb": {
+            "id": 385687,
+            "media_type": "movie",
+            "release_date": "2023-05-17"
           }
         },
         {
@@ -1665,6 +1665,24 @@
         },
         {
           "rank": 7,
+          "title": "Interstellar",
+          "tmdb": {
+            "id": 157336,
+            "media_type": "movie",
+            "release_date": "2014-11-05"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Shaun of the Dead",
+          "tmdb": {
+            "id": 747,
+            "media_type": "movie",
+            "release_date": "2004-04-09"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Kung Fu Panda",
           "tmdb": {
             "id": 9502,
@@ -1673,58 +1691,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Shrek",
-          "tmdb": {
-            "id": 808,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "One Battle After Another",
           "tmdb": {
             "id": 1054867,
             "media_type": "movie",
             "release_date": "2025-09-23"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Marty Supreme",
-          "tmdb": {
-            "id": 1317288,
-            "media_type": "movie",
-            "release_date": "2025-12-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in the United Kingdom on April 9, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in the United Kingdom on April 10, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 2,
           "title": "A Knight of the Seven Kingdoms",
           "tmdb": {
             "id": 224372,
             "media_type": "tv",
             "release_date": "2026-01-18"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
           }
         },
         {
@@ -1747,11 +1747,11 @@
         },
         {
           "rank": 5,
-          "title": "Euphoria",
+          "title": "Come Fly With Me",
           "tmdb": {
-            "id": 85552,
+            "id": 34604,
             "media_type": "tv",
-            "release_date": "2019-06-16"
+            "release_date": "2010-12-25"
           }
         },
         {
@@ -1765,24 +1765,15 @@
         },
         {
           "rank": 7,
-          "title": "The Big Bang Theory",
+          "title": "Friends",
           "tmdb": {
-            "id": 1418,
+            "id": 1668,
             "media_type": "tv",
-            "release_date": "2007-09-24"
+            "release_date": "1994-09-22"
           }
         },
         {
           "rank": 8,
-          "title": "Come Fly With Me",
-          "tmdb": {
-            "id": 34604,
-            "media_type": "tv",
-            "release_date": "2010-12-25"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Chernobyl",
           "tmdb": {
             "id": 87108,
@@ -1791,22 +1782,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Industry",
+          "rank": 9,
+          "title": "Good Doctor",
           "tmdb": {
-            "id": 90812,
+            "id": 57647,
             "media_type": "tv",
-            "release_date": "2020-11-09"
+            "release_date": "2013-08-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Google in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1903,10 +1903,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Rakuten TV in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1974,15 +1974,6 @@
         },
         {
           "rank": 8,
-          "title": "Weapons",
-          "tmdb": {
-            "id": 1078605,
-            "media_type": "movie",
-            "release_date": "2025-08-04"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Five Nights at Freddy's 2",
           "tmdb": {
             "id": 1228246,
@@ -1991,22 +1982,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Marty Supreme",
           "tmdb": {
             "id": 1317288,
             "media_type": "movie",
             "release_date": "2025-12-19"
           }
+        },
+        {
+          "rank": 10,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in the United Kingdom on April 9, 2026",
+      "heading": "TOP Movies on Chili in the United Kingdom on April 10, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2103,10 +2103,10 @@
     },
     {
       "catalog_id": "mgm.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on MGM in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MGM in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "MGM",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2156,6 +2156,15 @@
         },
         {
           "rank": 6,
+          "title": "Spartacus: House of Ashur",
+          "tmdb": {
+            "id": 240459,
+            "media_type": "tv",
+            "release_date": "2025-12-05"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Power",
           "tmdb": {
             "id": 54650,
@@ -2164,21 +2173,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Robin Hood",
           "tmdb": {
             "id": 203121,
             "media_type": "movie",
             "release_date": "2013-08-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Spartacus: House of Ashur",
-          "tmdb": {
-            "id": 240459,
-            "media_type": "tv",
-            "release_date": "2025-12-05"
           }
         },
         {
@@ -2192,30 +2192,30 @@
         },
         {
           "rank": 10,
-          "title": "Godfather of Harlem",
+          "title": "Legally Blonde",
           "tmdb": {
-            "id": 79086,
-            "media_type": "tv",
-            "release_date": "2019-09-29"
+            "id": 8835,
+            "media_type": "movie",
+            "release_date": "2001-07-13"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Summer House",
+          "title": "The Valley",
           "tmdb": {
-            "id": 69720,
+            "id": 247758,
             "media_type": "tv",
-            "release_date": "2017-01-13"
+            "release_date": "2024-03-19"
           }
         },
         {
@@ -2238,15 +2238,6 @@
         },
         {
           "rank": 4,
-          "title": "The Real Housewives of Beverly Hills",
-          "tmdb": {
-            "id": 32390,
-            "media_type": "tv",
-            "release_date": "2010-10-14"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Madison",
           "tmdb": {
             "id": 225891,
@@ -2255,12 +2246,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Outlander",
+          "rank": 5,
+          "title": "The Real Housewives of Beverly Hills",
           "tmdb": {
-            "id": 56570,
+            "id": 32390,
             "media_type": "tv",
-            "release_date": "2014-08-09"
+            "release_date": "2010-10-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Southern Hospitality",
+          "tmdb": {
+            "id": 203448,
+            "media_type": "tv",
+            "release_date": "2022-11-28"
           }
         },
         {
@@ -2274,39 +2274,39 @@
         },
         {
           "rank": 8,
-          "title": "NCIS: Origins",
+          "title": "Summer House",
           "tmdb": {
-            "id": 243006,
+            "id": 69720,
             "media_type": "tv",
-            "release_date": "2024-10-14"
+            "release_date": "2017-01-13"
           }
         },
         {
           "rank": 9,
+          "title": "Outlander",
+          "tmdb": {
+            "id": 56570,
+            "media_type": "tv",
+            "release_date": "2014-08-09"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Celebrity Ex on the Beach",
           "tmdb": {
             "id": 98996,
             "media_type": "tv",
             "release_date": "2020-01-21"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "crunchyroll.overall-from-amazon-channels",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United Kingdom on April 9, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United Kingdom on April 10, 2026",
       "category": "overall",
       "platform": "Crunchyroll",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2320,29 +2320,29 @@
         },
         {
           "rank": 2,
-          "title": "Hell's Paradise",
+          "title": "Dr. Stone",
           "tmdb": {
-            "id": 117465,
+            "id": 86031,
             "media_type": "tv",
-            "release_date": "2023-04-01"
+            "release_date": "2019-07-05"
           }
         },
         {
           "rank": 3,
-          "title": "Daemons of the Shadow Realm",
+          "title": "The Beginning After the End",
           "tmdb": {
-            "id": 260463,
+            "id": 274671,
             "media_type": "tv",
-            "release_date": "2026-04-04"
+            "release_date": "2025-04-02"
           }
         },
         {
           "rank": 4,
-          "title": "Witch Hat Atelier",
+          "title": "Attack on Titan",
           "tmdb": {
-            "id": 196950,
+            "id": 1429,
             "media_type": "tv",
-            "release_date": "2026-04-06"
+            "release_date": "2013-04-07"
           }
         },
         {
@@ -2356,15 +2356,33 @@
         },
         {
           "rank": 6,
-          "title": "Attack on Titan",
+          "title": "Witch Hat Atelier",
           "tmdb": {
-            "id": 1429,
+            "id": 196950,
             "media_type": "tv",
-            "release_date": "2013-04-07"
+            "release_date": "2026-04-06"
           }
         },
         {
           "rank": 7,
+          "title": "Daemons of the Shadow Realm",
+          "tmdb": {
+            "id": 260463,
+            "media_type": "tv",
+            "release_date": "2026-04-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Hell's Paradise",
+          "tmdb": {
+            "id": 117465,
+            "media_type": "tv",
+            "release_date": "2023-04-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Solo Leveling",
           "tmdb": {
             "id": 127532,
@@ -2373,30 +2391,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Fire Force",
-          "tmdb": {
-            "id": 88046,
-            "media_type": "tv",
-            "release_date": "2019-07-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Release that Witch",
-          "tmdb": {
-            "id": 298026,
-            "media_type": "tv",
-            "release_date": "2026-03-03"
-          }
-        },
-        {
           "rank": 10,
-          "title": "That Time I Got Reincarnated as a Slime",
+          "title": "Classroom of the Elite",
           "tmdb": {
-            "id": 82684,
+            "id": 72517,
             "media_type": "tv",
-            "release_date": "2018-10-02"
+            "release_date": "2017-07-12"
           }
         }
       ]

@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/andorra/",
-  "page_title": "TOP 10 on Streaming in Andorra on April 9, 2026",
+  "page_title": "TOP 10 on Streaming in Andorra on April 10, 2026",
   "region": "andorra",
-  "date": "April 9, 2026",
-  "scraped_at_utc": "2026-04-09T16:02:52.520874+00:00",
+  "date": "April 10, 2026",
+  "scraped_at_utc": "2026-04-10T15:49:37.634293+00:00",
   "charts": [
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Andorra on April 9, 2026",
+      "heading": "TOP Overall on Disney+ in Andorra on April 10, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 9, 2026",
+      "date": "April 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Testaments",
+          "tmdb": {
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "If It's Tuesday... It's Murder",
           "tmdb": {
             "id": 255522,
@@ -32,21 +41,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "MasterChef",
-          "tmdb": {
-            "id": 40290,
-            "media_type": "tv",
-            "release_date": "2010-07-27"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Zootopia 2",
+          "title": "Daredevil: Born Again",
           "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
           }
         },
         {
@@ -60,6 +60,24 @@
         },
         {
           "rank": 6,
+          "title": "MasterChef",
+          "tmdb": {
+            "id": 40290,
+            "media_type": "tv",
+            "release_date": "2010-07-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Paradise",
           "tmdb": {
             "id": 245927,
@@ -68,7 +86,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Secrets of the Bees",
           "tmdb": {
             "id": 218274,
@@ -77,30 +95,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Mike & Nick & Nick & Alice",
           "tmdb": {
             "id": 1115544,
             "media_type": "movie",
             "release_date": "2026-03-14"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Dear Killer Nannies",
-          "tmdb": {
-            "id": 313721,
-            "media_type": "tv",
-            "release_date": "2026-04-01"
           }
         }
       ]
