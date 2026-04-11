@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/brazil/",
-  "page_title": "TOP 10 on Streaming in Brazil on April 10, 2026",
+  "page_title": "TOP 10 on Streaming in Brazil on April 11, 2026",
   "region": "brazil",
-  "date": "April 10, 2026",
-  "scraped_at_utc": "2026-04-10T15:49:57.638702+00:00",
+  "date": "April 11, 2026",
+  "scraped_at_utc": "2026-04-11T15:44:49.500517+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Netflix in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Thrash",
+          "tmdb": {
+            "id": 1290417,
+            "media_type": "movie",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Smurfs",
           "tmdb": {
             "id": 936108,
@@ -32,34 +41,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Striking Distance",
-          "tmdb": {
-            "id": 11074,
-            "media_type": "movie",
-            "release_date": "1993-09-17"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Mission: Impossible - The Final Reckoning",
-          "tmdb": {
-            "id": 575265,
-            "media_type": "movie",
-            "release_date": "2025-05-17"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Marksman",
-          "tmdb": {
-            "id": 634528,
-            "media_type": "movie",
-            "release_date": "2021-01-15"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Feel My Voice",
           "tmdb": {
             "id": 1620551,
@@ -68,7 +50,43 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Shall We Dance",
+          "tmdb": {
+            "id": 1516744,
+            "media_type": "movie",
+            "release_date": "2014-02-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Striking Distance",
+          "tmdb": {
+            "id": 11074,
+            "media_type": "movie",
+            "release_date": "1993-09-17"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Mission: Impossible - The Final Reckoning",
+          "tmdb": {
+            "id": 575265,
+            "media_type": "movie",
+            "release_date": "2025-05-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "New York Minute",
+          "tmdb": {
+            "id": 11025,
+            "media_type": "movie",
+            "release_date": "2004-05-07"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Eat Pray Bark",
           "tmdb": {
             "id": 1635276,
@@ -77,58 +95,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Expend4bles",
-          "tmdb": {
-            "id": 299054,
-            "media_type": "movie",
-            "release_date": "2023-09-15"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "18th Rose",
-          "tmdb": {
-            "id": 1631917,
-            "media_type": "movie",
-            "release_date": "2026-04-09"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Sniper 3",
+          "title": "The Marksman",
           "tmdb": {
-            "id": 14247,
+            "id": 634528,
             "media_type": "movie",
-            "release_date": "2005-02-24"
+            "release_date": "2021-01-15"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Netflix in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "XO, Kitty",
-          "tmdb": {
-            "id": 195670,
-            "media_type": "tv",
-            "release_date": "2023-05-18"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Radioactive Emergency",
           "tmdb": {
             "id": 292474,
             "media_type": "tv",
             "release_date": "2026-03-18"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "XO, Kitty",
+          "tmdb": {
+            "id": 195670,
+            "media_type": "tv",
+            "release_date": "2023-05-18"
           }
         },
         {
@@ -160,15 +160,6 @@
         },
         {
           "rank": 6,
-          "title": "Ripple",
-          "tmdb": {
-            "id": 263346,
-            "media_type": "tv",
-            "release_date": "2025-12-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Bandi",
           "tmdb": {
             "id": 269161,
@@ -177,36 +168,45 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Cine Gibi",
           "tmdb": null
         },
         {
-          "rank": 9,
-          "title": "Detective Hole",
+          "rank": 8,
+          "title": "Ripple",
           "tmdb": {
-            "id": 249597,
+            "id": 263346,
             "media_type": "tv",
-            "release_date": "2026-03-26"
+            "release_date": "2025-12-03"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mônica Toy",
+          "tmdb": {
+            "id": 84987,
+            "media_type": "tv",
+            "release_date": "2013-05-22"
           }
         },
         {
           "rank": 10,
-          "title": "Deadly Class",
+          "title": "ONE PIECE",
           "tmdb": {
-            "id": 75663,
+            "id": 111110,
             "media_type": "tv",
-            "release_date": "2019-01-16"
+            "release_date": "2023-08-31"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Brazil on April 10, 2026",
+      "heading": "TOP Kids Movies on Netflix in Brazil on April 11, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -220,6 +220,24 @@
         },
         {
           "rank": 2,
+          "title": "Smurfs",
+          "tmdb": {
+            "id": 936108,
+            "media_type": "movie",
+            "release_date": "2025-06-30"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "New York Minute",
+          "tmdb": {
+            "id": 11025,
+            "media_type": "movie",
+            "release_date": "2004-05-07"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Smurfs",
           "tmdb": {
             "id": 41513,
@@ -228,7 +246,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Despicable Me 3",
           "tmdb": {
             "id": 324852,
@@ -237,7 +255,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Trolls World Tour",
           "tmdb": {
             "id": 446893,
@@ -246,7 +264,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
@@ -255,25 +273,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Despicable Me 2",
-          "tmdb": {
-            "id": 93456,
-            "media_type": "movie",
-            "release_date": "2013-06-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Minions",
-          "tmdb": {
-            "id": 211672,
-            "media_type": "movie",
-            "release_date": "2015-06-17"
-          }
-        },
-        {
           "rank": 8,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Shrek",
           "tmdb": {
             "id": 808,
@@ -282,31 +291,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Trolls",
-          "tmdb": {
-            "id": 136799,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
           "rank": 10,
-          "title": "KPop Demon Hunters",
+          "title": "Minions",
           "tmdb": {
-            "id": 803796,
+            "id": 211672,
             "media_type": "movie",
-            "release_date": "2025-06-20"
+            "release_date": "2015-06-17"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in Brazil on April 10, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Brazil on April 11, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -320,17 +320,17 @@
         },
         {
           "rank": 2,
-          "title": "Cine Gibi",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
           "title": "Lottie Dottie Chicken",
           "tmdb": {
             "id": 101320,
             "media_type": "tv",
             "release_date": "2018-01-01"
           }
+        },
+        {
+          "rank": 3,
+          "title": "Cine Gibi",
+          "tmdb": null
         },
         {
           "rank": 4,
@@ -357,11 +357,11 @@
         },
         {
           "rank": 7,
-          "title": "Pinkfong Little Dino School",
+          "title": "The Bad Guys: Breaking In",
           "tmdb": {
-            "id": 275908,
+            "id": 302540,
             "media_type": "tv",
-            "release_date": "2024-07-04"
+            "release_date": "2025-11-06"
           }
         },
         {
@@ -395,10 +395,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Brazil on April 10, 2026",
+      "heading": "TOP Movies on HBO Max in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -412,15 +412,6 @@
         },
         {
           "rank": 2,
-          "title": "Pride and Prejudice and Zombies",
-          "tmdb": {
-            "id": 58431,
-            "media_type": "movie",
-            "release_date": "2016-02-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "28 Years Later: The Bone Temple",
           "tmdb": {
             "id": 1272837,
@@ -429,16 +420,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Finding Harry: The Craft Behind the Magic",
+          "rank": 3,
+          "title": "Pride and Prejudice and Zombies",
           "tmdb": {
-            "id": 1662432,
+            "id": 58431,
             "media_type": "movie",
-            "release_date": "2026-04-05"
+            "release_date": "2016-02-04"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Jane Got a Gun",
           "tmdb": {
             "id": 174751,
@@ -447,16 +438,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Venom",
+          "rank": 5,
+          "title": "Finding Harry: The Craft Behind the Magic",
           "tmdb": {
-            "id": 335983,
+            "id": 1662432,
             "media_type": "movie",
-            "release_date": "2018-09-28"
+            "release_date": "2026-04-05"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Gravity",
           "tmdb": {
             "id": 49047,
@@ -465,16 +456,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Kingdom of the Planet of the Apes",
+          "rank": 7,
+          "title": "Tammy",
           "tmdb": {
-            "id": 653346,
+            "id": 226486,
             "media_type": "movie",
-            "release_date": "2024-05-08"
+            "release_date": "2014-07-02"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -483,40 +474,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "28 Days Later",
+          "rank": 9,
+          "title": "Kingdom of the Planet of the Apes",
           "tmdb": {
-            "id": 170,
+            "id": 653346,
             "media_type": "movie",
-            "release_date": "2002-10-31"
+            "release_date": "2024-05-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Venom",
+          "tmdb": {
+            "id": 335983,
+            "media_type": "movie",
+            "release_date": "2018-09-28"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on HBO Max in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Pesadelo na Cozinha",
-          "tmdb": {
-            "id": 69925,
-            "media_type": "tv",
-            "release_date": "2017-01-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Pitt",
           "tmdb": {
             "id": 250307,
             "media_type": "tv",
             "release_date": "2025-01-09"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Pesadelo na Cozinha",
+          "tmdb": {
+            "id": 69925,
+            "media_type": "tv",
+            "release_date": "2017-01-26"
           }
         },
         {
@@ -530,20 +530,20 @@
         },
         {
           "rank": 4,
+          "title": "Wild Heart",
+          "tmdb": {
+            "id": 231503,
+            "media_type": "tv",
+            "release_date": "2023-09-12"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Yali Çapkini",
           "tmdb": {
             "id": 210865,
             "media_type": "tv",
             "release_date": "2022-09-23"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "La Promesa",
-          "tmdb": {
-            "id": 212907,
-            "media_type": "tv",
-            "release_date": "2023-01-12"
           }
         },
         {
@@ -557,6 +557,24 @@
         },
         {
           "rank": 7,
+          "title": "Memory of a Killer",
+          "tmdb": {
+            "id": 291339,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "La Promesa",
+          "tmdb": {
+            "id": 212907,
+            "media_type": "tv",
+            "release_date": "2023-01-12"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Rooster",
           "tmdb": {
             "id": 254953,
@@ -565,40 +583,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Wild Heart",
-          "tmdb": {
-            "id": 231503,
-            "media_type": "tv",
-            "release_date": "2023-09-12"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Chernobyl",
           "tmdb": {
             "id": 87108,
             "media_type": "tv",
             "release_date": "2019-05-06"
           }
-        },
-        {
-          "rank": 10,
-          "title": "DTF St. Louis",
-          "tmdb": {
-            "id": 206828,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Brazil on April 10, 2026",
+      "heading": "TOP Overall on Disney+ in Brazil on April 11, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -621,20 +621,20 @@
         },
         {
           "rank": 3,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
             "media_type": "tv",
             "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
           }
         },
         {
@@ -657,15 +657,6 @@
         },
         {
           "rank": 7,
-          "title": "Love Story",
-          "tmdb": {
-            "id": 131142,
-            "media_type": "tv",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -674,7 +665,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Predator: Badlands",
           "tmdb": {
             "id": 1242898,
@@ -683,22 +674,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Paradise",
           "tmdb": {
             "id": 245927,
             "media_type": "tv",
             "release_date": "2025-01-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Love Story",
+          "tmdb": {
+            "id": 131142,
+            "media_type": "tv",
+            "release_date": "2026-02-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Brazil on April 10, 2026",
+      "heading": "TOP Overall on Amazon Prime in Brazil on April 11, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -739,11 +739,11 @@
         },
         {
           "rank": 5,
-          "title": "Mercy",
+          "title": "Young Sherlock",
           "tmdb": {
-            "id": 1236153,
-            "media_type": "movie",
-            "release_date": "2026-01-20"
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -757,11 +757,11 @@
         },
         {
           "rank": 7,
-          "title": "Young Sherlock",
+          "title": "Good Fortune",
           "tmdb": {
-            "id": 255661,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
+            "id": 1114967,
+            "media_type": "movie",
+            "release_date": "2025-10-14"
           }
         },
         {
@@ -775,30 +775,30 @@
         },
         {
           "rank": 9,
+          "title": "Mercy",
+          "tmdb": {
+            "id": 1236153,
+            "media_type": "movie",
+            "release_date": "2026-01-20"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Siren's Kiss",
           "tmdb": {
             "id": 310800,
             "media_type": "tv",
             "release_date": "2026-03-02"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Good Fortune",
-          "tmdb": {
-            "id": 1114967,
-            "media_type": "movie",
-            "release_date": "2025-10-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Amazon Prime in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -812,15 +812,6 @@
         },
         {
           "rank": 2,
-          "title": "Mercy",
-          "tmdb": {
-            "id": 1236153,
-            "media_type": "movie",
-            "release_date": "2026-01-20"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Someone Like You",
           "tmdb": {
             "id": 12658,
@@ -829,12 +820,21 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Good Fortune",
           "tmdb": {
             "id": 1114967,
             "media_type": "movie",
             "release_date": "2025-10-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Mercy",
+          "tmdb": {
+            "id": 1236153,
+            "media_type": "movie",
+            "release_date": "2026-01-20"
           }
         },
         {
@@ -884,21 +884,21 @@
         },
         {
           "rank": 10,
-          "title": "Wrong Turn",
+          "title": "Red Ghost",
           "tmdb": {
-            "id": 9902,
+            "id": 575842,
             "media_type": "movie",
-            "release_date": "2003-05-30"
+            "release_date": "2021-08-30"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -975,11 +975,11 @@
         },
         {
           "rank": 9,
-          "title": "My Wife and Kids",
+          "title": "Gen V",
           "tmdb": {
-            "id": 2692,
+            "id": 205715,
             "media_type": "tv",
-            "release_date": "2001-03-28"
+            "release_date": "2023-09-28"
           }
         },
         {
@@ -995,10 +995,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Paramount+ in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1030,15 +1030,6 @@
         },
         {
           "rank": 4,
-          "title": "The Naked Gun",
-          "tmdb": {
-            "id": 1035259,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Night Hunter",
           "tmdb": {
             "id": 441282,
@@ -1047,21 +1038,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "South Park: The End Of Obesity",
+          "rank": 5,
+          "title": "The Naked Gun",
           "tmdb": {
-            "id": 1290938,
+            "id": 1035259,
             "media_type": "movie",
-            "release_date": "2024-05-24"
+            "release_date": "2025-07-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 4247,
+            "media_type": "movie",
+            "release_date": "2000-07-07"
           }
         },
         {
           "rank": 7,
-          "title": "Jack Reacher: Never Go Back",
+          "title": "World War Z",
           "tmdb": {
-            "id": 343611,
+            "id": 72190,
             "media_type": "movie",
-            "release_date": "2016-10-19"
+            "release_date": "2013-06-19"
           }
         },
         {
@@ -1075,30 +1075,30 @@
         },
         {
           "rank": 9,
-          "title": "World War Z",
+          "title": "Scary Movie 3",
           "tmdb": {
-            "id": 72190,
+            "id": 4256,
             "media_type": "movie",
-            "release_date": "2013-06-19"
+            "release_date": "2003-10-24"
           }
         },
         {
           "rank": 10,
-          "title": "Scary Movie",
+          "title": "Scary Movie 2",
           "tmdb": {
-            "id": 4247,
+            "id": 4248,
             "media_type": "movie",
-            "release_date": "2000-07-07"
+            "release_date": "2001-07-04"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1112,20 +1112,20 @@
         },
         {
           "rank": 2,
-          "title": "Everybody Hates Chris",
-          "tmdb": {
-            "id": 252,
-            "media_type": "tv",
-            "release_date": "2005-09-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Dexter",
           "tmdb": {
             "id": 1405,
             "media_type": "tv",
             "release_date": "2006-10-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Everybody Hates Chris",
+          "tmdb": {
+            "id": 252,
+            "media_type": "tv",
+            "release_date": "2005-09-22"
           }
         },
         {
@@ -1148,24 +1148,15 @@
         },
         {
           "rank": 6,
-          "title": "SpongeBob SquarePants",
+          "title": "Tulsa King",
           "tmdb": {
-            "id": 387,
+            "id": 153312,
             "media_type": "tv",
-            "release_date": "1999-05-01"
+            "release_date": "2022-11-13"
           }
         },
         {
           "rank": 7,
-          "title": "NCIS",
-          "tmdb": {
-            "id": 4614,
-            "media_type": "tv",
-            "release_date": "2003-09-23"
-          }
-        },
-        {
-          "rank": 8,
           "title": "CSI: Crime Scene Investigation",
           "tmdb": {
             "id": 1431,
@@ -1174,12 +1165,21 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Tulsa King",
+          "rank": 8,
+          "title": "SpongeBob SquarePants",
           "tmdb": {
-            "id": 153312,
+            "id": 387,
             "media_type": "tv",
-            "release_date": "2022-11-13"
+            "release_date": "1999-05-01"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "NCIS",
+          "tmdb": {
+            "id": 4614,
+            "media_type": "tv",
+            "release_date": "2003-09-23"
           }
         },
         {
@@ -1195,10 +1195,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Apple TV in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1239,20 +1239,20 @@
         },
         {
           "rank": 5,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
             "media_type": "movie",
             "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
           }
         },
         {
@@ -1284,34 +1284,25 @@
         },
         {
           "rank": 10,
-          "title": "The Lost Bus",
+          "title": "Luck",
           "tmdb": {
-            "id": 1236470,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-09-19"
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Apple TV in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -1320,12 +1311,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Imperfect Women",
+          "rank": 2,
+          "title": "Shrinking",
           "tmdb": {
-            "id": 108181,
+            "id": 136311,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2023-01-26"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
           }
         },
         {
@@ -1339,11 +1339,11 @@
         },
         {
           "rank": 5,
-          "title": "Monarch: Legacy of Monsters",
+          "title": "Imperfect Women",
           "tmdb": {
-            "id": 202411,
+            "id": 108181,
             "media_type": "tv",
-            "release_date": "2023-11-16"
+            "release_date": "2026-03-17"
           }
         },
         {
@@ -1395,10 +1395,10 @@
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Amazon in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1448,20 +1448,20 @@
         },
         {
           "rank": 6,
-          "title": "Anaconda",
+          "title": "28 Years Later: The Bone Temple",
           "tmdb": {
-            "id": 1234731,
+            "id": 1272837,
             "media_type": "movie",
-            "release_date": "2025-12-24"
+            "release_date": "2026-01-14"
           }
         },
         {
           "rank": 7,
-          "title": "Sidelined 2: Intercepted",
+          "title": "David",
           "tmdb": {
-            "id": 1429520,
+            "id": 1167307,
             "media_type": "movie",
-            "release_date": "2025-11-27"
+            "release_date": "2025-12-14"
           }
         },
         {
@@ -1475,30 +1475,30 @@
         },
         {
           "rank": 9,
-          "title": "David",
-          "tmdb": {
-            "id": 1167307,
-            "media_type": "movie",
-            "release_date": "2025-12-14"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Regretting You",
           "tmdb": {
             "id": 1327862,
             "media_type": "movie",
             "release_date": "2025-10-22"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Sidelined 2: Intercepted",
+          "tmdb": {
+            "id": 1429520,
+            "media_type": "movie",
+            "release_date": "2025-11-27"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Apple TV Store in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1530,24 +1530,6 @@
         },
         {
           "rank": 4,
-          "title": "Greenland 2: Migration",
-          "tmdb": {
-            "id": 840464,
-            "media_type": "movie",
-            "release_date": "2026-01-07"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Anaconda",
-          "tmdb": {
-            "id": 1234731,
-            "media_type": "movie",
-            "release_date": "2025-12-24"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -1556,7 +1538,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Greenland 2: Migration",
+          "tmdb": {
+            "id": 840464,
+            "media_type": "movie",
+            "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 6,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -1565,12 +1556,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "28 Years Later: The Bone Temple",
+          "rank": 7,
+          "title": "Anaconda",
           "tmdb": {
-            "id": 1272837,
+            "id": 1234731,
             "media_type": "movie",
-            "release_date": "2026-01-14"
+            "release_date": "2025-12-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Marty Supreme",
+          "tmdb": {
+            "id": 1317288,
+            "media_type": "movie",
+            "release_date": "2025-12-19"
           }
         },
         {
@@ -1584,21 +1584,21 @@
         },
         {
           "rank": 10,
-          "title": "Spider-Man: No Way Home",
+          "title": "The Super Mario Bros. Movie",
           "tmdb": {
-            "id": 634649,
+            "id": 502356,
             "media_type": "movie",
-            "release_date": "2021-12-15"
+            "release_date": "2023-04-05"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Google in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1695,10 +1695,10 @@
     },
     {
       "catalog_id": "globoplay.movies",
-      "heading": "TOP Movies on Globoplay in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Globoplay in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Globoplay",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1721,15 +1721,6 @@
         },
         {
           "rank": 3,
-          "title": "Sonho de Arrocha",
-          "tmdb": {
-            "id": 1618949,
-            "media_type": "movie",
-            "release_date": "2026-03-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Now You See Me: Now You Don't",
           "tmdb": {
             "id": 425274,
@@ -1738,12 +1729,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "My Mom is a Character 3",
           "tmdb": {
             "id": 620683,
             "media_type": "movie",
             "release_date": "2019-12-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sonho de Arrocha",
+          "tmdb": {
+            "id": 1618949,
+            "media_type": "movie",
+            "release_date": "2026-03-30"
           }
         },
         {
@@ -1757,6 +1757,15 @@
         },
         {
           "rank": 7,
+          "title": "Teste para Cardíaco",
+          "tmdb": {
+            "id": 1618951,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Elite Squad: The Enemy Within",
           "tmdb": {
             "id": 47931,
@@ -1765,7 +1774,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "I'm Still Here",
           "tmdb": {
             "id": 1000837,
@@ -1774,31 +1783,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "A Dog's Will",
           "tmdb": {
             "id": 40096,
             "media_type": "movie",
             "release_date": "2000-09-15"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Teste para Cardíaco",
-          "tmdb": {
-            "id": 1618951,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "globoplay.series",
-      "heading": "TOP TV Shows on Globoplay in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Globoplay in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Globoplay",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1866,6 +1866,15 @@
         },
         {
           "rank": 8,
+          "title": "Os Outros",
+          "tmdb": {
+            "id": 196421,
+            "media_type": "tv",
+            "release_date": "2023-05-31"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Tapas & Beijos",
           "tmdb": {
             "id": 46021,
@@ -1874,40 +1883,31 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "From",
           "tmdb": {
             "id": 124364,
             "media_type": "tv",
             "release_date": "2022-02-20"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Everybody Hates Chris",
-          "tmdb": {
-            "id": 252,
-            "media_type": "tv",
-            "release_date": "2005-09-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Brazil on April 10, 2026",
+      "heading": "TOP Movies on Claro Video in Brazil on April 11, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Sinners",
+          "title": "Wuthering Heights",
           "tmdb": {
-            "id": 1233413,
+            "id": 1316092,
             "media_type": "movie",
-            "release_date": "2025-04-16"
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -1921,20 +1921,20 @@
         },
         {
           "rank": 3,
-          "title": "Wuthering Heights",
+          "title": "Sinners",
           "tmdb": {
-            "id": 1316092,
+            "id": 1233413,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2025-04-16"
           }
         },
         {
           "rank": 4,
-          "title": "GOAT",
+          "title": "Greenland 2: Migration",
           "tmdb": {
-            "id": 1297842,
+            "id": 840464,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2026-01-07"
           }
         },
         {
@@ -1948,15 +1948,24 @@
         },
         {
           "rank": 6,
-          "title": "Greenland 2: Migration",
+          "title": "GOAT",
           "tmdb": {
-            "id": 840464,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2026-02-11"
           }
         },
         {
           "rank": 7,
+          "title": "The Secret Agent",
+          "tmdb": {
+            "id": 1220564,
+            "media_type": "movie",
+            "release_date": "2025-07-23"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Bugonia",
           "tmdb": {
             "id": 701387,
@@ -1965,53 +1974,35 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Pride and Prejudice",
+          "rank": 9,
+          "title": "Erin Brockovich",
           "tmdb": {
-            "id": 43818,
+            "id": 462,
             "media_type": "movie",
-            "release_date": "1940-07-26"
+            "release_date": "2000-03-17"
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "If I Had Legs I'd Kick You",
           "tmdb": {
             "id": 1160360,
             "media_type": "movie",
             "release_date": "2025-10-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Doomsday Meteor",
-          "tmdb": {
-            "id": 1120312,
-            "media_type": "movie",
-            "release_date": "2023-04-28"
-          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Brazil on April 10, 2026",
+      "heading": "TOP TV Shows on Claro Video in Brazil on April 11, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Escravos da Fé - Os Arautos do Evangelho",
-          "tmdb": {
-            "id": 316356,
-            "media_type": "tv",
-            "release_date": "2026-03-10"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Red Eye",
           "tmdb": {
             "id": 247704,
@@ -2020,17 +2011,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "O Melhor no Paramount+",
-          "tmdb": null
+          "rank": 2,
+          "title": "Dan Brown's The Lost Symbol",
+          "tmdb": {
+            "id": 120452,
+            "media_type": "tv",
+            "release_date": "2021-09-16"
+          }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Salvation",
           "tmdb": {
             "id": 70513,
             "media_type": "tv",
             "release_date": "2017-07-12"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Rookie",
+          "tmdb": {
+            "id": 79744,
+            "media_type": "tv",
+            "release_date": "2018-10-16"
           }
         },
         {
@@ -2044,24 +2048,15 @@
         },
         {
           "rank": 6,
-          "title": "Why Women Kill",
+          "title": "Chicago P.D.",
           "tmdb": {
-            "id": 87428,
+            "id": 58841,
             "media_type": "tv",
-            "release_date": "2019-08-15"
+            "release_date": "2014-01-08"
           }
         },
         {
           "rank": 7,
-          "title": "The Rookie",
-          "tmdb": {
-            "id": 79744,
-            "media_type": "tv",
-            "release_date": "2018-10-16"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Walking Dead",
           "tmdb": {
             "id": 1402,
@@ -2070,21 +2065,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dan Brown's The Lost Symbol",
+          "rank": 8,
+          "title": "Why Women Kill",
           "tmdb": {
-            "id": 120452,
+            "id": 87428,
             "media_type": "tv",
-            "release_date": "2021-09-16"
+            "release_date": "2019-08-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "FBI",
+          "tmdb": {
+            "id": 80748,
+            "media_type": "tv",
+            "release_date": "2018-09-25"
           }
         },
         {
           "rank": 10,
-          "title": "Your Friends & Neighbors",
+          "title": "Juana Inés",
           "tmdb": {
-            "id": 241609,
+            "id": 69920,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2016-03-26"
           }
         }
       ]

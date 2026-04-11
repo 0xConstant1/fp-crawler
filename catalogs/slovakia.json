@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/slovakia/",
-  "page_title": "TOP 10 on Streaming in Slovakia on April 10, 2026",
+  "page_title": "TOP 10 on Streaming in Slovakia on April 11, 2026",
   "region": "slovakia",
-  "date": "April 10, 2026",
-  "scraped_at_utc": "2026-04-10T15:51:13.004882+00:00",
+  "date": "April 11, 2026",
+  "scraped_at_utc": "2026-04-11T15:46:07.545837+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on Netflix in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Thrash",
+          "tmdb": {
+            "id": 1290417,
+            "media_type": "movie",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Feel My Voice",
           "tmdb": {
             "id": 1620551,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Eat Pray Bark",
           "tmdb": {
             "id": 1635276,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Sniper: The Last Stand",
           "tmdb": {
             "id": 1410082,
@@ -41,25 +50,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Truth and Tragedy of Moriah Wilson",
-          "tmdb": {
-            "id": 1629369,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Damned",
-          "tmdb": {
-            "id": 850439,
-            "media_type": "movie",
-            "release_date": "2025-01-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
@@ -68,25 +59,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Humint",
-          "tmdb": {
-            "id": 1268127,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Untold: Chess Mates",
-          "tmdb": {
-            "id": 1641962,
-            "media_type": "movie",
-            "release_date": "2026-04-07"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "Dream Team",
           "tmdb": {
             "id": 1573810,
@@ -95,22 +68,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Let Him Go",
+          "rank": 7,
+          "title": "The Truth and Tragedy of Moriah Wilson",
           "tmdb": {
-            "id": 596161,
+            "id": 1629369,
             "media_type": "movie",
-            "release_date": "2020-11-05"
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Damned",
+          "tmdb": {
+            "id": 850439,
+            "media_type": "movie",
+            "release_date": "2025-01-03"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Untold: Chess Mates",
+          "tmdb": {
+            "id": 1641962,
+            "media_type": "movie",
+            "release_date": "2026-04-07"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Humint",
+          "tmdb": {
+            "id": 1268127,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Slovakia on April 10, 2026",
+      "heading": "TOP TV Shows on Netflix in Slovakia on April 11, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 2,
-          "title": "XO, Kitty",
-          "tmdb": {
-            "id": 195670,
-            "media_type": "tv",
-            "release_date": "2023-05-18"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Detective Hole",
           "tmdb": {
             "id": 249597,
             "media_type": "tv",
             "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "XO, Kitty",
+          "tmdb": {
+            "id": 195670,
+            "media_type": "tv",
+            "release_date": "2023-05-18"
           }
         },
         {
@@ -151,11 +151,11 @@
         },
         {
           "rank": 5,
-          "title": "Radioactive Emergency",
+          "title": "Bandi",
           "tmdb": {
-            "id": 292474,
+            "id": 269161,
             "media_type": "tv",
-            "release_date": "2026-03-18"
+            "release_date": "2026-04-09"
           }
         },
         {
@@ -169,6 +169,15 @@
         },
         {
           "rank": 7,
+          "title": "Radioactive Emergency",
+          "tmdb": {
+            "id": 292474,
+            "media_type": "tv",
+            "release_date": "2026-03-18"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Something Very Bad Is Going to Happen",
           "tmdb": {
             "id": 259265,
@@ -177,40 +186,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Bandi",
+          "rank": 9,
+          "title": "Big Mistakes",
           "tmdb": {
-            "id": 269161,
+            "id": 291506,
             "media_type": "tv",
             "release_date": "2026-04-09"
           }
         },
         {
-          "rank": 9,
-          "title": "Agent from Above",
-          "tmdb": {
-            "id": 213703,
-            "media_type": "tv",
-            "release_date": "2026-04-02"
-          }
-        },
-        {
           "rank": 10,
-          "title": "High Tides",
+          "title": "ONE PIECE",
           "tmdb": {
-            "id": 203616,
+            "id": 111110,
             "media_type": "tv",
-            "release_date": "2023-05-12"
+            "release_date": "2023-08-31"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Slovakia on April 10, 2026",
+      "heading": "TOP Kids Movies on Netflix in Slovakia on April 11, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,15 +224,6 @@
         },
         {
           "rank": 2,
-          "title": "Trolls",
-          "tmdb": {
-            "id": 136799,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
@@ -241,21 +232,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Despicable Me 3",
+          "rank": 3,
+          "title": "Trolls",
           "tmdb": {
-            "id": 324852,
+            "id": 136799,
             "media_type": "movie",
-            "release_date": "2017-06-15"
+            "release_date": "2016-10-13"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
             "media_type": "movie",
             "release_date": "2005-05-25"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Despicable Me 3",
+          "tmdb": {
+            "id": 324852,
+            "media_type": "movie",
+            "release_date": "2017-06-15"
           }
         },
         {
@@ -287,11 +287,11 @@
         },
         {
           "rank": 9,
-          "title": "Trolls World Tour",
+          "title": "In Your Dreams",
           "tmdb": {
-            "id": 446893,
+            "id": 1117857,
             "media_type": "movie",
-            "release_date": "2020-03-11"
+            "release_date": "2025-11-07"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in Slovakia on April 10, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Slovakia on April 11, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,20 +324,20 @@
         },
         {
           "rank": 2,
-          "title": "The Bad Guys: Breaking In",
-          "tmdb": {
-            "id": 302540,
-            "media_type": "tv",
-            "release_date": "2025-11-06"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Unicorn Academy: Secrets Revealed",
           "tmdb": {
             "id": 316945,
             "media_type": "tv",
             "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Bad Guys: Breaking In",
+          "tmdb": {
+            "id": 302540,
+            "media_type": "tv",
+            "release_date": "2025-11-06"
           }
         },
         {
@@ -360,20 +360,20 @@
         },
         {
           "rank": 6,
-          "title": "LEGO Ninjago: Dragons Rising",
-          "tmdb": {
-            "id": 212989,
-            "media_type": "tv",
-            "release_date": "2023-06-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Mark Rober's CrunchLabs",
           "tmdb": {
             "id": 306074,
             "media_type": "tv",
             "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "LEGO Ninjago: Dragons Rising",
+          "tmdb": {
+            "id": 212989,
+            "media_type": "tv",
+            "release_date": "2023-06-01"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on HBO Max in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -424,6 +424,15 @@
         },
         {
           "rank": 2,
+          "title": "G20",
+          "tmdb": {
+            "id": 1045938,
+            "media_type": "movie",
+            "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Finding Harry: The Craft Behind the Magic",
           "tmdb": {
             "id": 1662432,
@@ -432,21 +441,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Empire",
           "tmdb": {
             "id": 929831,
             "media_type": "movie",
             "release_date": "2024-02-21"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Alita: Battle Angel",
-          "tmdb": {
-            "id": 399579,
-            "media_type": "movie",
-            "release_date": "2019-01-31"
           }
         },
         {
@@ -460,6 +460,24 @@
         },
         {
           "rank": 6,
+          "title": "Nope",
+          "tmdb": {
+            "id": 762504,
+            "media_type": "movie",
+            "release_date": "2022-07-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "E.T. the Extra-Terrestrial",
+          "tmdb": {
+            "id": 601,
+            "media_type": "movie",
+            "release_date": "1982-06-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Heart Is a Muscle",
           "tmdb": {
             "id": 1418520,
@@ -468,7 +486,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "A Big Bold Beautiful Journey",
           "tmdb": {
             "id": 1241921,
@@ -477,53 +495,26 @@
           }
         },
         {
-          "rank": 8,
-          "title": "How to Train Your Dragon: The Hidden World",
-          "tmdb": {
-            "id": 166428,
-            "media_type": "movie",
-            "release_date": "2019-01-03"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Apollo 13",
           "tmdb": {
             "id": 568,
             "media_type": "movie",
             "release_date": "1995-06-30"
           }
-        },
-        {
-          "rank": 10,
-          "title": "You Gotta Believe",
-          "tmdb": {
-            "id": 1143508,
-            "media_type": "movie",
-            "release_date": "2024-08-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Slovakia on April 10, 2026",
+      "heading": "TOP TV Shows on HBO Max in Slovakia on April 11, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Doc",
-          "tmdb": {
-            "id": 10042,
-            "media_type": "tv",
-            "release_date": "2001-03-11"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Pitt",
           "tmdb": {
             "id": 250307,
@@ -532,12 +523,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Georgie & Mandy's First Marriage",
+          "rank": 2,
+          "title": "Doc",
           "tmdb": {
-            "id": 243875,
+            "id": 10042,
             "media_type": "tv",
-            "release_date": "2024-10-17"
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
           }
         },
         {
@@ -551,11 +551,11 @@
         },
         {
           "rank": 5,
-          "title": "Euphoria",
+          "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
-            "id": 85552,
+            "id": 243875,
             "media_type": "tv",
-            "release_date": "2019-06-16"
+            "release_date": "2024-10-17"
           }
         },
         {
@@ -578,39 +578,39 @@
         },
         {
           "rank": 8,
+          "title": "Hacks",
+          "tmdb": {
+            "id": 124101,
+            "media_type": "tv",
+            "release_date": "2021-05-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Privileges",
+          "tmdb": {
+            "id": 283853,
+            "media_type": "tv",
+            "release_date": "2026-03-27"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Other Bennet Sister",
           "tmdb": {
             "id": 273866,
             "media_type": "tv",
             "release_date": "2026-03-15"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Gold Rush",
-          "tmdb": {
-            "id": 34634,
-            "media_type": "tv",
-            "release_date": "2010-12-03"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Gossip Girl",
-          "tmdb": {
-            "id": 1395,
-            "media_type": "tv",
-            "release_date": "2007-09-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Slovakia on April 10, 2026",
+      "heading": "TOP Overall on Disney+ in Slovakia on April 11, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -707,14 +707,23 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on Apple TV in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -723,7 +732,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Argylle",
           "tmdb": {
             "id": 848538,
@@ -732,7 +741,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -741,34 +750,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Finch",
-          "tmdb": {
-            "id": 522402,
-            "media_type": "movie",
-            "release_date": "2021-11-04"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Killers of the Flower Moon",
-          "tmdb": {
-            "id": 466420,
-            "media_type": "movie",
-            "release_date": "2023-10-18"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
@@ -777,7 +759,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Finch",
+          "tmdb": {
+            "id": 522402,
+            "media_type": "movie",
+            "release_date": "2021-11-04"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
@@ -786,40 +777,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Ghosted",
+          "rank": 8,
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 868759,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "2023-04-18"
+            "release_date": "2023-10-18"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
           }
         },
         {
           "rank": 10,
-          "title": "Fountain of Youth",
+          "title": "Wolfs",
           "tmdb": {
-            "id": 1098006,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2025-05-19"
+            "release_date": "2024-09-20"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Slovakia on April 10, 2026",
+      "heading": "TOP TV Shows on Apple TV in Slovakia on April 11, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Shrinking",
+          "title": "Your Friends & Neighbors",
           "tmdb": {
-            "id": 136311,
+            "id": 241609,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2025-04-10"
           }
         },
         {
@@ -833,24 +833,15 @@
         },
         {
           "rank": 3,
-          "title": "Your Friends & Neighbors",
+          "title": "Shrinking",
           "tmdb": {
-            "id": 241609,
+            "id": 136311,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2023-01-26"
           }
         },
         {
           "rank": 4,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -859,12 +850,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Morning Show",
+          "rank": 5,
+          "title": "The Last Thing He Told Me",
           "tmdb": {
-            "id": 90282,
+            "id": 201289,
             "media_type": "tv",
-            "release_date": "2019-11-01"
+            "release_date": "2023-04-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Imperfect Women",
+          "tmdb": {
+            "id": 108181,
+            "media_type": "tv",
+            "release_date": "2026-03-17"
           }
         },
         {
@@ -887,11 +887,11 @@
         },
         {
           "rank": 9,
-          "title": "The Last Thing He Told Me",
+          "title": "The Morning Show",
           "tmdb": {
-            "id": 201289,
+            "id": 90282,
             "media_type": "tv",
-            "release_date": "2023-04-13"
+            "release_date": "2019-11-01"
           }
         },
         {
@@ -907,50 +907,23 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on Apple TV Store in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Housemaid",
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 1368166,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2025-11-26"
           }
         },
         {
           "rank": 2,
-          "title": "Mr. Nobody Against Putin",
-          "tmdb": {
-            "id": 1393151,
-            "media_type": "movie",
-            "release_date": "2025-06-06"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "X-Men",
-          "tmdb": {
-            "id": 36657,
-            "media_type": "movie",
-            "release_date": "2000-07-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "28 Years Later: The Bone Temple",
           "tmdb": {
             "id": 1272837,
@@ -959,25 +932,43 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Bad Guys 2",
+          "rank": 3,
+          "title": "The Housemaid",
           "tmdb": {
-            "id": 1175942,
+            "id": 1368166,
             "media_type": "movie",
-            "release_date": "2025-07-24"
+            "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Sisu: Road to Revenge",
+          "tmdb": {
+            "id": 1223601,
+            "media_type": "movie",
+            "release_date": "2025-10-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Mr. Nobody Against Putin",
+          "tmdb": {
+            "id": 1393151,
+            "media_type": "movie",
+            "release_date": "2025-06-06"
           }
         },
         {
           "rank": 7,
-          "title": "The Physician II",
-          "tmdb": {
-            "id": 1219548,
-            "media_type": "movie",
-            "release_date": "2025-12-25"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Inception",
           "tmdb": {
             "id": 27205,
@@ -986,31 +977,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "A Quiet Place: Day One",
+          "rank": 8,
+          "title": "Top Gun: Maverick",
           "tmdb": {
-            "id": 762441,
+            "id": 361743,
             "media_type": "movie",
-            "release_date": "2024-06-26"
+            "release_date": "2022-05-21"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "One Battle After Another",
+          "tmdb": {
+            "id": 1054867,
+            "media_type": "movie",
+            "release_date": "2025-09-23"
           }
         },
         {
           "rank": 10,
-          "title": "Gravity",
+          "title": "A Minecraft Movie",
           "tmdb": {
-            "id": 49047,
+            "id": 950387,
             "media_type": "movie",
-            "release_date": "2013-10-03"
+            "release_date": "2025-03-31"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on Google in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1096,25 +1096,52 @@
         },
         {
           "rank": 10,
-          "title": "Die Hard",
+          "title": "Doom: Annihilation",
           "tmdb": {
-            "id": 562,
+            "id": 520901,
             "media_type": "movie",
-            "release_date": "1988-07-15"
+            "release_date": "2019-09-30"
           }
         }
       ]
     },
     {
       "catalog_id": "voyo.movies",
-      "heading": "TOP Movies on Voyo in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on Voyo in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "Voyo",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Sisu",
+          "tmdb": {
+            "id": 840326,
+            "media_type": "movie",
+            "release_date": "2022-09-09"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Jumanji: The Next Level",
+          "tmdb": {
+            "id": 512200,
+            "media_type": "movie",
+            "release_date": "2019-12-04"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Conclave",
+          "tmdb": {
+            "id": 974576,
+            "media_type": "movie",
+            "release_date": "2024-10-25"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Na horách",
           "tmdb": {
             "id": 1556011,
@@ -1123,57 +1150,30 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 5,
+          "title": "Beckham: Family at War",
+          "tmdb": {
+            "id": 1663026,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Moře na dvoře",
+          "tmdb": {
+            "id": 1443594,
+            "media_type": "movie",
+            "release_date": "2025-03-06"
+          }
+        },
+        {
+          "rank": 7,
           "title": "You Dont Mess With the Zohan",
           "tmdb": {
             "id": 10661,
             "media_type": "movie",
             "release_date": "2008-06-05"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Emoji Movie",
-          "tmdb": {
-            "id": 378236,
-            "media_type": "movie",
-            "release_date": "2017-07-23"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Cleaner",
-          "tmdb": {
-            "id": 1125899,
-            "media_type": "movie",
-            "release_date": "2025-02-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Survive",
-          "tmdb": {
-            "id": 1132079,
-            "media_type": "movie",
-            "release_date": "2022-05-12"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Asterix at the Olympic Games",
-          "tmdb": {
-            "id": 2395,
-            "media_type": "movie",
-            "release_date": "2008-01-25"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Husband for Hire",
-          "tmdb": {
-            "id": 112443,
-            "media_type": "movie",
-            "release_date": "2008-01-24"
           }
         },
         {
@@ -1187,30 +1187,30 @@
         },
         {
           "rank": 9,
-          "title": "Beckham: Family at War",
+          "title": "Asterix at the Olympic Games",
           "tmdb": {
-            "id": 1663026,
+            "id": 2395,
             "media_type": "movie",
-            "release_date": "2026-01-28"
+            "release_date": "2008-01-25"
           }
         },
         {
           "rank": 10,
-          "title": "Asterix & Obelix Take on Caesar",
+          "title": "Flawless",
           "tmdb": {
-            "id": 9564,
+            "id": 13195,
             "media_type": "movie",
-            "release_date": "1999-02-03"
+            "release_date": "2007-09-01"
           }
         }
       ]
     },
     {
       "catalog_id": "voyo.series",
-      "heading": "TOP TV Shows on Voyo in Slovakia on April 10, 2026",
+      "heading": "TOP TV Shows on Voyo in Slovakia on April 11, 2026",
       "category": "tv shows",
       "platform": "Voyo",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1307,10 +1307,10 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Slovakia on April 10, 2026",
+      "heading": "TOP Movies on SkyShowtime in Slovakia on April 11, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1342,24 +1342,6 @@
         },
         {
           "rank": 4,
-          "title": "The Naked Gun",
-          "tmdb": {
-            "id": 1035259,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Teenage Mutant Ninja Turtles",
-          "tmdb": {
-            "id": 98566,
-            "media_type": "movie",
-            "release_date": "2014-08-07"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Freaky Tales",
           "tmdb": {
             "id": 979660,
@@ -1368,25 +1350,34 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Prophecy: Uprising",
+          "rank": 5,
+          "title": "The Italian Job",
           "tmdb": {
-            "id": 19564,
+            "id": 9654,
             "media_type": "movie",
-            "release_date": "2005-06-07"
+            "release_date": "2003-05-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Teenage Mutant Ninja Turtles",
+          "tmdb": {
+            "id": 98566,
+            "media_type": "movie",
+            "release_date": "2014-08-07"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Naked Gun",
+          "tmdb": {
+            "id": 1035259,
+            "media_type": "movie",
+            "release_date": "2025-07-30"
           }
         },
         {
           "rank": 8,
-          "title": "A Paw Patrol Christmas",
-          "tmdb": {
-            "id": 1507275,
-            "media_type": "movie",
-            "release_date": "2025-10-30"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Immortal",
           "tmdb": {
             "id": 254872,
@@ -1395,44 +1386,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Last GunFight",
+          "rank": 9,
+          "title": "The Prophecy: Uprising",
           "tmdb": {
-            "id": 1465038,
+            "id": 19564,
             "media_type": "movie",
-            "release_date": "2025-05-27"
+            "release_date": "2005-06-07"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Prophecy: Forsaken",
+          "tmdb": {
+            "id": 37529,
+            "media_type": "movie",
+            "release_date": "2005-09-06"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Slovakia on April 10, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Slovakia on April 11, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Under Salt Marsh",
-          "tmdb": {
-            "id": 262262,
-            "media_type": "tv",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Y: Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Madison",
           "tmdb": {
             "id": 225891,
@@ -1441,21 +1423,39 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Veronika",
+          "rank": 2,
+          "title": "Under Salt Marsh",
           "tmdb": {
-            "id": 245441,
+            "id": 262262,
             "media_type": "tv",
-            "release_date": "2024-03-22"
+            "release_date": "2026-01-30"
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "ted",
           "tmdb": {
             "id": 201834,
             "media_type": "tv",
             "release_date": "2024-01-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Y: Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Veronika",
+          "tmdb": {
+            "id": 245441,
+            "media_type": "tv",
+            "release_date": "2024-03-22"
           }
         },
         {
@@ -1487,20 +1487,20 @@
         },
         {
           "rank": 9,
-          "title": "Girl Taken",
-          "tmdb": {
-            "id": 296523,
-            "media_type": "tv",
-            "release_date": "2026-01-08"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Frasier",
           "tmdb": {
             "id": 3452,
             "media_type": "tv",
             "release_date": "1993-09-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
           }
         }
       ]

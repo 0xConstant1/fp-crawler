@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/singapore/",
-  "page_title": "TOP 10 on Streaming in Singapore on April 10, 2026",
+  "page_title": "TOP 10 on Streaming in Singapore on April 11, 2026",
   "region": "singapore",
-  "date": "April 10, 2026",
-  "scraped_at_utc": "2026-04-10T15:51:11.950655+00:00",
+  "date": "April 11, 2026",
+  "scraped_at_utc": "2026-04-11T15:46:06.437564+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Singapore on April 10, 2026",
+      "heading": "TOP TV Shows on Viu in Singapore on April 11, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -103,14 +103,23 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Singapore on April 10, 2026",
+      "heading": "TOP Movies on Netflix in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Thrash",
+          "tmdb": {
+            "id": 1290417,
+            "media_type": "movie",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Mudborn",
           "tmdb": {
             "id": 1526650,
@@ -119,21 +128,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Anaconda",
           "tmdb": {
             "id": 1234731,
             "media_type": "movie",
             "release_date": "2025-12-24"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Humint",
-          "tmdb": {
-            "id": 1268127,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
           }
         },
         {
@@ -147,11 +147,11 @@
         },
         {
           "rank": 5,
-          "title": "Ozora: Penganiayaan Brutal Penguasa Jaksel",
+          "title": "Humint",
           "tmdb": {
-            "id": 1483874,
+            "id": 1268127,
             "media_type": "movie",
-            "release_date": "2025-12-04"
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -165,6 +165,15 @@
         },
         {
           "rank": 7,
+          "title": "Striking Distance",
+          "tmdb": {
+            "id": 11074,
+            "media_type": "movie",
+            "release_date": "1993-09-17"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Sniper 3",
           "tmdb": {
             "id": 14247,
@@ -173,7 +182,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Jurassic World",
           "tmdb": {
             "id": 135397,
@@ -182,31 +191,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Truth and Tragedy of Moriah Wilson",
-          "tmdb": {
-            "id": 1629369,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Striking Distance",
+          "title": "Ozora: Penganiayaan Brutal Penguasa Jaksel",
           "tmdb": {
-            "id": 11074,
+            "id": 1483874,
             "media_type": "movie",
-            "release_date": "1993-09-17"
+            "release_date": "2025-12-04"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Singapore on April 10, 2026",
+      "heading": "TOP TV Shows on Netflix in Singapore on April 11, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -256,15 +256,6 @@
         },
         {
           "rank": 6,
-          "title": "XO, Kitty",
-          "tmdb": {
-            "id": 195670,
-            "media_type": "tv",
-            "release_date": "2023-05-18"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Agent from Above",
           "tmdb": {
             "id": 213703,
@@ -273,21 +264,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Veil of Shadows",
+          "rank": 7,
+          "title": "XO, Kitty",
           "tmdb": {
-            "id": 278275,
+            "id": 195670,
             "media_type": "tv",
-            "release_date": "2026-04-01"
+            "release_date": "2023-05-18"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Witch Hat Atelier",
           "tmdb": {
             "id": 196950,
             "media_type": "tv",
             "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Veil of Shadows",
+          "tmdb": {
+            "id": 278275,
+            "media_type": "tv",
+            "release_date": "2026-04-01"
           }
         },
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Singapore on April 10, 2026",
+      "heading": "TOP Kids Movies on Netflix in Singapore on April 11, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -329,15 +329,6 @@
         },
         {
           "rank": 3,
-          "title": "Kung Fu Panda 4",
-          "tmdb": {
-            "id": 1011985,
-            "media_type": "movie",
-            "release_date": "2024-03-02"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Spider-Man: Into the Spider-Verse",
           "tmdb": {
             "id": 324857,
@@ -346,16 +337,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Despicable Me 2",
-          "tmdb": {
-            "id": 93456,
-            "media_type": "movie",
-            "release_date": "2013-06-26"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
@@ -364,21 +346,39 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Boss Baby",
+          "rank": 5,
+          "title": "Kung Fu Panda 4",
           "tmdb": {
-            "id": 295693,
+            "id": 1011985,
             "media_type": "movie",
-            "release_date": "2017-03-23"
+            "release_date": "2024-03-02"
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Despicable Me 2",
+          "tmdb": {
+            "id": 93456,
+            "media_type": "movie",
+            "release_date": "2013-06-26"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Despicable Me",
           "tmdb": {
             "id": 20352,
             "media_type": "movie",
             "release_date": "2010-07-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
           }
         },
         {
@@ -403,10 +403,10 @@
     },
     {
       "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in Singapore on April 10, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Singapore on April 11, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -474,43 +474,52 @@
         },
         {
           "rank": 8,
-          "title": "Man Vs Baby",
-          "tmdb": {
-            "id": 279601,
-            "media_type": "tv",
-            "release_date": "2025-12-11"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Pinkfong Little Dino School",
-          "tmdb": {
-            "id": 275908,
-            "media_type": "tv",
-            "release_date": "2024-07-04"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
             "media_type": "tv",
             "release_date": "2004-05-31"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Numberblocks",
+          "tmdb": {
+            "id": 106009,
+            "media_type": "tv",
+            "release_date": "2016-01-23"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Bebefinn",
+          "tmdb": {
+            "id": 241948,
+            "media_type": "tv",
+            "release_date": "2023-02-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Singapore on April 10, 2026",
+      "heading": "TOP Movies on HBO Max in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Not Without Hope",
+          "tmdb": {
+            "id": 339849,
+            "media_type": "movie",
+            "release_date": "2025-12-04"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Red Sonja",
           "tmdb": {
             "id": 13494,
@@ -519,7 +528,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Finding Harry: The Craft Behind the Magic",
           "tmdb": {
             "id": 1662432,
@@ -528,34 +537,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Meg 2: The Trench",
-          "tmdb": {
-            "id": 615656,
-            "media_type": "movie",
-            "release_date": "2023-08-02"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Downton Abbey: The Grand Finale",
-          "tmdb": {
-            "id": 1289936,
-            "media_type": "movie",
-            "release_date": "2025-09-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Meg",
-          "tmdb": {
-            "id": 345940,
-            "media_type": "movie",
-            "release_date": "2018-08-09"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Astronaut",
           "tmdb": {
             "id": 1086260,
@@ -564,16 +546,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "King Kong",
+          "rank": 5,
+          "title": "Meg 2: The Trench",
           "tmdb": {
-            "id": 254,
+            "id": 615656,
             "media_type": "movie",
-            "release_date": "2005-12-12"
+            "release_date": "2023-08-02"
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Sully",
+          "tmdb": {
+            "id": 363676,
+            "media_type": "movie",
+            "release_date": "2016-09-07"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Contagion",
           "tmdb": {
             "id": 39538,
@@ -582,31 +573,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "HIM",
+          "rank": 8,
+          "title": "The Meg",
           "tmdb": {
-            "id": 986097,
+            "id": 345940,
             "media_type": "movie",
-            "release_date": "2025-09-18"
+            "release_date": "2018-08-09"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Baywatch",
           "tmdb": {
             "id": 339846,
             "media_type": "movie",
             "release_date": "2017-05-25"
           }
+        },
+        {
+          "rank": 10,
+          "title": "King Kong",
+          "tmdb": {
+            "id": 254,
+            "media_type": "movie",
+            "release_date": "2005-12-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Singapore on April 10, 2026",
+      "heading": "TOP TV Shows on HBO Max in Singapore on April 11, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -620,24 +620,6 @@
         },
         {
           "rank": 2,
-          "title": "Rooster",
-          "tmdb": {
-            "id": 254953,
-            "media_type": "tv",
-            "release_date": "2026-03-08"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "DTF St. Louis",
-          "tmdb": {
-            "id": 206828,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Practical Guide to Love",
           "tmdb": {
             "id": 287344,
@@ -646,7 +628,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
@@ -655,7 +637,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "The Village Barber",
           "tmdb": {
             "id": 312826,
@@ -664,12 +646,30 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Mad Concrete Dreams",
           "tmdb": {
             "id": 281965,
             "media_type": "tv",
             "release_date": "2026-03-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Folklore",
+          "tmdb": {
+            "id": 83090,
+            "media_type": "tv",
+            "release_date": "2018-10-07"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "DTF St. Louis",
+          "tmdb": {
+            "id": 206828,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -683,31 +683,31 @@
         },
         {
           "rank": 9,
-          "title": "The Comeback",
-          "tmdb": {
-            "id": 1999,
-            "media_type": "tv",
-            "release_date": "2005-06-05"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Hacks",
           "tmdb": {
             "id": 124101,
             "media_type": "tv",
             "release_date": "2021-05-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Rooster",
+          "tmdb": {
+            "id": 254953,
+            "media_type": "tv",
+            "release_date": "2026-03-08"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Singapore on April 10, 2026",
+      "heading": "TOP Overall on Disney+ in Singapore on April 11, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 10, 2026",
-      "title_count": 10,
+      "date": "April 11, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
@@ -729,20 +729,20 @@
         },
         {
           "rank": 3,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Grey's Anatomy",
           "tmdb": {
             "id": 1416,
             "media_type": "tv",
             "release_date": "2005-03-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
           }
         },
         {
@@ -765,24 +765,6 @@
         },
         {
           "rank": 7,
-          "title": "In Your Radiant Season",
-          "tmdb": {
-            "id": 233833,
-            "media_type": "tv",
-            "release_date": "2026-02-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -791,22 +773,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "How I Met Your Mother",
+          "rank": 8,
+          "title": "In Your Radiant Season",
           "tmdb": {
-            "id": 1100,
+            "id": 233833,
             "media_type": "tv",
-            "release_date": "2005-09-19"
+            "release_date": "2026-02-20"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bluey",
+          "tmdb": {
+            "id": 82728,
+            "media_type": "tv",
+            "release_date": "2018-10-01"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Singapore on April 10, 2026",
+      "heading": "TOP Overall on Amazon Prime in Singapore on April 11, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,20 +820,20 @@
         },
         {
           "rank": 3,
-          "title": "Siren's Kiss",
-          "tmdb": {
-            "id": 310800,
-            "media_type": "tv",
-            "release_date": "2026-03-02"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
             "media_type": "movie",
             "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Siren's Kiss",
+          "tmdb": {
+            "id": 310800,
+            "media_type": "tv",
+            "release_date": "2026-03-02"
           }
         },
         {
@@ -883,30 +874,30 @@
         },
         {
           "rank": 9,
-          "title": "Y: Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Mercy",
           "tmdb": {
             "id": 1236153,
             "media_type": "movie",
             "release_date": "2026-01-20"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Y: Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Singapore on April 10, 2026",
+      "heading": "TOP Movies on Amazon Prime in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -956,6 +947,15 @@
         },
         {
           "rank": 6,
+          "title": "O'Romeo",
+          "tmdb": {
+            "id": 1275574,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Agent Zeta",
           "tmdb": {
             "id": 1314786,
@@ -964,25 +964,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Couple Friendly",
-          "tmdb": {
-            "id": 1440735,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
-        },
-        {
           "rank": 8,
-          "title": "The Bourne Identity",
-          "tmdb": {
-            "id": 2501,
-            "media_type": "movie",
-            "release_date": "2002-06-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -991,22 +973,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Subedaar",
           "tmdb": {
             "id": 819842,
             "media_type": "movie",
             "release_date": "1991-01-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Bourne Identity",
+          "tmdb": {
+            "id": 2501,
+            "media_type": "movie",
+            "release_date": "2002-06-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Singapore on April 10, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Singapore on April 11, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1074,15 +1065,6 @@
         },
         {
           "rank": 8,
-          "title": "Scarpetta",
-          "tmdb": {
-            "id": 240740,
-            "media_type": "tv",
-            "release_date": "2026-03-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Maa Ka Sum",
           "tmdb": {
             "id": 249771,
@@ -1091,26 +1073,44 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Madison",
           "tmdb": {
             "id": 225891,
             "media_type": "tv",
             "release_date": "2026-03-14"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Scarpetta",
+          "tmdb": {
+            "id": 240740,
+            "media_type": "tv",
+            "release_date": "2026-03-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Singapore on April 10, 2026",
+      "heading": "TOP Movies on Apple TV in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -1119,7 +1119,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1128,7 +1128,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -1137,7 +1137,16 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -1146,16 +1155,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Argylle",
-          "tmdb": {
-            "id": 848538,
-            "media_type": "movie",
-            "release_date": "2024-01-31"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -1164,7 +1164,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
@@ -1173,21 +1173,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Greyhound",
+          "title": "Argylle",
           "tmdb": {
-            "id": 516486,
+            "id": 848538,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2024-01-31"
           }
         },
         {
@@ -1203,23 +1194,14 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Singapore on April 10, 2026",
+      "heading": "TOP TV Shows on Apple TV in Singapore on April 11, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -1228,7 +1210,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -1237,16 +1219,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Imperfect Women",
+          "rank": 3,
+          "title": "Shrinking",
           "tmdb": {
-            "id": 108181,
+            "id": 136311,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2023-01-26"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -1255,7 +1237,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Last Thing He Told Me",
+          "tmdb": {
+            "id": 201289,
+            "media_type": "tv",
+            "release_date": "2023-04-13"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Imperfect Women",
+          "tmdb": {
+            "id": 108181,
+            "media_type": "tv",
+            "release_date": "2026-03-17"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Tehran",
           "tmdb": {
             "id": 103913,
@@ -1264,7 +1264,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1273,7 +1273,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Hijack",
           "tmdb": {
             "id": 198102,
@@ -1282,44 +1282,26 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
             "media_type": "tv",
             "release_date": "2022-02-17"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Last Thing He Told Me",
-          "tmdb": {
-            "id": 201289,
-            "media_type": "tv",
-            "release_date": "2023-04-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Singapore on April 10, 2026",
+      "heading": "TOP Movies on Apple TV Store in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Legends of the Condor Heroes : The Gallants",
-          "tmdb": {
-            "id": 1185528,
-            "media_type": "movie",
-            "release_date": "2025-01-29"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -1328,16 +1310,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Uncharted",
+          "rank": 2,
+          "title": "Legends of the Condor Heroes : The Gallants",
           "tmdb": {
-            "id": 335787,
+            "id": 1185528,
             "media_type": "movie",
-            "release_date": "2022-02-10"
+            "release_date": "2025-01-29"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Les Misérables",
           "tmdb": {
             "id": 82695,
@@ -1346,34 +1328,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Seven Years in Tibet",
-          "tmdb": {
-            "id": 978,
-            "media_type": "movie",
-            "release_date": "1997-09-12"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Star Trek Beyond",
-          "tmdb": {
-            "id": 188927,
-            "media_type": "movie",
-            "release_date": "2016-07-07"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 4,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -1382,31 +1337,67 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "rank": 5,
+          "title": "GOAT",
           "tmdb": {
-            "id": 120,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2001-12-18"
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Seven Years in Tibet",
+          "tmdb": {
+            "id": 978,
+            "media_type": "movie",
+            "release_date": "1997-09-12"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Jurassic World Dominion",
+          "tmdb": {
+            "id": 507086,
+            "media_type": "movie",
+            "release_date": "2022-06-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Uncharted",
+          "tmdb": {
+            "id": 335787,
+            "media_type": "movie",
+            "release_date": "2022-02-10"
           }
         },
         {
           "rank": 10,
-          "title": "Becoming Led Zeppelin",
+          "title": "Crazy Rich Asians",
           "tmdb": {
-            "id": 857800,
+            "id": 455207,
             "media_type": "movie",
-            "release_date": "2025-02-05"
+            "release_date": "2018-08-15"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Singapore on April 10, 2026",
+      "heading": "TOP Movies on Google in Singapore on April 11, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 10, 2026",
+      "date": "April 11, 2026",
       "title_count": 10,
       "entries": [
         {
