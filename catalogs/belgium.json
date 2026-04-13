@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/belgium/",
-  "page_title": "TOP 10 on Streaming in Belgium on April 12, 2026",
+  "page_title": "TOP 10 on Streaming in Belgium on April 13, 2026",
   "region": "belgium",
-  "date": "April 12, 2026",
-  "scraped_at_utc": "2026-04-12T15:46:36.802143+00:00",
+  "date": "April 13, 2026",
+  "scraped_at_utc": "2026-04-13T15:59:46.383685+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Netflix in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,6 +33,15 @@
         },
         {
           "rank": 3,
+          "title": "Four Brothers",
+          "tmdb": {
+            "id": 8292,
+            "media_type": "movie",
+            "release_date": "2005-08-11"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Anaconda",
           "tmdb": {
             "id": 1234731,
@@ -41,21 +50,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Sisu: Road to Revenge",
           "tmdb": {
             "id": 1223601,
             "media_type": "movie",
             "release_date": "2025-10-21"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Four Brothers",
-          "tmdb": {
-            "id": 8292,
-            "media_type": "movie",
-            "release_date": "2005-08-11"
           }
         },
         {
@@ -69,11 +69,11 @@
         },
         {
           "rank": 7,
-          "title": "Striking Distance",
+          "title": "Feel My Voice",
           "tmdb": {
-            "id": 11074,
+            "id": 1620551,
             "media_type": "movie",
-            "release_date": "1993-09-17"
+            "release_date": "2026-04-03"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
+          "title": "Striking Distance",
+          "tmdb": {
+            "id": 11074,
+            "media_type": "movie",
+            "release_date": "1993-09-17"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Let Him Go",
           "tmdb": {
             "id": 596161,
             "media_type": "movie",
             "release_date": "2020-11-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Feel My Voice",
-          "tmdb": {
-            "id": 1620551,
-            "media_type": "movie",
-            "release_date": "2026-04-03"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Belgium on April 12, 2026",
+      "heading": "TOP TV Shows on Netflix in Belgium on April 13, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,15 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "Tyson Fury vs. Arslanbek Makhmudov",
-          "tmdb": {
-            "id": 1624455,
-            "media_type": "movie",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
@@ -150,7 +141,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "XO, Kitty",
           "tmdb": {
             "id": 195670,
@@ -159,30 +150,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "WWE SmackDown",
-          "tmdb": null
-        },
-        {
-          "rank": 7,
-          "title": "Detective Hole",
-          "tmdb": {
-            "id": 249597,
-            "media_type": "tv",
-            "release_date": "2026-03-26"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Bloodhounds",
-          "tmdb": {
-            "id": 127529,
-            "media_type": "tv",
-            "release_date": "2023-06-09"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Bandi",
           "tmdb": {
             "id": 269161,
@@ -191,22 +159,58 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "Detective Hole",
+          "tmdb": {
+            "id": 249597,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Bloodhounds",
+          "tmdb": {
+            "id": 127529,
+            "media_type": "tv",
+            "release_date": "2023-06-09"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Ripple",
           "tmdb": {
             "id": 263346,
             "media_type": "tv",
             "release_date": "2025-12-03"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Something Very Bad Is Going to Happen",
+          "tmdb": {
+            "id": 259265,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Big Mistakes",
+          "tmdb": {
+            "id": 291506,
+            "media_type": "tv",
+            "release_date": "2026-04-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Belgium on April 12, 2026",
+      "heading": "TOP Kids Movies on Netflix in Belgium on April 13, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -238,15 +242,6 @@
         },
         {
           "rank": 4,
-          "title": "Madagascar",
-          "tmdb": {
-            "id": 953,
-            "media_type": "movie",
-            "release_date": "2005-05-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Boss Baby",
           "tmdb": {
             "id": 295693,
@@ -255,12 +250,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Hotel Transylvania 2",
+          "rank": 5,
+          "title": "Madagascar",
           "tmdb": {
-            "id": 159824,
+            "id": 953,
             "media_type": "movie",
-            "release_date": "2015-09-21"
+            "release_date": "2005-05-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Minions",
+          "tmdb": {
+            "id": 211672,
+            "media_type": "movie",
+            "release_date": "2015-06-17"
           }
         },
         {
@@ -274,39 +278,39 @@
         },
         {
           "rank": 8,
-          "title": "Minions",
+          "title": "Hotel Transylvania 2",
           "tmdb": {
-            "id": 211672,
+            "id": 159824,
             "media_type": "movie",
-            "release_date": "2015-06-17"
+            "release_date": "2015-09-21"
           }
         },
         {
           "rank": 9,
-          "title": "The Bad Guys 2",
+          "title": "Shrek",
           "tmdb": {
-            "id": 1175942,
+            "id": 808,
             "media_type": "movie",
-            "release_date": "2025-07-24"
+            "release_date": "2001-05-18"
           }
         },
         {
           "rank": 10,
-          "title": "Spider-Man: Into the Spider-Verse",
+          "title": "Charlotte's Web",
           "tmdb": {
-            "id": 324857,
+            "id": 9986,
             "media_type": "movie",
-            "release_date": "2018-12-06"
+            "release_date": "2006-12-07"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-series",
-      "heading": "TOP Kids TV Shows on Netflix in Belgium on April 12, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Belgium on April 13, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -374,6 +378,15 @@
         },
         {
           "rank": 8,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -382,31 +395,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Bad Guys: Breaking In",
           "tmdb": {
             "id": 302540,
             "media_type": "tv",
             "release_date": "2025-11-06"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Middle",
-          "tmdb": {
-            "id": 1422,
-            "media_type": "tv",
-            "release_date": "2009-09-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Belgium on April 12, 2026",
+      "heading": "TOP Movies on HBO Max in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -465,6 +469,24 @@
         },
         {
           "rank": 7,
+          "title": "Mickey 17",
+          "tmdb": {
+            "id": 696506,
+            "media_type": "movie",
+            "release_date": "2025-02-28"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Lady in the Water",
+          "tmdb": {
+            "id": 9697,
+            "media_type": "movie",
+            "release_date": "2006-07-19"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Daybreakers",
           "tmdb": {
             "id": 19901,
@@ -473,40 +495,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Sherlock Holmes",
-          "tmdb": {
-            "id": 10528,
-            "media_type": "movie",
-            "release_date": "2009-12-23"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Escape Room",
           "tmdb": {
             "id": 522681,
             "media_type": "movie",
             "release_date": "2019-01-03"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Lady in the Water",
-          "tmdb": {
-            "id": 9697,
-            "media_type": "movie",
-            "release_date": "2006-07-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Belgium on April 12, 2026",
+      "heading": "TOP TV Shows on HBO Max in Belgium on April 13, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,20 +542,20 @@
         },
         {
           "rank": 4,
-          "title": "Privileges",
-          "tmdb": {
-            "id": 283853,
-            "media_type": "tv",
-            "release_date": "2026-03-27"
-          }
-        },
-        {
-          "rank": 5,
           "title": "DTF St. Louis",
           "tmdb": {
             "id": 206828,
             "media_type": "tv",
             "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Privileges",
+          "tmdb": {
+            "id": 283853,
+            "media_type": "tv",
+            "release_date": "2026-03-27"
           }
         },
         {
@@ -603,10 +607,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Belgium on April 12, 2026",
+      "heading": "TOP Overall on Disney+ in Belgium on April 13, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -629,20 +633,20 @@
         },
         {
           "rank": 3,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Star Wars: Maul - Shadow Lord",
+          "tmdb": {
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
           }
         },
         {
@@ -665,24 +669,15 @@
         },
         {
           "rank": 7,
-          "title": "Love Story",
+          "title": "Mike & Nick & Nick & Alice",
           "tmdb": {
-            "id": 131142,
-            "media_type": "tv",
-            "release_date": "2026-02-12"
+            "id": 1115544,
+            "media_type": "movie",
+            "release_date": "2026-03-14"
           }
         },
         {
           "rank": 8,
-          "title": "High Potential",
-          "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Lucky Luke",
           "tmdb": {
             "id": 259405,
@@ -691,22 +686,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Mike & Nick & Nick & Alice",
+          "rank": 9,
+          "title": "Rio 2",
           "tmdb": {
-            "id": 1115544,
+            "id": 172385,
             "media_type": "movie",
-            "release_date": "2026-03-14"
+            "release_date": "2014-03-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Belgium on April 12, 2026",
+      "heading": "TOP Overall on Amazon Prime in Belgium on April 13, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,20 +724,20 @@
         },
         {
           "rank": 2,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
             "media_type": "movie",
             "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -774,39 +778,39 @@
         },
         {
           "rank": 8,
-          "title": "House of David",
-          "tmdb": {
-            "id": 243881,
-            "media_type": "tv",
-            "release_date": "2025-02-27"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Worldbreaker",
-          "tmdb": {
-            "id": 1196067,
-            "media_type": "movie",
-            "release_date": "2025-10-30"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Mercy",
           "tmdb": {
             "id": 1236153,
             "media_type": "movie",
             "release_date": "2026-01-20"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Relay",
+          "tmdb": {
+            "id": 1088166,
+            "media_type": "movie",
+            "release_date": "2025-08-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Worldbreaker",
+          "tmdb": {
+            "id": 1196067,
+            "media_type": "movie",
+            "release_date": "2025-10-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Amazon Prime in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,15 +833,6 @@
         },
         {
           "rank": 3,
-          "title": "Worldbreaker",
-          "tmdb": {
-            "id": 1196067,
-            "media_type": "movie",
-            "release_date": "2025-10-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Mercy",
           "tmdb": {
             "id": 1236153,
@@ -846,12 +841,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Relay",
           "tmdb": {
             "id": 1088166,
             "media_type": "movie",
             "release_date": "2025-08-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Worldbreaker",
+          "tmdb": {
+            "id": 1196067,
+            "media_type": "movie",
+            "release_date": "2025-10-30"
           }
         },
         {
@@ -892,21 +896,21 @@
         },
         {
           "rank": 10,
-          "title": "Culpa Mia",
+          "title": "Rush Hour",
           "tmdb": {
-            "id": 1010581,
+            "id": 2109,
             "media_type": "movie",
-            "release_date": "2023-06-08"
+            "release_date": "1998-09-18"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Belgium on April 12, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Belgium on April 13, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -956,15 +960,6 @@
         },
         {
           "rank": 6,
-          "title": "House of David",
-          "tmdb": {
-            "id": 243881,
-            "media_type": "tv",
-            "release_date": "2025-02-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
@@ -973,16 +968,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Potje Rijden: Kirgizië",
+          "rank": 7,
+          "title": "House of David",
           "tmdb": {
-            "id": 316517,
+            "id": 243881,
             "media_type": "tv",
-            "release_date": "2026-03-19"
+            "release_date": "2025-02-27"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
@@ -991,22 +986,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Fist of the North Star: HOKUTO NO KEN",
           "tmdb": {
             "id": 295357,
             "media_type": "tv",
             "release_date": "2026-04-11"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Potje Rijden: Kirgizië",
+          "tmdb": {
+            "id": 316517,
+            "media_type": "tv",
+            "release_date": "2026-03-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Apple TV in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1038,15 +1042,6 @@
         },
         {
           "rank": 4,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Lost Bus",
           "tmdb": {
             "id": 1236470,
@@ -1055,7 +1050,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1064,16 +1059,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1082,7 +1068,16 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "The Family Plan",
+          "tmdb": {
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -1091,22 +1086,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Belgium on April 12, 2026",
+      "heading": "TOP TV Shows on Apple TV in Belgium on April 13, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1203,10 +1207,10 @@
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Amazon in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1238,11 +1242,11 @@
         },
         {
           "rank": 4,
-          "title": "Regretting You",
+          "title": "Avatar: Fire and Ash",
           "tmdb": {
-            "id": 1327862,
+            "id": 83533,
             "media_type": "movie",
-            "release_date": "2025-10-22"
+            "release_date": "2025-12-17"
           }
         },
         {
@@ -1274,39 +1278,39 @@
         },
         {
           "rank": 8,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 10,
           "title": "A Minecraft Movie",
           "tmdb": {
             "id": 950387,
             "media_type": "movie",
             "release_date": "2025-03-31"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Nobody",
+          "tmdb": {
+            "id": 615457,
+            "media_type": "movie",
+            "release_date": "2021-03-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Apple TV Store in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1356,6 +1360,24 @@
         },
         {
           "rank": 6,
+          "title": "The Long Walk",
+          "tmdb": {
+            "id": 604079,
+            "media_type": "movie",
+            "release_date": "2025-09-10"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -1364,49 +1386,31 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
+          "title": "Avatar",
+          "tmdb": {
+            "id": 19995,
+            "media_type": "movie",
+            "release_date": "2009-12-16"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Father Mother Sister Brother",
           "tmdb": {
             "id": 1159206,
             "media_type": "movie",
             "release_date": "2025-12-01"
           }
-        },
-        {
-          "rank": 8,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Now You See Me: Now You Don't",
-          "tmdb": {
-            "id": 425274,
-            "media_type": "movie",
-            "release_date": "2025-11-12"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Apollo 13",
-          "tmdb": {
-            "id": 568,
-            "media_type": "movie",
-            "release_date": "1995-06-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Google in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1503,10 +1507,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Belgium on April 12, 2026",
+      "heading": "TOP Movies on Rakuten TV in Belgium on April 13, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1529,20 +1533,20 @@
         },
         {
           "rank": 3,
+          "title": "Into the Wild",
+          "tmdb": {
+            "id": 5915,
+            "media_type": "movie",
+            "release_date": "2007-09-21"
+          }
+        },
+        {
+          "rank": 4,
           "title": "LOL (Laughing Out Loud)",
           "tmdb": {
             "id": 21861,
             "media_type": "movie",
             "release_date": "2009-02-04"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Dune: Part Two",
-          "tmdb": {
-            "id": 693134,
-            "media_type": "movie",
-            "release_date": "2024-02-27"
           }
         },
         {
@@ -1556,15 +1560,6 @@
         },
         {
           "rank": 6,
-          "title": "Into the Wild",
-          "tmdb": {
-            "id": 5915,
-            "media_type": "movie",
-            "release_date": "2007-09-21"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
           "tmdb": {
             "id": 22,
@@ -1573,12 +1568,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Black to the Future",
+          "rank": 7,
+          "title": "Dune: Part Two",
           "tmdb": {
-            "id": 1566562,
+            "id": 693134,
             "media_type": "movie",
-            "release_date": "2025-10-07"
+            "release_date": "2024-02-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Three Brothers",
+          "tmdb": {
+            "id": 641180,
+            "media_type": "movie",
+            "release_date": "1915-01-10"
           }
         },
         {
@@ -1592,21 +1596,21 @@
         },
         {
           "rank": 10,
-          "title": "Natural Born Liar",
+          "title": "The Visitors",
           "tmdb": {
-            "id": 829165,
+            "id": 102699,
             "media_type": "movie",
-            "release_date": "2022-07-13"
+            "release_date": "1972-02-02"
           }
         }
       ]
     },
     {
       "catalog_id": "streamz.overall",
-      "heading": "TOP Overall on Streamz in Belgium on April 12, 2026",
+      "heading": "TOP Overall on Streamz in Belgium on April 13, 2026",
       "category": "overall",
       "platform": "Streamz",
-      "date": "April 12, 2026",
+      "date": "April 13, 2026",
       "title_count": 5,
       "entries": [
         {
