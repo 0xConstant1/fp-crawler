@@ -1,22 +1,26 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/indonesia/",
-  "page_title": "TOP 10 on Streaming in Indonesia on April 16, 2026",
+  "page_title": "TOP 10 on Streaming in Indonesia on April 17, 2026",
   "region": "indonesia",
-  "date": "April 16, 2026",
-  "scraped_at_utc": "2026-04-16T16:05:16.012166+00:00",
+  "date": "April 17, 2026",
+  "scraped_at_utc": "2026-04-17T15:51:08.435350+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Viu in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
           "title": "OTW Halal",
-          "tmdb": null
+          "tmdb": {
+            "id": 319923,
+            "media_type": "tv",
+            "release_date": "2026-04-03"
+          }
         },
         {
           "rank": 2,
@@ -51,7 +55,7 @@
           "tmdb": {
             "id": 316419,
             "media_type": "tv",
-            "release_date": null
+            "release_date": "2026-02-13"
           }
         },
         {
@@ -103,14 +107,23 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Netflix in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Mertua Ngeri Kali",
+          "tmdb": {
+            "id": 1507818,
+            "media_type": "movie",
+            "release_date": "2025-12-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Thrash",
           "tmdb": {
             "id": 1290417,
@@ -119,7 +132,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Abigail",
           "tmdb": {
             "id": 1111873,
@@ -128,7 +141,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ozora: Penganiayaan Brutal Penguasa Jaksel",
           "tmdb": {
             "id": 1483874,
@@ -137,7 +150,25 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "A Quiet Place: Day One",
+          "tmdb": {
+            "id": 762441,
+            "media_type": "movie",
+            "release_date": "2024-06-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Agape: The Unconditional Love",
+          "tmdb": {
+            "id": 1525446,
+            "media_type": "movie",
+            "release_date": "2025-09-04"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Wasiat Warisan",
           "tmdb": {
             "id": 1573375,
@@ -146,25 +177,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Nia",
-          "tmdb": {
-            "id": 1119317,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Pesugihan Sate Gagak",
-          "tmdb": {
-            "id": 1516949,
-            "media_type": "movie",
-            "release_date": "2025-11-13"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Dopamine",
           "tmdb": {
             "id": 54973,
@@ -173,40 +186,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Verdict",
-          "tmdb": {
-            "id": 24226,
-            "media_type": "movie",
-            "release_date": "1982-12-08"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Mudborn",
+          "title": "Nia",
           "tmdb": {
-            "id": 1526650,
+            "id": 1119317,
             "media_type": "movie",
-            "release_date": "2025-10-09"
+            "release_date": "2025-08-14"
           }
         },
         {
           "rank": 10,
-          "title": "Anaconda",
+          "title": "The Cursed Mask",
           "tmdb": {
-            "id": 1234731,
+            "id": 1205916,
             "media_type": "movie",
-            "release_date": "2025-12-24"
+            "release_date": "2025-11-20"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Netflix in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -265,15 +269,6 @@
         },
         {
           "rank": 7,
-          "title": "Witch Hat Atelier",
-          "tmdb": {
-            "id": 196950,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Pursuit of Jade",
           "tmdb": {
             "id": 279388,
@@ -282,12 +277,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "ONE PIECE",
           "tmdb": {
             "id": 111110,
             "media_type": "tv",
             "release_date": "2023-08-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Witch Hat Atelier",
+          "tmdb": {
+            "id": 196950,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
           }
         },
         {
@@ -303,10 +307,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on HBO Max in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -356,20 +360,20 @@
         },
         {
           "rank": 6,
-          "title": "Last Breath",
-          "tmdb": {
-            "id": 972533,
-            "media_type": "movie",
-            "release_date": "2025-02-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Meg",
           "tmdb": {
             "id": 345940,
             "media_type": "movie",
             "release_date": "2018-08-09"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Trust",
+          "tmdb": {
+            "id": 44945,
+            "media_type": "movie",
+            "release_date": "2010-09-10"
           }
         },
         {
@@ -383,30 +387,30 @@
         },
         {
           "rank": 9,
-          "title": "King Kong",
-          "tmdb": {
-            "id": 254,
-            "media_type": "movie",
-            "release_date": "2005-12-12"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Astronaut",
           "tmdb": {
             "id": 1086260,
             "media_type": "movie",
             "release_date": "2025-09-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "King Kong",
+          "tmdb": {
+            "id": 254,
+            "media_type": "movie",
+            "release_date": "2005-12-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on HBO Max in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -456,33 +460,6 @@
         },
         {
           "rank": 6,
-          "title": "Rooster",
-          "tmdb": {
-            "id": 254953,
-            "media_type": "tv",
-            "release_date": "2026-03-08"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Idol",
-          "tmdb": {
-            "id": 135251,
-            "media_type": "tv",
-            "release_date": "2023-06-04"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Boy Band Confidential",
-          "tmdb": {
-            "id": 317875,
-            "media_type": "tv",
-            "release_date": "2026-04-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Practical Guide to Love",
           "tmdb": {
             "id": 287344,
@@ -491,22 +468,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Rooster",
+          "tmdb": {
+            "id": 254953,
+            "media_type": "tv",
+            "release_date": "2026-03-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Idol",
+          "tmdb": {
+            "id": 135251,
+            "media_type": "tv",
+            "release_date": "2023-06-04"
+          }
+        },
+        {
+          "rank": 9,
           "title": "DTF St. Louis",
           "tmdb": {
             "id": 206828,
             "media_type": "tv",
             "release_date": "2026-03-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Boy Band Confidential",
+          "tmdb": {
+            "id": 317875,
+            "media_type": "tv",
+            "release_date": "2026-04-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Indonesia on April 16, 2026",
+      "heading": "TOP Overall on Amazon Prime in Indonesia on April 17, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -520,20 +524,20 @@
         },
         {
           "rank": 2,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Siren's Kiss",
           "tmdb": {
             "id": 310800,
             "media_type": "tv",
             "release_date": "2026-03-02"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -556,20 +560,20 @@
         },
         {
           "rank": 6,
-          "title": "Young Sherlock",
-          "tmdb": {
-            "id": 255661,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Spring Fever",
           "tmdb": {
             "id": 280948,
             "media_type": "tv",
             "release_date": "2026-01-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -592,21 +596,21 @@
         },
         {
           "rank": 10,
-          "title": "Pretty Lethal",
+          "title": "Balls Up",
           "tmdb": {
-            "id": 1084187,
+            "id": 1084577,
             "media_type": "movie",
-            "release_date": "2026-03-13"
+            "release_date": "2026-04-15"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Amazon Prime in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,6 +642,15 @@
         },
         {
           "rank": 4,
+          "title": "Balls Up",
+          "tmdb": {
+            "id": 1084577,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
@@ -646,21 +659,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Wrecking Crew",
           "tmdb": {
             "id": 1168190,
             "media_type": "movie",
             "release_date": "2026-01-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Bourne Legacy",
-          "tmdb": {
-            "id": 49040,
-            "media_type": "movie",
-            "release_date": "2012-08-08"
           }
         },
         {
@@ -674,6 +678,15 @@
         },
         {
           "rank": 8,
+          "title": "The Bourne Legacy",
+          "tmdb": {
+            "id": 49040,
+            "media_type": "movie",
+            "release_date": "2012-08-08"
+          }
+        },
+        {
+          "rank": 9,
           "title": "A Working Man",
           "tmdb": {
             "id": 1197306,
@@ -682,31 +695,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Siege at Thorn High",
           "tmdb": {
             "id": 1280089,
             "media_type": "movie",
             "release_date": "2025-04-17"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Agent Zeta",
-          "tmdb": {
-            "id": 1314786,
-            "media_type": "movie",
-            "release_date": "2026-03-20"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,15 +724,6 @@
         },
         {
           "rank": 2,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Siren's Kiss",
           "tmdb": {
             "id": 310800,
@@ -737,21 +732,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Young Sherlock",
+          "rank": 3,
+          "title": "INVINCIBLE",
           "tmdb": {
-            "id": 255661,
+            "id": 95557,
             "media_type": "tv",
-            "release_date": "2026-03-04"
+            "release_date": "2021-03-25"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Spring Fever",
           "tmdb": {
             "id": 280948,
             "media_type": "tv",
             "release_date": "2026-01-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -774,20 +778,20 @@
         },
         {
           "rank": 8,
-          "title": "56 Days",
-          "tmdb": {
-            "id": 241372,
-            "media_type": "tv",
-            "release_date": "2026-02-18"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Yumi's Cells",
           "tmdb": {
             "id": 128995,
             "media_type": "tv",
             "release_date": "2021-09-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "56 Days",
+          "tmdb": {
+            "id": 241372,
+            "media_type": "tv",
+            "release_date": "2026-02-18"
           }
         },
         {
@@ -803,10 +807,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Apple TV in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -838,15 +842,6 @@
         },
         {
           "rank": 4,
-          "title": "Eternity",
-          "tmdb": {
-            "id": 1259102,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
@@ -855,7 +850,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -864,21 +859,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Family Plan 2",
+          "rank": 6,
+          "title": "Eternity",
           "tmdb": {
-            "id": 1363123,
+            "id": 1259102,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2025-11-26"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
           }
         },
         {
@@ -903,10 +907,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Apple TV in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -974,20 +978,20 @@
         },
         {
           "rank": 8,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Hijack",
           "tmdb": {
             "id": 198102,
             "media_type": "tv",
             "release_date": "2023-06-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "For All Mankind",
+          "tmdb": {
+            "id": 87917,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         },
         {
@@ -1003,10 +1007,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Apple TV Store in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1020,33 +1024,6 @@
         },
         {
           "rank": 2,
-          "title": "The Matrix",
-          "tmdb": {
-            "id": 603,
-            "media_type": "movie",
-            "release_date": "1999-03-31"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Matrix Reloaded",
-          "tmdb": {
-            "id": 604,
-            "media_type": "movie",
-            "release_date": "2003-05-15"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Matrix Revolutions",
-          "tmdb": {
-            "id": 605,
-            "media_type": "movie",
-            "release_date": "2003-11-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Constantine",
           "tmdb": {
             "id": 561,
@@ -1055,25 +1032,34 @@
           }
         },
         {
+          "rank": 3,
+          "title": "The Matrix",
+          "tmdb": {
+            "id": 603,
+            "media_type": "movie",
+            "release_date": "1999-03-31"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Matrix Reloaded",
+          "tmdb": {
+            "id": 604,
+            "media_type": "movie",
+            "release_date": "2003-05-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Matrix Revolutions",
+          "tmdb": {
+            "id": 605,
+            "media_type": "movie",
+            "release_date": "2003-11-05"
+          }
+        },
+        {
           "rank": 6,
-          "title": "The Animatrix",
-          "tmdb": {
-            "id": 55931,
-            "media_type": "movie",
-            "release_date": "2003-05-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Notebook",
-          "tmdb": {
-            "id": 11036,
-            "media_type": "movie",
-            "release_date": "2004-06-25"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Matrix Resurrections",
           "tmdb": {
             "id": 624860,
@@ -1082,31 +1068,49 @@
           }
         },
         {
+          "rank": 7,
+          "title": "The Animatrix",
+          "tmdb": {
+            "id": 55931,
+            "media_type": "movie",
+            "release_date": "2003-05-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Legally Blonde",
+          "tmdb": {
+            "id": 8835,
+            "media_type": "movie",
+            "release_date": "2001-07-13"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Children of a Lesser God",
+          "tmdb": {
+            "id": 1890,
+            "media_type": "movie",
+            "release_date": "1986-09-13"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Bride!",
           "tmdb": {
             "id": 1159831,
             "media_type": "movie",
             "release_date": "2026-03-04"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Jurassic World Dominion",
-          "tmdb": {
-            "id": 507086,
-            "media_type": "movie",
-            "release_date": "2022-06-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Google in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1203,10 +1207,10 @@
     },
     {
       "catalog_id": "catchplay.overall",
-      "heading": "TOP Overall on Catchplay in Indonesia on April 16, 2026",
+      "heading": "TOP Overall on Catchplay in Indonesia on April 17, 2026",
       "category": "overall",
       "platform": "Catchplay",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1303,10 +1307,10 @@
     },
     {
       "catalog_id": "catchplay.movies",
-      "heading": "TOP Movies on Catchplay in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Catchplay in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Catchplay",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1374,39 +1378,39 @@
         },
         {
           "rank": 8,
-          "title": "The Three Musketeers: D'Artagnan",
-          "tmdb": {
-            "id": 796185,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Moonfall",
-          "tmdb": {
-            "id": 406759,
-            "media_type": "movie",
-            "release_date": "2022-02-02"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Arwah",
           "tmdb": {
             "id": 1180865,
             "media_type": "movie",
             "release_date": "2025-07-05"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Hidden Face",
+          "tmdb": {
+            "id": 936245,
+            "media_type": "movie",
+            "release_date": "2024-11-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Reverence",
+          "tmdb": {
+            "id": 628301,
+            "media_type": "movie",
+            "release_date": "2019-04-08"
+          }
         }
       ]
     },
     {
       "catalog_id": "catchplay.series",
-      "heading": "TOP TV Shows on Catchplay in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Catchplay in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Catchplay",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1503,10 +1507,10 @@
     },
     {
       "catalog_id": "catchplay.rental-movies",
-      "heading": "TOP Rental Movies on Catchplay in Indonesia on April 16, 2026",
+      "heading": "TOP Rental Movies on Catchplay in Indonesia on April 17, 2026",
       "category": "rental movies",
       "platform": "Catchplay",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1603,10 +1607,10 @@
     },
     {
       "catalog_id": "vidio.overall",
-      "heading": "TOP Overall on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Overall on Vidio in Indonesia on April 17, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1695,10 +1699,10 @@
     },
     {
       "catalog_id": "vidio.overall-in-japanese",
-      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on April 17, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1784,21 +1788,21 @@
         },
         {
           "rank": 10,
-          "title": "Naruto",
+          "title": "New Dimension! Crayon Shinchan the Movie: Battle of Supernatural Powers ~Flying Sushi~",
           "tmdb": {
-            "id": 46260,
-            "media_type": "tv",
-            "release_date": "2002-10-03"
+            "id": 1059572,
+            "media_type": "movie",
+            "release_date": "2023-08-04"
           }
         }
       ]
     },
     {
       "catalog_id": "vidio.overall-in-korean",
-      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on April 17, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1839,15 +1843,6 @@
         },
         {
           "rank": 5,
-          "title": "Honour",
-          "tmdb": {
-            "id": 110758,
-            "media_type": "tv",
-            "release_date": "2020-09-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Oh My Ghost Clients",
           "tmdb": {
             "id": 233221,
@@ -1856,21 +1851,30 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Honour",
+          "tmdb": {
+            "id": 110758,
+            "media_type": "tv",
+            "release_date": "2020-09-28"
+          }
+        },
+        {
           "rank": 7,
+          "title": "The Outlaws",
+          "tmdb": {
+            "id": 136044,
+            "media_type": "tv",
+            "release_date": "2021-10-25"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Taxi Driver",
           "tmdb": {
             "id": 119769,
             "media_type": "tv",
             "release_date": "2021-04-09"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Holy Night: Demon Hunters",
-          "tmdb": {
-            "id": 793387,
-            "media_type": "movie",
-            "release_date": "2025-04-30"
           }
         },
         {
@@ -1884,21 +1888,21 @@
         },
         {
           "rank": 10,
-          "title": "The Outlaws",
+          "title": "Holy Night: Demon Hunters",
           "tmdb": {
-            "id": 136044,
-            "media_type": "tv",
-            "release_date": "2021-10-25"
+            "id": 793387,
+            "media_type": "movie",
+            "release_date": "2025-04-30"
           }
         }
       ]
     },
     {
       "catalog_id": "vidio.movies",
-      "heading": "TOP Movies on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Movies on Vidio in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1930,15 +1934,6 @@
         },
         {
           "rank": 4,
-          "title": "Alibii.com",
-          "tmdb": {
-            "id": 1306673,
-            "media_type": "movie",
-            "release_date": "2025-07-12"
-          }
-        },
-        {
-          "rank": 5,
           "title": "GJLS: Ibuku Ibu-Ibu",
           "tmdb": {
             "id": 1308412,
@@ -1947,25 +1942,16 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Alibii.com",
+          "tmdb": {
+            "id": 1306673,
+            "media_type": "movie",
+            "release_date": "2025-07-12"
+          }
+        },
+        {
           "rank": 6,
-          "title": "Fast X",
-          "tmdb": {
-            "id": 385687,
-            "media_type": "movie",
-            "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Mendadak Dangdut",
-          "tmdb": {
-            "id": 297327,
-            "media_type": "movie",
-            "release_date": "2006-08-10"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Chaos Walking",
           "tmdb": {
             "id": 412656,
@@ -1974,12 +1960,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Gak Nyangka..!!",
+          "rank": 7,
+          "title": "Fast X",
           "tmdb": {
-            "id": 1499565,
+            "id": 385687,
             "media_type": "movie",
-            "release_date": "2025-07-24"
+            "release_date": "2023-05-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Mendadak Dangdut",
+          "tmdb": {
+            "id": 297327,
+            "media_type": "movie",
+            "release_date": "2006-08-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Tiger: An Old Hunter's Tale",
+          "tmdb": {
+            "id": 363093,
+            "media_type": "movie",
+            "release_date": "2015-12-16"
           }
         },
         {
@@ -1995,10 +1999,10 @@
     },
     {
       "catalog_id": "vidio.movies-in-english",
-      "heading": "TOP Movies (in English) on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Movies (in English) on Vidio in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2021,20 +2025,20 @@
         },
         {
           "rank": 3,
-          "title": "Fast X",
-          "tmdb": {
-            "id": 385687,
-            "media_type": "movie",
-            "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Chaos Walking",
           "tmdb": {
             "id": 412656,
             "media_type": "movie",
             "release_date": "2021-02-24"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Fast X",
+          "tmdb": {
+            "id": 385687,
+            "media_type": "movie",
+            "release_date": "2023-05-17"
           }
         },
         {
@@ -2048,6 +2052,15 @@
         },
         {
           "rank": 6,
+          "title": "SAS: Red Notice",
+          "tmdb": {
+            "id": 595743,
+            "media_type": "movie",
+            "release_date": "2021-08-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -2056,21 +2069,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Fast X",
           "tmdb": {
             "id": 385687,
             "media_type": "movie",
             "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "SAS: Red Notice",
-          "tmdb": {
-            "id": 595743,
-            "media_type": "movie",
-            "release_date": "2021-08-11"
           }
         },
         {
@@ -2095,10 +2099,10 @@
     },
     {
       "catalog_id": "vidio.movies-in-indonesian",
-      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on April 17, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2112,20 +2116,20 @@
         },
         {
           "rank": 2,
-          "title": "Alibii.com",
-          "tmdb": {
-            "id": 1306673,
-            "media_type": "movie",
-            "release_date": "2025-07-12"
-          }
-        },
-        {
-          "rank": 3,
           "title": "GJLS: Ibuku Ibu-Ibu",
           "tmdb": {
             "id": 1308412,
             "media_type": "movie",
             "release_date": "2025-06-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Alibii.com",
+          "tmdb": {
+            "id": 1306673,
+            "media_type": "movie",
+            "release_date": "2025-07-12"
           }
         },
         {
@@ -2139,20 +2143,20 @@
         },
         {
           "rank": 5,
-          "title": "F9",
-          "tmdb": {
-            "id": 385128,
-            "media_type": "movie",
-            "release_date": "2021-05-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Cocote Tonggo",
           "tmdb": {
             "id": 1367952,
             "media_type": "movie",
             "release_date": "2025-05-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "F9",
+          "tmdb": {
+            "id": 385128,
+            "media_type": "movie",
+            "release_date": "2021-05-19"
           }
         },
         {
@@ -2195,10 +2199,10 @@
     },
     {
       "catalog_id": "vidio.series",
-      "heading": "TOP TV Shows on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows on Vidio in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2266,6 +2270,11 @@
         },
         {
           "rank": 8,
+          "title": "Open BO Lagi: Semakin Panas, Semakin Ganas",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
           "title": "Cinta Dalam Sujudku",
           "tmdb": {
             "id": 307429,
@@ -2274,31 +2283,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Pertaruhan The Series",
           "tmdb": {
             "id": 203834,
             "media_type": "tv",
             "release_date": "2022-06-27"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Doraemon",
-          "tmdb": {
-            "id": 65733,
-            "media_type": "tv",
-            "release_date": "2005-04-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "vidio.series-in-indonesian",
-      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on April 16, 2026",
+      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on April 17, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "April 16, 2026",
+      "date": "April 17, 2026",
       "title_count": 10,
       "entries": [
         {
