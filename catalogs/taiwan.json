@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/taiwan/",
-  "page_title": "TOP 10 on Streaming in Taiwan on April 17, 2026",
+  "page_title": "TOP 10 on Streaming in Taiwan on April 18, 2026",
   "region": "taiwan",
-  "date": "April 17, 2026",
-  "scraped_at_utc": "2026-04-17T15:52:04.422811+00:00",
+  "date": "April 18, 2026",
+  "scraped_at_utc": "2026-04-18T15:48:45.700683+00:00",
   "charts": [
     {
       "catalog_id": "friday.overall",
-      "heading": "TOP Overall on friDay in Taiwan on April 17, 2026",
+      "heading": "TOP Overall on friDay in Taiwan on April 18, 2026",
       "category": "overall",
       "platform": "friDay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -51,6 +51,15 @@
         },
         {
           "rank": 5,
+          "title": "A Moonlight Nights Passing",
+          "tmdb": {
+            "id": 314644,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Taxi Driver",
           "tmdb": {
             "id": 119769,
@@ -59,7 +68,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "You Quiz on the Block",
+          "tmdb": {
+            "id": 81978,
+            "media_type": "tv",
+            "release_date": "2018-08-29"
+          }
+        },
+        {
+          "rank": 8,
           "title": "1 Night and 2 Days",
           "tmdb": {
             "id": 30801,
@@ -68,30 +86,12 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Canned Mackerel Heads to Space",
-          "tmdb": {
-            "id": 315209,
-            "media_type": "tv",
-            "release_date": "2026-04-13"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "How Do You Play?",
           "tmdb": {
             "id": 91121,
             "media_type": "tv",
             "release_date": "2019-07-27"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Home Alone",
-          "tmdb": {
-            "id": 65282,
-            "media_type": "tv",
-            "release_date": "2013-03-22"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "friday.movies",
-      "heading": "TOP Movies on friDay in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on friDay in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "friDay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,60 +133,15 @@
         },
         {
           "rank": 3,
-          "title": "The Triplets of Belleville",
+          "title": "Holy Flame of the Martial World",
           "tmdb": {
-            "id": 9662,
+            "id": 74257,
             "media_type": "movie",
-            "release_date": "2003-06-11"
+            "release_date": "1983-06-10"
           }
         },
         {
           "rank": 4,
-          "title": "Sada",
-          "tmdb": {
-            "id": 1034977,
-            "media_type": "movie",
-            "release_date": "2021-10-12"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Emmanuelle 4",
-          "tmdb": {
-            "id": 40978,
-            "media_type": "movie",
-            "release_date": "1984-02-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Emmanuelle 2: Lantivierge",
-          "tmdb": {
-            "id": 28209,
-            "media_type": "movie",
-            "release_date": "1975-12-15"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Lost Paradise",
-          "tmdb": {
-            "id": 68606,
-            "media_type": "movie",
-            "release_date": "1997-05-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Never Give Up",
-          "tmdb": {
-            "id": 26868,
-            "media_type": "movie",
-            "release_date": "1978-10-07"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Monkey Goes West",
           "tmdb": {
             "id": 107908,
@@ -195,22 +150,67 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 5,
+          "title": "Emmanuelle 2: Lantivierge",
+          "tmdb": {
+            "id": 28209,
+            "media_type": "movie",
+            "release_date": "1975-12-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "In the Realm of the Senses",
+          "tmdb": {
+            "id": 5879,
+            "media_type": "movie",
+            "release_date": "1976-09-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Sada",
+          "tmdb": {
+            "id": 1034977,
+            "media_type": "movie",
+            "release_date": "2021-10-12"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Emmanuelle 4",
+          "tmdb": {
+            "id": 40978,
+            "media_type": "movie",
+            "release_date": "1984-02-15"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Goodbye Emmanuelle",
           "tmdb": {
             "id": 39412,
             "media_type": "movie",
             "release_date": "1977-10-14"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Mr. Vampire",
+          "tmdb": {
+            "id": 67342,
+            "media_type": "movie",
+            "release_date": "1985-11-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "friday.kids-overall",
-      "heading": "TOP Kids Overall on friDay in Taiwan on April 17, 2026",
+      "heading": "TOP Kids Overall on friDay in Taiwan on April 18, 2026",
       "category": "kids overall",
       "platform": "friDay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,15 +224,6 @@
         },
         {
           "rank": 2,
-          "title": "The Little Prince",
-          "tmdb": {
-            "id": 309809,
-            "media_type": "movie",
-            "release_date": "2015-07-29"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -241,25 +232,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Garfield Movie",
-          "tmdb": {
-            "id": 748783,
-            "media_type": "movie",
-            "release_date": "2024-04-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "K-On! The Movie",
-          "tmdb": {
-            "id": 120811,
-            "media_type": "movie",
-            "release_date": "2011-12-03"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
           "tmdb": {
             "id": 532067,
@@ -268,49 +241,72 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Triplets of Belleville",
+          "rank": 4,
+          "title": "K-On! The Movie",
           "tmdb": {
-            "id": 9662,
+            "id": 120811,
             "media_type": "movie",
-            "release_date": "2003-06-11"
+            "release_date": "2011-12-03"
           }
         },
         {
-          "rank": 8,
-          "title": "Detective Conan: The Scarlet Alibi",
+          "rank": 5,
+          "title": "Jujutsu Kaisen 0",
           "tmdb": {
-            "id": 801293,
+            "id": 810693,
             "media_type": "movie",
-            "release_date": "2021-02-11"
+            "release_date": "2021-12-24"
           }
         },
         {
-          "rank": 9,
-          "title": "New Dimension! Crayon Shinchan the Movie: Battle of Supernatural Powers ~Flying Sushi~",
-          "tmdb": {
-            "id": 1059572,
-            "media_type": "movie",
-            "release_date": "2023-08-04"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 6,
           "title": "Detective Conan",
           "tmdb": {
             "id": 30983,
             "media_type": "tv",
             "release_date": "1996-01-08"
           }
+        },
+        {
+          "rank": 7,
+          "title": "Crayon Shin-chan: Fierceness That Invites Storm! The Kasukabe Boys of the Evening Sun",
+          "tmdb": null
+        },
+        {
+          "rank": 8,
+          "title": "Detective Conan vs Kaito Kid",
+          "tmdb": {
+            "id": 1244064,
+            "media_type": "movie",
+            "release_date": "2024-01-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Beauty Water",
+          "tmdb": {
+            "id": 706712,
+            "media_type": "movie",
+            "release_date": "2020-09-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Flow",
+          "tmdb": {
+            "id": 608149,
+            "media_type": "movie",
+            "release_date": "2019-12-05"
+          }
         }
       ]
     },
     {
       "catalog_id": "friday.rental-movies",
-      "heading": "TOP Rental Movies on friDay in Taiwan on April 17, 2026",
+      "heading": "TOP Rental Movies on friDay in Taiwan on April 18, 2026",
       "category": "rental movies",
       "platform": "friDay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -378,11 +374,11 @@
         },
         {
           "rank": 8,
-          "title": "Boss",
+          "title": "Omniscient Reader: The Prophecy",
           "tmdb": {
-            "id": 45884,
-            "media_type": "tv",
-            "release_date": "2009-04-16"
+            "id": 1131759,
+            "media_type": "movie",
+            "release_date": "2025-07-23"
           }
         },
         {
@@ -396,25 +392,39 @@
         },
         {
           "rank": 10,
-          "title": "Ghastly",
+          "title": "Boss",
           "tmdb": {
-            "id": 702499,
-            "media_type": "movie",
-            "release_date": null
+            "id": 45884,
+            "media_type": "tv",
+            "release_date": "2009-04-16"
           }
         }
       ]
     },
     {
       "catalog_id": "friday.anime",
-      "heading": "TOP Anime on friDay in Taiwan on April 17, 2026",
+      "heading": "TOP Anime on friDay in Taiwan on April 18, 2026",
       "category": "anime",
       "platform": "friDay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Beginning After the End",
+          "tmdb": {
+            "id": 274671,
+            "media_type": "tv",
+            "release_date": "2025-04-02"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Always a Catch!: How I Punched My Way into Marrying a Prince",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
           "title": "KochiKame - The Movie: Save the Kachidoki Bridge!",
           "tmdb": {
             "id": 253407,
@@ -423,16 +433,25 @@
           }
         },
         {
-          "rank": 2,
-          "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
+          "rank": 4,
+          "title": "Re:ZERO -Starting Life in Another World-",
           "tmdb": {
-            "id": 213326,
+            "id": 65942,
             "media_type": "tv",
-            "release_date": "2023-07-07"
+            "release_date": "2016-04-04"
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
+          "title": "Classroom of the Elite",
+          "tmdb": {
+            "id": 72517,
+            "media_type": "tv",
+            "release_date": "2017-07-12"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Farming Life in Another World",
           "tmdb": {
             "id": 196285,
@@ -441,16 +460,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Marriage Toxin",
-          "tmdb": {
-            "id": 301944,
-            "media_type": "tv",
-            "release_date": "2026-04-07"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 7,
           "title": "Kusunoki's Garden of Gods",
           "tmdb": {
             "id": 296870,
@@ -459,25 +469,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "My Ribdiculous Reincarnation",
-          "tmdb": {
-            "id": 312522,
-            "media_type": "tv",
-            "release_date": "2026-04-08"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Wistoria: Wand and Sword",
-          "tmdb": {
-            "id": 245842,
-            "media_type": "tv",
-            "release_date": "2024-07-07"
-          }
-        },
-        {
           "rank": 8,
+          "title": "That Time I Got Reincarnated as a Slime",
+          "tmdb": {
+            "id": 82684,
+            "media_type": "tv",
+            "release_date": "2018-10-02"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Detective Conan",
           "tmdb": {
             "id": 30983,
@@ -486,31 +487,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "I Made Friends with the Second Prettiest Girl in My Class",
-          "tmdb": {
-            "id": 290019,
-            "media_type": "tv",
-            "release_date": "2026-04-07"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Frieren: Beyond Journey's End",
+          "title": "Jujutsu Kaisen",
           "tmdb": {
-            "id": 209867,
+            "id": 95479,
             "media_type": "tv",
-            "release_date": "2023-09-29"
+            "release_date": "2020-10-03"
           }
         }
       ]
     },
     {
       "catalog_id": "hami-video.overall",
-      "heading": "TOP Overall on Hami Video in Taiwan on April 17, 2026",
+      "heading": "TOP Overall on Hami Video in Taiwan on April 18, 2026",
       "category": "overall",
       "platform": "Hami Video",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -607,10 +599,10 @@
     },
     {
       "catalog_id": "hami-video.series",
-      "heading": "TOP TV Shows on Hami Video in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on Hami Video in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "Hami Video",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -699,10 +691,10 @@
     },
     {
       "catalog_id": "hami-video.rental-movies",
-      "heading": "TOP Rental Movies on Hami Video in Taiwan on April 17, 2026",
+      "heading": "TOP Rental Movies on Hami Video in Taiwan on April 18, 2026",
       "category": "rental movies",
       "platform": "Hami Video",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -743,24 +735,6 @@
         },
         {
           "rank": 5,
-          "title": "Invisible Nation",
-          "tmdb": {
-            "id": 901024,
-            "media_type": "movie",
-            "release_date": "2024-05-31"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Chamber of Secrets",
-          "tmdb": {
-            "id": 672,
-            "media_type": "movie",
-            "release_date": "2002-11-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Harry Potter and the Deathly Hallows: Part 2",
           "tmdb": {
             "id": 12445,
@@ -769,12 +743,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Now You See Me: Now You Don't",
+          "rank": 6,
+          "title": "Invisible Nation",
           "tmdb": {
-            "id": 425274,
+            "id": 901024,
             "media_type": "movie",
-            "release_date": "2025-11-12"
+            "release_date": "2024-05-31"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Harry Potter and the Deathly Hallows: Part 1",
+          "tmdb": {
+            "id": 12444,
+            "media_type": "movie",
+            "release_date": "2010-11-17"
           }
         },
         {
@@ -788,21 +780,21 @@
         },
         {
           "rank": 10,
-          "title": "Harry Potter and the Deathly Hallows: Part 1",
+          "title": "Harry Potter and the Goblet of Fire",
           "tmdb": {
-            "id": 12444,
+            "id": 674,
             "media_type": "movie",
-            "release_date": "2010-11-17"
+            "release_date": "2005-11-16"
           }
         }
       ]
     },
     {
       "catalog_id": "hami-video.anime",
-      "heading": "TOP Anime on Hami Video in Taiwan on April 17, 2026",
+      "heading": "TOP Anime on Hami Video in Taiwan on April 18, 2026",
       "category": "anime",
       "platform": "Hami Video",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -899,10 +891,10 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on Netflix in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -925,15 +917,6 @@
         },
         {
           "rank": 3,
-          "title": "Mudborn",
-          "tmdb": {
-            "id": 1526650,
-            "media_type": "movie",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "A Quiet Place: Day One",
           "tmdb": {
             "id": 762441,
@@ -942,7 +925,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Mudborn",
+          "tmdb": {
+            "id": 1526650,
+            "media_type": "movie",
+            "release_date": "2025-10-09"
+          }
+        },
+        {
           "rank": 5,
+          "title": "The Fall Guy",
+          "tmdb": {
+            "id": 746036,
+            "media_type": "movie",
+            "release_date": "2024-04-24"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Humint",
           "tmdb": {
             "id": 1268127,
@@ -951,7 +952,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
@@ -960,30 +961,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "180",
+          "tmdb": {
+            "id": 1659087,
+            "media_type": "movie",
+            "release_date": "2026-04-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Anaconda",
           "tmdb": {
             "id": 1234731,
             "media_type": "movie",
             "release_date": "2025-12-24"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Reign Over Me",
-          "tmdb": {
-            "id": 2355,
-            "media_type": "movie",
-            "release_date": "2007-03-22"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Sniper 2",
-          "tmdb": {
-            "id": 14245,
-            "media_type": "movie",
-            "release_date": "2004-03-26"
           }
         },
         {
@@ -999,10 +991,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on Netflix in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1043,11 +1035,11 @@
         },
         {
           "rank": 5,
-          "title": "Rebirth",
+          "title": "The Ramparts of Ice",
           "tmdb": {
-            "id": 278894,
+            "id": 283428,
             "media_type": "tv",
-            "release_date": "2026-04-08"
+            "release_date": "2026-04-02"
           }
         },
         {
@@ -1061,20 +1053,20 @@
         },
         {
           "rank": 7,
+          "title": "Rebirth",
+          "tmdb": {
+            "id": 278894,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Witch Hat Atelier",
           "tmdb": {
             "id": 196950,
             "media_type": "tv",
             "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Marriage Toxin",
-          "tmdb": {
-            "id": 301944,
-            "media_type": "tv",
-            "release_date": "2026-04-07"
           }
         },
         {
@@ -1099,10 +1091,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on HBO Max in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1116,6 +1108,15 @@
         },
         {
           "rank": 2,
+          "title": "Regretting You",
+          "tmdb": {
+            "id": 1327862,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Red Sonja",
           "tmdb": {
             "id": 13494,
@@ -1124,7 +1125,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Contagion",
           "tmdb": {
             "id": 39538,
@@ -1133,7 +1134,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Finding Harry: The Craft Behind the Magic",
           "tmdb": {
             "id": 1662432,
@@ -1142,7 +1143,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Astronaut",
           "tmdb": {
             "id": 1086260,
@@ -1151,21 +1152,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Meg 2: The Trench",
           "tmdb": {
             "id": 615656,
             "media_type": "movie",
             "release_date": "2023-08-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Baywatch",
-          "tmdb": {
-            "id": 339846,
-            "media_type": "movie",
-            "release_date": "2017-05-25"
           }
         },
         {
@@ -1188,25 +1180,34 @@
         },
         {
           "rank": 10,
-          "title": "King Kong",
+          "title": "Baywatch",
           "tmdb": {
-            "id": 254,
+            "id": 339846,
             "media_type": "movie",
-            "release_date": "2005-12-12"
+            "release_date": "2017-05-25"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on HBO Max in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Pitt",
+          "tmdb": {
+            "id": 250307,
+            "media_type": "tv",
+            "release_date": "2025-01-09"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
@@ -1215,7 +1216,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Yumi's Cells",
           "tmdb": {
             "id": 128995,
@@ -1224,7 +1225,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mad Concrete Dreams",
           "tmdb": {
             "id": 281965,
@@ -1233,21 +1234,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Village Barber",
           "tmdb": {
             "id": 312826,
             "media_type": "tv",
             "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Pitt",
-          "tmdb": {
-            "id": 250307,
-            "media_type": "tv",
-            "release_date": "2025-01-09"
           }
         },
         {
@@ -1261,6 +1253,15 @@
         },
         {
           "rank": 7,
+          "title": "Hacks",
+          "tmdb": {
+            "id": 124101,
+            "media_type": "tv",
+            "release_date": "2021-05-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "DTF St. Louis",
           "tmdb": {
             "id": 206828,
@@ -1269,7 +1270,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Rooster",
           "tmdb": {
             "id": 254953,
@@ -1278,31 +1279,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Boy Band Confidential",
-          "tmdb": {
-            "id": 317875,
-            "media_type": "tv",
-            "release_date": "2026-04-13"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Hacks",
+          "title": "Privileges",
           "tmdb": {
-            "id": 124101,
+            "id": 283853,
             "media_type": "tv",
-            "release_date": "2021-05-13"
+            "release_date": "2026-03-27"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Taiwan on April 17, 2026",
+      "heading": "TOP Overall on Disney+ in Taiwan on April 18, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1352,15 +1344,6 @@
         },
         {
           "rank": 6,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Zoo",
           "tmdb": {
             "id": 70299,
@@ -1369,16 +1352,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Haunted House Secrets",
           "tmdb": {
             "id": 252161,
@@ -1387,40 +1361,58 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Battle of Fates",
           "tmdb": {
             "id": 313289,
             "media_type": "tv",
             "release_date": "2026-02-11"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Star Wars: Maul - Shadow Lord",
+          "tmdb": {
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on Apple TV in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "F1",
           "tmdb": {
             "id": 911430,
             "media_type": "movie",
             "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
           }
         },
         {
@@ -1443,11 +1435,11 @@
         },
         {
           "rank": 5,
-          "title": "Eternity",
+          "title": "Wolfs",
           "tmdb": {
-            "id": 1259102,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2024-09-20"
           }
         },
         {
@@ -1461,24 +1453,15 @@
         },
         {
           "rank": 7,
-          "title": "The Family Plan",
+          "title": "Eternity",
           "tmdb": {
-            "id": 1029575,
+            "id": 1259102,
             "media_type": "movie",
-            "release_date": "2023-12-14"
+            "release_date": "2025-11-26"
           }
         },
         {
           "rank": 8,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -1487,22 +1470,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Instigators",
           "tmdb": {
             "id": 1059064,
             "media_type": "movie",
             "release_date": "2024-08-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan",
+          "tmdb": {
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on Apple TV in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1543,15 +1535,6 @@
         },
         {
           "rank": 5,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -1560,21 +1543,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Slow Horses",
+          "rank": 6,
+          "title": "Imperfect Women",
           "tmdb": {
-            "id": 95480,
+            "id": 108181,
             "media_type": "tv",
-            "release_date": "2022-04-01"
+            "release_date": "2026-03-17"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
             "media_type": "tv",
             "release_date": "2022-02-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
           }
         },
         {
@@ -1599,10 +1591,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on Apple TV Store in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1699,10 +1691,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on Google in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1799,14 +1791,32 @@
     },
     {
       "catalog_id": "myvideo.movies",
-      "heading": "TOP Movies on MyVideo in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on MyVideo in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "MyVideo",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Sons of the Neon Night",
+          "tmdb": {
+            "id": 478798,
+            "media_type": "movie",
+            "release_date": "2025-10-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Good Fortune",
+          "tmdb": {
+            "id": 1114967,
+            "media_type": "movie",
+            "release_date": "2025-10-14"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Wildcat",
           "tmdb": {
             "id": 1448560,
@@ -1815,7 +1825,25 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "title": "The Grey",
+          "tmdb": {
+            "id": 75174,
+            "media_type": "movie",
+            "release_date": "2012-01-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Pets on a Train",
+          "tmdb": {
+            "id": 1107216,
+            "media_type": "movie",
+            "release_date": "2025-07-02"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Ballerina",
           "tmdb": {
             "id": 541671,
@@ -1824,7 +1852,25 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 7,
+          "title": "Home Behind Bars",
+          "tmdb": {
+            "id": 1211635,
+            "media_type": "movie",
+            "release_date": "2025-10-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Resurrection",
+          "tmdb": {
+            "id": 872497,
+            "media_type": "movie",
+            "release_date": "2022-07-29"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Be My Friend",
           "tmdb": {
             "id": 1618062,
@@ -1833,76 +1879,22 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "Frozen",
           "tmdb": {
             "id": 109445,
             "media_type": "movie",
             "release_date": "2013-11-20"
           }
-        },
-        {
-          "rank": 5,
-          "title": "Die My Love",
-          "tmdb": {
-            "id": 1033148,
-            "media_type": "movie",
-            "release_date": "2025-10-06"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Killing them Softly",
-          "tmdb": {
-            "id": 64689,
-            "media_type": "movie",
-            "release_date": "2012-07-30"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Selepas Tahlil",
-          "tmdb": {
-            "id": 1355147,
-            "media_type": "movie",
-            "release_date": "2025-07-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Night Flower",
-          "tmdb": {
-            "id": 1499101,
-            "media_type": "movie",
-            "release_date": "2025-11-28"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Omniscient Reader: The Prophecy",
-          "tmdb": {
-            "id": 1131759,
-            "media_type": "movie",
-            "release_date": "2025-07-23"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Gift",
-          "tmdb": {
-            "id": 2046,
-            "media_type": "movie",
-            "release_date": "2000-12-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "myvideo.series",
-      "heading": "TOP TV Shows on MyVideo in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on MyVideo in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "MyVideo",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1925,15 +1917,6 @@
         },
         {
           "rank": 3,
-          "title": "City Founding Pioneer",
-          "tmdb": {
-            "id": 298607,
-            "media_type": "tv",
-            "release_date": "2026-03-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Concrete Market",
           "tmdb": {
             "id": 156293,
@@ -1942,21 +1925,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Prism Breaker",
+          "rank": 4,
+          "title": "City Founding Pioneer",
           "tmdb": {
-            "id": 283770,
+            "id": 298607,
             "media_type": "tv",
-            "release_date": "2025-05-07"
+            "release_date": "2026-03-28"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Honour",
           "tmdb": {
             "id": 110758,
             "media_type": "tv",
             "release_date": "2020-09-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Prism Breaker",
+          "tmdb": {
+            "id": 283770,
+            "media_type": "tv",
+            "release_date": "2025-05-07"
           }
         },
         {
@@ -1970,15 +1962,6 @@
         },
         {
           "rank": 8,
-          "title": "In Love with Loving You",
-          "tmdb": {
-            "id": 317216,
-            "media_type": "tv",
-            "release_date": "2026-03-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Oops! I’m in Jail",
           "tmdb": {
             "id": 301874,
@@ -1987,22 +1970,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Happiness Comes from Eating, Sleeping and Waiting",
+          "rank": 9,
+          "title": "In Love with Loving You",
           "tmdb": {
-            "id": 286627,
+            "id": 317216,
             "media_type": "tv",
-            "release_date": "2025-04-01"
+            "release_date": "2026-03-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sherlock",
+          "tmdb": {
+            "id": 19885,
+            "media_type": "tv",
+            "release_date": "2010-07-25"
           }
         }
       ]
     },
     {
       "catalog_id": "myvideo.kids-overall",
-      "heading": "TOP Kids Overall on MyVideo in Taiwan on April 17, 2026",
+      "heading": "TOP Kids Overall on MyVideo in Taiwan on April 18, 2026",
       "category": "kids overall",
       "platform": "MyVideo",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2016,11 +2008,11 @@
         },
         {
           "rank": 2,
-          "title": "Rilakkuma",
+          "title": "Paw Patrol: Mighty Pups",
           "tmdb": {
-            "id": 299144,
-            "media_type": "tv",
-            "release_date": "2026-04-04"
+            "id": 552095,
+            "media_type": "movie",
+            "release_date": "2018-10-04"
           }
         },
         {
@@ -2043,11 +2035,11 @@
         },
         {
           "rank": 5,
-          "title": "Paw Patrol: Mighty Pups",
+          "title": "Rilakkuma",
           "tmdb": {
-            "id": 552095,
-            "media_type": "movie",
-            "release_date": "2018-10-04"
+            "id": 299144,
+            "media_type": "tv",
+            "release_date": "2026-04-04"
           }
         },
         {
@@ -2070,15 +2062,6 @@
         },
         {
           "rank": 8,
-          "title": "Hey Duggee",
-          "tmdb": {
-            "id": 74280,
-            "media_type": "tv",
-            "release_date": "2014-12-17"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Rubble & Crew",
           "tmdb": {
             "id": 214875,
@@ -2087,22 +2070,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Pui Pui Molcar the Movie: MOLMAX",
           "tmdb": {
             "id": 1235424,
             "media_type": "movie",
             "release_date": "2024-11-29"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Hey Duggee",
+          "tmdb": {
+            "id": 74280,
+            "media_type": "tv",
+            "release_date": "2014-12-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "myvideo.entertainment-shows",
-      "heading": "TOP Entertainment Shows on MyVideo in Taiwan on April 17, 2026",
+      "heading": "TOP Entertainment Shows on MyVideo in Taiwan on April 18, 2026",
       "category": "entertainment shows",
       "platform": "MyVideo",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2134,17 +2126,17 @@
         },
         {
           "rank": 4,
+          "title": "Washa talks about Jin Yong",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
           "title": "Genius Go Go Go",
           "tmdb": {
             "id": 48376,
             "media_type": "tv",
             "release_date": null
           }
-        },
-        {
-          "rank": 5,
-          "title": "Washa talks about Jin Yong",
-          "tmdb": null
         },
         {
           "rank": 6,
@@ -2167,30 +2159,26 @@
         },
         {
           "rank": 9,
-          "title": "Big Cats 24/7",
-          "tmdb": {
-            "id": 259261,
-            "media_type": "tv",
-            "release_date": "2024-08-25"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Big Bang Show",
           "tmdb": {
             "id": 616144,
             "media_type": "movie",
             "release_date": "2014-01-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Having Fun Together",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "myvideo.anime",
-      "heading": "TOP Anime on MyVideo in Taiwan on April 17, 2026",
+      "heading": "TOP Anime on MyVideo in Taiwan on April 18, 2026",
       "category": "anime",
       "platform": "MyVideo",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2222,15 +2210,6 @@
         },
         {
           "rank": 4,
-          "title": "Re:ZERO -Starting Life in Another World-",
-          "tmdb": {
-            "id": 65942,
-            "media_type": "tv",
-            "release_date": "2016-04-04"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Kusunoki's Garden of Gods",
           "tmdb": {
             "id": 296870,
@@ -2239,7 +2218,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Beginning After the End",
           "tmdb": {
             "id": 274671,
@@ -2248,7 +2227,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Wistoria: Wand and Sword",
           "tmdb": {
             "id": 245842,
@@ -2257,9 +2236,22 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Monster Eater",
+          "tmdb": {
+            "id": 310921,
+            "media_type": "tv",
+            "release_date": "2026-04-03"
+          }
+        },
+        {
           "rank": 8,
-          "title": "Always a Catch!: How I Punched My Way into Marrying a Prince",
-          "tmdb": null
+          "title": "Re:ZERO -Starting Life in Another World-",
+          "tmdb": {
+            "id": 65942,
+            "media_type": "tv",
+            "release_date": "2016-04-04"
+          }
         },
         {
           "rank": 9,
@@ -2272,21 +2264,17 @@
         },
         {
           "rank": 10,
-          "title": "Ace of Diamond",
-          "tmdb": {
-            "id": 60761,
-            "media_type": "tv",
-            "release_date": "2013-10-06"
-          }
+          "title": "Always a Catch!: How I Punched My Way into Marrying a Prince",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "catchplay.overall",
-      "heading": "TOP Overall on Catchplay in Taiwan on April 17, 2026",
+      "heading": "TOP Overall on Catchplay in Taiwan on April 18, 2026",
       "category": "overall",
       "platform": "Catchplay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2383,10 +2371,10 @@
     },
     {
       "catalog_id": "catchplay.movies",
-      "heading": "TOP Movies on Catchplay in Taiwan on April 17, 2026",
+      "heading": "TOP Movies on Catchplay in Taiwan on April 18, 2026",
       "category": "movies",
       "platform": "Catchplay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2483,10 +2471,10 @@
     },
     {
       "catalog_id": "catchplay.series",
-      "heading": "TOP TV Shows on Catchplay in Taiwan on April 17, 2026",
+      "heading": "TOP TV Shows on Catchplay in Taiwan on April 18, 2026",
       "category": "tv shows",
       "platform": "Catchplay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2583,10 +2571,10 @@
     },
     {
       "catalog_id": "catchplay.rental-movies",
-      "heading": "TOP Rental Movies on Catchplay in Taiwan on April 17, 2026",
+      "heading": "TOP Rental Movies on Catchplay in Taiwan on April 18, 2026",
       "category": "rental movies",
       "platform": "Catchplay",
-      "date": "April 17, 2026",
+      "date": "April 18, 2026",
       "title_count": 10,
       "entries": [
         {
