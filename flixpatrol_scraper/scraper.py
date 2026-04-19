@@ -511,19 +511,27 @@ def _slugify_platform(platform: str) -> str:
     return normalized.strip("-")
 
 
+KNOWN_CATEGORIES = {
+    "movies": "movies",
+    "tv shows": "series",
+    "kids movies": "kids-movies",
+    "overall": "overall",
+}
+
+
 def _slugify_label(label: str) -> str:
     base_label = label
     qualifier = ""
+
     if " (" in label and label.endswith(")"):
         base_label, qualifier = label[:-1].split(" (", 1)
 
-    normalized_base = {
-        "movies": "movies",
-        "tv shows": "series",
-        "kids movies": "kids-movies",
-        "kids tv shows": "kids-series",
-        "overall": "overall",
-    }.get(base_label.casefold(), _slugify_text(base_label))
+    base_key = base_label.casefold()
+
+    if base_key in KNOWN_CATEGORIES:
+        return KNOWN_CATEGORIES[base_key]
+
+    normalized_base = _slugify_text(base_label)
 
     if not qualifier:
         return normalized_base
