@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/nigeria/",
-  "page_title": "TOP 10 on Streaming in Nigeria on April 24, 2026",
+  "page_title": "TOP 10 on Streaming in Nigeria on April 25, 2026",
   "region": "nigeria",
-  "date": "April 24, 2026",
-  "scraped_at_utc": "2026-04-24T15:55:09.405659+00:00",
+  "date": "April 25, 2026",
+  "scraped_at_utc": "2026-04-25T15:48:16.067979+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Nigeria on April 24, 2026",
+      "heading": "TOP Movies on Netflix in Nigeria on April 25, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Apex",
+          "tmdb": {
+            "id": 1318447,
+            "media_type": "movie",
+            "release_date": "2026-04-24"
+          }
+        },
+        {
+          "rank": 2,
           "title": "180",
           "tmdb": {
             "id": 1659087,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Crescent City",
           "tmdb": {
             "id": 1245708,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Behind the Scenes",
           "tmdb": {
             "id": 488579,
@@ -41,7 +50,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Roommates",
           "tmdb": {
             "id": 1511057,
@@ -50,7 +59,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Thrash",
           "tmdb": {
             "id": 1290417,
@@ -59,7 +68,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Ustaad Bhagat Singh",
           "tmdb": {
             "id": 868668,
@@ -68,7 +77,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Superman Returns",
+          "tmdb": {
+            "id": 1452,
+            "media_type": "movie",
+            "release_date": "2006-06-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Furiosa: A Mad Max Saga",
           "tmdb": {
             "id": 786892,
@@ -77,40 +95,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Shooter",
-          "tmdb": {
-            "id": 7485,
-            "media_type": "movie",
-            "release_date": "2007-03-22"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Godzilla x Kong: The New Empire",
-          "tmdb": {
-            "id": 823464,
-            "media_type": "movie",
-            "release_date": "2024-03-27"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Watchers",
+          "title": "Vacation",
           "tmdb": {
-            "id": 1086747,
+            "id": 296099,
             "media_type": "movie",
-            "release_date": "2024-06-06"
+            "release_date": "2015-07-28"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Nigeria on April 24, 2026",
+      "heading": "TOP TV Shows on Netflix in Nigeria on April 25, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,6 +142,15 @@
         },
         {
           "rank": 4,
+          "title": "If Wishes Could Kill",
+          "tmdb": {
+            "id": 285838,
+            "media_type": "tv",
+            "release_date": "2026-04-24"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Bandi",
           "tmdb": {
             "id": 269161,
@@ -150,34 +159,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Bloodhounds",
-          "tmdb": {
-            "id": 127529,
-            "media_type": "tv",
-            "release_date": "2023-06-09"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Million Dollar Secret",
-          "tmdb": {
-            "id": 285205,
-            "media_type": "tv",
-            "release_date": "2025-03-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Fake Profile",
-          "tmdb": {
-            "id": 227371,
-            "media_type": "tv",
-            "release_date": "2023-05-31"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Running Point",
           "tmdb": {
             "id": 244623,
@@ -186,31 +168,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "BEEF",
+          "rank": 7,
+          "title": "Bloodhounds",
           "tmdb": {
-            "id": 154385,
+            "id": 127529,
             "media_type": "tv",
-            "release_date": "2023-04-06"
+            "release_date": "2023-06-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Million Dollar Secret",
+          "tmdb": {
+            "id": 285205,
+            "media_type": "tv",
+            "release_date": "2025-03-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Fake Profile",
+          "tmdb": {
+            "id": 227371,
+            "media_type": "tv",
+            "release_date": "2023-05-31"
           }
         },
         {
           "rank": 10,
-          "title": "Beauty in Black",
+          "title": "Stranger Things: Tales from '85",
           "tmdb": {
-            "id": 246246,
+            "id": 224263,
             "media_type": "tv",
-            "release_date": "2024-10-24"
+            "release_date": "2026-04-23"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Nigeria on April 24, 2026",
+      "heading": "TOP Movies on Amazon Prime in Nigeria on April 25, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -287,48 +287,48 @@
         },
         {
           "rank": 9,
+          "title": "Mercy",
+          "tmdb": {
+            "id": 1236153,
+            "media_type": "movie",
+            "release_date": "2026-01-20"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Submarine",
           "tmdb": {
             "id": 49020,
             "media_type": "movie",
             "release_date": "2011-03-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Anaconda: Blood Coil",
-          "tmdb": {
-            "id": 1559628,
-            "media_type": "movie",
-            "release_date": "2026-01-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Nigeria on April 24, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Nigeria on April 25, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -342,15 +342,6 @@
         },
         {
           "rank": 4,
-          "title": "56 Days",
-          "tmdb": {
-            "id": 241372,
-            "media_type": "tv",
-            "release_date": "2026-02-18"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Siren's Kiss",
           "tmdb": {
             "id": 310800,
@@ -359,25 +350,16 @@
           }
         },
         {
+          "rank": 5,
+          "title": "56 Days",
+          "tmdb": {
+            "id": 241372,
+            "media_type": "tv",
+            "release_date": "2026-02-18"
+          }
+        },
+        {
           "rank": 6,
-          "title": "The Mighty Nein",
-          "tmdb": {
-            "id": 219080,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "SHE Must Be Obeyed",
-          "tmdb": {
-            "id": 235728,
-            "media_type": "tv",
-            "release_date": "2023-09-28"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
@@ -386,21 +368,39 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Gen V",
+          "rank": 7,
+          "title": "The Mighty Nein",
           "tmdb": {
-            "id": 205715,
+            "id": 219080,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "SHE Must Be Obeyed",
+          "tmdb": {
+            "id": 235728,
             "media_type": "tv",
             "release_date": "2023-09-28"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Originals",
           "tmdb": {
             "id": 46896,
             "media_type": "tv",
             "release_date": "2013-10-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Terminal List: Dark Wolf",
+          "tmdb": {
+            "id": 219760,
+            "media_type": "tv",
+            "release_date": "2025-08-27"
           }
         }
       ]

@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/malta/",
-  "page_title": "TOP 10 on Streaming in Malta on April 24, 2026",
+  "page_title": "TOP 10 on Streaming in Malta on April 25, 2026",
   "region": "malta",
-  "date": "April 24, 2026",
-  "scraped_at_utc": "2026-04-24T15:54:57.967304+00:00",
+  "date": "April 25, 2026",
+  "scraped_at_utc": "2026-04-25T15:48:04.705610+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Malta on April 24, 2026",
+      "heading": "TOP Movies on Netflix in Malta on April 25, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Apex",
+          "tmdb": {
+            "id": 1318447,
+            "media_type": "movie",
+            "release_date": "2026-04-24"
+          }
+        },
+        {
+          "rank": 2,
           "title": "180",
           "tmdb": {
             "id": 1659087,
@@ -23,7 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Twisted",
+          "tmdb": {
+            "id": 1373198,
+            "media_type": "movie",
+            "release_date": "2026-02-06"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Roommates",
           "tmdb": {
             "id": 1511057,
@@ -32,7 +50,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "The Interpreter",
           "tmdb": {
             "id": 179,
@@ -41,34 +59,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Untold: The Shooting at Hawthorne Hill",
-          "tmdb": {
-            "id": 1641966,
-            "media_type": "movie",
-            "release_date": "2026-04-21"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Thrash",
-          "tmdb": {
-            "id": 1290417,
-            "media_type": "movie",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Speak No Evil",
-          "tmdb": {
-            "id": 1114513,
-            "media_type": "movie",
-            "release_date": "2024-09-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Wild Robot",
           "tmdb": {
             "id": 1184918,
@@ -77,40 +68,49 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Thrash",
+          "tmdb": {
+            "id": 1290417,
+            "media_type": "movie",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Speak No Evil",
+          "tmdb": {
+            "id": 1114513,
+            "media_type": "movie",
+            "release_date": "2024-09-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Untold: The Shooting at Hawthorne Hill",
+          "tmdb": {
+            "id": 1641966,
+            "media_type": "movie",
+            "release_date": "2026-04-21"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Shall We Dance",
           "tmdb": {
             "id": 1516744,
             "media_type": "movie",
             "release_date": "2014-02-09"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Change-Up",
-          "tmdb": {
-            "id": 49520,
-            "media_type": "movie",
-            "release_date": "2011-08-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Shooter",
-          "tmdb": {
-            "id": 7485,
-            "media_type": "movie",
-            "release_date": "2007-03-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Malta on April 24, 2026",
+      "heading": "TOP TV Shows on Netflix in Malta on April 25, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,15 @@
         },
         {
           "rank": 2,
-          "title": "Million Dollar Secret",
+          "title": "Running Point",
           "tmdb": {
-            "id": 285205,
+            "id": 244623,
             "media_type": "tv",
-            "release_date": "2025-03-26"
+            "release_date": "2025-02-27"
           }
         },
         {
           "rank": 3,
-          "title": "Ronaldinho: The One and Only",
-          "tmdb": {
-            "id": 316544,
-            "media_type": "tv",
-            "release_date": "2026-04-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Cleaning Lady",
           "tmdb": {
             "id": 125282,
@@ -150,12 +141,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Running Point",
+          "rank": 4,
+          "title": "Million Dollar Secret",
           "tmdb": {
-            "id": 244623,
+            "id": 285205,
             "media_type": "tv",
-            "release_date": "2025-02-27"
+            "release_date": "2025-03-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ronaldinho: The One and Only",
+          "tmdb": {
+            "id": 316544,
+            "media_type": "tv",
+            "release_date": "2026-04-16"
           }
         },
         {
@@ -178,20 +178,20 @@
         },
         {
           "rank": 8,
-          "title": "The Law According to Lidia Poët",
-          "tmdb": {
-            "id": 218896,
-            "media_type": "tv",
-            "release_date": "2023-02-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Stranger Things: Tales from '85",
           "tmdb": {
             "id": 224263,
             "media_type": "tv",
             "release_date": "2026-04-23"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Law According to Lidia Poët",
+          "tmdb": {
+            "id": 218896,
+            "media_type": "tv",
+            "release_date": "2023-02-15"
           }
         },
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Malta on April 24, 2026",
+      "heading": "TOP Overall on Disney+ in Malta on April 25, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,15 +233,6 @@
         },
         {
           "rank": 3,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Modern Family",
           "tmdb": {
             "id": 1421,
@@ -250,16 +241,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "How I Met Your Mother",
+          "rank": 4,
+          "title": "Daredevil: Born Again",
           "tmdb": {
-            "id": 1100,
+            "id": 202555,
             "media_type": "tv",
-            "release_date": "2005-09-19"
+            "release_date": "2025-03-04"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Family Guy",
           "tmdb": {
             "id": 1434,
@@ -268,12 +259,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Desperate Housewives",
+          "rank": 6,
+          "title": "How I Met Your Mother",
           "tmdb": {
-            "id": 693,
+            "id": 1100,
             "media_type": "tv",
-            "release_date": "2004-10-03"
+            "release_date": "2005-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
           }
         },
         {
@@ -283,11 +283,11 @@
         },
         {
           "rank": 9,
-          "title": "Zootopia 2",
+          "title": "Desperate Housewives",
           "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
+            "id": 693,
+            "media_type": "tv",
+            "release_date": "2004-10-03"
           }
         },
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Malta on April 24, 2026",
+      "heading": "TOP Movies on Apple TV in Malta on April 25, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -338,15 +338,24 @@
         },
         {
           "rank": 4,
-          "title": "The Family Plan 2",
+          "title": "The Instigators",
           "tmdb": {
-            "id": 1363123,
+            "id": 1059064,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2024-08-02"
           }
         },
         {
           "rank": 5,
+          "title": "Argylle",
+          "tmdb": {
+            "id": 848538,
+            "media_type": "movie",
+            "release_date": "2024-01-31"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -355,7 +364,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
@@ -364,62 +373,44 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Blitz",
-          "tmdb": {
-            "id": 55846,
-            "media_type": "movie",
-            "release_date": "2011-05-20"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Fountain of Youth",
+          "title": "Finch",
           "tmdb": {
-            "id": 1098006,
+            "id": 522402,
             "media_type": "movie",
-            "release_date": "2025-05-19"
+            "release_date": "2021-11-04"
           }
         },
         {
           "rank": 9,
-          "title": "Wolfs",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 877817,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2025-11-11"
           }
         },
         {
           "rank": 10,
-          "title": "Wolfwalkers",
+          "title": "Fly Me to the Moon",
           "tmdb": {
-            "id": 441130,
+            "id": 956842,
             "media_type": "movie",
-            "release_date": "2020-10-26"
+            "release_date": "2024-07-10"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Malta on April 24, 2026",
+      "heading": "TOP TV Shows on Apple TV in Malta on April 25, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -428,34 +419,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Criminal Record",
-          "tmdb": {
-            "id": 204490,
-            "media_type": "tv",
-            "release_date": "2024-01-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -464,12 +428,48 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 3,
+          "title": "Imperfect Women",
+          "tmdb": {
+            "id": 108181,
+            "media_type": "tv",
+            "release_date": "2026-03-17"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Margo's Got Money Troubles",
+          "tmdb": {
+            "id": 245318,
+            "media_type": "tv",
+            "release_date": "2026-04-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
+          }
+        },
+        {
+          "rank": 6,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
           }
         },
         {
@@ -503,50 +503,23 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Malta on April 24, 2026",
+      "heading": "TOP Movies on Apple TV Store in Malta on April 25, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 24, 2026",
+      "date": "April 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Avatar: Fire and Ash",
+          "title": "War Dogs",
           "tmdb": {
-            "id": 83533,
+            "id": 308266,
             "media_type": "movie",
-            "release_date": "2025-12-17"
+            "release_date": "2016-08-18"
           }
         },
         {
           "rank": 2,
-          "title": "Serpico",
-          "tmdb": {
-            "id": 9040,
-            "media_type": "movie",
-            "release_date": "1973-12-18"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Verdict",
-          "tmdb": {
-            "id": 24226,
-            "media_type": "movie",
-            "release_date": "1982-12-08"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "American Made",
-          "tmdb": {
-            "id": 337170,
-            "media_type": "movie",
-            "release_date": "2017-08-18"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
@@ -555,48 +528,75 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Lord of the Rings: The Two Towers",
+          "rank": 3,
+          "title": "American Made",
           "tmdb": {
-            "id": 121,
+            "id": 337170,
             "media_type": "movie",
-            "release_date": "2002-12-18"
+            "release_date": "2017-08-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Dark Knight",
+          "tmdb": {
+            "id": 155,
+            "media_type": "movie",
+            "release_date": "2008-07-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Phantom of the Opera at the Royal Albert Hall",
+          "tmdb": {
+            "id": 76115,
+            "media_type": "movie",
+            "release_date": "2011-09-27"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Grease",
+          "tmdb": {
+            "id": 621,
+            "media_type": "movie",
+            "release_date": "1978-06-16"
           }
         },
         {
           "rank": 7,
-          "title": "Scooby-Doo! and the Loch Ness Monster",
+          "title": "Fight Club",
           "tmdb": {
-            "id": 12902,
+            "id": 550,
             "media_type": "movie",
-            "release_date": "2004-05-20"
+            "release_date": "1999-10-15"
           }
         },
         {
           "rank": 8,
-          "title": "Misery",
+          "title": "The Bodyguard",
           "tmdb": {
-            "id": 1700,
+            "id": 619,
             "media_type": "movie",
-            "release_date": "1990-11-30"
+            "release_date": "1992-11-25"
           }
         },
         {
           "rank": 9,
-          "title": "Marathon Man",
+          "title": "How to Train Your Dragon",
           "tmdb": {
-            "id": 10518,
+            "id": 1087192,
             "media_type": "movie",
-            "release_date": "1976-10-08"
+            "release_date": "2025-06-06"
           }
         },
         {
           "rank": 10,
-          "title": "Klute",
+          "title": "Bajo el mismo techo",
           "tmdb": {
-            "id": 466,
+            "id": 555657,
             "media_type": "movie",
-            "release_date": "1971-06-23"
+            "release_date": "2019-02-01"
           }
         }
       ]
