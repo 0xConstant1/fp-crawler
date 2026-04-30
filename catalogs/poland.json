@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/poland/",
-  "page_title": "TOP 10 on Streaming in Poland on April 29, 2026",
+  "page_title": "TOP 10 on Streaming in Poland on April 30, 2026",
   "region": "poland",
-  "date": "April 29, 2026",
-  "scraped_at_utc": "2026-04-29T16:09:37.259334+00:00",
+  "date": "April 30, 2026",
+  "scraped_at_utc": "2026-04-30T16:04:05.391461+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Poland on April 29, 2026",
+      "heading": "TOP Movies on Netflix in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The In-Laws 3",
+          "tmdb": {
+            "id": 1379458,
+            "media_type": "movie",
+            "release_date": "2025-09-12"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -23,7 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Je m'appelle Agneta",
+          "tmdb": {
+            "id": 829487,
+            "media_type": "movie",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 4,
           "title": "180",
           "tmdb": {
             "id": 1659087,
@@ -32,30 +50,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Roommates",
           "tmdb": {
             "id": 1511057,
             "media_type": "movie",
             "release_date": "2026-04-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "It Takes a Village",
-          "tmdb": {
-            "id": 1561758,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Psy",
-          "tmdb": {
-            "id": 18575,
-            "media_type": "movie",
-            "release_date": "1992-11-20"
           }
         },
         {
@@ -69,48 +69,48 @@
         },
         {
           "rank": 7,
-          "title": "Yiya Murano: Death at Tea Time",
+          "title": "It Takes a Village",
           "tmdb": {
-            "id": 1661439,
+            "id": 1561758,
             "media_type": "movie",
-            "release_date": "2026-04-16"
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 8,
-          "title": "The Interpreter",
+          "title": "Psy",
           "tmdb": {
-            "id": 179,
+            "id": 18575,
             "media_type": "movie",
-            "release_date": "2005-04-08"
+            "release_date": "1992-11-20"
           }
         },
         {
           "rank": 9,
-          "title": "Shrek",
+          "title": "The In-Laws",
           "tmdb": {
-            "id": 808,
+            "id": 5146,
             "media_type": "movie",
-            "release_date": "2001-05-18"
+            "release_date": "2003-05-23"
           }
         },
         {
           "rank": 10,
-          "title": "Psoty",
+          "title": "The In-Laws 2",
           "tmdb": {
-            "id": 1584452,
+            "id": 1043912,
             "media_type": "movie",
-            "release_date": "2026-01-16"
+            "release_date": "2023-09-15"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on Netflix in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,6 +133,15 @@
         },
         {
           "rank": 3,
+          "title": "Should I Marry A Murderer?",
+          "tmdb": {
+            "id": 318262,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Running Point",
           "tmdb": {
             "id": 244623,
@@ -141,25 +150,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Staircase",
-          "tmdb": {
-            "id": 122196,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Santita",
-          "tmdb": {
-            "id": 290230,
-            "media_type": "tv",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "If Wishes Could Kill",
           "tmdb": {
             "id": 285838,
@@ -168,7 +159,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Staircase",
+          "tmdb": {
+            "id": 122196,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Santita",
+          "tmdb": {
+            "id": 290230,
+            "media_type": "tv",
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Stranger Things: Tales from '85",
           "tmdb": {
             "id": 224263,
@@ -177,28 +186,19 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Fake Profile",
-          "tmdb": {
-            "id": 227371,
-            "media_type": "tv",
-            "release_date": "2023-05-31"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Salish & Jordan Matter",
+          "title": "Million Dollar Secret",
           "tmdb": {
-            "id": 318906,
+            "id": 285205,
             "media_type": "tv",
-            "release_date": "2026-04-11"
+            "release_date": "2025-03-26"
           }
         },
         {
           "rank": 10,
-          "title": "Hulk Hogan: Real American",
+          "title": "Sold Out on You",
           "tmdb": {
-            "id": 318880,
+            "id": 287011,
             "media_type": "tv",
             "release_date": "2026-04-22"
           }
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Poland on April 29, 2026",
+      "heading": "TOP Kids Movies on Netflix in Poland on April 30, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,20 +224,20 @@
         },
         {
           "rank": 2,
-          "title": "Psoty",
-          "tmdb": {
-            "id": 1584452,
-            "media_type": "movie",
-            "release_date": "2026-01-16"
-          }
-        },
-        {
-          "rank": 3,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
             "media_type": "movie",
             "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Psoty",
+          "tmdb": {
+            "id": 1584452,
+            "media_type": "movie",
+            "release_date": "2026-01-16"
           }
         },
         {
@@ -251,6 +251,15 @@
         },
         {
           "rank": 5,
+          "title": "Migration",
+          "tmdb": {
+            "id": 940551,
+            "media_type": "movie",
+            "release_date": "2023-12-06"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Hotel Transylvania 3: Summer Vacation",
           "tmdb": {
             "id": 400155,
@@ -259,25 +268,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Hotel Transylvania 2",
-          "tmdb": {
-            "id": 159824,
-            "media_type": "movie",
-            "release_date": "2015-09-21"
-          }
-        },
-        {
           "rank": 7,
-          "title": "The Grinch",
-          "tmdb": {
-            "id": 360920,
-            "media_type": "movie",
-            "release_date": "2018-11-08"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Minions",
           "tmdb": {
             "id": 211672,
@@ -286,31 +277,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Hotel Transylvania 2",
+          "tmdb": {
+            "id": 159824,
+            "media_type": "movie",
+            "release_date": "2015-09-21"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Despicable Me 3",
           "tmdb": {
             "id": 324852,
             "media_type": "movie",
             "release_date": "2017-06-15"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Migration",
-          "tmdb": {
-            "id": 940551,
-            "media_type": "movie",
-            "release_date": "2023-12-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Poland on April 29, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Poland on April 30, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -360,15 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Dr. Seuss's Horton!",
-          "tmdb": {
-            "id": 293205,
-            "media_type": "tv",
-            "release_date": "2025-10-06"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Booba",
           "tmdb": {
             "id": 81700,
@@ -377,7 +368,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
@@ -386,12 +377,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The Creature Cases",
           "tmdb": {
             "id": 195407,
             "media_type": "tv",
             "release_date": "2022-04-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Poland on April 29, 2026",
+      "heading": "TOP Movies on HBO Max in Poland on April 30, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,15 +442,6 @@
         },
         {
           "rank": 4,
-          "title": "Jumanji: Welcome to the Jungle",
-          "tmdb": {
-            "id": 353486,
-            "media_type": "movie",
-            "release_date": "2017-12-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Pixels",
           "tmdb": {
             "id": 257344,
@@ -459,16 +450,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Creator",
+          "rank": 5,
+          "title": "Jumanji: Welcome to the Jungle",
           "tmdb": {
-            "id": 670292,
+            "id": 353486,
             "media_type": "movie",
-            "release_date": "2023-09-27"
+            "release_date": "2017-12-09"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "My Night",
           "tmdb": {
             "id": 854363,
@@ -477,12 +468,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Doll",
+          "rank": 7,
+          "title": "The Creator",
           "tmdb": {
-            "id": 1309396,
+            "id": 670292,
             "media_type": "movie",
-            "release_date": "2026-04-22"
+            "release_date": "2023-09-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "We're the Millers",
+          "tmdb": {
+            "id": 138832,
+            "media_type": "movie",
+            "release_date": "2013-08-07"
           }
         },
         {
@@ -496,21 +496,21 @@
         },
         {
           "rank": 10,
-          "title": "We're the Millers",
+          "title": "The Doll",
           "tmdb": {
-            "id": 138832,
+            "id": 1309396,
             "media_type": "movie",
-            "release_date": "2013-08-07"
+            "release_date": "2026-04-22"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on HBO Max in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -520,24 +520,6 @@
         },
         {
           "rank": 2,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Królowa przetrwania",
           "tmdb": {
             "id": 242884,
@@ -546,7 +528,43 @@
           }
         },
         {
+          "rank": 3,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Kanapowczynie",
+          "tmdb": {
+            "id": 235933,
+            "media_type": "tv",
+            "release_date": "2023-09-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Skok na głęboką wodę",
+          "tmdb": {
+            "id": 315773,
+            "media_type": "tv",
+            "release_date": "2026-03-03"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Na Wspólnej",
           "tmdb": {
             "id": 14750,
@@ -555,39 +573,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Traitors. Zdrajcy",
-          "tmdb": {
-            "id": 246125,
-            "media_type": "tv",
-            "release_date": "2024-02-28"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Gogglebox",
-          "tmdb": {
-            "id": 55808,
-            "media_type": "tv",
-            "release_date": "2013-03-07"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Bitwa o gości",
+          "title": "The Other Bennet Sister",
           "tmdb": {
-            "id": 239183,
+            "id": 273866,
             "media_type": "tv",
-            "release_date": "2023-10-01"
+            "release_date": "2026-03-15"
           }
         },
         {
           "rank": 9,
-          "title": "Kanapowczynie",
+          "title": "Zakup w ciemno",
           "tmdb": {
-            "id": 235933,
+            "id": 235010,
             "media_type": "tv",
-            "release_date": "2023-09-12"
+            "release_date": "2023-03-01"
           }
         },
         {
@@ -603,46 +603,14 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Poland on April 29, 2026",
+      "heading": "TOP Overall on Disney+ in Poland on April 30, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Devil Wears Prada 2: A Special Look",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
-          "title": "Chernobyl: Inside The Meltdown",
-          "tmdb": {
-            "id": 318273,
-            "media_type": "tv",
-            "release_date": "2026-04-19"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -651,16 +619,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Secrets of the Bees",
+          "rank": 2,
+          "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
-            "id": 218274,
+            "id": 289219,
             "media_type": "tv",
-            "release_date": "2026-03-31"
+            "release_date": "2026-04-06"
           }
         },
         {
-          "rank": 7,
+          "rank": 3,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
@@ -669,7 +637,30 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "title": "Chernobyl: Inside The Meltdown",
+          "tmdb": {
+            "id": 318273,
+            "media_type": "tv",
+            "release_date": "2026-04-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Devil Wears Prada 2: A Special Look",
+          "tmdb": null
+        },
+        {
+          "rank": 6,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 7,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -678,31 +669,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "The Devil Wears Prada 2: Red Carpet Live",
           "tmdb": {
             "id": 1673568,
             "media_type": "movie",
             "release_date": "2026-04-20"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Secrets of the Bees",
+          "tmdb": {
+            "id": 218274,
+            "media_type": "tv",
+            "release_date": "2026-03-31"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Predator: Badlands",
+          "tmdb": {
+            "id": 1242898,
+            "media_type": "movie",
+            "release_date": "2025-11-05"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Poland on April 29, 2026",
+      "heading": "TOP Movies on Disney+ in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -730,15 +730,6 @@
         },
         {
           "rank": 4,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Predator: Badlands",
           "tmdb": {
             "id": 1242898,
@@ -747,7 +738,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Despicable Me 2",
+          "tmdb": {
+            "id": 93456,
+            "media_type": "movie",
+            "release_date": "2013-06-26"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Ralph Breaks the Internet",
+          "tmdb": {
+            "id": 404368,
+            "media_type": "movie",
+            "release_date": "2018-11-20"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Avengers: Age of Ultron",
           "tmdb": {
             "id": 99861,
@@ -756,7 +765,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Deadpool & Wolverine",
           "tmdb": {
             "id": 533535,
@@ -765,71 +774,35 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Despicable Me",
-          "tmdb": {
-            "id": 20352,
-            "media_type": "movie",
-            "release_date": "2010-07-08"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Brave",
-          "tmdb": {
-            "id": 62177,
-            "media_type": "movie",
-            "release_date": "2012-06-21"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Despicable Me",
+          "tmdb": {
+            "id": 20352,
+            "media_type": "movie",
+            "release_date": "2010-07-08"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on Disney+ in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Chernobyl: Inside The Meltdown",
-          "tmdb": {
-            "id": 318273,
-            "media_type": "tv",
-            "release_date": "2026-04-19"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "High Potential",
-          "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -838,16 +811,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Secrets of the Bees",
+          "rank": 2,
+          "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
-            "id": 218274,
+            "id": 289219,
             "media_type": "tv",
-            "release_date": "2026-03-31"
+            "release_date": "2026-04-06"
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
@@ -856,16 +829,34 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "rank": 4,
+          "title": "Chernobyl: Inside The Meltdown",
           "tmdb": {
-            "id": 279471,
+            "id": 318273,
             "media_type": "tv",
-            "release_date": "2026-04-10"
+            "release_date": "2026-04-19"
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Secrets of the Bees",
+          "tmdb": {
+            "id": 218274,
+            "media_type": "tv",
+            "release_date": "2026-03-31"
+          }
+        },
+        {
+          "rank": 7,
           "title": "HIP - High Intellectual Potential",
           "tmdb": {
             "id": 112738,
@@ -874,31 +865,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Scrubs",
+          "tmdb": {
+            "id": 4556,
+            "media_type": "tv",
+            "release_date": "2001-10-02"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "tmdb": {
+            "id": 279471,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Love Story",
           "tmdb": {
             "id": 131142,
             "media_type": "tv",
             "release_date": "2026-02-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Paradise",
-          "tmdb": {
-            "id": 245927,
-            "media_type": "tv",
-            "release_date": "2025-01-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Poland on April 29, 2026",
+      "heading": "TOP Overall on Amazon Prime in Poland on April 30, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -912,33 +912,6 @@
         },
         {
           "rank": 2,
-          "title": "Vengeance",
-          "tmdb": {
-            "id": 1613798,
-            "media_type": "movie",
-            "release_date": "2026-02-26"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Off We Go 2",
-          "tmdb": {
-            "id": 1575690,
-            "media_type": "movie",
-            "release_date": "2026-02-06"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Balls Up",
-          "tmdb": {
-            "id": 1084577,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 5,
           "title": "INVINCIBLE",
           "tmdb": {
             "id": 95557,
@@ -947,16 +920,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Crime 101",
+          "rank": 3,
+          "title": "Vengeance",
           "tmdb": {
-            "id": 1171145,
+            "id": 1613798,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2026-02-26"
           }
         },
         {
-          "rank": 7,
+          "rank": 4,
           "title": "Scarpetta",
           "tmdb": {
             "id": 240740,
@@ -965,7 +938,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
@@ -974,12 +947,39 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Roofman",
+          "rank": 6,
+          "title": "Off We Go 2",
           "tmdb": {
-            "id": 1242419,
+            "id": 1575690,
             "media_type": "movie",
-            "release_date": "2025-10-08"
+            "release_date": "2026-02-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Balls Up",
+          "tmdb": {
+            "id": 1084577,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The House of the Spirits",
+          "tmdb": {
+            "id": 259702,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Crime 101",
+          "tmdb": {
+            "id": 1171145,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -995,10 +995,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Poland on April 29, 2026",
+      "heading": "TOP Movies on Amazon Prime in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1095,10 +1095,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1139,20 +1139,20 @@
         },
         {
           "rank": 5,
+          "title": "The House of the Spirits",
+          "tmdb": {
+            "id": 259702,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
             "media_type": "tv",
             "release_date": "2024-04-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "House of David",
-          "tmdb": {
-            "id": 243881,
-            "media_type": "tv",
-            "release_date": "2025-02-27"
           }
         },
         {
@@ -1166,15 +1166,6 @@
         },
         {
           "rank": 8,
-          "title": "Gen V",
-          "tmdb": {
-            "id": 205715,
-            "media_type": "tv",
-            "release_date": "2023-09-28"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
@@ -1183,22 +1174,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "DODA",
+          "rank": 9,
+          "title": "Gen V",
           "tmdb": {
-            "id": 308199,
+            "id": 205715,
             "media_type": "tv",
-            "release_date": "2026-02-20"
+            "release_date": "2023-09-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "House of David",
+          "tmdb": {
+            "id": 243881,
+            "media_type": "tv",
+            "release_date": "2025-02-27"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Poland on April 29, 2026",
+      "heading": "TOP Movies on Apple TV in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1239,15 +1239,6 @@
         },
         {
           "rank": 5,
-          "title": "Argylle",
-          "tmdb": {
-            "id": 848538,
-            "media_type": "movie",
-            "release_date": "2024-01-31"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1256,12 +1247,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
             "media_type": "movie",
             "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Argylle",
+          "tmdb": {
+            "id": 848538,
+            "media_type": "movie",
+            "release_date": "2024-01-31"
           }
         },
         {
@@ -1275,39 +1275,39 @@
         },
         {
           "rank": 9,
-          "title": "Killers of the Flower Moon",
-          "tmdb": {
-            "id": 466420,
-            "media_type": "movie",
-            "release_date": "2023-10-18"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Killers of the Flower Moon",
+          "tmdb": {
+            "id": 466420,
+            "media_type": "movie",
+            "release_date": "2023-10-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on Apple TV in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Your Friends & Neighbors",
+          "title": "Imperfect Women",
           "tmdb": {
-            "id": 241609,
+            "id": 108181,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2026-03-17"
           }
         },
         {
@@ -1321,42 +1321,6 @@
         },
         {
           "rank": 3,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Criminal Record",
-          "tmdb": {
-            "id": 204490,
-            "media_type": "tv",
-            "release_date": "2024-01-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Margo's Got Money Troubles",
           "tmdb": {
             "id": 245318,
@@ -1365,62 +1329,80 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Imperfect Women",
+          "rank": 4,
+          "title": "Your Friends & Neighbors",
           "tmdb": {
-            "id": 108181,
+            "id": 241609,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
           }
         },
         {
           "rank": 9,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
             "media_type": "tv",
             "release_date": "2022-02-17"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Poland on April 29, 2026",
+      "heading": "TOP Movies on Amazon in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Greenland 2: Migration",
-          "tmdb": {
-            "id": 840464,
-            "media_type": "movie",
-            "release_date": "2026-01-07"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Shelter",
           "tmdb": {
             "id": 1290821,
@@ -1429,7 +1411,52 @@
           }
         },
         {
+          "rank": 2,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Greenland 2: Migration",
+          "tmdb": {
+            "id": 840464,
+            "media_type": "movie",
+            "release_date": "2026-01-07"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Król dopalaczy",
+          "tmdb": {
+            "id": 1043789,
+            "media_type": "movie",
+            "release_date": "2026-03-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Marty Supreme",
           "tmdb": {
             "id": 1317288,
@@ -1438,85 +1465,58 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "28 Years Later: The Bone Temple",
-          "tmdb": {
-            "id": 1272837,
-            "media_type": "movie",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Sisu: Road to Revenge",
-          "tmdb": {
-            "id": 1223601,
-            "media_type": "movie",
-            "release_date": "2025-10-21"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
             "media_type": "movie",
             "release_date": "2023-04-05"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Kissing Is the Easy Part",
+          "tmdb": {
+            "id": 1515615,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sisu: Road to Revenge",
+          "tmdb": {
+            "id": 1223601,
+            "media_type": "movie",
+            "release_date": "2025-10-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Poland on April 29, 2026",
+      "heading": "TOP Movies on Apple TV Store in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
             "media_type": "movie",
             "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
           }
         },
         {
@@ -1530,11 +1530,11 @@
         },
         {
           "rank": 4,
-          "title": "Zootopia 2",
+          "title": "The Super Mario Bros. Movie",
           "tmdb": {
-            "id": 1084242,
+            "id": 502356,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2023-04-05"
           }
         },
         {
@@ -1548,15 +1548,6 @@
         },
         {
           "rank": 6,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 7,
           "title": "28 Years Later: The Bone Temple",
           "tmdb": {
             "id": 1272837,
@@ -1565,16 +1556,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Bugonia",
+          "rank": 7,
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 701387,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2025-10-23"
+            "release_date": "2025-11-26"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "SPECTRE",
           "tmdb": {
             "id": 206647,
@@ -1583,22 +1574,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "This Is It",
+          "rank": 9,
+          "title": "Spider-Man: No Way Home",
           "tmdb": {
-            "id": 13576,
+            "id": 634649,
             "media_type": "movie",
-            "release_date": "2009-10-28"
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "tmdb": {
+            "id": 120,
+            "media_type": "movie",
+            "release_date": "2001-12-18"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Poland on April 29, 2026",
+      "heading": "TOP Movies on Google in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1695,10 +1695,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Poland on April 29, 2026",
+      "heading": "TOP Movies on Rakuten TV in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1739,20 +1739,20 @@
         },
         {
           "rank": 5,
-          "title": "28 Years Later: The Bone Temple",
-          "tmdb": {
-            "id": 1272837,
-            "media_type": "movie",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
             "media_type": "movie",
             "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
           }
         },
         {
@@ -1795,10 +1795,10 @@
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in Poland on April 29, 2026",
+      "heading": "TOP Movies on Chili in Poland on April 30, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1812,93 +1812,93 @@
         },
         {
           "rank": 2,
-          "title": "The Shadow's Edge",
+          "title": "Fast X",
           "tmdb": {
-            "id": 1419406,
+            "id": 385687,
             "media_type": "movie",
-            "release_date": "2025-08-16"
+            "release_date": "2023-05-17"
           }
         },
         {
           "rank": 3,
-          "title": "The Wild Robot",
+          "title": "Captain Fantastic",
           "tmdb": {
-            "id": 1184918,
+            "id": 334533,
             "media_type": "movie",
-            "release_date": "2024-09-12"
+            "release_date": "2016-07-08"
           }
         },
         {
           "rank": 4,
-          "title": "Back to the Future",
+          "title": "Casino Royale",
           "tmdb": {
-            "id": 105,
+            "id": 36557,
             "media_type": "movie",
-            "release_date": "1985-07-03"
+            "release_date": "2006-11-14"
           }
         },
         {
           "rank": 5,
-          "title": "The Running Man",
+          "title": "Return to Silent Hill",
           "tmdb": {
-            "id": 798645,
+            "id": 680493,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2026-01-21"
           }
         },
         {
           "rank": 6,
-          "title": "Back Then",
+          "title": "Hamnet",
           "tmdb": {
-            "id": 183186,
+            "id": 858024,
             "media_type": "movie",
-            "release_date": "2012-05-11"
+            "release_date": "2025-11-26"
           }
         },
         {
           "rank": 7,
-          "title": "Nobody",
+          "title": "Sonic the Hedgehog 3",
           "tmdb": {
-            "id": 615457,
+            "id": 939243,
             "media_type": "movie",
-            "release_date": "2021-03-18"
+            "release_date": "2024-12-19"
           }
         },
         {
           "rank": 8,
-          "title": "One Battle After Another",
+          "title": "Anora",
           "tmdb": {
-            "id": 1054867,
+            "id": 1064213,
             "media_type": "movie",
-            "release_date": "2025-09-23"
+            "release_date": "2024-10-14"
           }
         },
         {
           "rank": 9,
-          "title": "Minuscule 2: Mandibles From Far Away",
+          "title": "Anemone",
           "tmdb": {
-            "id": 513302,
+            "id": 1364608,
             "media_type": "movie",
-            "release_date": "2019-01-30"
+            "release_date": "2025-10-02"
           }
         },
         {
           "rank": 10,
-          "title": "A Minecraft Movie",
+          "title": "Nosferatu",
           "tmdb": {
-            "id": 950387,
+            "id": 426063,
             "media_type": "movie",
-            "release_date": "2025-03-31"
+            "release_date": "2024-12-25"
           }
         }
       ]
     },
     {
       "catalog_id": "player.series",
-      "heading": "TOP TV Shows on Player in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on Player in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "Player",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1948,15 +1948,6 @@
         },
         {
           "rank": 6,
-          "title": "Młode gliny",
-          "tmdb": {
-            "id": 294637,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
-        },
-        {
-          "rank": 7,
           "title": "BrzydUla 2",
           "tmdb": {
             "id": 110980,
@@ -1965,21 +1956,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Mr. Wrong",
+          "rank": 7,
+          "title": "Młode gliny",
           "tmdb": {
-            "id": 105052,
+            "id": 294637,
             "media_type": "tv",
-            "release_date": "2020-06-26"
+            "release_date": "2026-02-09"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Love Is In The Air",
           "tmdb": {
             "id": 104877,
             "media_type": "tv",
             "release_date": "2020-07-08"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mr. Wrong",
+          "tmdb": {
+            "id": 105052,
+            "media_type": "tv",
+            "release_date": "2020-06-26"
           }
         },
         {
@@ -1995,10 +1995,10 @@
     },
     {
       "catalog_id": "cda.movies",
-      "heading": "TOP Movies on CDA in Poland on April 29, 2026",
+      "heading": "TOP Movies on CDA in Poland on April 30, 2026",
       "category": "movies",
       "platform": "CDA",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2012,6 +2012,33 @@
         },
         {
           "rank": 2,
+          "title": "Unsane",
+          "tmdb": {
+            "id": 467660,
+            "media_type": "movie",
+            "release_date": "2018-03-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Meet Cute",
+          "tmdb": {
+            "id": 843543,
+            "media_type": "movie",
+            "release_date": "2022-09-21"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "RED",
+          "tmdb": {
+            "id": 39514,
+            "media_type": "movie",
+            "release_date": "2010-10-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Butchers Book Two: Raghorn",
           "tmdb": {
             "id": 1244039,
@@ -2020,7 +2047,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "Butchers Book Three: Bonesaw",
           "tmdb": {
             "id": 1359482,
@@ -2029,64 +2056,37 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Double Blind",
-          "tmdb": {
-            "id": 1140648,
-            "media_type": "movie",
-            "release_date": "2024-02-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "All the Money in the World",
-          "tmdb": {
-            "id": 446791,
-            "media_type": "movie",
-            "release_date": "2017-12-21"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Wrong Turn",
-          "tmdb": {
-            "id": 9902,
-            "media_type": "movie",
-            "release_date": "2003-05-30"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Butchers",
+          "title": "Castle Freak",
           "tmdb": {
-            "id": 720026,
+            "id": 18256,
             "media_type": "movie",
-            "release_date": "2020-10-15"
+            "release_date": "1996-04-20"
           }
         },
         {
           "rank": 8,
-          "title": "Maldoror",
+          "title": "Babylon A.D.",
           "tmdb": {
-            "id": 959596,
+            "id": 9381,
             "media_type": "movie",
-            "release_date": "2024-09-08"
+            "release_date": "2008-08-20"
           }
         },
         {
           "rank": 9,
-          "title": "The Other",
+          "title": "Terminus",
           "tmdb": {
-            "id": 1162858,
+            "id": 76289,
             "media_type": "movie",
-            "release_date": "2025-04-26"
+            "release_date": "1987-01-28"
           }
         },
         {
           "rank": 10,
-          "title": "Operation Fortune: Ruse de Guerre",
+          "title": "Switch",
           "tmdb": {
-            "id": 739405,
+            "id": 773910,
             "media_type": "movie",
             "release_date": "2023-01-04"
           }
@@ -2095,28 +2095,28 @@
     },
     {
       "catalog_id": "cda.series",
-      "heading": "TOP TV Shows on CDA in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on CDA in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "CDA",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Oktopus",
+          "tmdb": {
+            "id": 233329,
+            "media_type": "tv",
+            "release_date": "2023-08-28"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Vigil",
           "tmdb": {
             "id": 126167,
             "media_type": "tv",
             "release_date": "2021-08-29"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "White House Farm",
-          "tmdb": {
-            "id": 96954,
-            "media_type": "tv",
-            "release_date": "2020-01-08"
           }
         },
         {
@@ -2139,6 +2139,24 @@
         },
         {
           "rank": 5,
+          "title": "White House Farm",
+          "tmdb": {
+            "id": 96954,
+            "media_type": "tv",
+            "release_date": "2020-01-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Modré stíny",
+          "tmdb": {
+            "id": 87883,
+            "media_type": "tv",
+            "release_date": "2016-02-28"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Bitter Daisies",
           "tmdb": {
             "id": 88027,
@@ -2147,7 +2165,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
+          "title": "The Case of the Exorcist",
+          "tmdb": {
+            "id": 92570,
+            "media_type": "tv",
+            "release_date": "2015-01-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Methanol",
           "tmdb": {
             "id": 81590,
@@ -2156,49 +2183,22 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Knightfall",
           "tmdb": {
             "id": 73117,
             "media_type": "tv",
             "release_date": "2017-12-06"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Oktopus",
-          "tmdb": {
-            "id": 233329,
-            "media_type": "tv",
-            "release_date": "2023-08-28"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Detective Surprenant",
-          "tmdb": {
-            "id": 241092,
-            "media_type": "tv",
-            "release_date": "2023-12-07"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Don't Leave Me",
-          "tmdb": {
-            "id": 139552,
-            "media_type": "tv",
-            "release_date": "2022-01-10"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Poland on April 29, 2026",
+      "heading": "TOP Movies on SkyShowtime in Poland on April 30, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2239,20 +2239,20 @@
         },
         {
           "rank": 5,
-          "title": "Freaky Tales",
-          "tmdb": {
-            "id": 979660,
-            "media_type": "movie",
-            "release_date": "2025-04-04"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Immortal",
           "tmdb": {
             "id": 254872,
             "media_type": "movie",
             "release_date": "1969-09-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Freaky Tales",
+          "tmdb": {
+            "id": 979660,
+            "media_type": "movie",
+            "release_date": "2025-04-04"
           }
         },
         {
@@ -2266,15 +2266,6 @@
         },
         {
           "rank": 8,
-          "title": "The Friend",
-          "tmdb": {
-            "id": 1186563,
-            "media_type": "movie",
-            "release_date": "2025-03-28"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Like a Boss",
           "tmdb": {
             "id": 526019,
@@ -2283,22 +2274,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Prophecy: Forsaken",
           "tmdb": {
             "id": 37529,
             "media_type": "movie",
             "release_date": "2005-09-06"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Friend",
+          "tmdb": {
+            "id": 1186563,
+            "media_type": "movie",
+            "release_date": "2025-03-28"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Poland on April 29, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Poland on April 30, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "April 29, 2026",
+      "date": "April 30, 2026",
       "title_count": 10,
       "entries": [
         {
