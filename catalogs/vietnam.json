@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/vietnam/",
-  "page_title": "TOP 10 on Streaming in Vietnam on May 1, 2026",
+  "page_title": "TOP 10 on Streaming in Vietnam on May 2, 2026",
   "region": "vietnam",
-  "date": "May 1, 2026",
-  "scraped_at_utc": "2026-05-01T15:51:38.182871+00:00",
+  "date": "May 2, 2026",
+  "scraped_at_utc": "2026-05-02T15:49:55.413511+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Vietnam on May 1, 2026",
+      "heading": "TOP Movies on Netflix in Vietnam on May 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 1, 2026",
+      "date": "May 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -78,6 +78,15 @@
         },
         {
           "rank": 8,
+          "title": "Kung Fu Panda 4",
+          "tmdb": {
+            "id": 1011985,
+            "media_type": "movie",
+            "release_date": "2024-03-02"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Mai",
           "tmdb": {
             "id": 1210973,
@@ -86,31 +95,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Fall Guy",
           "tmdb": {
             "id": 746036,
             "media_type": "movie",
             "release_date": "2024-04-24"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Kung Fu Panda 4",
-          "tmdb": {
-            "id": 1011985,
-            "media_type": "movie",
-            "release_date": "2024-03-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Vietnam on May 1, 2026",
+      "heading": "TOP TV Shows on Netflix in Vietnam on May 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 1, 2026",
+      "date": "May 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -151,11 +151,11 @@
         },
         {
           "rank": 5,
-          "title": "BEEF",
+          "title": "Pursuit of Jade",
           "tmdb": {
-            "id": 154385,
+            "id": 279388,
             "media_type": "tv",
-            "release_date": "2023-04-06"
+            "release_date": "2026-03-06"
           }
         },
         {
@@ -169,11 +169,11 @@
         },
         {
           "rank": 7,
-          "title": "Pursuit of Jade",
+          "title": "BEEF",
           "tmdb": {
-            "id": 279388,
+            "id": 154385,
             "media_type": "tv",
-            "release_date": "2026-03-06"
+            "release_date": "2023-04-06"
           }
         },
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Vietnam on May 1, 2026",
+      "heading": "TOP Movies on Apple TV in Vietnam on May 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 1, 2026",
+      "date": "May 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,20 +224,20 @@
         },
         {
           "rank": 2,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
             "media_type": "movie",
             "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
           }
         },
         {
@@ -260,33 +260,6 @@
         },
         {
           "rank": 6,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Argylle",
           "tmdb": {
             "id": 848538,
@@ -295,22 +268,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Finch",
           "tmdb": {
             "id": 522402,
             "media_type": "movie",
             "release_date": "2021-11-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Vietnam on May 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Vietnam on May 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 1, 2026",
+      "date": "May 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,24 +324,6 @@
         },
         {
           "rank": 2,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -350,25 +332,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Imperfect Women",
+          "rank": 3,
+          "title": "Margo's Got Money Troubles",
           "tmdb": {
-            "id": 108181,
+            "id": 245318,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2026-04-14"
           }
         },
         {
-          "rank": 6,
-          "title": "The Last Thing He Told Me",
-          "tmdb": {
-            "id": 201289,
-            "media_type": "tv",
-            "release_date": "2023-04-13"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -377,12 +350,39 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Imperfect Women",
+          "tmdb": {
+            "id": 108181,
+            "media_type": "tv",
+            "release_date": "2026-03-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Last Thing He Told Me",
+          "tmdb": {
+            "id": 201289,
+            "media_type": "tv",
+            "release_date": "2023-04-13"
           }
         },
         {
@@ -407,32 +407,14 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Vietnam on May 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Vietnam on May 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 1, 2026",
+      "date": "May 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "I Am Nezha 2",
-          "tmdb": {
-            "id": 1173900,
-            "media_type": "movie",
-            "release_date": "2023-09-29"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -441,43 +423,25 @@
           }
         },
         {
+          "rank": 2,
+          "title": "The Godfather",
+          "tmdb": {
+            "id": 238,
+            "media_type": "movie",
+            "release_date": "1972-03-14"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
+        },
+        {
           "rank": 4,
-          "title": "Bugonia",
-          "tmdb": {
-            "id": 701387,
-            "media_type": "movie",
-            "release_date": "2025-10-23"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Mission: Impossible - The Final Reckoning",
-          "tmdb": {
-            "id": 575265,
-            "media_type": "movie",
-            "release_date": "2025-05-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Casino Royale",
-          "tmdb": {
-            "id": 36557,
-            "media_type": "movie",
-            "release_date": "2006-11-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Inception",
-          "tmdb": {
-            "id": 27205,
-            "media_type": "movie",
-            "release_date": "2010-07-15"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Jurassic World Rebirth",
           "tmdb": {
             "id": 1234821,
@@ -486,21 +450,57 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Super Mario Bros. Movie",
+          "rank": 5,
+          "title": "Top Gun: Maverick",
           "tmdb": {
-            "id": 502356,
+            "id": 361743,
             "media_type": "movie",
-            "release_date": "2023-04-05"
+            "release_date": "2022-05-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "2001: A Space Odyssey",
+          "tmdb": {
+            "id": 62,
+            "media_type": "movie",
+            "release_date": "1968-04-02"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "I Am Nezha 2",
+          "tmdb": {
+            "id": 1173900,
+            "media_type": "movie",
+            "release_date": "2023-09-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Lover",
+          "tmdb": {
+            "id": 10995,
+            "media_type": "movie",
+            "release_date": "1992-01-22"
           }
         },
         {
           "rank": 10,
-          "title": "Harry Potter and the Prisoner of Azkaban",
+          "title": "Harry Potter and the Half-Blood Prince",
           "tmdb": {
-            "id": 673,
+            "id": 767,
             "media_type": "movie",
-            "release_date": "2004-05-31"
+            "release_date": "2009-07-15"
           }
         }
       ]
