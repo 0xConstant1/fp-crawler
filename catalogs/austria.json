@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/austria/",
-  "page_title": "TOP 10 on Streaming in Austria on May 2, 2026",
+  "page_title": "TOP 10 on Streaming in Austria on May 3, 2026",
   "region": "austria",
-  "date": "May 2, 2026",
-  "scraped_at_utc": "2026-05-02T15:48:08.172340+00:00",
+  "date": "May 3, 2026",
+  "scraped_at_utc": "2026-05-03T15:48:33.526833+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Austria on May 2, 2026",
+      "heading": "TOP Movies on Netflix in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,6 +24,15 @@
         },
         {
           "rank": 2,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 3,
           "title": "An Autumn Romance",
           "tmdb": {
             "id": 810223,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Finders Keepers",
           "tmdb": {
             "id": 467102,
@@ -41,21 +50,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Premonition",
-          "tmdb": {
-            "id": 9963,
-            "media_type": "movie",
-            "release_date": "2007-02-08"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Swapped",
+          "title": "Cash Out",
           "tmdb": {
-            "id": 1007757,
+            "id": 1116490,
             "media_type": "movie",
-            "release_date": "2026-05-01"
+            "release_date": "2024-04-26"
           }
         },
         {
@@ -69,24 +69,6 @@
         },
         {
           "rank": 7,
-          "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
-          "tmdb": {
-            "id": 1147400,
-            "media_type": "movie",
-            "release_date": "2023-10-21"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "28 Years Later: The Bone Temple",
-          "tmdb": {
-            "id": 1272837,
-            "media_type": "movie",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Ben-Hur",
           "tmdb": {
             "id": 665,
@@ -95,22 +77,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Cash Out",
+          "rank": 8,
+          "title": "Premonition",
           "tmdb": {
-            "id": 1116490,
+            "id": 9963,
             "media_type": "movie",
-            "release_date": "2024-04-26"
+            "release_date": "2007-02-08"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Hercules",
+          "tmdb": {
+            "id": 11970,
+            "media_type": "movie",
+            "release_date": "1997-06-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+          "tmdb": {
+            "id": 1147400,
+            "media_type": "movie",
+            "release_date": "2023-10-21"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Austria on May 2, 2026",
+      "heading": "TOP TV Shows on Netflix in Austria on May 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,15 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 4,
           "title": "ted",
           "tmdb": {
             "id": 201834,
@@ -150,16 +141,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Unchosen",
+          "rank": 4,
+          "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
-            "id": 262848,
+            "id": 243875,
             "media_type": "tv",
-            "release_date": "2026-04-21"
+            "release_date": "2024-10-17"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Running Point",
           "tmdb": {
             "id": 244623,
@@ -168,21 +159,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Flunked",
+          "rank": 6,
+          "title": "Unchosen",
           "tmdb": {
-            "id": 287978,
+            "id": 262848,
             "media_type": "tv",
-            "release_date": "2026-04-23"
+            "release_date": "2026-04-21"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Cleaning Lady",
           "tmdb": {
             "id": 125282,
             "media_type": "tv",
             "release_date": "2022-01-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Flunked",
+          "tmdb": {
+            "id": 287978,
+            "media_type": "tv",
+            "release_date": "2026-04-23"
           }
         },
         {
@@ -196,21 +196,21 @@
         },
         {
           "rank": 10,
-          "title": "Hulk Hogan: Real American",
+          "title": "Salish & Jordan Matter",
           "tmdb": {
-            "id": 318880,
+            "id": 318906,
             "media_type": "tv",
-            "release_date": "2026-04-22"
+            "release_date": "2026-04-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Austria on May 2, 2026",
+      "heading": "TOP Kids Movies on Netflix in Austria on May 3, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -260,20 +260,20 @@
         },
         {
           "rank": 6,
-          "title": "Hotel Transylvania 3: Summer Vacation",
-          "tmdb": {
-            "id": 400155,
-            "media_type": "movie",
-            "release_date": "2018-06-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Minions",
           "tmdb": {
             "id": 211672,
             "media_type": "movie",
             "release_date": "2015-06-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "tmdb": {
+            "id": 400155,
+            "media_type": "movie",
+            "release_date": "2018-06-28"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Austria on May 2, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Austria on May 3, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,11 +351,11 @@
         },
         {
           "rank": 5,
-          "title": "Stranger Things: Tales from '85",
+          "title": "Bobo Siebenschläfer",
           "tmdb": {
-            "id": 224263,
+            "id": 69389,
             "media_type": "tv",
-            "release_date": "2026-04-23"
+            "release_date": "2014-09-27"
           }
         },
         {
@@ -369,11 +369,11 @@
         },
         {
           "rank": 7,
-          "title": "Bobo Siebenschläfer",
+          "title": "Stranger Things: Tales from '85",
           "tmdb": {
-            "id": 69389,
+            "id": 224263,
             "media_type": "tv",
-            "release_date": "2014-09-27"
+            "release_date": "2026-04-23"
           }
         },
         {
@@ -396,21 +396,21 @@
         },
         {
           "rank": 10,
-          "title": "Avatar: The Last Airbender",
+          "title": "The Dinosaurs",
           "tmdb": {
-            "id": 246,
+            "id": 313298,
             "media_type": "tv",
-            "release_date": "2005-02-21"
+            "release_date": "2026-03-06"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Austria on May 2, 2026",
+      "heading": "TOP Overall on Disney+ in Austria on May 3, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -429,15 +429,6 @@
         },
         {
           "rank": 3,
-          "title": "Chernobyl",
-          "tmdb": {
-            "id": 87108,
-            "media_type": "tv",
-            "release_date": "2019-05-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
@@ -446,13 +437,18 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Scrubs",
+          "rank": 4,
+          "title": "Chernobyl",
           "tmdb": {
-            "id": 4556,
+            "id": 87108,
             "media_type": "tv",
-            "release_date": "2001-10-02"
+            "release_date": "2019-05-06"
           }
+        },
+        {
+          "rank": 5,
+          "title": "Spill the Tea: Runway Meets Rutshire",
+          "tmdb": null
         },
         {
           "rank": 6,
@@ -465,17 +461,21 @@
         },
         {
           "rank": 7,
+          "title": "Scrubs",
+          "tmdb": {
+            "id": 4556,
+            "media_type": "tv",
+            "release_date": "2001-10-02"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Bridesmaids",
           "tmdb": {
             "id": 55721,
             "media_type": "movie",
             "release_date": "2011-05-13"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Spill the Tea: Runway Meets Rutshire",
-          "tmdb": null
         },
         {
           "rank": 9,
@@ -488,21 +488,21 @@
         },
         {
           "rank": 10,
-          "title": "High Potential",
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Austria on May 2, 2026",
+      "heading": "TOP Movies on Disney+ in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -587,23 +587,14 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Austria on May 2, 2026",
+      "heading": "TOP TV Shows on Disney+ in Austria on May 3, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Chernobyl",
-          "tmdb": {
-            "id": 87108,
-            "media_type": "tv",
-            "release_date": "2019-05-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
@@ -612,21 +603,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Scrubs",
+          "rank": 2,
+          "title": "Chernobyl",
           "tmdb": {
-            "id": 4556,
+            "id": 87108,
             "media_type": "tv",
-            "release_date": "2001-10-02"
+            "release_date": "2019-05-06"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
             "media_type": "tv",
             "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Scrubs",
+          "tmdb": {
+            "id": 4556,
+            "media_type": "tv",
+            "release_date": "2001-10-02"
           }
         },
         {
@@ -649,15 +649,6 @@
         },
         {
           "rank": 7,
-          "title": "Daredevil: Born Again",
-          "tmdb": {
-            "id": 202555,
-            "media_type": "tv",
-            "release_date": "2025-03-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Perfect Crown",
           "tmdb": {
             "id": 278573,
@@ -666,12 +657,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Secrets of the Bees",
           "tmdb": {
             "id": 218274,
             "media_type": "tv",
             "release_date": "2026-03-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
           }
         },
         {
@@ -687,10 +687,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Austria on May 2, 2026",
+      "heading": "TOP Overall on Amazon Prime in Austria on May 3, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -736,198 +736,6 @@
             "id": 1002338,
             "media_type": "movie",
             "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Mission Unknown: Atlantik",
-          "tmdb": null
-        },
-        {
-          "rank": 7,
-          "title": "Balls Up",
-          "tmdb": {
-            "id": 1084577,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Wild Robot",
-          "tmdb": {
-            "id": 1184918,
-            "media_type": "movie",
-            "release_date": "2024-09-12"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Young Sherlock",
-          "tmdb": {
-            "id": 255661,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Misfits",
-          "tmdb": {
-            "id": 581644,
-            "media_type": "movie",
-            "release_date": "2021-06-03"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Austria on May 2, 2026",
-      "category": "movies",
-      "platform": "Amazon Prime",
-      "date": "May 2, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "The Astronaut",
-          "tmdb": {
-            "id": 1086260,
-            "media_type": "movie",
-            "release_date": "2025-09-26"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Invitation to a Murder",
-          "tmdb": {
-            "id": 989473,
-            "media_type": "movie",
-            "release_date": "2023-05-05"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Crime 101",
-          "tmdb": {
-            "id": 1171145,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Operation Napoleon",
-          "tmdb": {
-            "id": 1002338,
-            "media_type": "movie",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Balls Up",
-          "tmdb": {
-            "id": 1084577,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Wild Robot",
-          "tmdb": {
-            "id": 1184918,
-            "media_type": "movie",
-            "release_date": "2024-09-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Misfits",
-          "tmdb": {
-            "id": 581644,
-            "media_type": "movie",
-            "release_date": "2021-06-03"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Longest Ride",
-          "tmdb": {
-            "id": 228205,
-            "media_type": "movie",
-            "release_date": "2015-04-09"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "A Match in Manhattan",
-          "tmdb": {
-            "id": 1180262,
-            "media_type": "movie",
-            "release_date": "2023-09-27"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Under the Stars",
-          "tmdb": {
-            "id": 1278983,
-            "media_type": "movie",
-            "release_date": "2025-11-09"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Austria on May 2, 2026",
-      "category": "tv shows",
-      "platform": "Amazon Prime",
-      "date": "May 2, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Mission Unknown: Atlantik",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
-          "title": "Young Sherlock",
-          "tmdb": {
-            "id": 255661,
-            "media_type": "tv",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Scarpetta",
-          "tmdb": {
-            "id": 240740,
-            "media_type": "tv",
-            "release_date": "2026-03-11"
           }
         },
         {
@@ -941,6 +749,202 @@
         },
         {
           "rank": 7,
+          "title": "The Wild Robot",
+          "tmdb": {
+            "id": 1184918,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Balls Up",
+          "tmdb": {
+            "id": 1084577,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Under the Stars",
+          "tmdb": {
+            "id": 1278983,
+            "media_type": "movie",
+            "release_date": "2025-11-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "amazon-prime.movies",
+      "heading": "TOP Movies on Amazon Prime in Austria on May 3, 2026",
+      "category": "movies",
+      "platform": "Amazon Prime",
+      "date": "May 3, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "The Astronaut",
+          "tmdb": {
+            "id": 1086260,
+            "media_type": "movie",
+            "release_date": "2025-09-26"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Invitation to a Murder",
+          "tmdb": {
+            "id": 989473,
+            "media_type": "movie",
+            "release_date": "2023-05-05"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Crime 101",
+          "tmdb": {
+            "id": 1171145,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Operation Napoleon",
+          "tmdb": {
+            "id": 1002338,
+            "media_type": "movie",
+            "release_date": "2023-01-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Wild Robot",
+          "tmdb": {
+            "id": 1184918,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Balls Up",
+          "tmdb": {
+            "id": 1084577,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Under the Stars",
+          "tmdb": {
+            "id": 1278983,
+            "media_type": "movie",
+            "release_date": "2025-11-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Misfits",
+          "tmdb": {
+            "id": 581644,
+            "media_type": "movie",
+            "release_date": "2021-06-03"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Longest Ride",
+          "tmdb": {
+            "id": 228205,
+            "media_type": "movie",
+            "release_date": "2015-04-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "A Match in Manhattan",
+          "tmdb": {
+            "id": 1180262,
+            "media_type": "movie",
+            "release_date": "2023-09-27"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "amazon-prime.series",
+      "heading": "TOP TV Shows on Amazon Prime in Austria on May 3, 2026",
+      "category": "tv shows",
+      "platform": "Amazon Prime",
+      "date": "May 3, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The House of the Spirits",
+          "tmdb": {
+            "id": 259702,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Mission Unknown: Atlantik",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
+          "title": "Scarpetta",
+          "tmdb": {
+            "id": 240740,
+            "media_type": "tv",
+            "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Handmaid's Tale",
           "tmdb": {
             "id": 69478,
@@ -950,15 +954,6 @@
         },
         {
           "rank": 8,
-          "title": "The 50",
-          "tmdb": {
-            "id": 311924,
-            "media_type": "tv",
-            "release_date": "2026-02-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
@@ -967,22 +962,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
             "media_type": "tv",
             "release_date": "2022-06-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The 50",
+          "tmdb": {
+            "id": 311924,
+            "media_type": "tv",
+            "release_date": "2026-02-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Austria on May 2, 2026",
+      "heading": "TOP Movies on Paramount+ in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1005,15 +1009,6 @@
         },
         {
           "rank": 3,
-          "title": "All the Devils Are Here",
-          "tmdb": {
-            "id": 1530875,
-            "media_type": "movie",
-            "release_date": "2025-09-25"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Mission: Impossible - The Final Reckoning",
           "tmdb": {
             "id": 575265,
@@ -1022,12 +1017,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "South Park: The End Of Obesity",
+          "rank": 4,
+          "title": "All the Devils Are Here",
           "tmdb": {
-            "id": 1290938,
+            "id": 1530875,
             "media_type": "movie",
-            "release_date": "2024-05-24"
+            "release_date": "2025-09-25"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Long Gone Heroes",
+          "tmdb": {
+            "id": 1276825,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
           }
         },
         {
@@ -1041,48 +1045,48 @@
         },
         {
           "rank": 7,
-          "title": "South Park (Not Suitable for Children)",
+          "title": "The Naked Gun",
           "tmdb": {
-            "id": 1219926,
+            "id": 1035259,
             "media_type": "movie",
-            "release_date": "2023-12-20"
+            "release_date": "2025-07-30"
           }
         },
         {
           "rank": 8,
-          "title": "Long Gone Heroes",
+          "title": "Terrifier 3",
           "tmdb": {
-            "id": 1276825,
+            "id": 1034541,
             "media_type": "movie",
-            "release_date": "2024-09-12"
+            "release_date": "2024-10-09"
           }
         },
         {
           "rank": 9,
-          "title": "Star Trek Into Darkness",
+          "title": "Vicious",
           "tmdb": {
-            "id": 54138,
+            "id": 1251717,
             "media_type": "movie",
-            "release_date": "2013-05-05"
+            "release_date": "2025-08-06"
           }
         },
         {
           "rank": 10,
-          "title": "Mission: Impossible II",
+          "title": "Gladiator II",
           "tmdb": {
-            "id": 955,
+            "id": 558449,
             "media_type": "movie",
-            "release_date": "2000-05-24"
+            "release_date": "2024-11-13"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Austria on May 2, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Austria on May 3, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1114,20 +1118,20 @@
         },
         {
           "rank": 4,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Dexter",
           "tmdb": {
             "id": 1405,
             "media_type": "tv",
             "release_date": "2006-10-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Star Trek: Voyager",
-          "tmdb": {
-            "id": 1855,
-            "media_type": "tv",
-            "release_date": "1995-01-16"
           }
         },
         {
@@ -1141,20 +1145,20 @@
         },
         {
           "rank": 7,
-          "title": "Yellowstone",
+          "title": "Star Trek: Voyager",
           "tmdb": {
-            "id": 73586,
+            "id": 1855,
             "media_type": "tv",
-            "release_date": "2018-06-20"
+            "release_date": "1995-01-16"
           }
         },
         {
           "rank": 8,
-          "title": "Y: Marshals",
+          "title": "Criminal Minds",
           "tmdb": {
-            "id": 290856,
+            "id": 4057,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "2005-09-22"
           }
         },
         {
@@ -1168,21 +1172,21 @@
         },
         {
           "rank": 10,
-          "title": "Star Trek: The Next Generation",
+          "title": "Blue Bloods",
           "tmdb": {
-            "id": 655,
+            "id": 32692,
             "media_type": "tv",
-            "release_date": "1987-09-28"
+            "release_date": "2010-09-24"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Austria on May 2, 2026",
+      "heading": "TOP Movies on Apple TV in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1205,20 +1209,20 @@
         },
         {
           "rank": 3,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
             "media_type": "movie",
             "release_date": "2025-05-19"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
           }
         },
         {
@@ -1241,11 +1245,11 @@
         },
         {
           "rank": 7,
-          "title": "The Family Plan 2",
+          "title": "Luck",
           "tmdb": {
-            "id": 1363123,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2022-08-05"
           }
         },
         {
@@ -1259,30 +1263,30 @@
         },
         {
           "rank": 9,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Austria on May 2, 2026",
+      "heading": "TOP TV Shows on Apple TV in Austria on May 3, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1314,15 +1318,6 @@
         },
         {
           "rank": 4,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1331,16 +1326,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Margo's Got Money Troubles",
+          "rank": 5,
+          "title": "Imperfect Women",
           "tmdb": {
-            "id": 245318,
+            "id": 108181,
             "media_type": "tv",
-            "release_date": "2026-04-14"
+            "release_date": "2026-03-17"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -1349,21 +1344,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Criminal Record",
+          "rank": 7,
+          "title": "Margo's Got Money Troubles",
           "tmdb": {
-            "id": 204490,
+            "id": 245318,
             "media_type": "tv",
-            "release_date": "2024-01-10"
+            "release_date": "2026-04-14"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
             "media_type": "tv",
             "release_date": "2023-01-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
           }
         },
         {
@@ -1379,10 +1383,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Austria on May 2, 2026",
+      "heading": "TOP Movies on Apple TV Store in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1432,11 +1436,11 @@
         },
         {
           "rank": 6,
-          "title": "Ghostbusters",
+          "title": "Greenland 2: Migration",
           "tmdb": {
-            "id": 620,
+            "id": 840464,
             "media_type": "movie",
-            "release_date": "1984-06-08"
+            "release_date": "2026-01-07"
           }
         },
         {
@@ -1450,39 +1454,39 @@
         },
         {
           "rank": 8,
-          "title": "The Karate Kid",
+          "title": "The Strangers: Chapter 3",
           "tmdb": {
-            "id": 38575,
+            "id": 1010755,
             "media_type": "movie",
-            "release_date": "2010-06-10"
+            "release_date": "2026-02-05"
           }
         },
         {
           "rank": 9,
-          "title": "Greenland 2: Migration",
+          "title": "The Wolf of Wall Street",
           "tmdb": {
-            "id": 840464,
+            "id": 106646,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2013-12-25"
           }
         },
         {
           "rank": 10,
-          "title": "I Know What You Did Last Summer",
+          "title": "Ghostbusters",
           "tmdb": {
-            "id": 1083433,
+            "id": 620,
             "media_type": "movie",
-            "release_date": "2025-07-16"
+            "release_date": "1984-06-08"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Austria on May 2, 2026",
+      "heading": "TOP Movies on Google in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1579,14 +1583,23 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Austria on May 2, 2026",
+      "heading": "TOP Movies on Rakuten TV in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Zootopia 2",
+          "tmdb": {
+            "id": 1084242,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Last Unicorn",
           "tmdb": {
             "id": 10150,
@@ -1595,7 +1608,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -1604,7 +1617,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Dracula",
           "tmdb": {
             "id": 1246049,
@@ -1613,7 +1626,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -1622,7 +1635,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Wolf of Wall Street",
           "tmdb": {
             "id": 106646,
@@ -1631,30 +1644,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Witchboard",
-          "tmdb": {
-            "id": 1107325,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Ballerina",
-          "tmdb": {
-            "id": 541671,
-            "media_type": "movie",
-            "release_date": "2025-06-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Brokeback Mountain",
           "tmdb": {
             "id": 142,
             "media_type": "movie",
             "release_date": "2005-10-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ballerina",
+          "tmdb": {
+            "id": 541671,
+            "media_type": "movie",
+            "release_date": "2025-06-04"
           }
         },
         {
@@ -1668,21 +1672,21 @@
         },
         {
           "rank": 10,
-          "title": "Maze Runner: The Scorch Trials",
+          "title": "Mercy",
           "tmdb": {
-            "id": 294254,
+            "id": 1236153,
             "media_type": "movie",
-            "release_date": "2015-09-09"
+            "release_date": "2026-01-20"
           }
         }
       ]
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in Austria on May 2, 2026",
+      "heading": "TOP Movies on Chili in Austria on May 3, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "May 2, 2026",
+      "date": "May 3, 2026",
       "title_count": 10,
       "entries": [
         {
