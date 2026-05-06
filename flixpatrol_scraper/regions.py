@@ -169,4 +169,60 @@ SUPPORTED_REGION_SLUGS: tuple[str, ...] = (
     "zimbabwe",
 )
 
+NO_CATALOG_REGION_SLUGS: tuple[str, ...] = (
+    "afghanistan",
+    "angola",
+    "benin",
+    "cameroon",
+    "chad",
+    "democratic-republic-of-the-congo",
+    "ivory-coast",
+    "madagascar",
+    "malawi",
+    "mali",
+    "myanmar",
+    "papua-new-guinea",
+    "republic-of-the-congo",
+    "russia",
+    "south-sudan",
+    "togo",
+    "uzbekistan",
+    "zambia",
+)
+
+LOW_CATALOG_REGION_SLUGS: tuple[str, ...] = (
+    "andorra",
+    "barbados",
+    "burkina-faso",
+    "cape-verde",
+    "fiji",
+    "gabon",
+    "georgia",
+    "guadeloupe",
+    "guinea-bissau",
+    "liechtenstein",
+    "maldives",
+    "martinique",
+    "monaco",
+    "new-caledonia",
+    "rwanda",
+    "saint-lucia",
+    "san-marino",
+    "senegal",
+    "suriname",
+    "swaziland",
+    "tanzania",
+    "turkmenistan",
+)
+
 SUPPORTED_REGION_SET: frozenset[str] = frozenset(SUPPORTED_REGION_SLUGS)
+NO_CATALOG_REGION_SET: frozenset[str] = frozenset(NO_CATALOG_REGION_SLUGS)
+LOW_CATALOG_REGION_SET: frozenset[str] = frozenset(LOW_CATALOG_REGION_SLUGS)
+SLIM_EXCLUDED_REGION_SET: frozenset[str] = frozenset(
+    NO_CATALOG_REGION_SET | LOW_CATALOG_REGION_SET
+)
+SLIM_REGION_SLUGS: tuple[str, ...] = tuple(
+    region
+    for region in SUPPORTED_REGION_SLUGS
+    if region not in SLIM_EXCLUDED_REGION_SET
+)

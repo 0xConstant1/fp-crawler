@@ -40,7 +40,7 @@ jobs:
             exit 1
           fi
 
-      - name: Update catalogs
+      - name: Update slim catalogs
         run: python scripts/update_catalogs.py
 
       - name: Commit and push catalog updates

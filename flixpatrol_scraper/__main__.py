@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 import sys
 
-from .regions import SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
+from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
@@ -36,9 +36,15 @@ def parse_region_targets(
     region_arg: str | None,
     all_regions: bool,
     supported_regions: list[str],
+    all_regions_slim: bool = False,
+    slim_regions: list[str] | None = None,
 ) -> list[str]:
     if all_regions:
         return ["global", *supported_regions]
+
+    if all_regions_slim:
+        slim_regions = slim_regions or list(SLIM_REGION_SLUGS)
+        return ["global", *slim_regions]
 
     if not region_arg:
         return []
@@ -145,7 +151,10 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--url",
         default=DEFAULT_TOP10_URL,
-        help="FlixPatrol page to scrape when --region or --all-regions is not provided.",
+        help=(
+            "FlixPatrol page to scrape when --region, --all-regions, "
+            "or --all-regions-slim is not provided."
+        ),
     )
     parser.add_argument(
         "--region",
@@ -158,6 +167,14 @@ def build_parser() -> argparse.ArgumentParser:
         "--all-regions",
         action="store_true",
         help="Scrape global plus every region listed in flixpatrol_scraper.regions.",
+    )
+    parser.add_argument(
+        "--all-regions-slim",
+        action="store_true",
+        help=(
+            "Scrape global plus supported regions that currently expose catalogs, "
+            "skipping regions known to have no or low catalog coverage."
+        ),
     )
     parser.add_argument(
         "--output",
@@ -196,12 +213,15 @@ def main(argv: list[str] | None = None) -> int:
     parser = build_parser()
     args = parser.parse_args(argv)
     supported_regions = list(SUPPORTED_REGION_SLUGS)
+    slim_regions = list(SLIM_REGION_SLUGS)
 
     try:
         region_targets = parse_region_targets(
             region_arg=args.region,
             all_regions=args.all_regions,
+            all_regions_slim=args.all_regions_slim,
             supported_regions=supported_regions,
+            slim_regions=slim_regions,
         )
     except ValueError as exc:
         parser.exit(status=1, message=f"Error: {exc}\n")
@@ -212,10 +232,25 @@ def main(argv: list[str] | None = None) -> int:
             message="Error: --all-regions cannot be combined with --region.\n",
         )
 
+    if args.all_regions_slim and args.region:
+        parser.exit(
+            status=1,
+            message="Error: --all-regions-slim cannot be combined with --region.\n",
+        )
+
+    if args.all_regions and args.all_regions_slim:
+        parser.exit(
+            status=1,
+            message="Error: --all-regions cannot be combined with --all-regions-slim.\n",
+        )
+
     if region_targets and args.url != DEFAULT_TOP10_URL:
         parser.exit(
             status=1,
-            message="Error: --url cannot be combined with --region or --all-regions.\n",
+            message=(
+                "Error: --url cannot be combined with --region, --all-regions, "
+                "or --all-regions-slim.\n"
+            ),
         )
 
     tmdb_resolver = None

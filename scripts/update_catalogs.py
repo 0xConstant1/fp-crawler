@@ -30,7 +30,7 @@ def main() -> int:
     _reset_output_dir(OUTPUT_DIR)
     return cli_main(
         [
-            "--all-regions",
+            "--all-regions-slim",
             "--output",
             str(OUTPUT_DIR),
             "--resolve-tmdb",

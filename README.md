@@ -34,6 +34,12 @@ Scrape all supported regions:
 python -m flixpatrol_scraper --all-regions --output exports
 ```
 
+Scrape all supported regions except regions known to have no or low catalog coverage:
+
+```bash
+python -m flixpatrol_scraper --all-regions-slim --output exports
+```
+
 Resolve TMDB IDs while scraping:
 
 ```bash
@@ -46,9 +52,9 @@ The repo includes a scheduled workflow in [.github/workflows/update-catalogs.yml
 
 It:
 
-- runs once per day at `08:00 UTC`
+- runs once per day at `15:30 UTC`
 - can also be triggered manually with `workflow_dispatch`
-- scrapes `--all-regions`
+- scrapes `--all-regions-slim`
 - resolves TMDB IDs
 - writes outputs into `catalogs/`
 - commits and pushes updated catalog files back to the repository
