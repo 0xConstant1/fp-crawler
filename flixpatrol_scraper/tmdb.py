@@ -7,11 +7,10 @@ import threading
 import unicodedata
 from typing import Any
 
-import requests
-from requests import Response, Session
-from requests.adapters import HTTPAdapter
-from urllib3.util import Retry
+from curl_cffi.requests import Response, Session
+from curl_cffi.requests.exceptions import HTTPError, RequestException
 
+from .http_client import format_response_diagnostics, get_with_retries
 from .rate_limit import RateLimiter
 
 TMDB_API_BASE_URL = "https://api.themoviedb.org/3"
@@ -110,28 +109,17 @@ class TMDBResolver:
 
     @staticmethod
     def _build_session(*, access_token: str | None) -> Session:
-        session = requests.Session()
-        retry = Retry(
-            total=4,
-            connect=4,
-            read=4,
-            backoff_factor=1.0,
-            status_forcelist=(429, 500, 502, 503, 504),
-            allowed_methods=frozenset({"GET"}),
-            raise_on_status=False,
-        )
-        adapter = HTTPAdapter(max_retries=retry)
-        session.mount("http://", adapter)
-        session.mount("https://", adapter)
-        session.headers.update(
-            {
-                "Accept": "application/json",
-                "User-Agent": "flixpatrol-scraper/0.1.0",
-            }
-        )
+        headers = {
+            "Accept": "application/json",
+            "User-Agent": "flixpatrol-scraper/0.1.0",
+        }
         if access_token:
-            session.headers["Authorization"] = f"Bearer {access_token}"
-        return session
+            headers["Authorization"] = f"Bearer {access_token}"
+
+        return Session(
+            default_encoding="utf-8",
+            headers=headers,
+        )
 
     def _get_session(self) -> Session:
         if self._shared_session is not None:
@@ -270,10 +258,11 @@ class TMDBResolver:
 
         try:
             self._rate_limiter.acquire()
-            response = self._get_session().get(
+            response = get_with_retries(
+                self._get_session(),
                 f"{TMDB_API_BASE_URL}{endpoint}",
                 params=params,
-                timeout=self.timeout_seconds,
+                timeout_seconds=self.timeout_seconds,
             )
             self._raise_for_bad_response(response, endpoint, query)
 
@@ -292,6 +281,16 @@ class TMDBResolver:
                 result=filtered_results,
             )
             return filtered_results
+        except RequestException as exc:
+            resolver_error = TMDBResolverError(
+                f"TMDB request failed for endpoint {endpoint!r} and query {query!r}: {exc}"
+            )
+            self._complete_inflight(
+                self._search_inflight,
+                cache_key,
+                exception=resolver_error,
+            )
+            raise resolver_error from exc
         except BaseException as exc:
             self._complete_inflight(
                 self._search_inflight,
@@ -304,10 +303,10 @@ class TMDBResolver:
     def _raise_for_bad_response(response: Response, endpoint: str, query: str) -> None:
         try:
             response.raise_for_status()
-        except requests.HTTPError as exc:
+        except HTTPError as exc:
             raise TMDBResolverError(
                 f"TMDB request failed for endpoint {endpoint!r} and query {query!r}: "
-                f"HTTP {response.status_code}"
+                f"{format_response_diagnostics(response)}"
             ) from exc
 
     @staticmethod

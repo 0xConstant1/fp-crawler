@@ -11,12 +11,11 @@ import threading
 import time
 from typing import Any
 
-import requests
 from bs4 import BeautifulSoup, Tag
-from requests import Response, Session
-from requests.adapters import HTTPAdapter
-from urllib3.util import Retry
+from curl_cffi.requests import Response, Session
+from curl_cffi.requests.exceptions import HTTPError, RequestException
 
+from .http_client import format_response_diagnostics, get_with_retries
 from .rate_limit import RateLimiter
 from .tmdb import TMDBMatch, TMDBResolver, normalize_title
 
@@ -26,6 +25,7 @@ DEFAULT_OUTPUT_PATH = Path("flixpatrol_top10.json")
 DEFAULT_TMDB_MAX_WORKERS = 16
 DEFAULT_FLIXPATROL_MAX_REQUESTS_PER_SECOND = 1.5
 DEFAULT_FLIXPATROL_REQUEST_JITTER_RANGE = (0.1, 0.4)
+DEFAULT_BROWSER_IMPERSONATE = "chrome136"
 DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -152,29 +152,16 @@ class FlixPatrolScraper:
 
     @staticmethod
     def _build_session() -> Session:
-        session = requests.Session()
-        retry = Retry(
-            total=4,
-            connect=4,
-            read=4,
-            backoff_factor=1.0,
-            status_forcelist=(429, 500, 502, 503, 504),
-            allowed_methods=frozenset({"GET"}),
-            raise_on_status=False,
-        )
-        adapter = HTTPAdapter(max_retries=retry)
-        session.mount("http://", adapter)
-        session.mount("https://", adapter)
-        session.headers.update(
-            {
+        return Session(
+            impersonate=DEFAULT_BROWSER_IMPERSONATE,
+            default_headers=True,
+            default_encoding="utf-8",
+            headers={
                 "User-Agent": DEFAULT_USER_AGENT,
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.9",
-                "Cache-Control": "no-cache",
-                "Pragma": "no-cache",
-            }
+            },
         )
-        return session
 
     def _get_session(self) -> Session:
         if self._shared_session is not None:
@@ -197,9 +184,15 @@ class FlixPatrolScraper:
     def scrape_url(self, url: str = DEFAULT_TOP10_URL) -> ScrapeResult:
         self._sleep_request_jitter()
         self._rate_limiter.acquire()
-        response = self._get_session().get(url, timeout=self.timeout_seconds)
+        try:
+            response = get_with_retries(
+                self._get_session(),
+                url,
+                timeout_seconds=self.timeout_seconds,
+            )
+        except RequestException as exc:
+            raise ScraperError(f"Failed to fetch {url!r}: {exc}") from exc
         self._raise_for_bad_response(response, url)
-        response.encoding = response.encoding or response.apparent_encoding or "utf-8"
         return self.parse_html(response.text, source=response.url)
 
     def parse_html(self, html: str, *, source: str) -> ScrapeResult:
@@ -227,9 +220,9 @@ class FlixPatrolScraper:
     def _raise_for_bad_response(response: Response, url: str) -> None:
         try:
             response.raise_for_status()
-        except requests.HTTPError as exc:
+        except HTTPError as exc:
             raise ScraperError(
-                f"Failed to fetch {url!r}: HTTP {response.status_code}"
+                f"Failed to fetch {url!r}: {format_response_diagnostics(response)}"
             ) from exc
 
     @staticmethod
