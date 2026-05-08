@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/denmark/",
-  "page_title": "TOP 10 on Streaming in Denmark on May 7, 2026",
+  "page_title": "TOP 10 on Streaming in Denmark on May 8, 2026",
   "region": "denmark",
-  "date": "May 7, 2026",
-  "scraped_at_utc": "2026-05-07T16:15:23.728755+00:00",
+  "date": "May 8, 2026",
+  "scraped_at_utc": "2026-05-08T16:04:01.073677+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Netflix in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,20 +33,20 @@
         },
         {
           "rank": 3,
-          "title": "Je m'appelle Agneta",
-          "tmdb": {
-            "id": 829487,
-            "media_type": "movie",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Gladiator II",
           "tmdb": {
             "id": 558449,
             "media_type": "movie",
             "release_date": "2024-11-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Je m'appelle Agneta",
+          "tmdb": {
+            "id": 829487,
+            "media_type": "movie",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -60,20 +60,20 @@
         },
         {
           "rank": 6,
-          "title": "Vertical Limit",
-          "tmdb": {
-            "id": 11678,
-            "media_type": "movie",
-            "release_date": "2000-12-08"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Hercules",
           "tmdb": {
             "id": 11970,
             "media_type": "movie",
             "release_date": "1997-06-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Pelican Brief",
+          "tmdb": {
+            "id": 9944,
+            "media_type": "movie",
+            "release_date": "1993-09-17"
           }
         },
         {
@@ -87,39 +87,39 @@
         },
         {
           "rank": 9,
+          "title": "Vertical Limit",
+          "tmdb": {
+            "id": 11678,
+            "media_type": "movie",
+            "release_date": "2000-12-08"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Ben-Hur",
           "tmdb": {
             "id": 665,
             "media_type": "movie",
             "release_date": "1959-11-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Pelican Brief",
-          "tmdb": {
-            "id": 9944,
-            "media_type": "movie",
-            "release_date": "1993-09-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on Netflix in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Should I Marry A Murderer?",
+          "title": "The Chestnut Man",
           "tmdb": {
-            "id": 318262,
+            "id": 127865,
             "media_type": "tv",
-            "release_date": "2026-04-29"
+            "release_date": "2021-09-29"
           }
         },
         {
@@ -133,20 +133,20 @@
         },
         {
           "rank": 3,
+          "title": "Should I Marry A Murderer?",
+          "tmdb": {
+            "id": 318262,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Man on Fire",
           "tmdb": {
             "id": 223386,
             "media_type": "tv",
             "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Chestnut Man",
-          "tmdb": {
-            "id": 127865,
-            "media_type": "tv",
-            "release_date": "2021-09-29"
           }
         },
         {
@@ -160,11 +160,11 @@
         },
         {
           "rank": 6,
-          "title": "Unchosen",
+          "title": "Legends",
           "tmdb": {
-            "id": 262848,
+            "id": 262280,
             "media_type": "tv",
-            "release_date": "2026-04-21"
+            "release_date": "2026-05-07"
           }
         },
         {
@@ -178,6 +178,15 @@
         },
         {
           "rank": 8,
+          "title": "Unchosen",
+          "tmdb": {
+            "id": 262848,
+            "media_type": "tv",
+            "release_date": "2026-04-21"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
@@ -186,31 +195,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Handmaid's Tale",
           "tmdb": {
             "id": 69478,
             "media_type": "tv",
             "release_date": "2017-04-26"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Detective Hole",
-          "tmdb": {
-            "id": 249597,
-            "media_type": "tv",
-            "release_date": "2026-03-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Denmark on May 7, 2026",
+      "heading": "TOP Movies on HBO Max in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -251,20 +251,20 @@
         },
         {
           "rank": 5,
-          "title": "A Real Pain",
-          "tmdb": {
-            "id": 1013850,
-            "media_type": "movie",
-            "release_date": "2024-11-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "This Time Next Year",
           "tmdb": {
             "id": 1122418,
             "media_type": "movie",
             "release_date": "2024-06-03"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "A Real Pain",
+          "tmdb": {
+            "id": 1013850,
+            "media_type": "movie",
+            "release_date": "2024-11-01"
           }
         },
         {
@@ -278,15 +278,6 @@
         },
         {
           "rank": 8,
-          "title": "Everything Must Go",
-          "tmdb": {
-            "id": 45658,
-            "media_type": "movie",
-            "release_date": "2011-05-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Outrun",
           "tmdb": {
             "id": 785542,
@@ -295,22 +286,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Madklubben",
+          "rank": 9,
+          "title": "Sherlock Holmes: A Game of Shadows",
           "tmdb": {
-            "id": 725234,
+            "id": 58574,
             "media_type": "movie",
-            "release_date": "2020-10-22"
+            "release_date": "2011-11-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Everything Must Go",
+          "tmdb": {
+            "id": 45658,
+            "media_type": "movie",
+            "release_date": "2011-05-13"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on HBO Max in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,20 +324,20 @@
         },
         {
           "rank": 2,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Gold Rush",
           "tmdb": {
             "id": 34634,
             "media_type": "tv",
             "release_date": "2010-12-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "90 Day: The Single Life",
-          "tmdb": {
-            "id": 118422,
-            "media_type": "tv",
-            "release_date": "2021-02-21"
           }
         },
         {
@@ -369,6 +369,15 @@
         },
         {
           "rank": 7,
+          "title": "90 Day: The Single Life",
+          "tmdb": {
+            "id": 118422,
+            "media_type": "tv",
+            "release_date": "2021-02-21"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Border Control - Denmark",
           "tmdb": {
             "id": 312328,
@@ -377,44 +386,44 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Dark Wizard",
-          "tmdb": {
-            "id": 316527,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
           "rank": 9,
-          "title": "90 Day Fiancé: Before the 90 Days",
-          "tmdb": {
-            "id": 73319,
-            "media_type": "tv",
-            "release_date": "2017-08-06"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Fångat på polisens kamera",
           "tmdb": {
             "id": 263373,
             "media_type": "tv",
             "release_date": "2024-09-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Wahlgrens Värld",
+          "tmdb": {
+            "id": 68757,
+            "media_type": "tv",
+            "release_date": "2016-10-06"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Denmark on May 7, 2026",
+      "heading": "TOP Overall on Disney+ in Denmark on May 8, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Send Help",
+          "tmdb": {
+            "id": 1198994,
+            "media_type": "movie",
+            "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -423,7 +432,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -432,21 +441,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
             "media_type": "movie",
             "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 321564,
-            "media_type": "tv",
-            "release_date": "2026-05-04"
           }
         },
         {
@@ -460,6 +460,15 @@
         },
         {
           "rank": 6,
+          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
+          "tmdb": {
+            "id": 321564,
+            "media_type": "tv",
+            "release_date": "2026-05-04"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Daredevil: Born Again",
           "tmdb": {
             "id": 202555,
@@ -468,18 +477,13 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Chernobyl: Inside The Meltdown",
           "tmdb": {
             "id": 318273,
             "media_type": "tv",
             "release_date": "2026-04-19"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Eric Dane: Life, Loss, and Courage - A Diane Sawyer Special Event",
-          "tmdb": null
         },
         {
           "rank": 9,
@@ -492,25 +496,34 @@
         },
         {
           "rank": 10,
-          "title": "Rio",
+          "title": "Predator: Badlands",
           "tmdb": {
-            "id": 46195,
+            "id": 1242898,
             "media_type": "movie",
-            "release_date": "2011-04-03"
+            "release_date": "2025-11-05"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Disney+ in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Send Help",
+          "tmdb": {
+            "id": 1198994,
+            "media_type": "movie",
+            "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -519,18 +532,13 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Gary",
           "tmdb": {
             "id": 1688652,
             "media_type": "movie",
             "release_date": "2026-05-05"
           }
-        },
-        {
-          "rank": 3,
-          "title": "Eric Dane: Life, Loss, and Courage - A Diane Sawyer Special Event",
-          "tmdb": null
         },
         {
           "rank": 4,
@@ -543,21 +551,17 @@
         },
         {
           "rank": 5,
-          "title": "Rio",
+          "title": "Predator: Badlands",
           "tmdb": {
-            "id": 46195,
+            "id": 1242898,
             "media_type": "movie",
-            "release_date": "2011-04-03"
+            "release_date": "2025-11-05"
           }
         },
         {
           "rank": 6,
-          "title": "Bridesmaids",
-          "tmdb": {
-            "id": 55721,
-            "media_type": "movie",
-            "release_date": "2011-05-13"
-          }
+          "title": "Eric Dane: Life, Loss, and Courage - A Diane Sawyer Special Event",
+          "tmdb": null
         },
         {
           "rank": 7,
@@ -570,6 +574,15 @@
         },
         {
           "rank": 8,
+          "title": "Rio",
+          "tmdb": {
+            "id": 46195,
+            "media_type": "movie",
+            "release_date": "2011-04-03"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Star Wars: Episode II - Attack of the Clones",
           "tmdb": {
             "id": 1894,
@@ -578,40 +591,31 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Inside Out",
-          "tmdb": {
-            "id": 150540,
-            "media_type": "movie",
-            "release_date": "2015-06-17"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Avengers: Endgame",
+          "title": "Rio 2",
           "tmdb": {
-            "id": 299534,
+            "id": 172385,
             "media_type": "movie",
-            "release_date": "2019-04-24"
+            "release_date": "2014-03-19"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on Disney+ in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
+          "title": "The Testaments",
           "tmdb": {
-            "id": 321564,
+            "id": 287527,
             "media_type": "tv",
-            "release_date": "2026-05-04"
+            "release_date": "2026-04-08"
           }
         },
         {
@@ -625,29 +629,29 @@
         },
         {
           "rank": 3,
-          "title": "The Testaments",
+          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
           "tmdb": {
-            "id": 287527,
+            "id": 321564,
             "media_type": "tv",
-            "release_date": "2026-04-08"
+            "release_date": "2026-05-04"
           }
         },
         {
           "rank": 4,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Chernobyl: Inside The Meltdown",
           "tmdb": {
             "id": 318273,
             "media_type": "tv",
             "release_date": "2026-04-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Perfect Crown",
-          "tmdb": {
-            "id": 278573,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
           }
         },
         {
@@ -661,20 +665,20 @@
         },
         {
           "rank": 7,
-          "title": "Naming the Dead",
+          "title": "High Potential",
           "tmdb": {
-            "id": 296423,
+            "id": 226637,
             "media_type": "tv",
-            "release_date": "2025-08-02"
+            "release_date": "2024-09-17"
           }
         },
         {
           "rank": 8,
-          "title": "Daredevil: Born Again",
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 202555,
+            "id": 278573,
             "media_type": "tv",
-            "release_date": "2025-03-04"
+            "release_date": "2026-04-10"
           }
         },
         {
@@ -688,21 +692,21 @@
         },
         {
           "rank": 10,
-          "title": "High Potential",
+          "title": "Naming the Dead",
           "tmdb": {
-            "id": 226637,
+            "id": 296423,
             "media_type": "tv",
-            "release_date": "2024-09-17"
+            "release_date": "2025-08-02"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Denmark on May 7, 2026",
+      "heading": "TOP Overall on Amazon Prime in Denmark on May 8, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -716,15 +720,6 @@
         },
         {
           "rank": 2,
-          "title": "The Last Viking",
-          "tmdb": {
-            "id": 1295400,
-            "media_type": "movie",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Sus & Bendtner – Forever?",
           "tmdb": {
             "id": 320611,
@@ -733,21 +728,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "LOL: Last One Laughing Denmark",
-          "tmdb": {
-            "id": 241932,
-            "media_type": "tv",
-            "release_date": "2023-12-29"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "title": "Citadel",
           "tmdb": {
             "id": 114922,
             "media_type": "tv",
             "release_date": "2023-04-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Last Viking",
+          "tmdb": {
+            "id": 1295400,
+            "media_type": "movie",
+            "release_date": "2025-10-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "LOL: Last One Laughing Denmark",
+          "tmdb": {
+            "id": 241932,
+            "media_type": "tv",
+            "release_date": "2023-12-29"
           }
         },
         {
@@ -761,20 +765,20 @@
         },
         {
           "rank": 7,
-          "title": "The Grand-ish Tour",
-          "tmdb": {
-            "id": 321267,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
             "media_type": "tv",
             "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Grand-ish Tour",
+          "tmdb": {
+            "id": 321267,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
           }
         },
         {
@@ -799,10 +803,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Amazon Prime in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -834,6 +838,15 @@
         },
         {
           "rank": 4,
+          "title": "Good Fortune",
+          "tmdb": {
+            "id": 1114967,
+            "media_type": "movie",
+            "release_date": "2025-10-14"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Gunner",
           "tmdb": {
             "id": 5492,
@@ -842,21 +855,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Long Walk",
           "tmdb": {
             "id": 604079,
             "media_type": "movie",
             "release_date": "2025-09-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Good Fortune",
-          "tmdb": {
-            "id": 1114967,
-            "media_type": "movie",
-            "release_date": "2025-10-14"
           }
         },
         {
@@ -870,15 +874,6 @@
         },
         {
           "rank": 8,
-          "title": "Riders of Justice",
-          "tmdb": {
-            "id": 663870,
-            "media_type": "movie",
-            "release_date": "2020-11-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
@@ -887,22 +882,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Vengeance",
+          "rank": 9,
+          "title": "Riders of Justice",
           "tmdb": {
-            "id": 1613798,
+            "id": 663870,
             "media_type": "movie",
-            "release_date": "2026-02-26"
+            "release_date": "2020-11-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Classified",
+          "tmdb": {
+            "id": 1124641,
+            "media_type": "movie",
+            "release_date": "2024-09-19"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -925,20 +929,20 @@
         },
         {
           "rank": 3,
-          "title": "LOL: Last One Laughing Denmark",
-          "tmdb": {
-            "id": 241932,
-            "media_type": "tv",
-            "release_date": "2023-12-29"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Citadel",
           "tmdb": {
             "id": 114922,
             "media_type": "tv",
             "release_date": "2023-04-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "LOL: Last One Laughing Denmark",
+          "tmdb": {
+            "id": 241932,
+            "media_type": "tv",
+            "release_date": "2023-12-29"
           }
         },
         {
@@ -952,20 +956,20 @@
         },
         {
           "rank": 6,
-          "title": "The Grand-ish Tour",
-          "tmdb": {
-            "id": 321267,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
             "media_type": "tv",
             "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Grand-ish Tour",
+          "tmdb": {
+            "id": 321267,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
           }
         },
         {
@@ -999,10 +1003,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Apple TV in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1052,15 +1056,6 @@
         },
         {
           "rank": 6,
-          "title": "The Family Plan 2",
-          "tmdb": {
-            "id": 1363123,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -1069,7 +1064,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1078,31 +1073,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
             "media_type": "movie",
             "release_date": "2025-08-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on Apple TV in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1116,15 +1120,6 @@
         },
         {
           "rank": 2,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Criminal Record",
           "tmdb": {
             "id": 204490,
@@ -1133,21 +1128,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Widow's Bay",
+          "rank": 3,
+          "title": "Margo's Got Money Troubles",
           "tmdb": {
-            "id": 270476,
+            "id": 245318,
             "media_type": "tv",
-            "release_date": "2026-04-28"
+            "release_date": "2026-04-14"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -1199,10 +1203,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Apple TV Store in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1225,20 +1229,20 @@
         },
         {
           "rank": 3,
-          "title": "GOAT",
-          "tmdb": {
-            "id": 1297842,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Greenland 2: Migration",
           "tmdb": {
             "id": 840464,
             "media_type": "movie",
             "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -1252,20 +1256,20 @@
         },
         {
           "rank": 6,
-          "title": "The Devil Wears Prada",
+          "title": "GOAT",
           "tmdb": {
-            "id": 350,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2006-06-29"
+            "release_date": "2026-02-11"
           }
         },
         {
           "rank": 7,
-          "title": "Hoppers",
+          "title": "Nuremberg",
           "tmdb": {
-            "id": 1327819,
+            "id": 1214931,
             "media_type": "movie",
-            "release_date": "2026-03-04"
+            "release_date": "2025-11-06"
           }
         },
         {
@@ -1288,21 +1292,21 @@
         },
         {
           "rank": 10,
-          "title": "Good Luck, Have Fun, Don't Die",
+          "title": "The Devil Wears Prada",
           "tmdb": {
-            "id": 1119449,
+            "id": 350,
             "media_type": "movie",
-            "release_date": "2025-12-25"
+            "release_date": "2006-06-29"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Google in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1399,10 +1403,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Rakuten TV in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1443,20 +1447,20 @@
         },
         {
           "rank": 5,
-          "title": "28 Years Later: The Bone Temple",
-          "tmdb": {
-            "id": 1272837,
-            "media_type": "movie",
-            "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Die My Love",
           "tmdb": {
             "id": 1033148,
             "media_type": "movie",
             "release_date": "2025-10-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
           }
         },
         {
@@ -1470,20 +1474,20 @@
         },
         {
           "rank": 8,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Checkered Ninja 3",
           "tmdb": {
             "id": 1215638,
             "media_type": "movie",
             "release_date": "2026-01-01"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
           }
         },
         {
@@ -1499,10 +1503,10 @@
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Denmark on May 7, 2026",
+      "heading": "TOP Movies on Viaplay in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1525,20 +1529,20 @@
         },
         {
           "rank": 3,
-          "title": "Code 3",
-          "tmdb": {
-            "id": 1161617,
-            "media_type": "movie",
-            "release_date": "2025-09-12"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Batman",
           "tmdb": {
             "id": 414906,
             "media_type": "movie",
             "release_date": "2022-03-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Code 3",
+          "tmdb": {
+            "id": 1161617,
+            "media_type": "movie",
+            "release_date": "2025-09-12"
           }
         },
         {
@@ -1552,15 +1556,6 @@
         },
         {
           "rank": 6,
-          "title": "Clear Cut",
-          "tmdb": {
-            "id": 1309770,
-            "media_type": "movie",
-            "release_date": "2024-07-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Bagman",
           "tmdb": {
             "id": 978796,
@@ -1569,40 +1564,49 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Godzilla x Kong: The New Empire",
+          "rank": 7,
+          "title": "American Made",
           "tmdb": {
-            "id": 823464,
+            "id": 337170,
             "media_type": "movie",
-            "release_date": "2024-03-27"
+            "release_date": "2017-08-18"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Clear Cut",
+          "tmdb": {
+            "id": 1309770,
+            "media_type": "movie",
+            "release_date": "2024-07-19"
           }
         },
         {
           "rank": 9,
-          "title": "Aftermath",
-          "tmdb": {
-            "id": 1081012,
-            "media_type": "movie",
-            "release_date": "2024-09-27"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Solace",
           "tmdb": {
             "id": 339527,
             "media_type": "movie",
             "release_date": "2015-09-03"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Aftermath",
+          "tmdb": {
+            "id": 1081012,
+            "media_type": "movie",
+            "release_date": "2024-09-27"
+          }
         }
       ]
     },
     {
       "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on Viaplay in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "Viaplay",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1625,15 +1629,6 @@
         },
         {
           "rank": 3,
-          "title": "Luksusmæglerne på Havnefronten",
-          "tmdb": {
-            "id": 319461,
-            "media_type": "tv",
-            "release_date": "2026-04-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Dinner at Michelin restaurants",
           "tmdb": {
             "id": 319918,
@@ -1642,16 +1637,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Chicago P.D.",
-          "tmdb": {
-            "id": 58841,
-            "media_type": "tv",
-            "release_date": "2014-01-08"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "Chicago Fire",
           "tmdb": {
             "id": 44006,
@@ -1660,12 +1646,30 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "MasterChef",
           "tmdb": {
             "id": 25992,
             "media_type": "tv",
             "release_date": "2005-02-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Chicago Med",
+          "tmdb": {
+            "id": 62650,
+            "media_type": "tv",
+            "release_date": "2015-11-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Luksusmæglerne på Havnefronten",
+          "tmdb": {
+            "id": 319461,
+            "media_type": "tv",
+            "release_date": "2026-04-16"
           }
         },
         {
@@ -1679,30 +1683,30 @@
         },
         {
           "rank": 9,
+          "title": "Chicago P.D.",
+          "tmdb": {
+            "id": 58841,
+            "media_type": "tv",
+            "release_date": "2014-01-08"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Doc",
           "tmdb": {
             "id": 101048,
             "media_type": "tv",
             "release_date": "2020-03-26"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Chicago Med",
-          "tmdb": {
-            "id": 62650,
-            "media_type": "tv",
-            "release_date": "2015-11-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Denmark on May 7, 2026",
+      "heading": "TOP Movies on SkyShowtime in Denmark on May 8, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1734,11 +1738,11 @@
         },
         {
           "rank": 4,
-          "title": "Regretting You",
+          "title": "The Mummy Returns",
           "tmdb": {
-            "id": 1327862,
+            "id": 1734,
             "media_type": "movie",
-            "release_date": "2025-10-22"
+            "release_date": "2001-05-04"
           }
         },
         {
@@ -1761,29 +1765,29 @@
         },
         {
           "rank": 7,
-          "title": "The Mummy Returns",
+          "title": "Nick of Time",
           "tmdb": {
-            "id": 1734,
+            "id": 2086,
             "media_type": "movie",
-            "release_date": "2001-05-04"
+            "release_date": "1995-11-22"
           }
         },
         {
           "rank": 8,
-          "title": "The Mummy",
+          "title": "Regretting You",
           "tmdb": {
-            "id": 564,
+            "id": 1327862,
             "media_type": "movie",
-            "release_date": "1999-04-16"
+            "release_date": "2025-10-22"
           }
         },
         {
           "rank": 9,
-          "title": "The Dictator",
+          "title": "Big Fat Liar",
           "tmdb": {
-            "id": 76493,
+            "id": 11870,
             "media_type": "movie",
-            "release_date": "2012-05-15"
+            "release_date": "2002-02-08"
           }
         },
         {
@@ -1799,10 +1803,10 @@
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Denmark on May 7, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Denmark on May 8, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "May 7, 2026",
+      "date": "May 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1816,6 +1820,15 @@
         },
         {
           "rank": 2,
+          "title": "Prisoner",
+          "tmdb": {
+            "id": 311858,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Under Salt Marsh",
           "tmdb": {
             "id": 262262,
@@ -1824,7 +1837,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Brooklyn Nine-Nine",
           "tmdb": {
             "id": 48891,
@@ -1833,7 +1846,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Madison",
           "tmdb": {
             "id": 225891,
@@ -1842,7 +1855,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "ted",
           "tmdb": {
             "id": 201834,
@@ -1851,7 +1864,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Gomorrah",
           "tmdb": {
             "id": 61068,
@@ -1860,7 +1873,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "School Spirits",
           "tmdb": {
             "id": 208397,
@@ -1869,7 +1882,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Veronika",
           "tmdb": {
             "id": 245441,
@@ -1878,21 +1891,12 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
             "media_type": "tv",
             "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Gomorrah: The Origins",
-          "tmdb": {
-            "id": 293550,
-            "media_type": "tv",
-            "release_date": "2026-01-09"
           }
         }
       ]
