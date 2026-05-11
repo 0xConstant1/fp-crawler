@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/spain/",
-  "page_title": "TOP 10 on Streaming in Spain on May 10, 2026",
+  "page_title": "TOP 10 on Streaming in Spain on May 11, 2026",
   "region": "spain",
-  "date": "May 10, 2026",
-  "scraped_at_utc": "2026-05-10T15:50:11.718967+00:00",
+  "date": "May 11, 2026",
+  "scraped_at_utc": "2026-05-11T16:22:29.170965+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Spain on May 10, 2026",
+      "heading": "TOP Movies on Netflix in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Remarkably Bright Creatures",
+          "tmdb": {
+            "id": 1330021,
+            "media_type": "movie",
+            "release_date": "2026-05-07"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
             "media_type": "movie",
             "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "My Dearest Señorita",
-          "tmdb": {
-            "id": 1239198,
-            "media_type": "movie",
-            "release_date": "2026-04-17"
           }
         },
         {
@@ -42,15 +42,24 @@
         },
         {
           "rank": 4,
-          "title": "Remarkably Bright Creatures",
+          "title": "My Dearest Señorita",
           "tmdb": {
-            "id": 1330021,
+            "id": 1239198,
             "media_type": "movie",
-            "release_date": "2026-05-07"
+            "release_date": "2026-04-17"
           }
         },
         {
           "rank": 5,
+          "title": "Angel Eyes",
+          "tmdb": {
+            "id": 5852,
+            "media_type": "movie",
+            "release_date": "2001-05-18"
+          }
+        },
+        {
+          "rank": 6,
           "title": "My Dearest Assassin",
           "tmdb": {
             "id": 1630423,
@@ -59,7 +68,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Gladiator II",
           "tmdb": {
             "id": 558449,
@@ -68,21 +77,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Damned",
           "tmdb": {
             "id": 850439,
             "media_type": "movie",
             "release_date": "2025-01-03"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Angel Eyes",
-          "tmdb": {
-            "id": 5852,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on Netflix in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,11 +133,11 @@
         },
         {
           "rank": 3,
-          "title": "Alpha Males",
+          "title": "Legends",
           "tmdb": {
-            "id": 215092,
+            "id": 262280,
             "media_type": "tv",
-            "release_date": "2022-12-30"
+            "release_date": "2026-05-07"
           }
         },
         {
@@ -151,42 +151,15 @@
         },
         {
           "rank": 5,
-          "title": "Should I Marry A Murderer?",
+          "title": "Alpha Males",
           "tmdb": {
-            "id": 318262,
+            "id": 215092,
             "media_type": "tv",
-            "release_date": "2026-04-29"
+            "release_date": "2022-12-30"
           }
         },
         {
           "rank": 6,
-          "title": "Legends",
-          "tmdb": {
-            "id": 262280,
-            "media_type": "tv",
-            "release_date": "2026-05-07"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "My Royal Nemesis",
-          "tmdb": {
-            "id": 303143,
-            "media_type": "tv",
-            "release_date": "2026-05-08"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Handmaid's Tale",
-          "tmdb": {
-            "id": 69478,
-            "media_type": "tv",
-            "release_date": "2017-04-26"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Unchosen",
           "tmdb": {
             "id": 262848,
@@ -195,22 +168,249 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Flunked",
+          "rank": 7,
+          "title": "The Handmaid's Tale",
           "tmdb": {
-            "id": 287978,
+            "id": 69478,
+            "media_type": "tv",
+            "release_date": "2017-04-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "My Royal Nemesis",
+          "tmdb": {
+            "id": 303143,
+            "media_type": "tv",
+            "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Should I Marry A Murderer?",
+          "tmdb": {
+            "id": 318262,
+            "media_type": "tv",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Thank You, Next",
+          "tmdb": {
+            "id": 251883,
+            "media_type": "tv",
+            "release_date": "2024-05-09"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Spain on May 11, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "May 11, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "It Takes Two",
+          "tmdb": {
+            "id": 33689,
+            "media_type": "movie",
+            "release_date": "1995-11-17"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Puss in Boots: The Last Wish",
+          "tmdb": {
+            "id": 315162,
+            "media_type": "movie",
+            "release_date": "2022-12-07"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Madagascar",
+          "tmdb": {
+            "id": 953,
+            "media_type": "movie",
+            "release_date": "2005-05-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Padre no hay más que uno 5: Nido repleto",
+          "tmdb": {
+            "id": 1328913,
+            "media_type": "movie",
+            "release_date": "2025-06-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Garfield Movie",
+          "tmdb": {
+            "id": 748783,
+            "media_type": "movie",
+            "release_date": "2024-04-30"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Minions: The Rise of Gru",
+          "tmdb": {
+            "id": 438148,
+            "media_type": "movie",
+            "release_date": "2022-06-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Minions",
+          "tmdb": {
+            "id": 211672,
+            "media_type": "movie",
+            "release_date": "2015-06-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Extinct",
+          "tmdb": {
+            "id": 664236,
+            "media_type": "movie",
+            "release_date": "2021-02-11"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Spain on May 11, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "May 11, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Stranger Things: Tales from '85",
+          "tmdb": {
+            "id": 224263,
             "media_type": "tv",
             "release_date": "2026-04-23"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Booba",
+          "tmdb": {
+            "id": 81700,
+            "media_type": "tv",
+            "release_date": "2014-11-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Superthings Rivals of Kaboom, Kazoom Power",
+          "tmdb": {
+            "id": 263059,
+            "media_type": "tv",
+            "release_date": "2024-09-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Dinosaurs",
+          "tmdb": {
+            "id": 313298,
+            "media_type": "tv",
+            "release_date": "2026-03-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Captain Tsubasa",
+          "tmdb": {
+            "id": 77240,
+            "media_type": "tv",
+            "release_date": "2018-04-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Dr. Seuss's Horton!",
+          "tmdb": {
+            "id": 293205,
+            "media_type": "tv",
+            "release_date": "2025-10-06"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Spain on May 10, 2026",
+      "heading": "TOP Movies on HBO Max in Spain on May 11, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,6 +433,15 @@
         },
         {
           "rank": 3,
+          "title": "Father Mother Sister Brother",
+          "tmdb": {
+            "id": 1159206,
+            "media_type": "movie",
+            "release_date": "2025-12-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Salem's Lot",
           "tmdb": {
             "id": 748230,
@@ -241,7 +450,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Killing of a Sacred Deer",
           "tmdb": {
             "id": 399057,
@@ -250,21 +459,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Mortal Kombat",
           "tmdb": {
             "id": 460465,
             "media_type": "movie",
             "release_date": "2021-04-07"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Father Mother Sister Brother",
-          "tmdb": {
-            "id": 1159206,
-            "media_type": "movie",
-            "release_date": "2025-12-01"
           }
         },
         {
@@ -278,15 +478,6 @@
         },
         {
           "rank": 8,
-          "title": "The Smashing Machine",
-          "tmdb": {
-            "id": 760329,
-            "media_type": "movie",
-            "release_date": "2025-10-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Intern",
           "tmdb": {
             "id": 257211,
@@ -295,22 +486,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Close Your Eyes",
           "tmdb": {
             "id": 997294,
             "media_type": "movie",
             "release_date": "2023-08-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Smashing Machine",
+          "tmdb": {
+            "id": 760329,
+            "media_type": "movie",
+            "release_date": "2025-10-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on HBO Max in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -369,20 +569,20 @@
         },
         {
           "rank": 7,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Privileges",
           "tmdb": {
             "id": 283853,
             "media_type": "tv",
             "release_date": "2026-03-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
           }
         },
         {
@@ -407,10 +607,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Spain on May 10, 2026",
+      "heading": "TOP Overall on Disney+ in Spain on May 11, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -507,10 +707,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Spain on May 10, 2026",
+      "heading": "TOP Movies on Disney+ in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -607,23 +807,14 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on Disney+ in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Testaments",
-          "tmdb": {
-            "id": 287527,
-            "media_type": "tv",
-            "release_date": "2026-04-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "La nena",
           "tmdb": {
             "id": 281041,
@@ -632,12 +823,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Star Wars: Maul - Shadow Lord",
+          "rank": 2,
+          "title": "The Testaments",
           "tmdb": {
-            "id": 289219,
+            "id": 287527,
             "media_type": "tv",
-            "release_date": "2026-04-06"
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Gypsy Bride",
+          "tmdb": {
+            "id": 128020,
+            "media_type": "tv",
+            "release_date": "2022-09-25"
           }
         },
         {
@@ -651,20 +851,20 @@
         },
         {
           "rank": 5,
-          "title": "The Gypsy Bride",
-          "tmdb": {
-            "id": 128020,
-            "media_type": "tv",
-            "release_date": "2022-09-25"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Purple Network",
           "tmdb": {
             "id": 230720,
             "media_type": "tv",
             "release_date": "2023-10-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Star Wars: Maul - Shadow Lord",
+          "tmdb": {
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
           }
         },
         {
@@ -687,30 +887,30 @@
         },
         {
           "rank": 9,
-          "title": "MasterChef",
-          "tmdb": {
-            "id": 25992,
-            "media_type": "tv",
-            "release_date": "2005-02-21"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
             "media_type": "tv",
             "release_date": "2026-04-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Chernobyl: Inside The Meltdown",
+          "tmdb": {
+            "id": 318273,
+            "media_type": "tv",
+            "release_date": "2026-04-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Spain on May 10, 2026",
+      "heading": "TOP Movies on Amazon Prime in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -760,6 +960,15 @@
         },
         {
           "rank": 6,
+          "title": "Balls Up",
+          "tmdb": {
+            "id": 1084577,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Vengeance",
           "tmdb": {
             "id": 1613798,
@@ -768,21 +977,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Life of Chuck",
           "tmdb": {
             "id": 842924,
             "media_type": "movie",
             "release_date": "2025-06-05"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Balls Up",
-          "tmdb": {
-            "id": 1084577,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
           }
         },
         {
@@ -796,21 +996,21 @@
         },
         {
           "rank": 10,
-          "title": "Sarah's Oil",
+          "title": "Mercy",
           "tmdb": {
-            "id": 1325678,
+            "id": 1236153,
             "media_type": "movie",
-            "release_date": "2025-11-06"
+            "release_date": "2026-01-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -860,6 +1060,15 @@
         },
         {
           "rank": 6,
+          "title": "Lisbon Noir",
+          "tmdb": {
+            "id": 293940,
+            "media_type": "tv",
+            "release_date": "2026-04-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "La que se avecina",
           "tmdb": {
             "id": 35338,
@@ -868,7 +1077,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
@@ -877,21 +1086,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "INVINCIBLE",
           "tmdb": {
             "id": 95557,
             "media_type": "tv",
             "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Lisbon Noir",
-          "tmdb": {
-            "id": 293940,
-            "media_type": "tv",
-            "release_date": "2026-04-13"
           }
         },
         {
@@ -907,10 +1107,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Spain on May 10, 2026",
+      "heading": "TOP Movies on Apple TV in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -942,20 +1142,20 @@
         },
         {
           "rank": 4,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
             "media_type": "movie",
             "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
           }
         },
         {
@@ -969,15 +1169,6 @@
         },
         {
           "rank": 7,
-          "title": "The Lost Bus",
-          "tmdb": {
-            "id": 1236470,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -986,31 +1177,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Family Plan 2",
+          "rank": 8,
+          "title": "The Lost Bus",
           "tmdb": {
-            "id": 1363123,
+            "id": 1236470,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2025-09-19"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Instigators",
           "tmdb": {
             "id": 1059064,
             "media_type": "movie",
             "release_date": "2024-08-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on Apple TV in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1062,9 +1262,9 @@
           "rank": 6,
           "title": "Unconditional",
           "tmdb": {
-            "id": 106150,
+            "id": 314916,
             "media_type": "tv",
-            "release_date": "2019-05-04"
+            "release_date": "2026-04-27"
           }
         },
         {
@@ -1087,30 +1287,30 @@
         },
         {
           "rank": 9,
-          "title": "Criminal Record",
-          "tmdb": {
-            "id": 204490,
-            "media_type": "tv",
-            "release_date": "2024-01-10"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Spain on May 10, 2026",
+      "heading": "TOP Movies on Amazon in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1207,10 +1407,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Spain on May 10, 2026",
+      "heading": "TOP Movies on Apple TV Store in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1233,20 +1433,20 @@
         },
         {
           "rank": 3,
-          "title": "Hamnet",
-          "tmdb": {
-            "id": 858024,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
             "media_type": "movie",
             "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Hamnet",
+          "tmdb": {
+            "id": 858024,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
           }
         },
         {
@@ -1260,20 +1460,20 @@
         },
         {
           "rank": 6,
-          "title": "Marty Supreme",
-          "tmdb": {
-            "id": 1317288,
-            "media_type": "movie",
-            "release_date": "2025-12-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
             "media_type": "movie",
             "release_date": "2025-11-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Marty Supreme",
+          "tmdb": {
+            "id": 1317288,
+            "media_type": "movie",
+            "release_date": "2025-12-19"
           }
         },
         {
@@ -1287,11 +1487,11 @@
         },
         {
           "rank": 9,
-          "title": "GOAT",
+          "title": "Ídolos",
           "tmdb": {
-            "id": 1297842,
+            "id": 1357449,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2026-01-23"
           }
         },
         {
@@ -1307,10 +1507,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Spain on May 10, 2026",
+      "heading": "TOP Movies on Google in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1407,10 +1607,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Spain on May 10, 2026",
+      "heading": "TOP Movies on Rakuten TV in Spain on May 11, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1460,6 +1660,15 @@
         },
         {
           "rank": 6,
+          "title": "This Is It",
+          "tmdb": {
+            "id": 13576,
+            "media_type": "movie",
+            "release_date": "2009-10-28"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Bride!",
           "tmdb": {
             "id": 1159831,
@@ -1468,25 +1677,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Misdirection",
-          "tmdb": {
-            "id": 1146344,
-            "media_type": "movie",
-            "release_date": "2026-02-10"
-          }
-        },
-        {
           "rank": 8,
-          "title": "The Last Front",
-          "tmdb": {
-            "id": 633425,
-            "media_type": "movie",
-            "release_date": "2024-02-07"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Homo Argentum",
           "tmdb": {
             "id": 1471345,
@@ -1495,22 +1686,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "This Is It",
+          "rank": 9,
+          "title": "The Shadow's Edge",
           "tmdb": {
-            "id": 13576,
+            "id": 1419406,
             "media_type": "movie",
-            "release_date": "2009-10-28"
+            "release_date": "2025-08-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Spain on May 10, 2026",
+      "heading": "TOP Movies on SkyShowtime in Spain on May 11, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1551,15 +1751,6 @@
         },
         {
           "rank": 5,
-          "title": "Regretting You",
-          "tmdb": {
-            "id": 1327862,
-            "media_type": "movie",
-            "release_date": "2025-10-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Mummy Returns",
           "tmdb": {
             "id": 1734,
@@ -1568,21 +1759,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Buddy Games",
-          "tmdb": {
-            "id": 472815,
-            "media_type": "movie",
-            "release_date": "2019-11-18"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "The Mummy: Tomb of the Dragon Emperor",
           "tmdb": {
             "id": 1735,
             "media_type": "movie",
             "release_date": "2008-07-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Regretting You",
+          "tmdb": {
+            "id": 1327862,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Buddy Games",
+          "tmdb": {
+            "id": 472815,
+            "media_type": "movie",
+            "release_date": "2019-11-18"
           }
         },
         {
@@ -1607,10 +1807,10 @@
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Spain on May 10, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Spain on May 11, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "May 10, 2026",
+      "date": "May 11, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1624,15 +1824,6 @@
         },
         {
           "rank": 2,
-          "title": "Prisoner",
-          "tmdb": {
-            "id": 311858,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Y: Marshals",
           "tmdb": {
             "id": 290856,
@@ -1641,12 +1832,21 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Under Salt Marsh",
           "tmdb": {
             "id": 262262,
             "media_type": "tv",
             "release_date": "2026-01-30"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Prisoner",
+          "tmdb": {
+            "id": 311858,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
           }
         },
         {
