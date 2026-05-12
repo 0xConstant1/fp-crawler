@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/iraq/",
-  "page_title": "TOP 10 on Streaming in Iraq on May 11, 2026",
+  "page_title": "TOP 10 on Streaming in Iraq on May 12, 2026",
   "region": "iraq",
-  "date": "May 11, 2026",
-  "scraped_at_utc": "2026-05-11T16:21:51.034951+00:00",
+  "date": "May 12, 2026",
+  "scraped_at_utc": "2026-05-12T16:19:15.353799+00:00",
   "charts": [
     {
       "catalog_id": "shahid.movies",
-      "heading": "TOP Movies on Shahid in Iraq on May 11, 2026",
+      "heading": "TOP Movies on Shahid in Iraq on May 12, 2026",
       "category": "movies",
       "platform": "Shahid",
-      "date": "May 11, 2026",
+      "date": "May 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -78,8 +78,12 @@
         },
         {
           "rank": 8,
-          "title": "Siwar",
-          "tmdb": null
+          "title": "Cocktail",
+          "tmdb": {
+            "id": 7520,
+            "media_type": "movie",
+            "release_date": "1988-07-29"
+          }
         },
         {
           "rank": 9,
@@ -92,27 +96,31 @@
         },
         {
           "rank": 10,
-          "title": "Cocktail",
+          "title": "The Beekeeper",
           "tmdb": {
-            "id": 7520,
+            "id": 866398,
             "media_type": "movie",
-            "release_date": "1988-07-29"
+            "release_date": "2024-01-08"
           }
         }
       ]
     },
     {
       "catalog_id": "shahid.series",
-      "heading": "TOP TV Shows on Shahid in Iraq on May 11, 2026",
+      "heading": "TOP TV Shows on Shahid in Iraq on May 12, 2026",
       "category": "tv shows",
       "platform": "Shahid",
-      "date": "May 11, 2026",
+      "date": "May 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "You are the One I Love",
-          "tmdb": null
+          "title": "Layl",
+          "tmdb": {
+            "id": 308689,
+            "media_type": "tv",
+            "release_date": "2025-12-28"
+          }
         },
         {
           "rank": 2,
@@ -125,12 +133,8 @@
         },
         {
           "rank": 3,
-          "title": "Layl",
-          "tmdb": {
-            "id": 308689,
-            "media_type": "tv",
-            "release_date": "2025-12-28"
-          }
+          "title": "You are the One I Love",
+          "tmdb": null
         },
         {
           "rank": 4,
@@ -139,20 +143,20 @@
         },
         {
           "rank": 5,
-          "title": "Esref Ruya",
-          "tmdb": {
-            "id": 283123,
-            "media_type": "tv",
-            "release_date": "2025-03-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Underground",
           "tmdb": {
             "id": 64150,
             "media_type": "tv",
             "release_date": "2016-03-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Esref Ruya",
+          "tmdb": {
+            "id": 283123,
+            "media_type": "tv",
+            "release_date": "2025-03-19"
           }
         },
         {
@@ -175,17 +179,17 @@
         },
         {
           "rank": 9,
-          "title": "Lobby El Gharam",
-          "tmdb": null
-        },
-        {
-          "rank": 10,
           "title": "A.B.I.: A Broken Inheritance",
           "tmdb": {
             "id": 306529,
             "media_type": "tv",
             "release_date": "2026-01-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Lobby El Gharam",
+          "tmdb": null
         }
       ]
     }
