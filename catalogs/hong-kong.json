@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/hong-kong/",
-  "page_title": "TOP 10 on Streaming in Hong-Kong on May 14, 2026",
+  "page_title": "TOP 10 on Streaming in Hong-Kong on May 15, 2026",
   "region": "hong-kong",
-  "date": "May 14, 2026",
-  "scraped_at_utc": "2026-05-14T16:19:44.716571+00:00",
+  "date": "May 15, 2026",
+  "scraped_at_utc": "2026-05-15T16:14:11.228395+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Hong-Kong on May 14, 2026",
+      "heading": "TOP TV Shows on Viu in Hong-Kong on May 15, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "viu.anime",
-      "heading": "TOP Anime on Viu in Hong-Kong on May 14, 2026",
+      "heading": "TOP Anime on Viu in Hong-Kong on May 15, 2026",
       "category": "anime",
       "platform": "Viu",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Hong-Kong on May 14, 2026",
+      "heading": "TOP Movies on Netflix in Hong-Kong on May 15, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,20 +233,20 @@
         },
         {
           "rank": 3,
+          "title": "American Sniper",
+          "tmdb": {
+            "id": 190859,
+            "media_type": "movie",
+            "release_date": "2014-12-25"
+          }
+        },
+        {
+          "rank": 4,
           "title": "My Dearest Assassin",
           "tmdb": {
             "id": 1630423,
             "media_type": "movie",
             "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Blood and Bone",
-          "tmdb": {
-            "id": 22164,
-            "media_type": "movie",
-            "release_date": "2009-02-07"
           }
         },
         {
@@ -260,15 +260,33 @@
         },
         {
           "rank": 6,
-          "title": "John Wick",
+          "title": "Blood and Bone",
           "tmdb": {
-            "id": 245891,
+            "id": 22164,
             "media_type": "movie",
-            "release_date": "2014-10-22"
+            "release_date": "2009-02-07"
           }
         },
         {
           "rank": 7,
+          "title": "I Am Legend",
+          "tmdb": {
+            "id": 6479,
+            "media_type": "movie",
+            "release_date": "2007-12-12"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Into the Storm",
+          "tmdb": {
+            "id": 216282,
+            "media_type": "movie",
+            "release_date": "2014-08-06"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -277,40 +295,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Wild Robot",
-          "tmdb": {
-            "id": 1184918,
-            "media_type": "movie",
-            "release_date": "2024-09-12"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Joker: Folie à Deux",
+          "title": "John Wick",
           "tmdb": {
-            "id": 889737,
+            "id": 245891,
             "media_type": "movie",
-            "release_date": "2024-10-01"
+            "release_date": "2014-10-22"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Hong-Kong on May 14, 2026",
+      "heading": "TOP TV Shows on Netflix in Hong-Kong on May 15, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,20 +324,20 @@
         },
         {
           "rank": 2,
-          "title": "Straight to Hell",
-          "tmdb": {
-            "id": 300529,
-            "media_type": "tv",
-            "release_date": "2026-04-27"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Sold Out on You",
           "tmdb": {
             "id": 287011,
             "media_type": "tv",
             "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Straight to Hell",
+          "tmdb": {
+            "id": 300529,
+            "media_type": "tv",
+            "release_date": "2026-04-27"
           }
         },
         {
@@ -351,15 +351,6 @@
         },
         {
           "rank": 5,
-          "title": "Daemons of the Shadow Realm",
-          "tmdb": {
-            "id": 260463,
-            "media_type": "tv",
-            "release_date": "2026-04-04"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Pursuit of Jade",
           "tmdb": {
             "id": 279388,
@@ -368,16 +359,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Witch Hat Atelier",
+          "rank": 6,
+          "title": "Daemons of the Shadow Realm",
           "tmdb": {
-            "id": 196950,
+            "id": 260463,
             "media_type": "tv",
-            "release_date": "2026-04-06"
+            "release_date": "2026-04-04"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Worst Ex Ever",
           "tmdb": {
             "id": 259259,
@@ -386,31 +377,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Witch Hat Atelier",
+          "tmdb": {
+            "id": 196950,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Between Father and Son",
+          "tmdb": {
+            "id": 321338,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Wistoria: Wand and Sword",
           "tmdb": {
             "id": 245842,
             "media_type": "tv",
             "release_date": "2024-07-07"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Marriage Toxin",
-          "tmdb": {
-            "id": 301944,
-            "media_type": "tv",
-            "release_date": "2026-04-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Hong-Kong on May 14, 2026",
+      "heading": "TOP Kids Movies on Netflix in Hong-Kong on May 15, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -460,29 +460,29 @@
         },
         {
           "rank": 6,
-          "title": "Migration",
-          "tmdb": {
-            "id": 940551,
-            "media_type": "movie",
-            "release_date": "2023-12-06"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Spirited Away",
-          "tmdb": {
-            "id": 129,
-            "media_type": "movie",
-            "release_date": "2001-07-20"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Boss Baby",
           "tmdb": {
             "id": 295693,
             "media_type": "movie",
             "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Pan",
+          "tmdb": {
+            "id": 266647,
+            "media_type": "movie",
+            "release_date": "2015-09-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Migration",
+          "tmdb": {
+            "id": 940551,
+            "media_type": "movie",
+            "release_date": "2023-12-06"
           }
         },
         {
@@ -496,21 +496,21 @@
         },
         {
           "rank": 10,
-          "title": "My Neighbor Totoro",
+          "title": "Spirited Away",
           "tmdb": {
-            "id": 8392,
+            "id": 129,
             "media_type": "movie",
-            "release_date": "1988-04-16"
+            "release_date": "2001-07-20"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Hong-Kong on May 14, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Hong-Kong on May 15, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -542,20 +542,20 @@
         },
         {
           "rank": 4,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
             "media_type": "tv",
             "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
           }
         },
         {
@@ -578,11 +578,6 @@
         },
         {
           "rank": 8,
-          "title": "Tayo's Singalong Show",
-          "tmdb": null
-        },
-        {
-          "rank": 9,
           "title": "The Dinosaurs",
           "tmdb": {
             "id": 313298,
@@ -591,22 +586,27 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Gabby's Dollhouse",
+          "rank": 9,
+          "title": "CoComelon Lane",
           "tmdb": {
-            "id": 111474,
+            "id": 209710,
             "media_type": "tv",
-            "release_date": "2021-01-05"
+            "release_date": "2023-11-17"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Tayo's Singalong Show",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Hong-Kong on May 14, 2026",
+      "heading": "TOP Movies on HBO Max in Hong-Kong on May 15, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -647,20 +647,20 @@
         },
         {
           "rank": 5,
-          "title": "Journey 2: The Mysterious Island",
-          "tmdb": {
-            "id": 72545,
-            "media_type": "movie",
-            "release_date": "2012-01-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Black Phone 2",
           "tmdb": {
             "id": 1197137,
             "media_type": "movie",
             "release_date": "2025-10-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Journey 2: The Mysterious Island",
+          "tmdb": {
+            "id": 72545,
+            "media_type": "movie",
+            "release_date": "2012-01-19"
           }
         },
         {
@@ -683,11 +683,11 @@
         },
         {
           "rank": 9,
-          "title": "The SpongeBob SquarePants Movie",
+          "title": "M3GAN 2.0",
           "tmdb": {
-            "id": 11836,
+            "id": 1071585,
             "media_type": "movie",
-            "release_date": "2004-11-19"
+            "release_date": "2025-06-25"
           }
         },
         {
@@ -703,10 +703,10 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Hong-Kong on May 14, 2026",
+      "heading": "TOP TV Shows on HBO Max in Hong-Kong on May 15, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -765,6 +765,15 @@
         },
         {
           "rank": 7,
+          "title": "The Dark Money Game",
+          "tmdb": {
+            "id": 288377,
+            "media_type": "tv",
+            "release_date": "2025-04-15"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Song of the Samurai",
           "tmdb": {
             "id": 321388,
@@ -773,48 +782,39 @@
           }
         },
         {
-          "rank": 8,
-          "title": "구기동 프렌즈",
-          "tmdb": {
-            "id": 319339,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Regular Show: The Lost Tapes",
-          "tmdb": {
-            "id": 256695,
-            "media_type": "tv",
-            "release_date": "2026-05-11"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Supergirl",
           "tmdb": {
             "id": 62688,
             "media_type": "tv",
             "release_date": "2015-10-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Prisoner",
+          "tmdb": {
+            "id": 311858,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Hong-Kong on May 14, 2026",
+      "heading": "TOP Overall on Disney+ in Hong-Kong on May 15, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
+          "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
           "tmdb": {
-            "id": 322452,
-            "media_type": "tv",
+            "id": 1439930,
+            "media_type": "movie",
             "release_date": "2026-05-12"
           }
         },
@@ -829,6 +829,15 @@
         },
         {
           "rank": 3,
+          "title": "Zhan Zhao Adventures",
+          "tmdb": {
+            "id": 254486,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Gold Land",
           "tmdb": {
             "id": 278113,
@@ -837,7 +846,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -846,21 +855,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
             "media_type": "movie",
             "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Zhan Zhao Adventures",
-          "tmdb": {
-            "id": 254486,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
           }
         },
         {
@@ -903,15 +903,15 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Hong-Kong on May 14, 2026",
+      "heading": "TOP Movies on Disney+ in Hong-Kong on May 15, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
+          "title": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
           "tmdb": {
             "id": 1439930,
             "media_type": "movie",
@@ -974,20 +974,20 @@
         },
         {
           "rank": 8,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Zootopia",
           "tmdb": {
             "id": 269149,
             "media_type": "movie",
             "release_date": "2016-02-11"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Frozen II",
-          "tmdb": {
-            "id": 330457,
-            "media_type": "movie",
-            "release_date": "2019-11-20"
           }
         },
         {
@@ -1003,10 +1003,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Hong-Kong on May 14, 2026",
+      "heading": "TOP Movies on Apple TV in Hong-Kong on May 15, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1038,15 +1038,6 @@
         },
         {
           "rank": 4,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1055,12 +1046,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Eternity",
+          "rank": 5,
+          "title": "Greyhound",
           "tmdb": {
-            "id": 1259102,
+            "id": 516486,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
           }
         },
         {
@@ -1074,39 +1074,39 @@
         },
         {
           "rank": 8,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Argylle",
+          "tmdb": {
+            "id": 848538,
+            "media_type": "movie",
+            "release_date": "2024-01-31"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
             "media_type": "movie",
             "release_date": "2025-05-19"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Sharper",
-          "tmdb": {
-            "id": 717980,
-            "media_type": "movie",
-            "release_date": "2023-02-10"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Hong-Kong on May 14, 2026",
+      "heading": "TOP TV Shows on Apple TV in Hong-Kong on May 15, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1183,43 +1183,34 @@
         },
         {
           "rank": 9,
-          "title": "Hijack",
-          "tmdb": {
-            "id": 198102,
-            "media_type": "tv",
-            "release_date": "2023-06-28"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
             "media_type": "tv",
             "release_date": "2022-02-17"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Tehran",
+          "tmdb": {
+            "id": 103913,
+            "media_type": "tv",
+            "release_date": "2020-06-22"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Hong-Kong on May 14, 2026",
+      "heading": "TOP Movies on Apple TV Store in Hong-Kong on May 15, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 14, 2026",
+      "date": "May 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Cold War II",
-          "tmdb": {
-            "id": 416249,
-            "media_type": "movie",
-            "release_date": "2016-07-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Cold War",
           "tmdb": {
             "id": 137409,
@@ -1228,12 +1219,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Three Thousand Years of Longing",
+          "rank": 2,
+          "title": "Cold War II",
           "tmdb": {
-            "id": 556694,
+            "id": 416249,
             "media_type": "movie",
-            "release_date": "2022-08-24"
+            "release_date": "2016-07-08"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "World War Z",
+          "tmdb": {
+            "id": 72190,
+            "media_type": "movie",
+            "release_date": "2013-06-19"
           }
         },
         {
@@ -1247,11 +1247,11 @@
         },
         {
           "rank": 5,
-          "title": "The Matrix",
+          "title": "Three Thousand Years of Longing",
           "tmdb": {
-            "id": 603,
+            "id": 556694,
             "media_type": "movie",
-            "release_date": "1999-03-31"
+            "release_date": "2022-08-24"
           }
         },
         {
@@ -1274,15 +1274,6 @@
         },
         {
           "rank": 8,
-          "title": "Black Adam",
-          "tmdb": {
-            "id": 436270,
-            "media_type": "movie",
-            "release_date": "2022-10-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -1291,12 +1282,21 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Tenet",
+          "rank": 9,
+          "title": "The Mexican",
           "tmdb": {
-            "id": 577922,
+            "id": 6073,
             "media_type": "movie",
-            "release_date": "2020-08-22"
+            "release_date": "2001-03-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Hangover Part III",
+          "tmdb": {
+            "id": 109439,
+            "media_type": "movie",
+            "release_date": "2013-05-23"
           }
         }
       ]
