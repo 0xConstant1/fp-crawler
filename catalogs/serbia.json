@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/serbia/",
-  "page_title": "TOP 10 on Streaming in Serbia on May 19, 2026",
+  "page_title": "TOP 10 on Streaming in Serbia on May 21, 2026",
   "region": "serbia",
-  "date": "May 19, 2026",
-  "scraped_at_utc": "2026-05-19T16:37:10.939905+00:00",
+  "date": "May 21, 2026",
+  "scraped_at_utc": "2026-05-21T16:29:13.605891+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Serbia on May 19, 2026",
+      "heading": "TOP Movies on Netflix in Serbia on May 21, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "In Her Shoes",
+          "tmdb": {
+            "id": 11931,
+            "media_type": "movie",
+            "release_date": "2005-10-07"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Gladiator II",
           "tmdb": {
             "id": 558449,
@@ -23,7 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "The Crash",
+          "tmdb": {
+            "id": 1662317,
+            "media_type": "movie",
+            "release_date": "2026-05-14"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -32,7 +50,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -41,25 +59,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Crash",
-          "tmdb": {
-            "id": 1662317,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Remarkably Bright Creatures",
-          "tmdb": {
-            "id": 1330021,
-            "media_type": "movie",
-            "release_date": "2026-05-07"
-          }
-        },
-        {
           "rank": 6,
+          "title": "Untold UK: Liverpool's​ Miracle​ of​ lstanbul",
+          "tmdb": {
+            "id": 1684244,
+            "media_type": "movie",
+            "release_date": "2026-05-19"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Kraven the Hunter",
           "tmdb": {
             "id": 539972,
@@ -68,21 +77,12 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Bride of the Year",
-          "tmdb": {
-            "id": 1684226,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Untold UK : Jamie Vardy",
+          "title": "Remarkably Bright Creatures",
           "tmdb": {
-            "id": 1684240,
+            "id": 1330021,
             "media_type": "movie",
-            "release_date": "2026-05-12"
+            "release_date": "2026-05-07"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Roald Dahl's The Witches",
+          "title": "Untold UK : Jamie Vardy",
           "tmdb": {
-            "id": 531219,
+            "id": 1684240,
             "media_type": "movie",
-            "release_date": "2020-10-26"
+            "release_date": "2026-05-12"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Serbia on May 19, 2026",
+      "heading": "TOP TV Shows on Netflix in Serbia on May 21, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -160,6 +160,15 @@
         },
         {
           "rank": 6,
+          "title": "Perfect Match",
+          "tmdb": {
+            "id": 254821,
+            "media_type": "tv",
+            "release_date": "2025-01-25"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Between Father and Son",
           "tmdb": {
             "id": 321338,
@@ -168,7 +177,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Berlin",
+          "tmdb": {
+            "id": 146176,
+            "media_type": "tv",
+            "release_date": "2023-12-29"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Devil May Cry",
           "tmdb": {
             "id": 235930,
@@ -177,40 +195,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Ronda Rousey vs. Gina Carano",
-          "tmdb": {
-            "id": 1638300,
-            "media_type": "movie",
-            "release_date": "2026-05-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Worst Ex Ever",
-          "tmdb": {
-            "id": 259259,
-            "media_type": "tv",
-            "release_date": "2024-08-28"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Man on Fire",
+          "title": "Kylie",
           "tmdb": {
-            "id": 223386,
+            "id": 320472,
             "media_type": "tv",
-            "release_date": "2026-04-30"
+            "release_date": "2026-05-20"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Serbia on May 19, 2026",
+      "heading": "TOP Movies on HBO Max in Serbia on May 21, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -251,15 +251,6 @@
         },
         {
           "rank": 5,
-          "title": "Another Simple Favor",
-          "tmdb": {
-            "id": 974573,
-            "media_type": "movie",
-            "release_date": "2025-03-07"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Penguins of Madagascar",
           "tmdb": {
             "id": 270946,
@@ -268,16 +259,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "G20",
+          "rank": 6,
+          "title": "Another Simple Favor",
           "tmdb": {
-            "id": 1045938,
+            "id": 974573,
             "media_type": "movie",
-            "release_date": "2025-04-10"
+            "release_date": "2025-03-07"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Body",
           "tmdb": {
             "id": 1198877,
@@ -286,31 +277,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Kung Fu Panda 4",
+          "rank": 8,
+          "title": "G20",
           "tmdb": {
-            "id": 1011985,
+            "id": 1045938,
             "media_type": "movie",
-            "release_date": "2024-03-02"
+            "release_date": "2025-04-10"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Just Go with It",
           "tmdb": {
             "id": 50546,
             "media_type": "movie",
             "release_date": "2011-02-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Kung Fu Panda 4",
+          "tmdb": {
+            "id": 1011985,
+            "media_type": "movie",
+            "release_date": "2024-03-02"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Serbia on May 19, 2026",
+      "heading": "TOP TV Shows on HBO Max in Serbia on May 21, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,6 +333,24 @@
         },
         {
           "rank": 3,
+          "title": "The Other Bennet Sister",
+          "tmdb": {
+            "id": 273866,
+            "media_type": "tv",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Miniature Wife",
+          "tmdb": {
+            "id": 250220,
+            "media_type": "tv",
+            "release_date": "2026-04-09"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Succession",
           "tmdb": {
             "id": 76331,
@@ -341,16 +359,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Doc",
-          "tmdb": {
-            "id": 10042,
-            "media_type": "tv",
-            "release_date": "2001-03-11"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
@@ -359,7 +368,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Doc",
+          "tmdb": {
+            "id": 10042,
+            "media_type": "tv",
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Rooster",
           "tmdb": {
             "id": 254953,
@@ -368,16 +386,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Hacks",
-          "tmdb": {
-            "id": 124101,
-            "media_type": "tv",
-            "release_date": "2021-05-13"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Half Man",
           "tmdb": {
             "id": 257994,
@@ -386,44 +395,26 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Last Week Tonight with John Oliver",
-          "tmdb": {
-            "id": 60694,
-            "media_type": "tv",
-            "release_date": "2014-04-27"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Miniature Wife",
+          "title": "Hacks",
           "tmdb": {
-            "id": 250220,
+            "id": 124101,
             "media_type": "tv",
-            "release_date": "2026-04-09"
+            "release_date": "2021-05-13"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Serbia on May 19, 2026",
+      "heading": "TOP Overall on Disney+ in Serbia on May 21, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
-          "tmdb": {
-            "id": 1439930,
-            "media_type": "movie",
-            "release_date": "2026-05-12"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
           "tmdb": {
             "id": 321564,
@@ -432,7 +423,25 @@
           }
         },
         {
+          "rank": 2,
+          "title": "The Punisher: One Last Kill",
+          "tmdb": {
+            "id": 1439930,
+            "media_type": "movie",
+            "release_date": "2026-05-12"
+          }
+        },
+        {
           "rank": 3,
+          "title": "The Testaments",
+          "tmdb": {
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
@@ -441,21 +450,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
             "media_type": "movie",
             "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Testaments",
-          "tmdb": {
-            "id": 287527,
-            "media_type": "tv",
-            "release_date": "2026-04-08"
           }
         },
         {
@@ -469,11 +469,11 @@
         },
         {
           "rank": 7,
-          "title": "Rivals",
+          "title": "Predator: Badlands",
           "tmdb": {
-            "id": 208921,
-            "media_type": "tv",
-            "release_date": "2024-10-18"
+            "id": 1242898,
+            "media_type": "movie",
+            "release_date": "2025-11-05"
           }
         },
         {
@@ -487,48 +487,48 @@
         },
         {
           "rank": 9,
-          "title": "Predator: Badlands",
+          "title": "Rivals",
           "tmdb": {
-            "id": 1242898,
-            "media_type": "movie",
-            "release_date": "2025-11-05"
+            "id": 208921,
+            "media_type": "tv",
+            "release_date": "2024-10-18"
           }
         },
         {
           "rank": 10,
-          "title": "Daredevil: Born Again",
+          "title": "Chernobyl: Inside The Meltdown",
           "tmdb": {
-            "id": 202555,
+            "id": 313406,
             "media_type": "tv",
-            "release_date": "2025-03-04"
+            "release_date": "2026-04-19"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Serbia on May 19, 2026",
+      "heading": "TOP Movies on Disney+ in Serbia on May 21, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
-          "tmdb": {
-            "id": 1439930,
-            "media_type": "movie",
-            "release_date": "2026-05-12"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
           "tmdb": {
             "id": 321564,
             "media_type": "tv",
             "release_date": "2026-05-04"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Punisher: One Last Kill",
+          "tmdb": {
+            "id": 1439930,
+            "media_type": "movie",
+            "release_date": "2026-05-12"
           }
         },
         {
@@ -560,20 +560,20 @@
         },
         {
           "rank": 6,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Star Wars: Episode I - The Phantom Menace",
           "tmdb": {
             "id": 1893,
             "media_type": "movie",
             "release_date": "1999-05-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Pirates of the Caribbean: Dead Man's Chest",
+          "tmdb": {
+            "id": 58,
+            "media_type": "movie",
+            "release_date": "2006-07-06"
           }
         },
         {
@@ -596,21 +596,21 @@
         },
         {
           "rank": 10,
-          "title": "Star Wars: Episode V - The Empire Strikes Back",
+          "title": "Mufasa: The Lion King",
           "tmdb": {
-            "id": 1891,
+            "id": 762509,
             "media_type": "movie",
-            "release_date": "1980-05-20"
+            "release_date": "2024-12-18"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Serbia on May 19, 2026",
+      "heading": "TOP TV Shows on Disney+ in Serbia on May 21, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,15 +633,6 @@
         },
         {
           "rank": 3,
-          "title": "Rivals",
-          "tmdb": {
-            "id": 208921,
-            "media_type": "tv",
-            "release_date": "2024-10-18"
-          }
-        },
-        {
-          "rank": 4,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -650,16 +641,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Daredevil: Born Again",
+          "rank": 4,
+          "title": "Rivals",
           "tmdb": {
-            "id": 202555,
+            "id": 208921,
             "media_type": "tv",
-            "release_date": "2025-03-04"
+            "release_date": "2024-10-18"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Chernobyl: Inside The Meltdown",
           "tmdb": {
             "id": 313406,
@@ -668,53 +659,71 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Love Story",
+          "rank": 6,
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 131142,
-            "media_type": "tv",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Malcolm in the Middle: Life's Still Unfair",
-          "tmdb": {
-            "id": 279471,
+            "id": 278573,
             "media_type": "tv",
             "release_date": "2026-04-10"
           }
         },
         {
-          "rank": 9,
-          "title": "We'll Be Fine",
+          "rank": 7,
+          "title": "Daredevil: Born Again",
           "tmdb": {
-            "id": 314172,
+            "id": 202555,
             "media_type": "tv",
-            "release_date": "2026-03-25"
+            "release_date": "2025-03-04"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "World Wide Mafia 'Ndrangheta",
+          "tmdb": {
+            "id": 322126,
+            "media_type": "tv",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Mandalorian",
           "tmdb": {
             "id": 82856,
             "media_type": "tv",
             "release_date": "2019-11-12"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "tmdb": {
+            "id": 279471,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Serbia on May 19, 2026",
+      "heading": "TOP Movies on SkyShowtime in Serbia on May 21, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "HIM",
+          "tmdb": {
+            "id": 986097,
+            "media_type": "movie",
+            "release_date": "2025-09-18"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
@@ -723,21 +732,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Black Phone 2",
           "tmdb": {
             "id": 1197137,
             "media_type": "movie",
             "release_date": "2025-10-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Mummy: Tomb of the Dragon Emperor",
-          "tmdb": {
-            "id": 1735,
-            "media_type": "movie",
-            "release_date": "2008-07-01"
           }
         },
         {
@@ -751,20 +751,20 @@
         },
         {
           "rank": 5,
-          "title": "The Mummy Returns",
-          "tmdb": {
-            "id": 1734,
-            "media_type": "movie",
-            "release_date": "2001-05-04"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Dictator",
           "tmdb": {
             "id": 76493,
             "media_type": "movie",
             "release_date": "2012-05-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Tuxedo",
+          "tmdb": {
+            "id": 10771,
+            "media_type": "movie",
+            "release_date": "2002-09-27"
           }
         },
         {
@@ -778,11 +778,11 @@
         },
         {
           "rank": 8,
-          "title": "The Tuxedo",
+          "title": "The Mummy: Tomb of the Dragon Emperor",
           "tmdb": {
-            "id": 10771,
+            "id": 1735,
             "media_type": "movie",
-            "release_date": "2002-09-27"
+            "release_date": "2008-07-01"
           }
         },
         {
@@ -796,26 +796,26 @@
         },
         {
           "rank": 10,
-          "title": "Terminator Genisys",
+          "title": "Nick of Time",
           "tmdb": {
-            "id": 87101,
+            "id": 2086,
             "media_type": "movie",
-            "release_date": "2015-06-23"
+            "release_date": "1995-11-22"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Serbia on May 19, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Serbia on May 21, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "May 19, 2026",
+      "date": "May 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Y: Marshals",
+          "title": "Marshals",
           "tmdb": {
             "id": 290856,
             "media_type": "tv",
@@ -824,20 +824,20 @@
         },
         {
           "rank": 2,
-          "title": "Brooklyn Nine-Nine",
-          "tmdb": {
-            "id": 48891,
-            "media_type": "tv",
-            "release_date": "2013-09-17"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Prisoner",
           "tmdb": {
             "id": 311858,
             "media_type": "tv",
             "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Brooklyn Nine-Nine",
+          "tmdb": {
+            "id": 48891,
+            "media_type": "tv",
+            "release_date": "2013-09-17"
           }
         },
         {
@@ -860,15 +860,6 @@
         },
         {
           "rank": 6,
-          "title": "The Madison",
-          "tmdb": {
-            "id": 225891,
-            "media_type": "tv",
-            "release_date": "2026-03-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "School Spirits",
           "tmdb": {
             "id": 208397,
@@ -877,7 +868,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "The Madison",
+          "tmdb": {
+            "id": 225891,
+            "media_type": "tv",
+            "release_date": "2026-03-14"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Gomorrah: The Origins",
           "tmdb": {
             "id": 293550,
@@ -886,21 +895,12 @@
           }
         },
         {
-          "rank": 9,
-          "title": "ted",
-          "tmdb": {
-            "id": 201834,
-            "media_type": "tv",
-            "release_date": "2024-01-11"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Yellowstone",
+          "title": "The Office",
           "tmdb": {
-            "id": 73586,
+            "id": 2316,
             "media_type": "tv",
-            "release_date": "2018-06-20"
+            "release_date": "2005-03-24"
           }
         }
       ]
