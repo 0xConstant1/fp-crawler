@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/malta/",
-  "page_title": "TOP 10 on Streaming in Malta on May 22, 2026",
+  "page_title": "TOP 10 on Streaming in Malta on May 23, 2026",
   "region": "malta",
-  "date": "May 22, 2026",
-  "scraped_at_utc": "2026-05-22T16:20:44.566160+00:00",
+  "date": "May 23, 2026",
+  "scraped_at_utc": "2026-05-23T15:52:05.404073+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Malta on May 22, 2026",
+      "heading": "TOP Movies on Netflix in Malta on May 23, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Ladies First",
+          "tmdb": {
+            "id": 1368881,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Crash",
           "tmdb": {
             "id": 1662317,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "In Her Shoes",
           "tmdb": {
             "id": 11931,
             "media_type": "movie",
             "release_date": "2005-10-07"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Untold UK: Liverpool's​ Miracle​ of​ lstanbul",
-          "tmdb": {
-            "id": 1684244,
-            "media_type": "movie",
-            "release_date": "2026-05-19"
           }
         },
         {
@@ -51,29 +51,25 @@
         },
         {
           "rank": 5,
-          "title": "Venom: The Last Dance",
-          "tmdb": {
-            "id": 912649,
-            "media_type": "movie",
-            "release_date": "2024-10-22"
-          }
+          "title": "Untold UK: Liverpool's​ Miracle​ of​ lstanbul",
+          "tmdb": null
         },
         {
           "rank": 6,
-          "title": "Gladiator II",
-          "tmdb": {
-            "id": 558449,
-            "media_type": "movie",
-            "release_date": "2024-11-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
             "media_type": "movie",
             "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Gladiator II",
+          "tmdb": {
+            "id": 558449,
+            "media_type": "movie",
+            "release_date": "2024-11-13"
           }
         },
         {
@@ -87,30 +83,30 @@
         },
         {
           "rank": 9,
+          "title": "Venom: The Last Dance",
+          "tmdb": {
+            "id": 912649,
+            "media_type": "movie",
+            "release_date": "2024-10-22"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Remarkably Bright Creatures",
           "tmdb": {
             "id": 1330021,
             "media_type": "movie",
             "release_date": "2026-05-07"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Bus: A French Football Mutiny",
-          "tmdb": {
-            "id": 1678844,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Malta on May 22, 2026",
+      "heading": "TOP TV Shows on Netflix in Malta on May 23, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,6 +129,15 @@
         },
         {
           "rank": 3,
+          "title": "The Boroughs",
+          "tmdb": {
+            "id": 224941,
+            "media_type": "tv",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Ghosts",
           "tmdb": {
             "id": 126027,
@@ -141,21 +146,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Kylie",
           "tmdb": {
             "id": 320472,
             "media_type": "tv",
             "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Perfect Match",
-          "tmdb": {
-            "id": 254821,
-            "media_type": "tv",
-            "release_date": "2025-01-25"
           }
         },
         {
@@ -178,11 +174,11 @@
         },
         {
           "rank": 8,
-          "title": "The WONDERfools",
+          "title": "Perfect Match",
           "tmdb": {
-            "id": 259837,
+            "id": 254821,
             "media_type": "tv",
-            "release_date": "2026-05-15"
+            "release_date": "2025-01-25"
           }
         },
         {
@@ -196,39 +192,39 @@
         },
         {
           "rank": 10,
-          "title": "The Boroughs",
+          "title": "The WONDERfools",
           "tmdb": {
-            "id": 224941,
+            "id": 259837,
             "media_type": "tv",
-            "release_date": "2026-05-21"
+            "release_date": "2026-05-15"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Malta on May 22, 2026",
+      "heading": "TOP Overall on Disney+ in Malta on May 23, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Grey's Anatomy",
-          "tmdb": {
-            "id": 1416,
-            "media_type": "tv",
-            "release_date": "2005-03-27"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Bluey",
           "tmdb": {
             "id": 82728,
             "media_type": "tv",
             "release_date": "2018-10-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Grey's Anatomy",
+          "tmdb": {
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
           }
         },
         {
@@ -251,24 +247,6 @@
         },
         {
           "rank": 5,
-          "title": "How I Met Your Mother",
-          "tmdb": {
-            "id": 1100,
-            "media_type": "tv",
-            "release_date": "2005-09-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Desperate Housewives",
-          "tmdb": {
-            "id": 693,
-            "media_type": "tv",
-            "release_date": "2004-10-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Bluey Minisodes",
           "tmdb": {
             "id": 256953,
@@ -277,12 +255,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Daredevil: Born Again",
+          "rank": 6,
+          "title": "How I Met Your Mother",
           "tmdb": {
-            "id": 202555,
+            "id": 1100,
             "media_type": "tv",
-            "release_date": "2025-03-04"
+            "release_date": "2005-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Desperate Housewives",
+          "tmdb": {
+            "id": 693,
+            "media_type": "tv",
+            "release_date": "2004-10-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Rivals",
+          "tmdb": {
+            "id": 208921,
+            "media_type": "tv",
+            "release_date": "2024-10-18"
           }
         },
         {
@@ -296,34 +292,25 @@
         },
         {
           "rank": 10,
-          "title": "The Testaments",
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 287527,
+            "id": 278573,
             "media_type": "tv",
-            "release_date": "2026-04-08"
+            "release_date": "2026-04-10"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Malta on May 22, 2026",
+      "heading": "TOP Movies on Apple TV in Malta on May 23, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Finch",
           "tmdb": {
             "id": 522402,
@@ -332,30 +319,39 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Gorge",
+          "rank": 2,
+          "title": "Outcome",
           "tmdb": {
-            "id": 950396,
+            "id": 1049471,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
           }
         },
         {
           "rank": 4,
-          "title": "Greyhound",
+          "title": "Highest 2 Lowest",
           "tmdb": {
-            "id": 516486,
+            "id": 1242434,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2025-08-14"
           }
         },
         {
           "rank": 5,
-          "title": "Wolfs",
+          "title": "Fountain of Youth",
           "tmdb": {
-            "id": 877817,
+            "id": 1098006,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2025-05-19"
           }
         },
         {
@@ -378,57 +374,57 @@
         },
         {
           "rank": 8,
-          "title": "Highest 2 Lowest",
+          "title": "The Gorge",
           "tmdb": {
-            "id": 1242434,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2025-08-14"
+            "release_date": "2025-02-13"
           }
         },
         {
           "rank": 9,
-          "title": "The Instigators",
+          "title": "Luck",
           "tmdb": {
-            "id": 1059064,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2024-08-02"
+            "release_date": "2022-08-05"
           }
         },
         {
           "rank": 10,
-          "title": "The Banker",
+          "title": "Greyhound",
           "tmdb": {
-            "id": 627725,
+            "id": 516486,
             "media_type": "movie",
-            "release_date": "2020-03-06"
+            "release_date": "2020-07-09"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Malta on May 22, 2026",
+      "heading": "TOP TV Shows on Apple TV in Malta on May 23, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Margo's Got Money Troubles",
+          "tmdb": {
+            "id": 245318,
+            "media_type": "tv",
+            "release_date": "2026-04-14"
           }
         },
         {
@@ -442,24 +438,6 @@
         },
         {
           "rank": 4,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Criminal Record",
-          "tmdb": {
-            "id": 204490,
-            "media_type": "tv",
-            "release_date": "2024-01-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -468,16 +446,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Shrinking",
+          "rank": 5,
+          "title": "Widow's Bay",
           "tmdb": {
-            "id": 136311,
+            "id": 270476,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2026-04-28"
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -486,71 +473,44 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Unconditional",
+          "tmdb": {
+            "id": 314916,
+            "media_type": "tv",
+            "release_date": "2026-04-27"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
             "media_type": "tv",
             "release_date": "2023-11-16"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Malta on May 22, 2026",
+      "heading": "TOP Movies on Apple TV Store in Malta on May 23, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 22, 2026",
+      "date": "May 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Big Short",
-          "tmdb": {
-            "id": 318846,
-            "media_type": "movie",
-            "release_date": "2015-12-11"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Tropic Thunder",
-          "tmdb": {
-            "id": 7446,
-            "media_type": "movie",
-            "release_date": "2008-08-09"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Dunkirk",
-          "tmdb": {
-            "id": 374720,
-            "media_type": "movie",
-            "release_date": "2017-07-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Tenet",
           "tmdb": {
             "id": 577922,
@@ -559,48 +519,80 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Nice Guys",
+          "rank": 2,
+          "title": "Dungeons & Dragons: Honor Among Thieves",
           "tmdb": {
-            "id": 290250,
+            "id": 493529,
             "media_type": "movie",
-            "release_date": "2016-05-15"
+            "release_date": "2023-03-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Wrath of the Titans",
+          "tmdb": {
+            "id": 57165,
+            "media_type": "movie",
+            "release_date": "2012-03-28"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Troy",
+          "tmdb": {
+            "id": 652,
+            "media_type": "movie",
+            "release_date": "2004-05-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Secretariat",
+          "tmdb": {
+            "id": 39486,
+            "media_type": "movie",
+            "release_date": "2010-08-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Clash of the Titans",
+          "tmdb": {
+            "id": 18823,
+            "media_type": "movie",
+            "release_date": "2010-03-26"
           }
         },
         {
           "rank": 7,
-          "title": "Black Mass",
+          "title": "The Mask of Zorro",
           "tmdb": {
-            "id": 261023,
+            "id": 9342,
             "media_type": "movie",
-            "release_date": "2015-09-17"
+            "release_date": "1998-07-16"
           }
         },
         {
           "rank": 8,
-          "title": "Changeling",
-          "tmdb": {
-            "id": 3580,
-            "media_type": "movie",
-            "release_date": "2008-10-24"
-          }
+          "title": "Jusan-nin no shikaku",
+          "tmdb": null
         },
         {
           "rank": 9,
-          "title": "Octopussy",
+          "title": "The River Wild",
           "tmdb": {
-            "id": 700,
+            "id": 8987,
             "media_type": "movie",
-            "release_date": "1983-06-05"
+            "release_date": "1994-09-30"
           }
         },
         {
           "rank": 10,
-          "title": "The Spy Who Loved Me",
+          "title": "Desperado",
           "tmdb": {
-            "id": 691,
+            "id": 8068,
             "media_type": "movie",
-            "release_date": "1977-07-07"
+            "release_date": "1995-08-25"
           }
         }
       ]
