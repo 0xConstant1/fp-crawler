@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/kenya/",
-  "page_title": "TOP 10 on Streaming in Kenya on May 23, 2026",
+  "page_title": "TOP 10 on Streaming in Kenya on May 24, 2026",
   "region": "kenya",
-  "date": "May 23, 2026",
-  "scraped_at_utc": "2026-05-23T15:51:56.705117+00:00",
+  "date": "May 24, 2026",
+  "scraped_at_utc": "2026-05-24T15:51:46.454481+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Kenya on May 23, 2026",
+      "heading": "TOP Movies on Netflix in Kenya on May 24, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 23, 2026",
+      "date": "May 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
+          "title": "Migration",
+          "tmdb": {
+            "id": 940551,
+            "media_type": "movie",
+            "release_date": "2023-12-06"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Mortal Kombat",
           "tmdb": {
             "id": 460465,
             "media_type": "movie",
             "release_date": "2021-04-07"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Bride of the Year",
-          "tmdb": {
-            "id": 1684226,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Kenya on May 23, 2026",
+      "heading": "TOP TV Shows on Netflix in Kenya on May 24, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 23, 2026",
+      "date": "May 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 2,
-          "title": "Berlin and the Lady with an Ermine",
-          "tmdb": {
-            "id": 308014,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Desi Bling",
           "tmdb": {
             "id": 319919,
             "media_type": "tv",
             "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Berlin and the Lady with an Ermine",
+          "tmdb": {
+            "id": 308014,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
           }
         },
         {
@@ -151,15 +151,6 @@
         },
         {
           "rank": 5,
-          "title": "The WONDERfools",
-          "tmdb": {
-            "id": 259837,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Man on Fire",
           "tmdb": {
             "id": 223386,
@@ -168,25 +159,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Perfect Match",
-          "tmdb": {
-            "id": 254821,
-            "media_type": "tv",
-            "release_date": "2025-01-25"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Boroughs",
-          "tmdb": {
-            "id": 224941,
-            "media_type": "tv",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "Mating Season",
           "tmdb": {
             "id": 290295,
@@ -195,12 +168,39 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Cleaning Lady",
+          "rank": 7,
+          "title": "The Boroughs",
           "tmdb": {
-            "id": 125282,
+            "id": 224941,
             "media_type": "tv",
-            "release_date": "2022-01-03"
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The WONDERfools",
+          "tmdb": {
+            "id": 259837,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Perfect Match",
+          "tmdb": {
+            "id": 254821,
+            "media_type": "tv",
+            "release_date": "2025-01-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "My Royal Nemesis",
+          "tmdb": {
+            "id": 303143,
+            "media_type": "tv",
+            "release_date": "2026-05-08"
           }
         }
       ]
