@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/south-africa/",
-  "page_title": "TOP 10 on Streaming in South Africa on May 24, 2026",
+  "page_title": "TOP 10 on Streaming in South Africa on May 25, 2026",
   "region": "south-africa",
-  "date": "May 24, 2026",
-  "scraped_at_utc": "2026-05-24T15:52:19.969403+00:00",
+  "date": "May 25, 2026",
+  "scraped_at_utc": "2026-05-25T16:20:27.887958+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in South Africa on May 24, 2026",
+      "heading": "TOP Movies on Netflix in South Africa on May 25, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Superintelligence",
           "tmdb": {
             "id": 521007,
@@ -32,7 +41,16 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "A Perfect Getaway",
+          "tmdb": {
+            "id": 12403,
+            "media_type": "movie",
+            "release_date": "2009-06-08"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Crash",
           "tmdb": {
             "id": 1662317,
@@ -41,16 +59,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "In Her Shoes",
           "tmdb": {
             "id": 11931,
@@ -59,16 +68,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Guess Who",
+          "rank": 7,
+          "title": "Swapped",
           "tmdb": {
-            "id": 11638,
+            "id": 1007757,
             "media_type": "movie",
-            "release_date": "2005-03-25"
+            "release_date": "2026-05-01"
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -77,40 +86,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Guess Who",
+          "tmdb": {
+            "id": 11638,
+            "media_type": "movie",
+            "release_date": "2005-03-25"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Those Who Wish Me Dead",
           "tmdb": {
             "id": 578701,
             "media_type": "movie",
             "release_date": "2021-05-05"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Kangaroo Jack",
-          "tmdb": {
-            "id": 10628,
-            "media_type": "movie",
-            "release_date": "2003-01-17"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Bride of the Year",
-          "tmdb": {
-            "id": 1684226,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in South Africa on May 24, 2026",
+      "heading": "TOP TV Shows on Netflix in South Africa on May 25, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -169,24 +169,6 @@
         },
         {
           "rank": 7,
-          "title": "Perfect Match",
-          "tmdb": {
-            "id": 254821,
-            "media_type": "tv",
-            "release_date": "2025-01-25"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Mating Season",
-          "tmdb": {
-            "id": 290295,
-            "media_type": "tv",
-            "release_date": "2026-05-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Cleaning Lady",
           "tmdb": {
             "id": 125282,
@@ -195,26 +177,53 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Roast of Kevin Hart",
+          "rank": 8,
+          "title": "Perfect Match",
           "tmdb": {
-            "id": 1658982,
-            "media_type": "movie",
-            "release_date": "2026-05-10"
+            "id": 254821,
+            "media_type": "tv",
+            "release_date": "2025-01-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mating Season",
+          "tmdb": {
+            "id": 290295,
+            "media_type": "tv",
+            "release_date": "2026-05-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Unchosen",
+          "tmdb": {
+            "id": 262848,
+            "media_type": "tv",
+            "release_date": "2026-04-21"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in South Africa on May 24, 2026",
+      "heading": "TOP Kids Movies on Netflix in South Africa on May 25, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -223,7 +232,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Cat in the Hat",
           "tmdb": {
             "id": 10588,
@@ -232,21 +241,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Migration",
           "tmdb": {
             "id": 940551,
             "media_type": "movie",
             "release_date": "2023-12-06"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "KPop Demon Hunters",
-          "tmdb": {
-            "id": 803796,
-            "media_type": "movie",
-            "release_date": "2025-06-20"
           }
         },
         {
@@ -260,24 +260,15 @@
         },
         {
           "rank": 6,
-          "title": "It Takes Two",
+          "title": "KPop Demon Hunters",
           "tmdb": {
-            "id": 33689,
+            "id": 803796,
             "media_type": "movie",
-            "release_date": "1995-11-17"
+            "release_date": "2025-06-20"
           }
         },
         {
           "rank": 7,
-          "title": "Latte and the Magic Waterstone",
-          "tmdb": {
-            "id": 586954,
-            "media_type": "movie",
-            "release_date": "2019-12-11"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Croods: A New Age",
           "tmdb": {
             "id": 529203,
@@ -286,31 +277,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Lego Movie",
+          "rank": 8,
+          "title": "It Takes Two",
           "tmdb": {
-            "id": 137106,
+            "id": 33689,
             "media_type": "movie",
-            "release_date": "2014-02-06"
+            "release_date": "1995-11-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
           }
         },
         {
           "rank": 10,
-          "title": "Spider-Man: Into the Spider-Verse",
+          "title": "Latte and the Magic Waterstone",
           "tmdb": {
-            "id": 324857,
+            "id": 586954,
             "media_type": "movie",
-            "release_date": "2018-12-06"
+            "release_date": "2019-12-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in South Africa on May 24, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in South Africa on May 25, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,20 +351,20 @@
         },
         {
           "rank": 5,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Bebefinn",
           "tmdb": {
             "id": 241948,
             "media_type": "tv",
             "release_date": "2023-02-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "CoComelon Lane",
-          "tmdb": {
-            "id": 209710,
-            "media_type": "tv",
-            "release_date": "2023-11-17"
           }
         },
         {
@@ -378,11 +378,11 @@
         },
         {
           "rank": 8,
-          "title": "The Middle",
+          "title": "CoComelon Lane",
           "tmdb": {
-            "id": 1422,
+            "id": 209710,
             "media_type": "tv",
-            "release_date": "2009-09-30"
+            "release_date": "2023-11-17"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in South Africa on May 24, 2026",
+      "heading": "TOP Overall on Amazon Prime in South Africa on May 25, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,20 +442,20 @@
         },
         {
           "rank": 4,
-          "title": "Citadel",
-          "tmdb": {
-            "id": 114922,
-            "media_type": "tv",
-            "release_date": "2023-04-27"
-          }
-        },
-        {
-          "rank": 5,
           "title": "It's Not Like That",
           "tmdb": {
             "id": 308402,
             "media_type": "tv",
             "release_date": "2026-01-25"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Citadel",
+          "tmdb": {
+            "id": 114922,
+            "media_type": "tv",
+            "release_date": "2023-04-27"
           }
         },
         {
@@ -469,20 +469,20 @@
         },
         {
           "rank": 7,
-          "title": "The Grand-ish Tour",
-          "tmdb": {
-            "id": 321267,
-            "media_type": "tv",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "No Place to Be Single",
           "tmdb": {
             "id": 1317448,
             "media_type": "movie",
             "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Grand-ish Tour",
+          "tmdb": {
+            "id": 321267,
+            "media_type": "tv",
+            "release_date": "2026-05-01"
           }
         },
         {
@@ -496,21 +496,21 @@
         },
         {
           "rank": 10,
-          "title": "INVINCIBLE",
+          "title": "The Wrecking Crew",
           "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
+            "id": 1168190,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in South Africa on May 24, 2026",
+      "heading": "TOP Movies on Amazon Prime in South Africa on May 25, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -542,15 +542,6 @@
         },
         {
           "rank": 4,
-          "title": "Love Me Love Me",
-          "tmdb": {
-            "id": 1317672,
-            "media_type": "movie",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Wrecking Crew",
           "tmdb": {
             "id": 1168190,
@@ -559,7 +550,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "R.I.P.D.",
           "tmdb": {
             "id": 49524,
@@ -568,12 +559,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Chronicles of Riddick",
+          "rank": 6,
+          "title": "Love Me Love Me",
           "tmdb": {
-            "id": 2789,
+            "id": 1317672,
             "media_type": "movie",
-            "release_date": "2004-06-11"
+            "release_date": "2026-02-12"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "A Working Man",
+          "tmdb": {
+            "id": 1197306,
+            "media_type": "movie",
+            "release_date": "2025-03-26"
           }
         },
         {
@@ -587,11 +587,11 @@
         },
         {
           "rank": 9,
-          "title": "A Working Man",
+          "title": "The Chronicles of Riddick",
           "tmdb": {
-            "id": 1197306,
+            "id": 2789,
             "media_type": "movie",
-            "release_date": "2025-03-26"
+            "release_date": "2004-06-11"
           }
         },
         {
@@ -607,10 +607,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in South Africa on May 24, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in South Africa on May 25, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,20 +633,20 @@
         },
         {
           "rank": 3,
-          "title": "Citadel",
-          "tmdb": {
-            "id": 114922,
-            "media_type": "tv",
-            "release_date": "2023-04-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "It's Not Like That",
           "tmdb": {
             "id": 308402,
             "media_type": "tv",
             "release_date": "2026-01-25"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Citadel",
+          "tmdb": {
+            "id": 114922,
+            "media_type": "tv",
+            "release_date": "2023-04-27"
           }
         },
         {
@@ -669,20 +669,20 @@
         },
         {
           "rank": 7,
-          "title": "INVINCIBLE",
-          "tmdb": {
-            "id": 95557,
-            "media_type": "tv",
-            "release_date": "2021-03-25"
-          }
-        },
-        {
-          "rank": 8,
           "title": "House of David",
           "tmdb": {
             "id": 243881,
             "media_type": "tv",
             "release_date": "2025-02-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "INVINCIBLE",
+          "tmdb": {
+            "id": 95557,
+            "media_type": "tv",
+            "release_date": "2021-03-25"
           }
         },
         {
@@ -707,10 +707,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in South Africa on May 24, 2026",
+      "heading": "TOP Movies on Apple TV in South Africa on May 25, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -751,15 +751,6 @@
         },
         {
           "rank": 5,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Instigators",
           "tmdb": {
             "id": 1059064,
@@ -768,16 +759,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
@@ -786,31 +768,49 @@
           }
         },
         {
+          "rank": 7,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Ghosted",
           "tmdb": {
             "id": 868759,
             "media_type": "movie",
             "release_date": "2023-04-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-          "tmdb": {
-            "id": 1693346,
-            "media_type": "movie",
-            "release_date": "2026-05-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in South Africa on May 24, 2026",
+      "heading": "TOP TV Shows on Apple TV in South Africa on May 25, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -869,15 +869,6 @@
         },
         {
           "rank": 7,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -886,40 +877,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Monarch: Legacy of Monsters",
+          "rank": 8,
+          "title": "For All Mankind",
           "tmdb": {
-            "id": 202411,
+            "id": 87917,
             "media_type": "tv",
-            "release_date": "2023-11-16"
+            "release_date": "2019-11-01"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
             "media_type": "tv",
             "release_date": "2023-01-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in South Africa on May 24, 2026",
+      "heading": "TOP Movies on Apple TV Store in South Africa on May 25, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 24, 2026",
+      "date": "May 25, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Hoppers",
+          "title": "Lee Cronin's The Mummy",
           "tmdb": {
-            "id": 1327819,
+            "id": 1304313,
             "media_type": "movie",
-            "release_date": "2026-03-04"
+            "release_date": "2026-04-15"
           }
         },
         {
@@ -933,11 +933,11 @@
         },
         {
           "rank": 3,
-          "title": "Lee Cronin's The Mummy",
+          "title": "GOAT",
           "tmdb": {
-            "id": 1304313,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2026-04-15"
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -951,11 +951,11 @@
         },
         {
           "rank": 5,
-          "title": "David",
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1167307,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2025-12-14"
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -969,20 +969,20 @@
         },
         {
           "rank": 7,
+          "title": "David",
+          "tmdb": {
+            "id": 1167307,
+            "media_type": "movie",
+            "release_date": "2025-12-14"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Brothers Under Fire",
           "tmdb": {
             "id": 1414413,
             "media_type": "movie",
             "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
           }
         },
         {
