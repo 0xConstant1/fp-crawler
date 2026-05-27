@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/switzerland/",
-  "page_title": "TOP 10 on Streaming in Switzerland on May 26, 2026",
+  "page_title": "TOP 10 on Streaming in Switzerland on May 27, 2026",
   "region": "switzerland",
-  "date": "May 26, 2026",
-  "scraped_at_utc": "2026-05-26T16:49:12.307294+00:00",
+  "date": "May 27, 2026",
+  "scraped_at_utc": "2026-05-27T16:45:54.456468+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Netflix in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -42,6 +42,15 @@
         },
         {
           "rank": 4,
+          "title": "Untold UK: Vinnie Jones",
+          "tmdb": {
+            "id": 1684246,
+            "media_type": "movie",
+            "release_date": "2026-05-26"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -50,7 +59,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Guess Who",
           "tmdb": {
             "id": 11638,
@@ -59,7 +68,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Breaking In",
+          "tmdb": {
+            "id": 497814,
+            "media_type": "movie",
+            "release_date": "2018-05-05"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -68,16 +86,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Remarkably Bright Creatures",
-          "tmdb": {
-            "id": 1330021,
-            "media_type": "movie",
-            "release_date": "2026-05-07"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "In Her Shoes",
           "tmdb": {
             "id": 11931,
@@ -86,45 +95,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Untold UK: Liverpool's​ Miracle​ of​ lstanbul",
-          "tmdb": null
-        },
-        {
           "rank": 10,
-          "title": "The Bus: A French Football Mutiny",
+          "title": "Remarkably Bright Creatures",
           "tmdb": {
-            "id": 1678844,
+            "id": 1330021,
             "media_type": "movie",
-            "release_date": "2026-05-13"
+            "release_date": "2026-05-07"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on Netflix in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Berlin and the Lady with an Ermine",
-          "tmdb": {
-            "id": 308014,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Boroughs",
           "tmdb": {
             "id": 224941,
             "media_type": "tv",
             "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Berlin and the Lady with an Ermine",
+          "tmdb": {
+            "id": 308014,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
           }
         },
         {
@@ -156,33 +160,6 @@
         },
         {
           "rank": 6,
-          "title": "Worst Ex Ever",
-          "tmdb": {
-            "id": 259259,
-            "media_type": "tv",
-            "release_date": "2024-08-28"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Man on Fire",
-          "tmdb": {
-            "id": 223386,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Kylie",
-          "tmdb": {
-            "id": 320472,
-            "media_type": "tv",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 9,
           "title": "One Tree Hill",
           "tmdb": {
             "id": 269,
@@ -191,22 +168,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Chestnut Man",
+          "rank": 7,
+          "title": "Worst Ex Ever",
           "tmdb": {
-            "id": 127865,
+            "id": 259259,
             "media_type": "tv",
-            "release_date": "2021-09-29"
+            "release_date": "2024-08-28"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Man on Fire",
+          "tmdb": {
+            "id": 223386,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Kylie",
+          "tmdb": {
+            "id": 320472,
+            "media_type": "tv",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Raw",
+          "tmdb": {
+            "id": 4656,
+            "media_type": "tv",
+            "release_date": "1993-01-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Switzerland on May 26, 2026",
+      "heading": "TOP Kids Movies on Netflix in Switzerland on May 27, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -247,11 +251,11 @@
         },
         {
           "rank": 5,
-          "title": "Kung Fu Panda 3",
+          "title": "The Boss Baby",
           "tmdb": {
-            "id": 140300,
+            "id": 295693,
             "media_type": "movie",
-            "release_date": "2016-01-23"
+            "release_date": "2017-03-23"
           }
         },
         {
@@ -274,15 +278,6 @@
         },
         {
           "rank": 8,
-          "title": "Kung Fu Panda",
-          "tmdb": {
-            "id": 9502,
-            "media_type": "movie",
-            "release_date": "2008-06-04"
-          }
-        },
-        {
-          "rank": 9,
           "title": "In Your Dreams",
           "tmdb": {
             "id": 1117857,
@@ -291,40 +286,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Kung Fu Panda 2",
+          "rank": 9,
+          "title": "Kung Fu Panda",
           "tmdb": {
-            "id": 49444,
+            "id": 9502,
             "media_type": "movie",
-            "release_date": "2011-05-25"
+            "release_date": "2008-06-04"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Switzerland on May 26, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Switzerland on May 27, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Middle",
           "tmdb": {
             "id": 1422,
             "media_type": "tv",
             "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
           }
         },
         {
@@ -338,11 +342,11 @@
         },
         {
           "rank": 4,
-          "title": "Detetive Labrador",
+          "title": "Danny Go!",
           "tmdb": {
-            "id": 219799,
+            "id": 258124,
             "media_type": "tv",
-            "release_date": "2022-10-20"
+            "release_date": "2019-08-21"
           }
         },
         {
@@ -356,11 +360,11 @@
         },
         {
           "rank": 6,
-          "title": "Danny Go!",
+          "title": "Detetive Labrador",
           "tmdb": {
-            "id": 258124,
+            "id": 219799,
             "media_type": "tv",
-            "release_date": "2019-08-21"
+            "release_date": "2022-10-20"
           }
         },
         {
@@ -383,48 +387,48 @@
         },
         {
           "rank": 9,
-          "title": "The Creature Cases",
+          "title": "Paw Patrol",
           "tmdb": {
-            "id": 195407,
+            "id": 57532,
             "media_type": "tv",
-            "release_date": "2022-04-12"
+            "release_date": "2013-08-12"
           }
         },
         {
           "rank": 10,
-          "title": "The Dinosaurs",
+          "title": "Bobo Siebenschläfer",
           "tmdb": {
-            "id": 313298,
+            "id": 69389,
             "media_type": "tv",
-            "release_date": "2026-03-06"
+            "release_date": "2014-09-27"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on HBO Max in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 9,
       "entries": [
         {
           "rank": 1,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Black Adam",
           "tmdb": {
             "id": 436270,
             "media_type": "movie",
             "release_date": "2022-10-19"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Bride!",
+          "tmdb": {
+            "id": 1159831,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -465,6 +469,15 @@
         },
         {
           "rank": 7,
+          "title": "Before Sunrise",
+          "tmdb": {
+            "id": 76,
+            "media_type": "movie",
+            "release_date": "1995-01-27"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Before Sunset",
           "tmdb": {
             "id": 80,
@@ -473,31 +486,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Gravity",
-          "tmdb": {
-            "id": 49047,
-            "media_type": "movie",
-            "release_date": "2013-10-03"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Ghost Divers",
+          "title": "The Last Samurai",
           "tmdb": {
-            "id": 1118201,
+            "id": 616,
             "media_type": "movie",
-            "release_date": "2025-06-20"
+            "release_date": "2003-12-05"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on HBO Max in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -547,20 +551,20 @@
         },
         {
           "rank": 6,
-          "title": "Gomorrah: The Origins",
-          "tmdb": {
-            "id": 293550,
-            "media_type": "tv",
-            "release_date": "2026-01-09"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Gomorrah",
           "tmdb": {
             "id": 61068,
             "media_type": "tv",
             "release_date": "2014-05-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Gomorrah: The Origins",
+          "tmdb": {
+            "id": 293550,
+            "media_type": "tv",
+            "release_date": "2026-01-09"
           }
         },
         {
@@ -594,10 +598,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Switzerland on May 26, 2026",
+      "heading": "TOP Overall on Disney+ in Switzerland on May 27, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -611,15 +615,6 @@
         },
         {
           "rank": 2,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 321564,
-            "media_type": "tv",
-            "release_date": "2026-05-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Scrubs",
           "tmdb": {
             "id": 4556,
@@ -628,7 +623,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
@@ -637,12 +632,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
             "media_type": "tv",
             "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Testaments",
+          "tmdb": {
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
           }
         },
         {
@@ -656,24 +660,15 @@
         },
         {
           "rank": 7,
-          "title": "The Testaments",
+          "title": "Bluey Minisodes",
           "tmdb": {
-            "id": 287527,
+            "id": 256953,
             "media_type": "tv",
-            "release_date": "2026-04-08"
+            "release_date": "2024-06-16"
           }
         },
         {
           "rank": 8,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -682,22 +677,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Inside Out 2",
+          "rank": 9,
+          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
           "tmdb": {
-            "id": 1022789,
+            "id": 321564,
+            "media_type": "tv",
+            "release_date": "2026-05-04"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
             "media_type": "movie",
-            "release_date": "2024-06-11"
+            "release_date": "2006-06-29"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Disney+ in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -711,20 +715,20 @@
         },
         {
           "rank": 2,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 321564,
-            "media_type": "tv",
-            "release_date": "2026-05-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
             "media_type": "movie",
             "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
           }
         },
         {
@@ -738,11 +742,11 @@
         },
         {
           "rank": 5,
-          "title": "Inside Out 2",
+          "title": "Star Wars: Episode III - Revenge of the Sith",
           "tmdb": {
-            "id": 1022789,
+            "id": 1895,
             "media_type": "movie",
-            "release_date": "2024-06-11"
+            "release_date": "2005-05-17"
           }
         },
         {
@@ -756,11 +760,11 @@
         },
         {
           "rank": 7,
-          "title": "Star Wars: Episode III - Revenge of the Sith",
+          "title": "Star Wars: Episode II - Attack of the Clones",
           "tmdb": {
-            "id": 1895,
+            "id": 1894,
             "media_type": "movie",
-            "release_date": "2005-05-17"
+            "release_date": "2002-05-15"
           }
         },
         {
@@ -774,30 +778,30 @@
         },
         {
           "rank": 9,
-          "title": "Star Wars: Episode II - Attack of the Clones",
+          "title": "Bridesmaids",
           "tmdb": {
-            "id": 1894,
+            "id": 55721,
             "media_type": "movie",
-            "release_date": "2002-05-15"
+            "release_date": "2011-05-13"
           }
         },
         {
           "rank": 10,
-          "title": "Zootopia 2",
+          "title": "Pirates of the Caribbean: At Worlds End",
           "tmdb": {
-            "id": 1084242,
+            "id": 285,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2007-05-19"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on Disney+ in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -820,15 +824,6 @@
         },
         {
           "rank": 3,
-          "title": "Chernobyl",
-          "tmdb": {
-            "id": 87108,
-            "media_type": "tv",
-            "release_date": "2019-05-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -837,7 +832,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Chernobyl",
+          "tmdb": {
+            "id": 87108,
+            "media_type": "tv",
+            "release_date": "2019-05-06"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Bluey Minisodes",
+          "tmdb": {
+            "id": 256953,
+            "media_type": "tv",
+            "release_date": "2024-06-16"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -846,7 +859,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -855,7 +868,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Mandalorian",
           "tmdb": {
             "id": 82856,
@@ -864,21 +877,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "9-1-1: Nashville",
-          "tmdb": {
-            "id": 284838,
-            "media_type": "tv",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Rivals",
+          "title": "Trackers",
           "tmdb": {
-            "id": 208921,
+            "id": 94923,
             "media_type": "tv",
-            "release_date": "2024-10-18"
+            "release_date": "2019-10-26"
           }
         },
         {
@@ -894,10 +898,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Switzerland on May 26, 2026",
+      "heading": "TOP Overall on Amazon Prime in Switzerland on May 27, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -911,20 +915,20 @@
         },
         {
           "rank": 2,
-          "title": "LOL: Last One Laughing",
-          "tmdb": {
-            "id": 122241,
-            "media_type": "tv",
-            "release_date": "2021-04-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "LOL: Last One Laughing",
+          "tmdb": {
+            "id": 122241,
+            "media_type": "tv",
+            "release_date": "2021-04-01"
           }
         },
         {
@@ -947,15 +951,6 @@
         },
         {
           "rank": 6,
-          "title": "Citadel",
-          "tmdb": {
-            "id": 114922,
-            "media_type": "tv",
-            "release_date": "2023-04-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
@@ -964,7 +959,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Maxton Hall - The World Between Us",
           "tmdb": {
             "id": 250670,
@@ -973,31 +968,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "LOL: Last One Laughing",
+          "rank": 8,
+          "title": "Citadel",
           "tmdb": {
-            "id": 122241,
+            "id": 114922,
             "media_type": "tv",
-            "release_date": "2021-04-01"
+            "release_date": "2023-04-27"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "No Place to Be Single",
           "tmdb": {
             "id": 1317448,
             "media_type": "movie",
             "release_date": "2026-05-08"
           }
+        },
+        {
+          "rank": 10,
+          "title": "My Fault: London",
+          "tmdb": {
+            "id": 1294203,
+            "media_type": "movie",
+            "release_date": "2025-02-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Amazon Prime in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1047,15 +1051,6 @@
         },
         {
           "rank": 6,
-          "title": "Crime 101",
-          "tmdb": {
-            "id": 1171145,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Our Fault",
           "tmdb": {
             "id": 1156594,
@@ -1064,16 +1059,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Tell Me Softly",
-          "tmdb": {
-            "id": 1379963,
-            "media_type": "movie",
-            "release_date": "2025-12-11"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Your Fault",
           "tmdb": {
             "id": 1156593,
@@ -1082,22 +1068,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Crime 101",
+          "tmdb": {
+            "id": 1171145,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Anyone But You",
           "tmdb": {
             "id": 1072790,
             "media_type": "movie",
             "release_date": "2023-12-21"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Tell Me Softly",
+          "tmdb": {
+            "id": 1379963,
+            "media_type": "movie",
+            "release_date": "2025-12-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1111,15 +1115,6 @@
         },
         {
           "rank": 2,
-          "title": "LOL: Last One Laughing",
-          "tmdb": {
-            "id": 122241,
-            "media_type": "tv",
-            "release_date": "2021-04-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
@@ -1128,34 +1123,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Citadel",
-          "tmdb": {
-            "id": 114922,
-            "media_type": "tv",
-            "release_date": "2023-04-27"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Summer I Turned Pretty",
-          "tmdb": {
-            "id": 194766,
-            "media_type": "tv",
-            "release_date": "2022-06-16"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Maxton Hall - The World Between Us",
-          "tmdb": {
-            "id": 250670,
-            "media_type": "tv",
-            "release_date": "2024-05-09"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 3,
           "title": "LOL: Last One Laughing",
           "tmdb": {
             "id": 122241,
@@ -1164,12 +1132,48 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "title": "The Summer I Turned Pretty",
+          "tmdb": {
+            "id": 194766,
+            "media_type": "tv",
+            "release_date": "2022-06-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Maxton Hall - The World Between Us",
+          "tmdb": {
+            "id": 250670,
+            "media_type": "tv",
+            "release_date": "2024-05-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Citadel",
+          "tmdb": {
+            "id": 114922,
+            "media_type": "tv",
+            "release_date": "2023-04-27"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Fallout",
           "tmdb": {
             "id": 106379,
             "media_type": "tv",
             "release_date": "2024-04-10"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -1183,52 +1187,25 @@
         },
         {
           "rank": 10,
-          "title": "Young Sherlock",
+          "title": "The 50",
           "tmdb": {
-            "id": 255661,
+            "id": 248516,
             "media_type": "tv",
-            "release_date": "2026-03-04"
+            "release_date": "2024-03-11"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Paramount+ in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Untitled Home Invasion Romance",
-          "tmdb": {
-            "id": 1340076,
-            "media_type": "movie",
-            "release_date": "2026-01-27"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Long Gone Heroes",
-          "tmdb": {
-            "id": 1276825,
-            "media_type": "movie",
-            "release_date": "2024-09-12"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Mission: Impossible - The Final Reckoning",
           "tmdb": {
             "id": 575265,
@@ -1237,7 +1214,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 2,
+          "title": "Top Gun: Maverick",
+          "tmdb": {
+            "id": 361743,
+            "media_type": "movie",
+            "release_date": "2022-05-21"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Novocaine",
           "tmdb": {
             "id": 1195506,
@@ -1246,34 +1232,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Untitled Home Invasion Romance",
+          "tmdb": {
+            "id": 1340076,
+            "media_type": "movie",
+            "release_date": "2026-01-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Long Gone Heroes",
+          "tmdb": {
+            "id": 1276825,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
           "rank": 6,
-          "title": "South Park (Not Suitable for Children)",
-          "tmdb": {
-            "id": 1219926,
-            "media_type": "movie",
-            "release_date": "2023-12-20"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Gladiator II",
-          "tmdb": {
-            "id": 558449,
-            "media_type": "movie",
-            "release_date": "2024-11-13"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Star Trek: Nemesis",
-          "tmdb": {
-            "id": 201,
-            "media_type": "movie",
-            "release_date": "2002-12-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Naked Gun",
           "tmdb": {
             "id": 1035259,
@@ -1282,22 +1259,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Star Trek: First Contact",
+          "rank": 7,
+          "title": "Star Trek Into Darkness",
           "tmdb": {
-            "id": 199,
+            "id": 54138,
             "media_type": "movie",
-            "release_date": "1996-11-22"
+            "release_date": "2013-05-05"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "South Park (Not Suitable for Children)",
+          "tmdb": {
+            "id": 1219926,
+            "media_type": "movie",
+            "release_date": "2023-12-20"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "South Park: The Streaming Wars",
+          "tmdb": {
+            "id": 974691,
+            "media_type": "movie",
+            "release_date": "2022-06-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Gladiator II",
+          "tmdb": {
+            "id": 558449,
+            "media_type": "movie",
+            "release_date": "2024-11-13"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1356,15 +1360,6 @@
         },
         {
           "rank": 7,
-          "title": "Dexter",
-          "tmdb": {
-            "id": 1405,
-            "media_type": "tv",
-            "release_date": "2006-10-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Star Trek: The Next Generation",
           "tmdb": {
             "id": 655,
@@ -1373,31 +1368,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Star Trek: Voyager",
-          "tmdb": {
-            "id": 1855,
-            "media_type": "tv",
-            "release_date": "1995-01-16"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "SpongeBob SquarePants",
           "tmdb": {
             "id": 387,
             "media_type": "tv",
             "release_date": "1999-05-01"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Tulsa King",
+          "tmdb": {
+            "id": 153312,
+            "media_type": "tv",
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Star Trek: Voyager",
+          "tmdb": {
+            "id": 1855,
+            "media_type": "tv",
+            "release_date": "1995-01-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Apple TV in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1456,20 +1460,20 @@
         },
         {
           "rank": 7,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
             "media_type": "movie",
             "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
           }
         },
         {
@@ -1483,21 +1487,21 @@
         },
         {
           "rank": 10,
-          "title": "Wolfs",
+          "title": "Luck",
           "tmdb": {
-            "id": 877817,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Switzerland on May 26, 2026",
+      "heading": "TOP TV Shows on Apple TV in Switzerland on May 27, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1529,15 +1533,6 @@
         },
         {
           "rank": 4,
-          "title": "Maximum Pleasure Guaranteed",
-          "tmdb": {
-            "id": 285404,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -1546,21 +1541,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Criminal Record",
+          "rank": 5,
+          "title": "Maximum Pleasure Guaranteed",
           "tmdb": {
-            "id": 204490,
+            "id": 285404,
             "media_type": "tv",
-            "release_date": "2024-01-10"
+            "release_date": "2026-05-19"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Criminal Record",
+          "tmdb": {
+            "id": 204490,
+            "media_type": "tv",
+            "release_date": "2024-01-10"
           }
         },
         {
@@ -1594,10 +1598,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Apple TV Store in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1638,11 +1642,11 @@
         },
         {
           "rank": 5,
-          "title": "Greenland 2: Migration",
+          "title": "Cold Storage",
           "tmdb": {
-            "id": 840464,
+            "id": 696393,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2026-01-22"
           }
         },
         {
@@ -1656,61 +1660,52 @@
         },
         {
           "rank": 7,
-          "title": "The Matrix",
+          "title": "Ready or Not 2: Here I Come",
           "tmdb": {
-            "id": 603,
+            "id": 1266127,
             "media_type": "movie",
-            "release_date": "1999-03-31"
+            "release_date": "2026-03-19"
           }
         },
         {
           "rank": 8,
+          "title": "The Intouchables",
+          "tmdb": {
+            "id": 77338,
+            "media_type": "movie",
+            "release_date": "2011-11-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Greenland 2: Migration",
+          "tmdb": {
+            "id": 840464,
+            "media_type": "movie",
+            "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
             "media_type": "movie",
             "release_date": "2025-12-17"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Physician II",
-          "tmdb": {
-            "id": 1219548,
-            "media_type": "movie",
-            "release_date": "2025-12-25"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Marty Supreme",
-          "tmdb": {
-            "id": 1317288,
-            "media_type": "movie",
-            "release_date": "2025-12-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Google in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
@@ -1719,25 +1714,16 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
           "rank": 3,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Lee Cronin's The Mummy",
           "tmdb": {
             "id": 1304313,
@@ -1746,7 +1732,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
@@ -1755,16 +1750,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Reminders of Him",
-          "tmdb": {
-            "id": 1367642,
-            "media_type": "movie",
-            "release_date": "2026-03-11"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -1773,35 +1759,62 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Ewigi Liebi",
+          "rank": 7,
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1502892,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2026-02-12"
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Reminders of Him",
+          "tmdb": {
+            "id": 1367642,
+            "media_type": "movie",
+            "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
           }
         },
         {
           "rank": 10,
-          "title": "The Devil Wears Prada",
+          "title": "Good Luck, Have Fun, Don't Die",
           "tmdb": {
-            "id": 350,
+            "id": 1119449,
             "media_type": "movie",
-            "release_date": "2006-06-29"
+            "release_date": "2026-02-13"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Switzerland on May 26, 2026",
+      "heading": "TOP Movies on Rakuten TV in Switzerland on May 27, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "May 26, 2026",
+      "date": "May 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "One Mile: Chapter Two",
+          "tmdb": {
+            "id": 1327690,
+            "media_type": "movie",
+            "release_date": "2026-02-27"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -1810,7 +1823,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "They Will Kill You",
+          "tmdb": {
+            "id": 1292695,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
+          }
+        },
+        {
+          "rank": 4,
           "title": "We Bury the Dead",
           "tmdb": {
             "id": 1198984,
@@ -1819,7 +1841,16 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -1828,25 +1859,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Strangers: Chapter 3",
-          "tmdb": {
-            "id": 1010755,
-            "media_type": "movie",
-            "release_date": "2026-02-05"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Now You See Me: Now You Don't",
-          "tmdb": {
-            "id": 425274,
-            "media_type": "movie",
-            "release_date": "2025-11-12"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "title": "Trouble Man!",
           "tmdb": {
             "id": 1218628,
@@ -1855,7 +1868,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Dracula",
           "tmdb": {
             "id": 1246049,
@@ -1864,30 +1886,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Predator: Badlands",
           "tmdb": {
             "id": 1242898,
             "media_type": "movie",
             "release_date": "2025-11-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Manitou's Canoe",
-          "tmdb": {
-            "id": 1233066,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
           }
         }
       ]
