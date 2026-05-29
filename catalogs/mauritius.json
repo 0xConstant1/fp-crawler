@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/mauritius/",
-  "page_title": "TOP 10 on Streaming in Mauritius on May 28, 2026",
+  "page_title": "TOP 10 on Streaming in Mauritius on May 29, 2026",
   "region": "mauritius",
-  "date": "May 28, 2026",
-  "scraped_at_utc": "2026-05-28T16:50:39.504222+00:00",
+  "date": "May 29, 2026",
+  "scraped_at_utc": "2026-05-29T16:48:48.317302+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Mauritius on May 28, 2026",
+      "heading": "TOP Movies on Netflix in Mauritius on May 29, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 28, 2026",
+      "date": "May 29, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Kara",
+          "tmdb": {
+            "id": 1433117,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Dhurandhar: The Revenge",
           "tmdb": {
             "id": 1582770,
@@ -41,7 +50,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Guess Who",
           "tmdb": {
             "id": 11638,
@@ -50,21 +59,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
             "media_type": "movie",
             "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Kartavya",
-          "tmdb": {
-            "id": 1628367,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
           }
         },
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "The Crash",
+          "title": "Kartavya",
           "tmdb": {
-            "id": 1662317,
+            "id": 1628367,
             "media_type": "movie",
-            "release_date": "2026-05-14"
+            "release_date": "2026-05-15"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "In Her Shoes",
+          "title": "The Crash",
           "tmdb": {
-            "id": 11931,
+            "id": 1662317,
             "media_type": "movie",
-            "release_date": "2005-10-07"
+            "release_date": "2026-05-14"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Mauritius on May 28, 2026",
+      "heading": "TOP TV Shows on Netflix in Mauritius on May 29, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 28, 2026",
+      "date": "May 29, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -178,6 +178,15 @@
         },
         {
           "rank": 8,
+          "title": "A Good Girl's Guide to Murder",
+          "tmdb": {
+            "id": 218342,
+            "media_type": "tv",
+            "release_date": "2024-07-10"
+          }
+        },
+        {
+          "rank": 9,
           "title": "My Royal Nemesis",
           "tmdb": {
             "id": 303143,
@@ -186,49 +195,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Mating Season",
-          "tmdb": {
-            "id": 290295,
-            "media_type": "tv",
-            "release_date": "2026-05-22"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Devil May Cry",
+          "title": "Sold Out on You",
           "tmdb": {
-            "id": 235930,
+            "id": 287011,
             "media_type": "tv",
-            "release_date": "2025-04-03"
+            "release_date": "2026-04-22"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Mauritius on May 28, 2026",
+      "heading": "TOP Movies on Apple TV in Mauritius on May 29, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 28, 2026",
+      "date": "May 29, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 2,
           "title": "F1",
           "tmdb": {
             "id": 911430,
             "media_type": "movie",
             "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -251,6 +251,15 @@
         },
         {
           "rank": 5,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -259,16 +268,25 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Gorge",
+          "rank": 7,
+          "title": "Outcome",
           "tmdb": {
-            "id": 950396,
+            "id": 1049471,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2026-04-06"
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -277,40 +295,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Argylle",
           "tmdb": {
             "id": 848538,
             "media_type": "movie",
             "release_date": "2024-01-31"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Family Plan 2",
-          "tmdb": {
-            "id": 1363123,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Mauritius on May 28, 2026",
+      "heading": "TOP TV Shows on Apple TV in Mauritius on May 29, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 28, 2026",
+      "date": "May 29, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -360,11 +360,11 @@
         },
         {
           "rank": 6,
-          "title": "Margo's Got Money Troubles",
+          "title": "Sugar",
           "tmdb": {
-            "id": 245318,
+            "id": 203744,
             "media_type": "tv",
-            "release_date": "2026-04-14"
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -378,11 +378,11 @@
         },
         {
           "rank": 8,
-          "title": "Hijack",
+          "title": "Margo's Got Money Troubles",
           "tmdb": {
-            "id": 198102,
+            "id": 245318,
             "media_type": "tv",
-            "release_date": "2023-06-28"
+            "release_date": "2026-04-14"
           }
         },
         {
@@ -396,22 +396,22 @@
         },
         {
           "rank": 10,
-          "title": "Imperfect Women",
+          "title": "Hijack",
           "tmdb": {
-            "id": 108181,
+            "id": 198102,
             "media_type": "tv",
-            "release_date": "2026-03-17"
+            "release_date": "2023-06-28"
           }
         }
       ]
     },
     {
       "catalog_id": "shahid.movies",
-      "heading": "TOP Movies on Shahid in Mauritius on May 28, 2026",
+      "heading": "TOP Movies on Shahid in Mauritius on May 29, 2026",
       "category": "movies",
       "platform": "Shahid",
-      "date": "May 28, 2026",
-      "title_count": 4,
+      "date": "May 29, 2026",
+      "title_count": 10,
       "entries": [
         {
           "rank": 1,
@@ -424,6 +424,47 @@
         },
         {
           "rank": 2,
+          "title": "My Wife's Ex",
+          "tmdb": {
+            "id": 1276086,
+            "media_type": "movie",
+            "release_date": "2024-07-24"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Shaqow",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
+          "title": "John Achkar: Tryin'",
+          "tmdb": {
+            "id": 1556317,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Fakhr AlSuwaidi",
+          "tmdb": {
+            "id": 1469182,
+            "media_type": "movie",
+            "release_date": "2025-05-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Baed El Shar",
+          "tmdb": {
+            "id": 1108203,
+            "media_type": "movie",
+            "release_date": "2023-04-20"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Playing with the Kids",
           "tmdb": {
             "id": 1261562,
@@ -432,31 +473,40 @@
           }
         },
         {
-          "rank": 3,
-          "title": "6 Days",
+          "rank": 8,
+          "title": "Gray",
           "tmdb": {
-            "id": 347984,
+            "id": 1159996,
             "media_type": "movie",
-            "release_date": "2017-07-09"
+            "release_date": "2022-05-20"
           }
         },
         {
-          "rank": 4,
-          "title": "My Wife's Ex",
+          "rank": 9,
+          "title": "Ibn El Hagg Ahmad",
           "tmdb": {
-            "id": 1276086,
+            "id": 1094581,
             "media_type": "movie",
-            "release_date": "2024-07-24"
+            "release_date": "2023-04-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Face to Face",
+          "tmdb": {
+            "id": 86992,
+            "media_type": "movie",
+            "release_date": "2011-09-08"
           }
         }
       ]
     },
     {
       "catalog_id": "shahid.series",
-      "heading": "TOP TV Shows on Shahid in Mauritius on May 28, 2026",
+      "heading": "TOP TV Shows on Shahid in Mauritius on May 29, 2026",
       "category": "tv shows",
       "platform": "Shahid",
-      "date": "May 28, 2026",
+      "date": "May 29, 2026",
       "title_count": 10,
       "entries": [
         {
