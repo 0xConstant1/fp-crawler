@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/ukraine/",
-  "page_title": "TOP 10 on Streaming in Ukraine on May 30, 2026",
+  "page_title": "TOP 10 on Streaming in Ukraine on May 31, 2026",
   "region": "ukraine",
-  "date": "May 30, 2026",
-  "scraped_at_utc": "2026-05-30T15:55:11.162285+00:00",
+  "date": "May 31, 2026",
+  "scraped_at_utc": "2026-05-31T15:56:34.544434+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Ukraine on May 30, 2026",
+      "heading": "TOP Movies on Netflix in Ukraine on May 31, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Ukraine on May 30, 2026",
+      "heading": "TOP TV Shows on Netflix in Ukraine on May 31, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,11 +207,11 @@
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall on HBO Max in Ukraine on May 30, 2026",
+      "heading": "TOP Overall on HBO Max in Ukraine on May 31, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "May 30, 2026",
-      "title_count": 10,
+      "date": "May 31, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
@@ -242,24 +242,15 @@
         },
         {
           "rank": 4,
-          "title": "Rick and Morty",
+          "title": "The Bride!",
           "tmdb": {
-            "id": 60625,
-            "media_type": "tv",
-            "release_date": "2013-12-02"
+            "id": 1159831,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
           }
         },
         {
           "rank": 5,
-          "title": "GoodFellas",
-          "tmdb": {
-            "id": 769,
-            "media_type": "movie",
-            "release_date": "1990-09-12"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Zodiac",
           "tmdb": {
             "id": 1949,
@@ -268,21 +259,30 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Rick and Morty",
+          "tmdb": {
+            "id": 60625,
+            "media_type": "tv",
+            "release_date": "2013-12-02"
+          }
+        },
+        {
           "rank": 7,
+          "title": "GoodFellas",
+          "tmdb": {
+            "id": 769,
+            "media_type": "movie",
+            "release_date": "1990-09-12"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Edge of Tomorrow",
           "tmdb": {
             "id": 137113,
             "media_type": "movie",
             "release_date": "2014-05-27"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
           }
         },
         {
@@ -293,42 +293,33 @@
             "media_type": "tv",
             "release_date": "2026-03-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Mare of Easttown",
-          "tmdb": {
-            "id": 115004,
-            "media_type": "tv",
-            "release_date": "2021-04-18"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Ukraine on May 30, 2026",
+      "heading": "TOP Movies on Apple TV in Ukraine on May 31, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Propeller One-Way Night Coach",
           "tmdb": {
             "id": 1662414,
             "media_type": "movie",
             "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
           }
         },
         {
@@ -342,15 +333,6 @@
         },
         {
           "rank": 4,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -359,12 +341,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
             "media_type": "movie",
             "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -378,15 +369,6 @@
         },
         {
           "rank": 8,
-          "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-          "tmdb": {
-            "id": 1693346,
-            "media_type": "movie",
-            "release_date": "2026-05-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -395,22 +377,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Finch",
+          "rank": 9,
+          "title": "Napoleon",
           "tmdb": {
-            "id": 522402,
+            "id": 753342,
             "media_type": "movie",
-            "release_date": "2021-11-04"
+            "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Ukraine on May 30, 2026",
+      "heading": "TOP TV Shows on Apple TV in Ukraine on May 31, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,20 +424,20 @@
         },
         {
           "rank": 3,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Star City",
           "tmdb": {
             "id": 252107,
             "media_type": "tv",
             "release_date": "2026-05-28"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "For All Mankind",
+          "tmdb": {
+            "id": 87917,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         },
         {
@@ -487,30 +478,30 @@
         },
         {
           "rank": 9,
-          "title": "Unconditional",
-          "tmdb": {
-            "id": 314916,
-            "media_type": "tv",
-            "release_date": "2026-04-27"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Foundation",
+          "tmdb": {
+            "id": 93740,
+            "media_type": "tv",
+            "release_date": "2021-09-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Ukraine on May 30, 2026",
+      "heading": "TOP Movies on Apple TV Store in Ukraine on May 31, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,51 +515,24 @@
         },
         {
           "rank": 2,
-          "title": "The Father",
+          "title": "Hoppers",
           "tmdb": {
-            "id": 600354,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2020-12-23"
+            "release_date": "2026-03-04"
           }
         },
         {
           "rank": 3,
-          "title": "Road Trip",
+          "title": "Quantum of Solace",
           "tmdb": {
-            "id": 9285,
+            "id": 10764,
             "media_type": "movie",
-            "release_date": "2000-05-19"
+            "release_date": "2008-10-29"
           }
         },
         {
           "rank": 4,
-          "title": "Wuthering Heights",
-          "tmdb": {
-            "id": 1316092,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Inglourious Basterds",
-          "tmdb": {
-            "id": 16869,
-            "media_type": "movie",
-            "release_date": "2009-08-02"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "My Boss's Daughter",
-          "tmdb": {
-            "id": 2830,
-            "media_type": "movie",
-            "release_date": "2003-08-21"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Casino Royale",
           "tmdb": {
             "id": 36557,
@@ -577,40 +541,67 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Send Help",
+          "rank": 5,
+          "title": "Fast Five",
           "tmdb": {
-            "id": 1198994,
+            "id": 51497,
             "media_type": "movie",
-            "release_date": "2026-01-22"
+            "release_date": "2011-04-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Pirates of the Caribbean: Dead Man's Chest",
+          "tmdb": {
+            "id": 58,
+            "media_type": "movie",
+            "release_date": "2006-07-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Skyfall",
+          "tmdb": {
+            "id": 37724,
+            "media_type": "movie",
+            "release_date": "2012-10-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Predator: Badlands",
+          "tmdb": {
+            "id": 1242898,
+            "media_type": "movie",
+            "release_date": "2025-11-05"
           }
         },
         {
           "rank": 9,
-          "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "title": "Mission: Impossible - The Final Reckoning",
           "tmdb": {
-            "id": 22,
+            "id": 575265,
             "media_type": "movie",
-            "release_date": "2003-07-09"
+            "release_date": "2025-05-17"
           }
         },
         {
           "rank": 10,
-          "title": "Lee Cronin's The Mummy",
+          "title": "Interstellar",
           "tmdb": {
-            "id": 1304313,
+            "id": 157336,
             "media_type": "movie",
-            "release_date": "2026-04-15"
+            "release_date": "2014-11-05"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Ukraine on May 30, 2026",
+      "heading": "TOP Movies on Google in Ukraine on May 31, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,84 +624,84 @@
         },
         {
           "rank": 3,
-          "title": "Predator: Badlands",
+          "title": "SPECTRE",
           "tmdb": {
-            "id": 1242898,
+            "id": 206647,
             "media_type": "movie",
-            "release_date": "2025-11-05"
+            "release_date": "2015-10-26"
           }
         },
         {
           "rank": 4,
-          "title": "Troy",
+          "title": "Skyfall",
           "tmdb": {
-            "id": 652,
+            "id": 37724,
             "media_type": "movie",
-            "release_date": "2004-05-13"
+            "release_date": "2012-10-24"
           }
         },
         {
           "rank": 5,
-          "title": "Constantine",
+          "title": "Quantum of Solace",
           "tmdb": {
-            "id": 561,
+            "id": 10764,
             "media_type": "movie",
-            "release_date": "2005-02-08"
+            "release_date": "2008-10-29"
           }
         },
         {
           "rank": 6,
-          "title": "The Devil Wears Prada",
+          "title": "The Pope's Exorcist",
           "tmdb": {
-            "id": 350,
+            "id": 758323,
             "media_type": "movie",
-            "release_date": "2006-06-29"
+            "release_date": "2023-04-05"
           }
         },
         {
           "rank": 7,
-          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "title": "IF",
           "tmdb": {
-            "id": 120,
+            "id": 639720,
             "media_type": "movie",
-            "release_date": "2001-12-18"
+            "release_date": "2024-05-08"
           }
         },
         {
           "rank": 8,
-          "title": "Fight Club",
+          "title": "The Godfather",
           "tmdb": {
-            "id": 550,
+            "id": 238,
             "media_type": "movie",
-            "release_date": "1999-10-15"
+            "release_date": "1972-03-14"
           }
         },
         {
           "rank": 9,
-          "title": "A Minecraft Movie",
+          "title": "No Time to Die",
           "tmdb": {
-            "id": 950387,
+            "id": 370172,
             "media_type": "movie",
-            "release_date": "2025-03-31"
+            "release_date": "2021-09-29"
           }
         },
         {
           "rank": 10,
-          "title": "The Matrix Reloaded",
+          "title": "Indiana Jones and the Temple of Doom",
           "tmdb": {
-            "id": 604,
+            "id": 87,
             "media_type": "movie",
-            "release_date": "2003-05-15"
+            "release_date": "1984-05-23"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Ukraine on May 30, 2026",
+      "heading": "TOP Movies on Rakuten TV in Ukraine on May 31, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -760,6 +751,15 @@
         },
         {
           "rank": 6,
+          "title": "Lee Cronin's The Mummy",
+          "tmdb": {
+            "id": 1304313,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -768,7 +768,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Hamnet",
           "tmdb": {
             "id": 858024,
@@ -777,21 +777,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Lee Cronin's The Mummy",
-          "tmdb": {
-            "id": 1304313,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
           }
         },
         {

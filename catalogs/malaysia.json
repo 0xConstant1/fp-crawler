@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/malaysia/",
-  "page_title": "TOP 10 on Streaming in Malaysia on May 30, 2026",
+  "page_title": "TOP 10 on Streaming in Malaysia on May 31, 2026",
   "region": "malaysia",
-  "date": "May 30, 2026",
-  "scraped_at_utc": "2026-05-30T15:54:35.287811+00:00",
+  "date": "May 31, 2026",
+  "scraped_at_utc": "2026-05-31T15:55:58.276756+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Malaysia on May 30, 2026",
+      "heading": "TOP Movies on Netflix in Malaysia on May 31, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Malaysia on May 30, 2026",
+      "heading": "TOP TV Shows on Netflix in Malaysia on May 31, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,28 +207,28 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Malaysia on May 30, 2026",
+      "heading": "TOP Movies on HBO Max in Malaysia on May 31, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 9,
       "entries": [
         {
           "rank": 1,
+          "title": "Bugonia",
+          "tmdb": {
+            "id": 701387,
+            "media_type": "movie",
+            "release_date": "2025-10-23"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Anemone",
           "tmdb": {
             "id": 1364608,
             "media_type": "movie",
             "release_date": "2025-10-02"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Running Man",
-          "tmdb": {
-            "id": 798645,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
           }
         },
         {
@@ -242,24 +242,15 @@
         },
         {
           "rank": 4,
-          "title": "Bugonia",
+          "title": "The Running Man",
           "tmdb": {
-            "id": 701387,
+            "id": 798645,
             "media_type": "movie",
-            "release_date": "2025-10-23"
+            "release_date": "2025-11-11"
           }
         },
         {
           "rank": 5,
-          "title": "Journey 2: The Mysterious Island",
-          "tmdb": {
-            "id": 72545,
-            "media_type": "movie",
-            "release_date": "2012-01-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Journey to the Center of the Earth",
           "tmdb": {
             "id": 88751,
@@ -268,12 +259,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The SpongeBob SquarePants Movie",
+          "rank": 6,
+          "title": "Journey 2: The Mysterious Island",
           "tmdb": {
-            "id": 11836,
+            "id": 72545,
             "media_type": "movie",
-            "release_date": "2004-11-19"
+            "release_date": "2012-01-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Sleepy Hollow",
+          "tmdb": {
+            "id": 2668,
+            "media_type": "movie",
+            "release_date": "1999-11-19"
           }
         },
         {
@@ -287,21 +287,21 @@
         },
         {
           "rank": 9,
-          "title": "The Dictator",
+          "title": "The SpongeBob SquarePants Movie",
           "tmdb": {
-            "id": 76493,
+            "id": 11836,
             "media_type": "movie",
-            "release_date": "2012-05-15"
+            "release_date": "2004-11-19"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Malaysia on May 30, 2026",
+      "heading": "TOP TV Shows on HBO Max in Malaysia on May 31, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -315,15 +315,6 @@
         },
         {
           "rank": 2,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Filing for Love",
           "tmdb": {
             "id": 297640,
@@ -332,13 +323,18 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Hacks",
+          "rank": 3,
+          "title": "Euphoria",
           "tmdb": {
-            "id": 124101,
+            "id": 85552,
             "media_type": "tv",
-            "release_date": "2021-05-13"
+            "release_date": "2019-06-16"
           }
+        },
+        {
+          "rank": 4,
+          "title": "Song of the Samurai",
+          "tmdb": null
         },
         {
           "rank": 5,
@@ -351,8 +347,12 @@
         },
         {
           "rank": 6,
-          "title": "Song of the Samurai",
-          "tmdb": null
+          "title": "Hacks",
+          "tmdb": {
+            "id": 124101,
+            "media_type": "tv",
+            "release_date": "2021-05-13"
+          }
         },
         {
           "rank": 7,
@@ -374,30 +374,30 @@
         },
         {
           "rank": 9,
-          "title": "Yumi's Cells",
-          "tmdb": {
-            "id": 128995,
-            "media_type": "tv",
-            "release_date": "2021-09-17"
-          }
-        },
-        {
-          "rank": 10,
           "title": "구기동 프렌즈",
           "tmdb": {
             "id": 319339,
             "media_type": "tv",
             "release_date": "2026-04-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Yumi's Cells",
+          "tmdb": {
+            "id": 128995,
+            "media_type": "tv",
+            "release_date": "2021-09-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Malaysia on May 30, 2026",
+      "heading": "TOP Overall on Amazon Prime in Malaysia on May 31, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -465,6 +465,15 @@
         },
         {
           "rank": 8,
+          "title": "Dutton Ranch",
+          "tmdb": {
+            "id": 299167,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Dacoit",
           "tmdb": {
             "id": 1220522,
@@ -473,31 +482,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Ballerina",
-          "tmdb": {
-            "id": 541671,
-            "media_type": "movie",
-            "release_date": "2025-06-04"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Marshals",
+          "title": "Absolute Value of Romance",
           "tmdb": {
-            "id": 290856,
+            "id": 314784,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "2026-04-17"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Malaysia on May 30, 2026",
+      "heading": "TOP Movies on Amazon Prime in Malaysia on May 31, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -556,20 +556,20 @@
         },
         {
           "rank": 7,
-          "title": "Varisu",
-          "tmdb": {
-            "id": 835017,
-            "media_type": "movie",
-            "release_date": "2023-01-11"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Good Luck, Have Fun, Don't Die",
           "tmdb": {
             "id": 1119449,
             "media_type": "movie",
             "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Varisu",
+          "tmdb": {
+            "id": 835017,
+            "media_type": "movie",
+            "release_date": "2023-01-11"
           }
         },
         {
@@ -583,21 +583,21 @@
         },
         {
           "rank": 10,
-          "title": "Happy Raj",
+          "title": "O'Romeo",
           "tmdb": {
-            "id": 1518247,
+            "id": 1275574,
             "media_type": "movie",
-            "release_date": "2026-03-27"
+            "release_date": "2026-02-13"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Malaysia on May 30, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Malaysia on May 31, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,15 +638,6 @@
         },
         {
           "rank": 5,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -655,16 +646,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Citadel",
-          "tmdb": {
-            "id": 114922,
-            "media_type": "tv",
-            "release_date": "2023-04-27"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Absolute Value of Romance",
           "tmdb": {
             "id": 314784,
@@ -673,31 +655,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Marry My Husband",
+          "rank": 7,
+          "title": "Marshals",
           "tmdb": {
-            "id": 221851,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": "2024-01-01"
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Citadel",
+          "tmdb": {
+            "id": 114922,
+            "media_type": "tv",
+            "release_date": "2023-04-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Matka King",
+          "tmdb": {
+            "id": 249765,
+            "media_type": "tv",
+            "release_date": "2026-04-17"
           }
         },
         {
           "rank": 10,
-          "title": "INVINCIBLE",
+          "title": "From",
           "tmdb": {
-            "id": 95557,
+            "id": 124364,
             "media_type": "tv",
-            "release_date": "2021-03-25"
+            "release_date": "2022-02-20"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Malaysia on May 30, 2026",
+      "heading": "TOP Movies on Apple TV in Malaysia on May 31, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -729,20 +729,20 @@
         },
         {
           "rank": 4,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
             "media_type": "movie",
             "release_date": "2025-11-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -774,30 +774,30 @@
         },
         {
           "rank": 9,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Ghosted",
           "tmdb": {
             "id": 868759,
             "media_type": "movie",
             "release_date": "2023-04-18"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Malaysia on May 30, 2026",
+      "heading": "TOP TV Shows on Apple TV in Malaysia on May 31, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -811,24 +811,6 @@
         },
         {
           "rank": 2,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -837,12 +819,30 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Star City",
           "tmdb": {
             "id": 252107,
             "media_type": "tv",
             "release_date": "2026-05-28"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "For All Mankind",
+          "tmdb": {
+            "id": 87917,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         },
         {
@@ -865,20 +865,20 @@
         },
         {
           "rank": 8,
-          "title": "Maximum Pleasure Guaranteed",
-          "tmdb": {
-            "id": 285404,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Hijack",
           "tmdb": {
             "id": 198102,
             "media_type": "tv",
             "release_date": "2023-06-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Maximum Pleasure Guaranteed",
+          "tmdb": {
+            "id": 285404,
+            "media_type": "tv",
+            "release_date": "2026-05-19"
           }
         },
         {
@@ -894,28 +894,28 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Malaysia on May 30, 2026",
+      "heading": "TOP Movies on Apple TV Store in Malaysia on May 31, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Lee Cronin's The Mummy",
-          "tmdb": {
-            "id": 1304313,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
             "media_type": "movie",
             "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Lee Cronin's The Mummy",
+          "tmdb": {
+            "id": 1304313,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
           }
         },
         {
@@ -938,42 +938,6 @@
         },
         {
           "rank": 5,
-          "title": "Venom: The Last Dance",
-          "tmdb": {
-            "id": 912649,
-            "media_type": "movie",
-            "release_date": "2024-10-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Clown in a Cornfield",
           "tmdb": {
             "id": 713364,
@@ -982,12 +946,48 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "Venom: The Last Dance",
+          "tmdb": {
+            "id": 912649,
+            "media_type": "movie",
+            "release_date": "2024-10-22"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Scream 7",
           "tmdb": {
             "id": 1159559,
             "media_type": "movie",
             "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "This Is It",
+          "tmdb": {
+            "id": 13576,
+            "media_type": "movie",
+            "release_date": "2009-10-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "tmdb": {
+            "id": 673,
+            "media_type": "movie",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
           }
         }
       ]

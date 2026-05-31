@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/bahamas/",
-  "page_title": "TOP 10 on Streaming in the Bahamas on May 30, 2026",
+  "page_title": "TOP 10 on Streaming in the Bahamas on May 31, 2026",
   "region": "bahamas",
-  "date": "May 30, 2026",
-  "scraped_at_utc": "2026-05-30T15:53:45.538954+00:00",
+  "date": "May 31, 2026",
+  "scraped_at_utc": "2026-05-31T15:55:08.311512+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in the Bahamas on May 30, 2026",
+      "heading": "TOP Movies on Netflix in the Bahamas on May 31, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in the Bahamas on May 30, 2026",
+      "heading": "TOP TV Shows on Netflix in the Bahamas on May 31, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -203,19 +203,19 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in the Bahamas on May 30, 2026",
+      "heading": "TOP Movies on HBO Max in the Bahamas on May 31, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 9,
       "entries": [
         {
           "rank": 1,
-          "title": "The Forever Purge",
+          "title": "Black Phone 2",
           "tmdb": {
-            "id": 602223,
+            "id": 1197137,
             "media_type": "movie",
-            "release_date": "2021-06-30"
+            "release_date": "2025-10-15"
           }
         },
         {
@@ -229,6 +229,15 @@
         },
         {
           "rank": 3,
+          "title": "The Forever Purge",
+          "tmdb": {
+            "id": 602223,
+            "media_type": "movie",
+            "release_date": "2021-06-30"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Pitch Black",
           "tmdb": {
             "id": 2787,
@@ -237,7 +246,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The First Purge",
           "tmdb": {
             "id": 442249,
@@ -246,7 +255,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Crooked House",
           "tmdb": {
             "id": 419835,
@@ -255,49 +264,40 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
           "rank": 7,
-          "title": "The Little Things",
+          "title": "The Chronicles of Riddick",
           "tmdb": {
-            "id": 602269,
+            "id": 2789,
             "media_type": "movie",
-            "release_date": "2021-01-28"
+            "release_date": "2004-06-11"
           }
         },
         {
           "rank": 8,
-          "title": "HIM",
-          "tmdb": {
-            "id": 986097,
-            "media_type": "movie",
-            "release_date": "2025-09-18"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Superman/Batman: Apocalypse",
           "tmdb": {
             "id": 45162,
             "media_type": "movie",
             "release_date": "2010-09-28"
           }
+        },
+        {
+          "rank": 9,
+          "title": "The Bride!",
+          "tmdb": {
+            "id": 1159831,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in the Bahamas on May 30, 2026",
+      "heading": "TOP TV Shows on HBO Max in the Bahamas on May 31, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -329,6 +329,15 @@
         },
         {
           "rank": 4,
+          "title": "Half Man",
+          "tmdb": {
+            "id": 257994,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Hacks",
           "tmdb": {
             "id": 124101,
@@ -337,21 +346,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Regular Show: The Lost Tapes",
           "tmdb": {
             "id": 256695,
             "media_type": "tv",
             "release_date": "2026-05-11"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
           }
         },
         {
@@ -383,17 +383,21 @@
         },
         {
           "rank": 10,
-          "title": "Song of the Samurai",
-          "tmdb": null
+          "title": "Real Time with Bill Maher",
+          "tmdb": {
+            "id": 4419,
+            "media_type": "tv",
+            "release_date": "2003-02-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in the Bahamas on May 30, 2026",
+      "heading": "TOP Overall on Disney+ in the Bahamas on May 31, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -490,10 +494,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in the Bahamas on May 30, 2026",
+      "heading": "TOP Movies on Disney+ in the Bahamas on May 31, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -516,20 +520,20 @@
         },
         {
           "rank": 3,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
             "media_type": "movie",
             "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 1228710,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
           }
         },
         {
@@ -543,15 +547,24 @@
         },
         {
           "rank": 6,
-          "title": "Alice in Wonderland",
+          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
           "tmdb": {
-            "id": 12155,
+            "id": 1228710,
             "media_type": "movie",
-            "release_date": "2010-03-03"
+            "release_date": "2026-05-20"
           }
         },
         {
           "rank": 7,
+          "title": "Up",
+          "tmdb": {
+            "id": 14160,
+            "media_type": "movie",
+            "release_date": "2009-05-28"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Brother Bear",
           "tmdb": {
             "id": 10009,
@@ -560,40 +573,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Your Friend the Rat",
-          "tmdb": {
-            "id": 13061,
-            "media_type": "movie",
-            "release_date": "2007-11-06"
-          }
-        },
-        {
           "rank": 9,
-          "title": "The Game Plan",
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 13680,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2007-09-28"
+            "release_date": "2025-11-26"
           }
         },
         {
           "rank": 10,
-          "title": "Deadpool & Wolverine",
+          "title": "Alice in Wonderland",
           "tmdb": {
-            "id": 533535,
+            "id": 12155,
             "media_type": "movie",
-            "release_date": "2024-07-24"
+            "release_date": "2010-03-03"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in the Bahamas on May 30, 2026",
+      "heading": "TOP TV Shows on Disney+ in the Bahamas on May 31, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -625,15 +629,6 @@
         },
         {
           "rank": 4,
-          "title": "Bluey Minisodes",
-          "tmdb": {
-            "id": 256953,
-            "media_type": "tv",
-            "release_date": "2024-06-16"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Sofia the First: Royal Magic",
           "tmdb": {
             "id": 261647,
@@ -642,16 +637,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Malcolm in the Middle",
+          "rank": 5,
+          "title": "Bluey Minisodes",
           "tmdb": {
-            "id": 2004,
+            "id": 256953,
             "media_type": "tv",
-            "release_date": "2000-01-09"
+            "release_date": "2024-06-16"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Miraculous Chibi",
           "tmdb": {
             "id": 135531,
@@ -660,21 +655,30 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Zootopia+",
+          "tmdb": {
+            "id": 114463,
+            "media_type": "tv",
+            "release_date": "2022-11-09"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Malcolm in the Middle",
+          "tmdb": {
+            "id": 2004,
+            "media_type": "tv",
+            "release_date": "2000-01-09"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Mandalorian",
           "tmdb": {
             "id": 82856,
             "media_type": "tv",
             "release_date": "2019-11-12"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Gravity Falls",
-          "tmdb": {
-            "id": 40075,
-            "media_type": "tv",
-            "release_date": "2012-06-15"
           }
         },
         {
@@ -690,10 +694,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in the Bahamas on May 30, 2026",
+      "heading": "TOP Movies on Apple TV in the Bahamas on May 31, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -707,29 +711,29 @@
         },
         {
           "rank": 2,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Propeller One-Way Night Coach",
+          "tmdb": {
+            "id": 1662414,
+            "media_type": "movie",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
           }
         },
         {
@@ -743,6 +747,33 @@
         },
         {
           "rank": 6,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Cha Cha Real Smooth",
+          "tmdb": {
+            "id": 814340,
+            "media_type": "movie",
+            "release_date": "2022-06-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Greatest Beer Run Ever",
+          "tmdb": {
+            "id": 597922,
+            "media_type": "movie",
+            "release_date": "2022-09-23"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Echo Valley",
           "tmdb": {
             "id": 1097311,
@@ -751,49 +782,22 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "All of You",
-          "tmdb": {
-            "id": 1319965,
-            "media_type": "movie",
-            "release_date": "2025-09-26"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Sharper",
           "tmdb": {
             "id": 717980,
             "media_type": "movie",
             "release_date": "2023-02-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Propeller One-Way Night Coach",
-          "tmdb": {
-            "id": 1662414,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in the Bahamas on May 30, 2026",
+      "heading": "TOP TV Shows on Apple TV in the Bahamas on May 31, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "May 30, 2026",
+      "date": "May 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -816,15 +820,6 @@
         },
         {
           "rank": 3,
-          "title": "Star City",
-          "tmdb": {
-            "id": 252107,
-            "media_type": "tv",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -833,7 +828,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Imperfect Women",
           "tmdb": {
             "id": 108181,
@@ -842,7 +855,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Sugar",
           "tmdb": {
             "id": 203744,
@@ -851,39 +864,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Criminal Record",
-          "tmdb": {
-            "id": 204490,
-            "media_type": "tv",
-            "release_date": "2024-01-10"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Maximum Pleasure Guaranteed",
+          "title": "Ted Lasso",
           "tmdb": {
-            "id": 285404,
+            "id": 97546,
             "media_type": "tv",
-            "release_date": "2026-05-19"
+            "release_date": "2020-08-14"
           }
         },
         {
           "rank": 9,
+          "title": "Invasion",
+          "tmdb": {
+            "id": 127235,
+            "media_type": "tv",
+            "release_date": "2021-10-21"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Margo's Got Money Troubles",
           "tmdb": {
             "id": 245318,
             "media_type": "tv",
             "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
           }
         }
       ]
