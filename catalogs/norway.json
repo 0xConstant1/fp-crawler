@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/norway/",
-  "page_title": "TOP 10 on Streaming in Norway on June 1, 2026",
+  "page_title": "TOP 10 on Streaming in Norway on June 2, 2026",
   "region": "norway",
-  "date": "June 1, 2026",
-  "scraped_at_utc": "2026-06-01T17:21:45.611690+00:00",
+  "date": "June 2, 2026",
+  "scraped_at_utc": "2026-06-02T17:04:06.228499+00:00",
   "charts": [
     {
       "catalog_id": "tv-2-norge.movies",
-      "heading": "TOP Movies on TV 2 Norge in Norway on June 1, 2026",
+      "heading": "TOP Movies on TV 2 Norge in Norway on June 2, 2026",
       "category": "movies",
       "platform": "TV 2 Norge",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Warfare",
+          "tmdb": {
+            "id": 1241436,
+            "media_type": "movie",
+            "release_date": "2025-04-09"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Sentimental Value",
           "tmdb": {
             "id": 1124566,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -32,30 +41,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Ministry of Ungentlemanly Warfare",
-          "tmdb": {
-            "id": 799583,
-            "media_type": "movie",
-            "release_date": "2024-04-18"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Once Upon a Time... in Hollywood",
+          "title": "Boneyard",
           "tmdb": {
-            "id": 466272,
+            "id": 1114738,
             "media_type": "movie",
-            "release_date": "2019-07-24"
+            "release_date": "2024-07-05"
           }
         },
         {
           "rank": 5,
-          "title": "Blade Runner 2049",
+          "title": "Shadow Force",
           "tmdb": {
-            "id": 335984,
+            "id": 757725,
             "media_type": "movie",
-            "release_date": "2017-10-04"
+            "release_date": "2025-05-01"
           }
         },
         {
@@ -69,48 +69,48 @@
         },
         {
           "rank": 7,
-          "title": "Boss Level",
+          "title": "Bride Hard",
           "tmdb": {
-            "id": 513310,
+            "id": 1124619,
             "media_type": "movie",
-            "release_date": "2021-02-19"
+            "release_date": "2025-06-19"
           }
         },
         {
           "rank": 8,
-          "title": "No Comment",
+          "title": "The Ministry of Ungentlemanly Warfare",
           "tmdb": {
-            "id": 1452723,
+            "id": 799583,
             "media_type": "movie",
-            "release_date": "2025-08-22"
+            "release_date": "2024-04-18"
           }
         },
         {
           "rank": 9,
+          "title": "Blade Runner 2049",
+          "tmdb": {
+            "id": 335984,
+            "media_type": "movie",
+            "release_date": "2017-10-04"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Loveable",
           "tmdb": {
             "id": 1082900,
             "media_type": "movie",
             "release_date": "2024-09-19"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Challengers",
-          "tmdb": {
-            "id": 937287,
-            "media_type": "movie",
-            "release_date": "2024-04-18"
-          }
         }
       ]
     },
     {
       "catalog_id": "tv-2-norge.series",
-      "heading": "TOP TV Shows on TV 2 Norge in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on TV 2 Norge in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "TV 2 Norge",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "The Traitors",
-          "tmdb": {
-            "id": 215943,
-            "media_type": "tv",
-            "release_date": "2023-01-12"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Married at First Sight",
-          "tmdb": {
-            "id": 62705,
-            "media_type": "tv",
-            "release_date": "2015-05-18"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Oslo Fengsel",
           "tmdb": {
             "id": 254789,
@@ -150,16 +132,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Sommerdahl Murders",
-          "tmdb": {
-            "id": 99969,
-            "media_type": "tv",
-            "release_date": "2020-03-01"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "Home and Away",
           "tmdb": {
             "id": 2354,
@@ -168,7 +141,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 4,
+          "title": "Married at First Sight",
+          "tmdb": {
+            "id": 62705,
+            "media_type": "tv",
+            "release_date": "2015-05-18"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Rookie",
           "tmdb": {
             "id": 79744,
@@ -177,16 +159,25 @@
           }
         },
         {
-          "rank": 8,
-          "title": "From",
+          "rank": 6,
+          "title": "The Sommerdahl Murders",
           "tmdb": {
-            "id": 124364,
+            "id": 99969,
             "media_type": "tv",
-            "release_date": "2022-02-20"
+            "release_date": "2020-03-01"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "The Traitors",
+          "tmdb": {
+            "id": 215943,
+            "media_type": "tv",
+            "release_date": "2023-01-12"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Call the Midwife",
           "tmdb": {
             "id": 39793,
@@ -195,22 +186,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Hell on Wheels",
+          "rank": 9,
+          "title": "Your Honor",
           "tmdb": {
-            "id": 1401,
+            "id": 86430,
             "media_type": "tv",
-            "release_date": "2011-11-06"
+            "release_date": "2020-12-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Memory of a Killer",
+          "tmdb": {
+            "id": 291339,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Norway on June 1, 2026",
+      "heading": "TOP Movies on Netflix in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -251,11 +251,11 @@
         },
         {
           "rank": 5,
-          "title": "Storks",
+          "title": "Creed III",
           "tmdb": {
-            "id": 332210,
+            "id": 677179,
             "media_type": "movie",
-            "release_date": "2016-09-22"
+            "release_date": "2023-03-01"
           }
         },
         {
@@ -269,6 +269,24 @@
         },
         {
           "rank": 7,
+          "title": "Storks",
+          "tmdb": {
+            "id": 332210,
+            "media_type": "movie",
+            "release_date": "2016-09-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Rocky",
+          "tmdb": {
+            "id": 1366,
+            "media_type": "movie",
+            "release_date": "1976-12-03"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -277,62 +295,26 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Breaking In",
-          "tmdb": {
-            "id": 497814,
-            "media_type": "movie",
-            "release_date": "2018-05-05"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Je m'appelle Agneta",
           "tmdb": {
             "id": 829487,
             "media_type": "movie",
             "release_date": "2026-04-28"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Remarkably Bright Creatures",
-          "tmdb": {
-            "id": 1330021,
-            "media_type": "movie",
-            "release_date": "2026-05-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on Netflix in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Boroughs",
-          "tmdb": {
-            "id": 224941,
-            "media_type": "tv",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Chestnut Man",
-          "tmdb": {
-            "id": 127865,
-            "media_type": "tv",
-            "release_date": "2021-09-29"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Four Seasons",
           "tmdb": {
             "id": 243316,
@@ -341,7 +323,43 @@
           }
         },
         {
+          "rank": 2,
+          "title": "The Boroughs",
+          "tmdb": {
+            "id": 224941,
+            "media_type": "tv",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Instadocs: Alex Murdaugh, Unconvicted",
+          "tmdb": {
+            "id": 1704846,
+            "media_type": "movie",
+            "release_date": "2026-05-30"
+          }
+        },
+        {
           "rank": 4,
+          "title": "The Chestnut Man",
+          "tmdb": {
+            "id": 127865,
+            "media_type": "tv",
+            "release_date": "2021-09-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sullivan's Crossing",
+          "tmdb": {
+            "id": 211564,
+            "media_type": "tv",
+            "release_date": "2023-03-19"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Legends",
           "tmdb": {
             "id": 262280,
@@ -350,16 +368,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy",
-          "tmdb": {
-            "id": 1677574,
-            "media_type": "movie",
-            "release_date": "2026-05-31"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "title": "A Good Girl's Guide to Murder",
           "tmdb": {
             "id": 218342,
@@ -368,7 +377,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy",
+          "tmdb": {
+            "id": 1677574,
+            "media_type": "movie",
+            "release_date": "2026-05-31"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Worst Ex Ever",
           "tmdb": {
             "id": 259259,
@@ -377,40 +395,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Man on Fire",
-          "tmdb": {
-            "id": 223386,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Nemesis",
           "tmdb": {
             "id": 285807,
             "media_type": "tv",
             "release_date": "2026-05-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Rafa",
-          "tmdb": {
-            "id": 279884,
-            "media_type": "tv",
-            "release_date": "2026-05-29"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Norway on June 1, 2026",
+      "heading": "TOP Kids Movies on Netflix in Norway on June 2, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -451,11 +451,11 @@
         },
         {
           "rank": 5,
-          "title": "Emi Martínez: The Kid Who Stops Time",
+          "title": "Hotel Transylvania 3: Summer Vacation",
           "tmdb": {
-            "id": 1686326,
+            "id": 400155,
             "media_type": "movie",
-            "release_date": "2026-05-02"
+            "release_date": "2018-06-28"
           }
         },
         {
@@ -469,11 +469,11 @@
         },
         {
           "rank": 7,
-          "title": "Hotel Transylvania 3: Summer Vacation",
+          "title": "Emi Martínez: The Kid Who Stops Time",
           "tmdb": {
-            "id": 400155,
+            "id": 1686326,
             "media_type": "movie",
-            "release_date": "2018-06-28"
+            "release_date": "2026-05-02"
           }
         },
         {
@@ -487,11 +487,11 @@
         },
         {
           "rank": 9,
-          "title": "Roald Dahl's The Witches",
+          "title": "Hotel Transylvania 2",
           "tmdb": {
-            "id": 531219,
+            "id": 159824,
             "media_type": "movie",
-            "release_date": "2020-10-26"
+            "release_date": "2015-09-21"
           }
         },
         {
@@ -507,10 +507,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Norway on June 1, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Norway on June 2, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -551,20 +551,20 @@
         },
         {
           "rank": 5,
-          "title": "The Creature Cases",
-          "tmdb": {
-            "id": 195407,
-            "media_type": "tv",
-            "release_date": "2022-04-12"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
             "media_type": "tv",
             "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Creature Cases",
+          "tmdb": {
+            "id": 195407,
+            "media_type": "tv",
+            "release_date": "2022-04-12"
           }
         },
         {
@@ -587,30 +587,30 @@
         },
         {
           "rank": 9,
+          "title": "Alexa & Katie",
+          "tmdb": {
+            "id": 76874,
+            "media_type": "tv",
+            "release_date": "2018-03-23"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Sonic Prime",
           "tmdb": {
             "id": 115577,
             "media_type": "tv",
             "release_date": "2022-12-15"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Paw Patrol",
-          "tmdb": {
-            "id": 57532,
-            "media_type": "tv",
-            "release_date": "2013-08-12"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Norway on June 1, 2026",
+      "heading": "TOP Movies on HBO Max in Norway on June 2, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -633,15 +633,6 @@
         },
         {
           "rank": 3,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Lord of the Rings: The Return of the King",
           "tmdb": {
             "id": 122,
@@ -650,7 +641,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "The Bride!",
+          "tmdb": {
+            "id": 1159831,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
           "rank": 5,
+          "title": "The Cheshire Murders",
+          "tmdb": {
+            "id": 209204,
+            "media_type": "movie",
+            "release_date": "2013-07-22"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Broke",
           "tmdb": {
             "id": 883954,
@@ -659,21 +668,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Idea of You",
           "tmdb": {
             "id": 843527,
             "media_type": "movie",
             "release_date": "2024-05-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Cheshire Murders",
-          "tmdb": {
-            "id": 209204,
-            "media_type": "movie",
-            "release_date": "2013-07-22"
           }
         },
         {
@@ -687,34 +687,25 @@
         },
         {
           "rank": 9,
-          "title": "Mortal Kombat",
+          "title": "The Alto Knights",
           "tmdb": {
-            "id": 460465,
+            "id": 1013601,
             "media_type": "movie",
-            "release_date": "2021-04-07"
+            "release_date": "2025-03-19"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on HBO Max in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Cops",
-          "tmdb": {
-            "id": 3670,
-            "media_type": "tv",
-            "release_date": "1989-03-11"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
@@ -723,52 +714,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Gang War: Bandidos",
-          "tmdb": {
-            "id": 321211,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "90 Day Fiancé",
-          "tmdb": {
-            "id": 61575,
-            "media_type": "tv",
-            "release_date": "2014-01-12"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Jacks",
-          "tmdb": {
-            "id": 233236,
-            "media_type": "tv",
-            "release_date": "2023-09-15"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 2,
           "title": "Rick and Morty",
           "tmdb": {
             "id": 60625,
@@ -777,9 +723,67 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Cops",
+          "tmdb": {
+            "id": 3670,
+            "media_type": "tv",
+            "release_date": "1989-03-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Gang War: Bandidos",
+          "tmdb": {
+            "id": 321211,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "90 Day Fiancé",
+          "tmdb": {
+            "id": 61575,
+            "media_type": "tv",
+            "release_date": "2014-01-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Half Man",
+          "tmdb": {
+            "id": 257994,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Last Week Tonight with John Oliver",
+          "tmdb": {
+            "id": 60694,
+            "media_type": "tv",
+            "release_date": "2014-04-27"
+          }
+        },
+        {
           "rank": 9,
-          "title": "99 to Beat Norway",
-          "tmdb": null
+          "title": "Jacks",
+          "tmdb": {
+            "id": 233236,
+            "media_type": "tv",
+            "release_date": "2023-09-15"
+          }
         },
         {
           "rank": 10,
@@ -794,10 +798,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Norway on June 1, 2026",
+      "heading": "TOP Overall on Disney+ in Norway on June 2, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -811,15 +815,6 @@
         },
         {
           "rank": 2,
-          "title": "Send Help",
-          "tmdb": {
-            "id": 1198994,
-            "media_type": "movie",
-            "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Punisher: One Last Kill",
           "tmdb": {
             "id": 1439930,
@@ -828,16 +823,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Ratatouille",
+          "rank": 3,
+          "title": "Send Help",
           "tmdb": {
-            "id": 2062,
+            "id": 1198994,
             "media_type": "movie",
-            "release_date": "2007-06-28"
+            "release_date": "2026-01-22"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
           "tmdb": {
             "id": 321960,
@@ -846,6 +841,15 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Ratatouille",
+          "tmdb": {
+            "id": 2062,
+            "media_type": "movie",
+            "release_date": "2007-06-28"
+          }
+        },
+        {
           "rank": 6,
           "title": "The Devil Wears Prada",
           "tmdb": {
@@ -856,6 +860,15 @@
         },
         {
           "rank": 7,
+          "title": "Rivals",
+          "tmdb": {
+            "id": 208921,
+            "media_type": "tv",
+            "release_date": "2024-10-18"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
           "tmdb": {
             "id": 22,
@@ -864,58 +877,49 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Pirates of the Caribbean: Dead Man's Chest",
-          "tmdb": {
-            "id": 58,
-            "media_type": "movie",
-            "release_date": "2006-07-06"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Zootopia 2",
+          "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
+            "id": 289219,
+            "media_type": "tv",
+            "release_date": "2026-04-06"
           }
         },
         {
           "rank": 10,
-          "title": "Rivals",
+          "title": "Star Wars: Episode III - Revenge of the Sith",
           "tmdb": {
-            "id": 208921,
-            "media_type": "tv",
-            "release_date": "2024-10-18"
+            "id": 1895,
+            "media_type": "movie",
+            "release_date": "2005-05-17"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Norway on June 1, 2026",
+      "heading": "TOP Movies on Disney+ in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Send Help",
-          "tmdb": {
-            "id": 1198994,
-            "media_type": "movie",
-            "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Punisher: One Last Kill",
           "tmdb": {
             "id": 1439930,
             "media_type": "movie",
             "release_date": "2026-05-12"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Send Help",
+          "tmdb": {
+            "id": 1198994,
+            "media_type": "movie",
+            "release_date": "2026-01-22"
           }
         },
         {
@@ -947,11 +951,11 @@
         },
         {
           "rank": 6,
-          "title": "Pirates of the Caribbean: Dead Man's Chest",
+          "title": "Star Wars: Episode III - Revenge of the Sith",
           "tmdb": {
-            "id": 58,
+            "id": 1895,
             "media_type": "movie",
-            "release_date": "2006-07-06"
+            "release_date": "2005-05-17"
           }
         },
         {
@@ -965,11 +969,11 @@
         },
         {
           "rank": 8,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
+          "title": "Star Wars: Episode I - The Phantom Menace",
           "tmdb": {
-            "id": 1228710,
+            "id": 1893,
             "media_type": "movie",
-            "release_date": "2026-05-20"
+            "release_date": "1999-05-19"
           }
         },
         {
@@ -983,21 +987,21 @@
         },
         {
           "rank": 10,
-          "title": "Rio",
+          "title": "Avengers: Endgame",
           "tmdb": {
-            "id": 46195,
+            "id": 299534,
             "media_type": "movie",
-            "release_date": "2011-04-03"
+            "release_date": "2019-04-24"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on Disney+ in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1029,15 +1033,6 @@
         },
         {
           "rank": 4,
-          "title": "Bluey Minisodes",
-          "tmdb": {
-            "id": 256953,
-            "media_type": "tv",
-            "release_date": "2024-06-16"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -1046,7 +1041,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Love Story",
           "tmdb": {
             "id": 131142,
@@ -1055,16 +1050,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Secrets of the Bees",
+          "rank": 6,
+          "title": "Bluey Minisodes",
           "tmdb": {
-            "id": 218274,
+            "id": 256953,
             "media_type": "tv",
-            "release_date": "2026-03-31"
+            "release_date": "2024-06-16"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -1073,7 +1068,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Betrayal: Secrets & Lies",
           "tmdb": {
             "id": 317264,
@@ -1082,22 +1077,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Tucci in Italy",
+          "rank": 9,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
-            "id": 241569,
+            "id": 279471,
             "media_type": "tv",
-            "release_date": "2025-05-18"
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Daredevil: Born Again",
+          "tmdb": {
+            "id": 202555,
+            "media_type": "tv",
+            "release_date": "2025-03-04"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Norway on June 1, 2026",
+      "heading": "TOP Overall on Amazon Prime in Norway on June 2, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1165,11 +1169,11 @@
         },
         {
           "rank": 8,
-          "title": "The Grand-ish Tour",
+          "title": "The Summer I Turned Pretty",
           "tmdb": {
-            "id": 321267,
+            "id": 194766,
             "media_type": "tv",
-            "release_date": "2026-05-01"
+            "release_date": "2022-06-16"
           }
         },
         {
@@ -1194,10 +1198,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Norway on June 1, 2026",
+      "heading": "TOP Movies on Amazon Prime in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1238,15 +1242,6 @@
         },
         {
           "rank": 5,
-          "title": "The Long Walk",
-          "tmdb": {
-            "id": 604079,
-            "media_type": "movie",
-            "release_date": "2025-09-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
@@ -1255,7 +1250,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Love Me Love Me",
           "tmdb": {
             "id": 1317672,
@@ -1264,7 +1259,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "The Long Walk",
+          "tmdb": {
+            "id": 604079,
+            "media_type": "movie",
+            "release_date": "2025-09-10"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Gunner",
+          "tmdb": {
+            "id": 5492,
+            "media_type": "movie",
+            "release_date": "2024-08-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "My Fault: London",
           "tmdb": {
             "id": 1294203,
@@ -1273,31 +1286,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Lair",
           "tmdb": {
             "id": 760204,
             "media_type": "movie",
             "release_date": "2022-10-28"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Gunner",
-          "tmdb": {
-            "id": 5492,
-            "media_type": "movie",
-            "release_date": "2024-08-16"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1347,11 +1351,11 @@
         },
         {
           "rank": 6,
-          "title": "The Grand-ish Tour",
+          "title": "The Summer I Turned Pretty",
           "tmdb": {
-            "id": 321267,
+            "id": 194766,
             "media_type": "tv",
-            "release_date": "2026-05-01"
+            "release_date": "2022-06-16"
           }
         },
         {
@@ -1374,11 +1378,11 @@
         },
         {
           "rank": 9,
-          "title": "The Summer I Turned Pretty",
+          "title": "The Grand-ish Tour",
           "tmdb": {
-            "id": 194766,
+            "id": 321267,
             "media_type": "tv",
-            "release_date": "2022-06-16"
+            "release_date": "2026-05-01"
           }
         },
         {
@@ -1394,10 +1398,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Norway on June 1, 2026",
+      "heading": "TOP Movies on Apple TV in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1438,11 +1442,11 @@
         },
         {
           "rank": 5,
-          "title": "The Family Plan 2",
+          "title": "The Gorge",
           "tmdb": {
-            "id": 1363123,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -1456,29 +1460,29 @@
         },
         {
           "rank": 7,
-          "title": "The Gorge",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 950396,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2025-11-11"
           }
         },
         {
           "rank": 8,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Family Plan",
+          "tmdb": {
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
           }
         },
         {
@@ -1494,10 +1498,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1520,20 +1524,20 @@
         },
         {
           "rank": 3,
-          "title": "Star City",
-          "tmdb": {
-            "id": 252107,
-            "media_type": "tv",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -1594,10 +1598,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Norway on June 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1611,15 +1615,6 @@
         },
         {
           "rank": 2,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
@@ -1628,21 +1623,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "GOAT",
+          "rank": 3,
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 1297842,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2026-04-01"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Kraken",
           "tmdb": {
             "id": 1110034,
             "media_type": "movie",
             "release_date": "2026-02-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -1656,15 +1660,24 @@
         },
         {
           "rank": 7,
-          "title": "Greenland 2: Migration",
+          "title": "Lee Cronin's The Mummy",
           "tmdb": {
-            "id": 840464,
+            "id": 1304313,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2026-04-15"
           }
         },
         {
           "rank": 8,
+          "title": "My First Love",
+          "tmdb": {
+            "id": 401896,
+            "media_type": "movie",
+            "release_date": "1988-12-04"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -1673,31 +1686,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Nuremberg",
-          "tmdb": {
-            "id": 1214931,
-            "media_type": "movie",
-            "release_date": "2025-11-06"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Rally - From Paris to the Pyramids",
+          "title": "Casino Royale",
           "tmdb": {
-            "id": 1016069,
+            "id": 36557,
             "media_type": "movie",
-            "release_date": "2025-12-14"
+            "release_date": "2006-11-14"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Norway on June 1, 2026",
+      "heading": "TOP Movies on Google in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1794,10 +1798,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Norway on June 1, 2026",
+      "heading": "TOP Movies on Rakuten TV in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1820,20 +1824,20 @@
         },
         {
           "rank": 3,
+          "title": "Good Luck, Have Fun, Don't Die",
+          "tmdb": {
+            "id": 1119449,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
             "media_type": "movie",
             "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Strangers: Chapter 3",
-          "tmdb": {
-            "id": 1010755,
-            "media_type": "movie",
-            "release_date": "2026-02-05"
           }
         },
         {
@@ -1865,20 +1869,20 @@
         },
         {
           "rank": 8,
+          "title": "Pets on a Train",
+          "tmdb": {
+            "id": 1107216,
+            "media_type": "movie",
+            "release_date": "2025-07-02"
+          }
+        },
+        {
+          "rank": 9,
           "title": "They Will Kill You",
           "tmdb": {
             "id": 1292695,
             "media_type": "movie",
             "release_date": "2026-03-23"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hunting Season",
-          "tmdb": {
-            "id": 1387382,
-            "media_type": "movie",
-            "release_date": "2025-12-05"
           }
         },
         {
@@ -1894,28 +1898,28 @@
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Norway on June 1, 2026",
+      "heading": "TOP Movies on Viaplay in Norway on June 2, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Caught Stealing",
+          "tmdb": {
+            "id": 1245993,
+            "media_type": "movie",
+            "release_date": "2025-08-26"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Prisoner of War",
           "tmdb": {
             "id": 1328803,
             "media_type": "movie",
             "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Twisters",
-          "tmdb": {
-            "id": 718821,
-            "media_type": "movie",
-            "release_date": "2024-07-10"
           }
         },
         {
@@ -1929,6 +1933,15 @@
         },
         {
           "rank": 4,
+          "title": "Twisters",
+          "tmdb": {
+            "id": 718821,
+            "media_type": "movie",
+            "release_date": "2024-07-10"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Shell",
           "tmdb": {
             "id": 787747,
@@ -1937,43 +1950,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Sovereign",
-          "tmdb": {
-            "id": 1130022,
-            "media_type": "movie",
-            "release_date": "2025-07-11"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Caught Stealing",
+          "title": "Hounds of War",
           "tmdb": {
-            "id": 1245993,
+            "id": 949484,
             "media_type": "movie",
-            "release_date": "2025-08-26"
+            "release_date": "2024-08-29"
           }
         },
         {
           "rank": 7,
-          "title": "The Bourne Identity",
-          "tmdb": {
-            "id": 2501,
-            "media_type": "movie",
-            "release_date": "2002-06-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Idea of You",
-          "tmdb": {
-            "id": 843527,
-            "media_type": "movie",
-            "release_date": "2024-05-02"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Knock Knock",
           "tmdb": {
             "id": 263472,
@@ -1982,22 +1968,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Bring Her Back",
+          "rank": 8,
+          "title": "Sovereign",
           "tmdb": {
-            "id": 1151031,
+            "id": 1130022,
             "media_type": "movie",
-            "release_date": "2025-05-19"
+            "release_date": "2025-07-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Bourne Identity",
+          "tmdb": {
+            "id": 2501,
+            "media_type": "movie",
+            "release_date": "2002-06-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Idea of You",
+          "tmdb": {
+            "id": 843527,
+            "media_type": "movie",
+            "release_date": "2024-05-02"
           }
         }
       ]
     },
     {
       "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on Viaplay in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "Viaplay",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2038,6 +2042,15 @@
         },
         {
           "rank": 5,
+          "title": "Doc",
+          "tmdb": {
+            "id": 10042,
+            "media_type": "tv",
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Chicago P.D.",
           "tmdb": {
             "id": 58841,
@@ -2046,7 +2059,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Chicago Fire",
           "tmdb": {
             "id": 44006,
@@ -2055,21 +2068,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Chicago Med",
           "tmdb": {
             "id": 62650,
             "media_type": "tv",
             "release_date": "2015-11-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Doc",
-          "tmdb": {
-            "id": 10042,
-            "media_type": "tv",
-            "release_date": "2001-03-11"
           }
         },
         {
@@ -2094,10 +2098,10 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Norway on June 1, 2026",
+      "heading": "TOP Movies on SkyShowtime in Norway on June 2, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2129,20 +2133,20 @@
         },
         {
           "rank": 4,
+          "title": "Lucy",
+          "tmdb": {
+            "id": 240832,
+            "media_type": "movie",
+            "release_date": "2014-07-25"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Don't Be Afraid of the Dark",
           "tmdb": {
             "id": 46261,
             "media_type": "movie",
             "release_date": "2010-11-06"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Dictator",
-          "tmdb": {
-            "id": 76493,
-            "media_type": "movie",
-            "release_date": "2012-05-15"
           }
         },
         {
@@ -2156,29 +2160,29 @@
         },
         {
           "rank": 7,
-          "title": "Gabby's Dollhouse: The Movie",
+          "title": "Damsel",
           "tmdb": {
-            "id": 1280282,
+            "id": 763215,
             "media_type": "movie",
-            "release_date": "2025-09-13"
+            "release_date": "2024-03-07"
           }
         },
         {
           "rank": 8,
+          "title": "The Mummy: Tomb of the Dragon Emperor",
+          "tmdb": {
+            "id": 1735,
+            "media_type": "movie",
+            "release_date": "2008-07-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Downton Abbey: The Grand Finale",
           "tmdb": {
             "id": 1289936,
             "media_type": "movie",
             "release_date": "2025-09-10"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Regretting You",
-          "tmdb": {
-            "id": 1327862,
-            "media_type": "movie",
-            "release_date": "2025-10-22"
           }
         },
         {
@@ -2194,10 +2198,10 @@
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Norway on June 1, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Norway on June 2, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 1, 2026",
+      "date": "June 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2220,6 +2224,15 @@
         },
         {
           "rank": 3,
+          "title": "The Trio",
+          "tmdb": {
+            "id": 321808,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Prisoner",
           "tmdb": {
             "id": 311858,
@@ -2228,7 +2241,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Brooklyn Nine-Nine",
           "tmdb": {
             "id": 48891,
@@ -2237,7 +2250,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Under Salt Marsh",
           "tmdb": {
             "id": 262262,
@@ -2246,7 +2259,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Madison",
           "tmdb": {
             "id": 225891,
@@ -2255,7 +2268,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -2264,7 +2277,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Gomorrah",
           "tmdb": {
             "id": 61068,
@@ -2273,21 +2286,12 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Veronika",
           "tmdb": {
             "id": 245441,
             "media_type": "tv",
             "release_date": "2024-03-22"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Landman",
-          "tmdb": {
-            "id": 157741,
-            "media_type": "tv",
-            "release_date": "2024-11-17"
           }
         }
       ]
