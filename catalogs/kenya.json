@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/kenya/",
-  "page_title": "TOP 10 on Streaming in Kenya on June 2, 2026",
+  "page_title": "TOP 10 on Streaming in Kenya on June 3, 2026",
   "region": "kenya",
-  "date": "June 2, 2026",
-  "scraped_at_utc": "2026-06-02T17:03:46.086974+00:00",
+  "date": "June 3, 2026",
+  "scraped_at_utc": "2026-06-03T17:14:19.780747+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Kenya on June 2, 2026",
+      "heading": "TOP Movies on Netflix in Kenya on June 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,6 +24,15 @@
         },
         {
           "rank": 2,
+          "title": "Trap",
+          "tmdb": {
+            "id": 1032823,
+            "media_type": "movie",
+            "release_date": "2024-07-31"
+          }
+        },
+        {
+          "rank": 3,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -41,16 +50,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Swapped",
+          "rank": 5,
+          "title": "Blended",
           "tmdb": {
-            "id": 1007757,
+            "id": 232672,
             "media_type": "movie",
-            "release_date": "2026-05-01"
+            "release_date": "2014-05-21"
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Kitchen",
           "tmdb": {
             "id": 956262,
@@ -59,7 +68,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Apex",
           "tmdb": {
             "id": 1318447,
@@ -68,7 +86,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Kara",
           "tmdb": {
             "id": 1433117,
@@ -77,40 +95,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Superintelligence",
-          "tmdb": {
-            "id": 521007,
-            "media_type": "movie",
-            "release_date": "2020-11-26"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Those Who Wish Me Dead",
           "tmdb": {
             "id": 578701,
             "media_type": "movie",
             "release_date": "2021-05-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Crash",
-          "tmdb": {
-            "id": 1662317,
-            "media_type": "movie",
-            "release_date": "2026-05-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Kenya on June 2, 2026",
+      "heading": "TOP TV Shows on Netflix in Kenya on June 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 2,
-          "title": "Man on Fire",
-          "tmdb": {
-            "id": 223386,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Four Seasons",
           "tmdb": {
             "id": 243316,
             "media_type": "tv",
             "release_date": "2025-05-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Man on Fire",
+          "tmdb": {
+            "id": 223386,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
           }
         },
         {
@@ -160,15 +160,6 @@
         },
         {
           "rank": 6,
-          "title": "The Cleaning Lady",
-          "tmdb": {
-            "id": 125282,
-            "media_type": "tv",
-            "release_date": "2022-01-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Law & Order: Special Victims Unit",
           "tmdb": {
             "id": 2734,
@@ -177,21 +168,30 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Lawmen: Bass Reeves",
+          "tmdb": {
+            "id": 157732,
+            "media_type": "tv",
+            "release_date": "2023-11-05"
+          }
+        },
+        {
           "rank": 8,
+          "title": "The Cleaning Lady",
+          "tmdb": {
+            "id": 125282,
+            "media_type": "tv",
+            "release_date": "2022-01-03"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The 51st AFI Life Achievement Award: A Tribute to Eddie Murphy",
           "tmdb": {
             "id": 1677574,
             "media_type": "movie",
             "release_date": "2026-05-31"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Boroughs",
-          "tmdb": {
-            "id": 224941,
-            "media_type": "tv",
-            "release_date": "2026-05-21"
           }
         },
         {

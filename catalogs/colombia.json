@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/colombia/",
-  "page_title": "TOP 10 on Streaming in Colombia on June 2, 2026",
+  "page_title": "TOP 10 on Streaming in Colombia on June 3, 2026",
   "region": "colombia",
-  "date": "June 2, 2026",
-  "scraped_at_utc": "2026-06-02T17:03:27.243747+00:00",
+  "date": "June 3, 2026",
+  "scraped_at_utc": "2026-06-03T17:13:48.331966+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Netflix in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Creed III",
+          "tmdb": {
+            "id": 677179,
+            "media_type": "movie",
+            "release_date": "2023-03-01"
+          }
+        },
+        {
+          "rank": 2,
           "title": "A Perfect Getaway",
           "tmdb": {
             "id": 12403,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -32,7 +41,16 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "Forgiveness Girl",
+          "tmdb": {
+            "id": 1587195,
+            "media_type": "movie",
+            "release_date": "2025-11-24"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -41,7 +59,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Kidnap",
           "tmdb": {
             "id": 293768,
@@ -50,43 +68,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Guess Who",
-          "tmdb": {
-            "id": 11638,
-            "media_type": "movie",
-            "release_date": "2005-03-25"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Apex",
-          "tmdb": {
-            "id": 1318447,
-            "media_type": "movie",
-            "release_date": "2026-04-24"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Remarkably Bright Creatures",
+          "title": "Creed",
           "tmdb": {
-            "id": 1330021,
+            "id": 312221,
             "media_type": "movie",
-            "release_date": "2026-05-07"
+            "release_date": "2015-11-25"
           }
         },
         {
           "rank": 8,
-          "title": "No Hard Feelings",
-          "tmdb": {
-            "id": 884605,
-            "media_type": "movie",
-            "release_date": "2023-06-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Mechanic: Resurrection",
           "tmdb": {
             "id": 278924,
@@ -95,22 +86,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Night Swim",
+          "rank": 9,
+          "title": "San Andreas",
           "tmdb": {
-            "id": 1072342,
+            "id": 254128,
             "media_type": "movie",
-            "release_date": "2024-01-03"
+            "release_date": "2015-05-27"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "No Hard Feelings",
+          "tmdb": {
+            "id": 884605,
+            "media_type": "movie",
+            "release_date": "2023-06-15"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Netflix in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,24 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "My Royal Nemesis",
-          "tmdb": {
-            "id": 303143,
-            "media_type": "tv",
-            "release_date": "2026-05-08"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Futuro desierto",
-          "tmdb": {
-            "id": 321594,
-            "media_type": "tv",
-            "release_date": "2026-05-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Handmaid's Tale",
           "tmdb": {
             "id": 69478,
@@ -159,7 +141,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "My Royal Nemesis",
+          "tmdb": {
+            "id": 303143,
+            "media_type": "tv",
+            "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Nemesis",
           "tmdb": {
             "id": 285807,
@@ -168,21 +159,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Rafa",
-          "tmdb": {
-            "id": 279884,
-            "media_type": "tv",
-            "release_date": "2026-05-29"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "WWE Clash at the Castle",
-          "tmdb": null
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "Sold Out on You",
           "tmdb": {
             "id": 287011,
@@ -191,22 +168,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Interview with the Vampire",
+          "rank": 7,
+          "title": "Futuro desierto",
           "tmdb": {
-            "id": 128098,
+            "id": 321594,
             "media_type": "tv",
-            "release_date": "2022-10-02"
+            "release_date": "2026-05-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ashes to Crown",
+          "tmdb": {
+            "id": 289271,
+            "media_type": "tv",
+            "release_date": "2026-06-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Lawmen: Bass Reeves",
+          "tmdb": {
+            "id": 157732,
+            "media_type": "tv",
+            "release_date": "2023-11-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Rafa",
+          "tmdb": {
+            "id": 279884,
+            "media_type": "tv",
+            "release_date": "2026-05-29"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Colombia on June 2, 2026",
+      "heading": "TOP Kids Movies on Netflix in Colombia on June 3, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -238,20 +242,20 @@
         },
         {
           "rank": 4,
+          "title": "Rango",
+          "tmdb": {
+            "id": 44896,
+            "media_type": "movie",
+            "release_date": "2011-03-02"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
             "media_type": "movie",
             "release_date": "2005-05-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Emi Martínez: The Kid Who Stops Time",
-          "tmdb": {
-            "id": 1686326,
-            "media_type": "movie",
-            "release_date": "2026-05-02"
           }
         },
         {
@@ -274,39 +278,39 @@
         },
         {
           "rank": 8,
-          "title": "Sonic the Hedgehog 3",
+          "title": "The Grinch",
           "tmdb": {
-            "id": 939243,
+            "id": 360920,
             "media_type": "movie",
-            "release_date": "2024-12-19"
+            "release_date": "2018-11-08"
           }
         },
         {
           "rank": 9,
-          "title": "Rango",
+          "title": "The Lorax",
           "tmdb": {
-            "id": 44896,
+            "id": 73723,
             "media_type": "movie",
-            "release_date": "2011-03-02"
+            "release_date": "2012-03-01"
           }
         },
         {
           "rank": 10,
-          "title": "Back to the Outback",
+          "title": "Emi Martínez: The Kid Who Stops Time",
           "tmdb": {
-            "id": 770254,
+            "id": 1686326,
             "media_type": "movie",
-            "release_date": "2021-12-03"
+            "release_date": "2026-05-02"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Colombia on June 2, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Colombia on June 3, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -356,11 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Learning and fun with Jose Comelon",
-          "tmdb": null
-        },
-        {
-          "rank": 7,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -369,13 +368,18 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Gabby's Dollhouse",
+          "rank": 7,
+          "title": "Plim Plim, A Hero's heart",
           "tmdb": {
-            "id": 111474,
+            "id": 59172,
             "media_type": "tv",
-            "release_date": "2021-01-05"
+            "release_date": "2011-09-21"
           }
+        },
+        {
+          "rank": 8,
+          "title": "Learning and fun with Jose Comelon",
+          "tmdb": null
         },
         {
           "rank": 9,
@@ -388,21 +392,21 @@
         },
         {
           "rank": 10,
-          "title": "The Creature Cases",
+          "title": "Pinkfong Little Dino School",
           "tmdb": {
-            "id": 195407,
+            "id": 275908,
             "media_type": "tv",
-            "release_date": "2022-04-12"
+            "release_date": "2024-07-04"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Colombia on June 2, 2026",
+      "heading": "TOP Movies on HBO Max in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -425,15 +429,6 @@
         },
         {
           "rank": 3,
-          "title": "The Forever Purge",
-          "tmdb": {
-            "id": 602223,
-            "media_type": "movie",
-            "release_date": "2021-06-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Crooked House",
           "tmdb": {
             "id": 419835,
@@ -442,16 +437,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Bride!",
+          "rank": 4,
+          "title": "The Forever Purge",
           "tmdb": {
-            "id": 1159831,
+            "id": 602223,
             "media_type": "movie",
-            "release_date": "2026-03-04"
+            "release_date": "2021-06-30"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Escape From Pretoria",
           "tmdb": {
             "id": 502425,
@@ -460,7 +455,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Bride!",
+          "tmdb": {
+            "id": 1159831,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
           "rank": 7,
+          "title": "The Little Things",
+          "tmdb": {
+            "id": 602269,
+            "media_type": "movie",
+            "release_date": "2021-01-28"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Pitch Black",
           "tmdb": {
             "id": 2787,
@@ -469,31 +482,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The First Purge",
           "tmdb": {
             "id": 442249,
             "media_type": "movie",
             "release_date": "2018-07-04"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Final Destination Bloodlines",
-          "tmdb": {
-            "id": 574475,
-            "media_type": "movie",
-            "release_date": "2025-05-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on HBO Max in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -516,33 +520,6 @@
         },
         {
           "rank": 3,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Regular Show: The Lost Tapes",
-          "tmdb": {
-            "id": 256695,
-            "media_type": "tv",
-            "release_date": "2026-05-11"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Wild Heart",
           "tmdb": {
             "id": 231503,
@@ -551,45 +528,76 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Margarita: Make your story count",
+          "rank": 4,
+          "title": "La Nina",
           "tmdb": {
-            "id": 245328,
+            "id": 70824,
             "media_type": "tv",
-            "release_date": "2024-09-02"
+            "release_date": "2016-04-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Half Man",
+          "tmdb": {
+            "id": 257994,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gossip Girl",
+          "tmdb": {
+            "id": 1395,
+            "media_type": "tv",
+            "release_date": "2007-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Regular Show: The Lost Tapes",
+          "tmdb": {
+            "id": 256695,
+            "media_type": "tv",
+            "release_date": "2026-05-11"
           }
         },
         {
           "rank": 8,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bahar",
+          "tmdb": {
+            "id": 245914,
+            "media_type": "tv",
+            "release_date": "2024-02-13"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Medcezir",
           "tmdb": {
             "id": 61867,
             "media_type": "tv",
             "release_date": "2013-09-13"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Song of the Samurai",
-          "tmdb": null
-        },
-        {
-          "rank": 10,
-          "title": "DTF St. Louis",
-          "tmdb": {
-            "id": 206828,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Colombia on June 2, 2026",
+      "heading": "TOP Overall on Disney+ in Colombia on June 3, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -612,42 +620,6 @@
         },
         {
           "rank": 3,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 321564,
-            "media_type": "tv",
-            "release_date": "2026-05-04"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -656,7 +628,25 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Perfect Crown",
+          "tmdb": {
+            "id": 278573,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Tangled",
           "tmdb": {
             "id": 38757,
@@ -665,31 +655,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Avengers: Endgame",
+          "rank": 7,
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 299534,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2019-04-24"
+            "release_date": "2025-11-26"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Doctor on the Edge",
+          "tmdb": {
+            "id": 287009,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
             "media_type": "movie",
             "release_date": "2019-06-19"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Encanto",
+          "tmdb": {
+            "id": 568124,
+            "media_type": "movie",
+            "release_date": "2021-10-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Disney+ in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -721,33 +729,6 @@
         },
         {
           "rank": 4,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Star Wars: The Mandalorian and Grogu | A Special Look",
-          "tmdb": {
-            "id": 1228710,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Tangled",
           "tmdb": {
             "id": 38757,
@@ -756,16 +737,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Avengers: Endgame",
+          "rank": 5,
+          "title": "Zootopia 2",
           "tmdb": {
-            "id": 299534,
+            "id": 1084242,
             "media_type": "movie",
-            "release_date": "2019-04-24"
+            "release_date": "2025-11-26"
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -774,22 +755,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Encanto",
+          "tmdb": {
+            "id": 568124,
+            "media_type": "movie",
+            "release_date": "2021-10-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
             "media_type": "movie",
             "release_date": "2024-11-21"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Inside Out 2",
+          "tmdb": {
+            "id": 1022789,
+            "media_type": "movie",
+            "release_date": "2024-06-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Disney+ in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -812,6 +820,15 @@
         },
         {
           "rank": 3,
+          "title": "Doctor on the Edge",
+          "tmdb": {
+            "id": 287009,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Miraculous Chibi",
           "tmdb": {
             "id": 135531,
@@ -820,21 +837,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
             "media_type": "tv",
             "release_date": "2026-04-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Sofia the First: Royal Magic",
-          "tmdb": {
-            "id": 261647,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
           }
         },
         {
@@ -848,6 +856,24 @@
         },
         {
           "rank": 7,
+          "title": "Sofia the First: Royal Magic",
+          "tmdb": {
+            "id": 261647,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Bluey Minisodes",
+          "tmdb": {
+            "id": 256953,
+            "media_type": "tv",
+            "release_date": "2024-06-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Zootopia+",
           "tmdb": {
             "id": 114463,
@@ -856,40 +882,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Secrets of the Bees",
-          "tmdb": {
-            "id": 218274,
-            "media_type": "tv",
-            "release_date": "2026-03-31"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Marvel's The Punisher",
           "tmdb": {
             "id": 67178,
             "media_type": "tv",
             "release_date": "2017-11-17"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Bluey Minisodes",
-          "tmdb": {
-            "id": 256953,
-            "media_type": "tv",
-            "release_date": "2024-06-16"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Colombia on June 2, 2026",
+      "heading": "TOP Overall on Amazon Prime in Colombia on June 3, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -903,20 +911,20 @@
         },
         {
           "rank": 2,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Noir",
           "tmdb": {
             "id": 220102,
             "media_type": "tv",
             "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -930,15 +938,6 @@
         },
         {
           "rank": 5,
-          "title": "Despicable Me 4",
-          "tmdb": {
-            "id": 519182,
-            "media_type": "movie",
-            "release_date": "2024-06-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Pa' Quererte",
           "tmdb": {
             "id": 136228,
@@ -947,21 +946,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Boys",
+          "rank": 6,
+          "title": "Despicable Me 4",
           "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "La Ley del Corazón",
           "tmdb": {
             "id": 92369,
             "media_type": "tv",
             "release_date": "2016-11-28"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
           }
         },
         {
@@ -975,21 +983,21 @@
         },
         {
           "rank": 10,
-          "title": "La Ley del Corazón",
+          "title": "Tom Clancy's Jack Ryan: Ghost War",
           "tmdb": {
-            "id": 92369,
-            "media_type": "tv",
-            "release_date": "2016-11-28"
+            "id": 1380291,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Amazon Prime in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1030,20 +1038,20 @@
         },
         {
           "rank": 5,
-          "title": "Hotel Transylvania",
-          "tmdb": {
-            "id": 76492,
-            "media_type": "movie",
-            "release_date": "2012-09-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
             "media_type": "movie",
             "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Hotel Transylvania",
+          "tmdb": {
+            "id": 76492,
+            "media_type": "movie",
+            "release_date": "2012-09-20"
           }
         },
         {
@@ -1057,39 +1065,39 @@
         },
         {
           "rank": 8,
-          "title": "A Working Man",
+          "title": "Sing",
           "tmdb": {
-            "id": 1197306,
+            "id": 335797,
             "media_type": "movie",
-            "release_date": "2025-03-26"
+            "release_date": "2016-11-23"
           }
         },
         {
           "rank": 9,
-          "title": "Shrek",
-          "tmdb": {
-            "id": 808,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Keeper",
           "tmdb": {
             "id": 1288072,
             "media_type": "movie",
             "release_date": "2025-11-12"
           }
+        },
+        {
+          "rank": 10,
+          "title": "A Working Man",
+          "tmdb": {
+            "id": 1197306,
+            "media_type": "movie",
+            "release_date": "2025-03-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1103,20 +1111,20 @@
         },
         {
           "rank": 2,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Noir",
           "tmdb": {
             "id": 220102,
             "media_type": "tv",
             "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -1139,20 +1147,20 @@
         },
         {
           "rank": 6,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 7,
           "title": "La Ley del Corazón",
           "tmdb": {
             "id": 92369,
             "media_type": "tv",
             "release_date": "2016-11-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
           }
         },
         {
@@ -1186,10 +1194,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Paramount+ in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1212,11 +1220,11 @@
         },
         {
           "rank": 3,
-          "title": "Scream VI",
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 934433,
+            "id": 1273221,
             "media_type": "movie",
-            "release_date": "2023-03-08"
+            "release_date": "2026-06-03"
           }
         },
         {
@@ -1230,33 +1238,6 @@
         },
         {
           "rank": 5,
-          "title": "High Ground",
-          "tmdb": {
-            "id": 1433719,
-            "media_type": "movie",
-            "release_date": "2025-03-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Scary Movie",
-          "tmdb": {
-            "id": 1273221,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Acts of Violence",
-          "tmdb": {
-            "id": 479040,
-            "media_type": "movie",
-            "release_date": "2018-01-12"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Scary Movie 2",
           "tmdb": {
             "id": 4248,
@@ -1265,35 +1246,71 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Gladiator II",
+          "rank": 6,
+          "title": "Acts of Violence",
           "tmdb": {
-            "id": 558449,
+            "id": 479040,
             "media_type": "movie",
-            "release_date": "2024-11-13"
+            "release_date": "2018-01-12"
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "High Ground",
+          "tmdb": {
+            "id": 1433719,
+            "media_type": "movie",
+            "release_date": "2025-03-17"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Take Cover",
           "tmdb": {
             "id": 1094974,
             "media_type": "movie",
             "release_date": "2024-10-04"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Scary Movie 3",
+          "tmdb": {
+            "id": 4256,
+            "media_type": "movie",
+            "release_date": "2003-10-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Running Man",
+          "tmdb": {
+            "id": 798645,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -1302,21 +1319,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
             "media_type": "tv",
             "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
           }
         },
         {
@@ -1339,15 +1347,6 @@
         },
         {
           "rank": 6,
-          "title": "Landman",
-          "tmdb": {
-            "id": 157741,
-            "media_type": "tv",
-            "release_date": "2024-11-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Sabrina, the Teenage Witch",
           "tmdb": {
             "id": 605,
@@ -1356,12 +1355,21 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Blue Bloods",
           "tmdb": {
             "id": 32692,
             "media_type": "tv",
             "release_date": "2010-09-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Landman",
+          "tmdb": {
+            "id": 157741,
+            "media_type": "tv",
+            "release_date": "2024-11-17"
           }
         },
         {
@@ -1375,21 +1383,21 @@
         },
         {
           "rank": 10,
-          "title": "NCIS",
+          "title": "SpongeBob SquarePants",
           "tmdb": {
-            "id": 4614,
+            "id": 387,
             "media_type": "tv",
-            "release_date": "2003-09-23"
+            "release_date": "1999-05-01"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Apple TV in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1430,15 +1438,6 @@
         },
         {
           "rank": 5,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
@@ -1447,25 +1446,16 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
+        },
+        {
           "rank": 7,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Argylle",
-          "tmdb": {
-            "id": 848538,
-            "media_type": "movie",
-            "release_date": "2024-01-31"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -1474,22 +1464,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Argylle",
+          "tmdb": {
+            "id": 848538,
+            "media_type": "movie",
+            "release_date": "2024-01-31"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Apple TV in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1539,24 +1547,15 @@
         },
         {
           "rank": 6,
-          "title": "Shrinking",
+          "title": "Silo",
           "tmdb": {
-            "id": 136311,
+            "id": 125988,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2023-05-04"
           }
         },
         {
           "rank": 7,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1565,12 +1564,21 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Silo",
+          "rank": 8,
+          "title": "Ted Lasso",
           "tmdb": {
-            "id": 125988,
+            "id": 97546,
             "media_type": "tv",
-            "release_date": "2023-05-04"
+            "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
           }
         },
         {
@@ -1586,10 +1594,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Apple TV Store in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1621,15 +1629,24 @@
         },
         {
           "rank": 4,
-          "title": "The Housemaid",
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 1368166,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 5,
+          "title": "Interstellar",
+          "tmdb": {
+            "id": 157336,
+            "media_type": "movie",
+            "release_date": "2014-11-05"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Lee Cronin's The Mummy",
           "tmdb": {
             "id": 1304313,
@@ -1638,58 +1655,49 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
           "rank": 7,
-          "title": "We Bury the Dead",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 1198984,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2026-01-01"
+            "release_date": "2001-11-16"
           }
         },
         {
           "rank": 8,
-          "title": "Shelter",
+          "title": "The Housemaid",
           "tmdb": {
-            "id": 1290821,
+            "id": 1368166,
             "media_type": "movie",
-            "release_date": "2026-01-28"
+            "release_date": "2025-12-18"
           }
         },
         {
           "rank": 9,
-          "title": "Greenland 2: Migration",
-          "tmdb": {
-            "id": 840464,
-            "media_type": "movie",
-            "release_date": "2026-01-07"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Hamnet",
           "tmdb": {
             "id": 858024,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "We Bury the Dead",
+          "tmdb": {
+            "id": 1198984,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Colombia on June 2, 2026",
+      "heading": "TOP Movies on Claro Video in Colombia on June 3, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1786,10 +1794,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Colombia on June 2, 2026",
+      "heading": "TOP TV Shows on Claro Video in Colombia on June 3, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "June 2, 2026",
+      "date": "June 3, 2026",
       "title_count": 10,
       "entries": [
         {
