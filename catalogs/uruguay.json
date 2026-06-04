@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/uruguay/",
-  "page_title": "TOP 10 on Streaming in Uruguay on June 3, 2026",
+  "page_title": "TOP 10 on Streaming in Uruguay on June 4, 2026",
   "region": "uruguay",
-  "date": "June 3, 2026",
-  "scraped_at_utc": "2026-06-03T17:15:09.196539+00:00",
+  "date": "June 4, 2026",
+  "scraped_at_utc": "2026-06-04T16:34:32.343234+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on Netflix in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on Netflix in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on HBO Max in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -233,20 +233,20 @@
         },
         {
           "rank": 3,
+          "title": "The Dark Tower",
+          "tmdb": {
+            "id": 353491,
+            "media_type": "movie",
+            "release_date": "2017-08-03"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Forever Purge",
           "tmdb": {
             "id": 602223,
             "media_type": "movie",
             "release_date": "2021-06-30"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Crooked House",
-          "tmdb": {
-            "id": 419835,
-            "media_type": "movie",
-            "release_date": "2017-09-06"
           }
         },
         {
@@ -260,6 +260,15 @@
         },
         {
           "rank": 6,
+          "title": "The Assassination of Jesse James by the Coward Robert Ford",
+          "tmdb": {
+            "id": 4512,
+            "media_type": "movie",
+            "release_date": "2007-09-20"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Terrifier 3",
           "tmdb": {
             "id": 1034541,
@@ -268,40 +277,31 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Crooked House",
+          "tmdb": {
+            "id": 419835,
+            "media_type": "movie",
+            "release_date": "2017-09-06"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Pitch Black",
           "tmdb": {
             "id": 2787,
             "media_type": "movie",
             "release_date": "2000-02-18"
           }
-        },
-        {
-          "rank": 8,
-          "title": "The First Purge",
-          "tmdb": {
-            "id": 442249,
-            "media_type": "movie",
-            "release_date": "2018-07-04"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on HBO Max in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,24 +333,6 @@
         },
         {
           "rank": 4,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Regular Show: The Lost Tapes",
           "tmdb": {
             "id": 256695,
@@ -359,7 +341,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Bahar",
           "tmdb": {
             "id": 245914,
@@ -368,7 +350,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Half Man",
+          "tmdb": {
+            "id": 257994,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Medcezir",
+          "tmdb": {
+            "id": 61867,
+            "media_type": "tv",
+            "release_date": "2013-09-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Margarita: Make your story count",
           "tmdb": {
             "id": 245328,
@@ -377,40 +386,31 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Rick and Morty: The Anime",
           "tmdb": {
             "id": 202282,
             "media_type": "tv",
             "release_date": "2024-08-16"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Medcezir",
-          "tmdb": {
-            "id": 61867,
-            "media_type": "tv",
-            "release_date": "2013-09-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Uruguay on June 3, 2026",
+      "heading": "TOP Overall on Disney+ in Uruguay on June 4, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1439930,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2026-05-12"
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -424,6 +424,15 @@
         },
         {
           "rank": 3,
+          "title": "The Punisher: One Last Kill",
+          "tmdb": {
+            "id": 1439930,
+            "media_type": "movie",
+            "release_date": "2026-05-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Boss",
           "tmdb": {
             "id": 128306,
@@ -432,7 +441,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -441,21 +450,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
             "media_type": "movie",
             "release_date": "2019-06-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Doctor on the Edge",
-          "tmdb": {
-            "id": 287009,
-            "media_type": "tv",
-            "release_date": "2026-06-01"
           }
         },
         {
@@ -469,48 +469,48 @@
         },
         {
           "rank": 8,
-          "title": "Avengers: Endgame",
+          "title": "Doctor on the Edge",
           "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
+            "id": 287009,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
           }
         },
         {
           "rank": 9,
-          "title": "Homo Argentum",
-          "tmdb": {
-            "id": 1471345,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Homo Argentum",
+          "tmdb": {
+            "id": 1471345,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on Disney+ in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Punisher: One Last Kill",
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1439930,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2026-05-12"
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -524,6 +524,15 @@
         },
         {
           "rank": 3,
+          "title": "The Punisher: One Last Kill",
+          "tmdb": {
+            "id": 1439930,
+            "media_type": "movie",
+            "release_date": "2026-05-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -532,7 +541,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -541,25 +550,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Homo Argentum",
-          "tmdb": {
-            "id": 1471345,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -568,7 +559,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Homo Argentum",
+          "tmdb": {
+            "id": 1471345,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Finding Nemo",
           "tmdb": {
             "id": 12,
@@ -577,31 +586,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
             "media_type": "movie",
             "release_date": "2018-04-25"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Deadpool & Wolverine",
-          "tmdb": {
-            "id": 533535,
-            "media_type": "movie",
-            "release_date": "2024-07-24"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on Disney+ in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -624,60 +624,6 @@
         },
         {
           "rank": 3,
-          "title": "Nada",
-          "tmdb": {
-            "id": 201413,
-            "media_type": "tv",
-            "release_date": "2023-10-11"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Perfect Crown",
-          "tmdb": {
-            "id": 278573,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Marvel's The Punisher",
-          "tmdb": {
-            "id": 67178,
-            "media_type": "tv",
-            "release_date": "2017-11-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Dear Killer Nannies",
-          "tmdb": {
-            "id": 313721,
-            "media_type": "tv",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Malcolm in the Middle: Life's Still Unfair",
-          "tmdb": {
-            "id": 279471,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Sofia the First: Royal Magic",
-          "tmdb": {
-            "id": 261647,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Doctor on the Edge",
           "tmdb": {
             "id": 287009,
@@ -686,22 +632,76 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Bluey Minisodes",
+          "rank": 4,
+          "title": "Nada",
           "tmdb": {
-            "id": 256953,
+            "id": 201413,
             "media_type": "tv",
-            "release_date": "2024-06-16"
+            "release_date": "2023-10-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Perfect Crown",
+          "tmdb": {
+            "id": 278573,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Marvel's The Punisher",
+          "tmdb": {
+            "id": 67178,
+            "media_type": "tv",
+            "release_date": "2017-11-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Dear Killer Nannies",
+          "tmdb": {
+            "id": 313721,
+            "media_type": "tv",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Not Suitable for Work",
+          "tmdb": {
+            "id": 284725,
+            "media_type": "tv",
+            "release_date": "2026-06-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "tmdb": {
+            "id": 279471,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sofia the First: Royal Magic",
+          "tmdb": {
+            "id": 261647,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on Amazon Prime in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,15 +733,6 @@
         },
         {
           "rank": 4,
-          "title": "Crime 101",
-          "tmdb": {
-            "id": 1171145,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Cleaner",
           "tmdb": {
             "id": 1125899,
@@ -750,12 +741,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Agent Zeta",
+          "rank": 5,
+          "title": "Nahir",
           "tmdb": {
-            "id": 1314786,
+            "id": 1234783,
             "media_type": "movie",
-            "release_date": "2026-03-20"
+            "release_date": "2024-05-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Crime 101",
+          "tmdb": {
+            "id": 1171145,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -769,11 +769,11 @@
         },
         {
           "rank": 8,
-          "title": "Our Fault",
+          "title": "Agent Zeta",
           "tmdb": {
-            "id": 1156594,
+            "id": 1314786,
             "media_type": "movie",
-            "release_date": "2025-10-15"
+            "release_date": "2026-03-20"
           }
         },
         {
@@ -787,21 +787,21 @@
         },
         {
           "rank": 10,
-          "title": "Sidelined: The QB and Me",
+          "title": "Our Fault",
           "tmdb": {
-            "id": 957119,
+            "id": 1156594,
             "media_type": "movie",
-            "release_date": "2025-02-06"
+            "release_date": "2025-10-15"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -833,20 +833,20 @@
         },
         {
           "rank": 4,
-          "title": "Las Estrellas",
-          "tmdb": {
-            "id": 73812,
-            "media_type": "tv",
-            "release_date": "2017-05-29"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Educando a Nina",
           "tmdb": {
             "id": 68875,
             "media_type": "tv",
             "release_date": "2016-04-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Las Estrellas",
+          "tmdb": {
+            "id": 73812,
+            "media_type": "tv",
+            "release_date": "2017-05-29"
           }
         },
         {
@@ -898,10 +898,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on Paramount+ in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -951,11 +951,11 @@
         },
         {
           "rank": 6,
-          "title": "Acts of Violence",
+          "title": "Gladiator II",
           "tmdb": {
-            "id": 479040,
+            "id": 558449,
             "media_type": "movie",
-            "release_date": "2018-01-12"
+            "release_date": "2024-11-13"
           }
         },
         {
@@ -969,6 +969,15 @@
         },
         {
           "rank": 8,
+          "title": "Night Hunter",
+          "tmdb": {
+            "id": 441282,
+            "media_type": "movie",
+            "release_date": "2019-08-08"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Take Cover",
           "tmdb": {
             "id": 1094974,
@@ -977,44 +986,26 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Running Man",
-          "tmdb": {
-            "id": 798645,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Scary Movie 3",
+          "title": "Regretting You",
           "tmdb": {
-            "id": 4256,
+            "id": 1327862,
             "media_type": "movie",
-            "release_date": "2003-10-24"
+            "release_date": "2025-10-22"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -1023,21 +1014,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
             "media_type": "tv",
             "release_date": "1997-08-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Dutton Ranch",
+          "tmdb": {
+            "id": 299167,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -1051,11 +1051,11 @@
         },
         {
           "rank": 6,
-          "title": "Landman",
+          "title": "Sabrina, the Teenage Witch",
           "tmdb": {
-            "id": 157741,
+            "id": 605,
             "media_type": "tv",
-            "release_date": "2024-11-17"
+            "release_date": "1996-09-27"
           }
         },
         {
@@ -1069,39 +1069,39 @@
         },
         {
           "rank": 8,
-          "title": "Sabrina, the Teenage Witch",
+          "title": "Landman",
           "tmdb": {
-            "id": 605,
+            "id": 157741,
             "media_type": "tv",
-            "release_date": "1996-09-27"
+            "release_date": "2024-11-17"
           }
         },
         {
           "rank": 9,
-          "title": "NCIS",
-          "tmdb": {
-            "id": 4614,
-            "media_type": "tv",
-            "release_date": "2003-09-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Acapulco Shore",
           "tmdb": {
             "id": 66084,
             "media_type": "tv",
             "release_date": "2014-09-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "SpongeBob SquarePants",
+          "tmdb": {
+            "id": 387,
+            "media_type": "tv",
+            "release_date": "1999-05-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Uruguay on June 3, 2026",
+      "heading": "TOP Movies on Claro Video in Uruguay on June 4, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1198,10 +1198,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Uruguay on June 3, 2026",
+      "heading": "TOP TV Shows on Claro Video in Uruguay on June 4, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "June 3, 2026",
+      "date": "June 4, 2026",
       "title_count": 10,
       "entries": [
         {
