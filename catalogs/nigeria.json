@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/nigeria/",
-  "page_title": "TOP 10 on Streaming in Nigeria on June 4, 2026",
+  "page_title": "TOP 10 on Streaming in Nigeria on June 6, 2026",
   "region": "nigeria",
-  "date": "June 4, 2026",
-  "scraped_at_utc": "2026-06-04T16:34:02.063525+00:00",
+  "date": "June 6, 2026",
+  "scraped_at_utc": "2026-06-06T15:57:18.938280+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Nigeria on June 4, 2026",
+      "heading": "TOP Movies on Netflix in Nigeria on June 6, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 4, 2026",
+      "date": "June 6, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Office Romance",
+          "tmdb": {
+            "id": 1358005,
+            "media_type": "movie",
+            "release_date": "2026-06-04"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Killer",
           "tmdb": {
             "id": 800158,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Trap",
           "tmdb": {
             "id": 1032823,
@@ -32,30 +41,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Kara",
-          "tmdb": {
-            "id": 1433117,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
           "rank": 4,
-          "title": "GOAT",
-          "tmdb": {
-            "id": 1297842,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Gingerrr",
           "tmdb": {
             "id": 1553894,
             "media_type": "movie",
             "release_date": "2025-09-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
           }
         },
         {
@@ -69,29 +69,29 @@
         },
         {
           "rank": 7,
-          "title": "Ladies First",
+          "title": "Kara",
           "tmdb": {
-            "id": 1368881,
+            "id": 1433117,
             "media_type": "movie",
-            "release_date": "2026-05-21"
+            "release_date": "2026-04-30"
           }
         },
         {
           "rank": 8,
-          "title": "Apex",
+          "title": "The Meg",
           "tmdb": {
-            "id": 1318447,
+            "id": 345940,
             "media_type": "movie",
-            "release_date": "2026-04-24"
+            "release_date": "2018-08-09"
           }
         },
         {
           "rank": 9,
-          "title": "Mortal Kombat",
+          "title": "The Marked Woman",
           "tmdb": {
-            "id": 460465,
+            "id": 1274706,
             "media_type": "movie",
-            "release_date": "2021-04-07"
+            "release_date": "2026-06-05"
           }
         },
         {
@@ -107,23 +107,14 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Nigeria on June 4, 2026",
+      "heading": "TOP TV Shows on Netflix in Nigeria on June 6, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 4, 2026",
+      "date": "June 6, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Nemesis",
-          "tmdb": {
-            "id": 285807,
-            "media_type": "tv",
-            "release_date": "2026-05-14"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Blood Sisters",
           "tmdb": {
             "id": 197428,
@@ -132,34 +123,34 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The WONDERfools",
+          "rank": 2,
+          "title": "Nemesis",
           "tmdb": {
-            "id": 259837,
+            "id": 285807,
             "media_type": "tv",
-            "release_date": "2026-05-15"
+            "release_date": "2026-05-14"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Witness",
+          "tmdb": {
+            "id": 280511,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
           }
         },
         {
           "rank": 4,
-          "title": "Ashes to Crown",
+          "title": "Michael Jackson: The Verdict",
           "tmdb": {
-            "id": 289271,
+            "id": 323111,
             "media_type": "tv",
-            "release_date": "2026-06-02"
+            "release_date": "2026-06-03"
           }
         },
         {
           "rank": 5,
-          "title": "Man on Fire",
-          "tmdb": {
-            "id": 223386,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 6,
           "title": "My Royal Nemesis",
           "tmdb": {
             "id": 303143,
@@ -168,49 +159,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The WONDERfools",
+          "tmdb": {
+            "id": 259837,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Man on Fire",
+          "tmdb": {
+            "id": 223386,
+            "media_type": "tv",
+            "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Teach You a Lesson",
+          "tmdb": {
+            "id": 276161,
+            "media_type": "tv",
+            "release_date": "2026-06-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Ashes to Crown",
+          "tmdb": {
+            "id": 289271,
+            "media_type": "tv",
+            "release_date": "2026-06-02"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Berlin and the Lady with an Ermine",
           "tmdb": {
             "id": 308014,
             "media_type": "tv",
             "release_date": "2026-05-15"
           }
-        },
-        {
-          "rank": 8,
-          "title": "The Cleaning Lady",
-          "tmdb": {
-            "id": 125282,
-            "media_type": "tv",
-            "release_date": "2022-01-03"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "S.W.A.T.",
-          "tmdb": {
-            "id": 71790,
-            "media_type": "tv",
-            "release_date": "2017-11-02"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Lawmen: Bass Reeves",
-          "tmdb": {
-            "id": 157732,
-            "media_type": "tv",
-            "release_date": "2023-11-05"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Nigeria on June 4, 2026",
+      "heading": "TOP Movies on Amazon Prime in Nigeria on June 6, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 4, 2026",
+      "date": "June 6, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -251,15 +251,6 @@
         },
         {
           "rank": 5,
-          "title": "Mafianado",
-          "tmdb": {
-            "id": 1545729,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Pretty Lethal",
           "tmdb": {
             "id": 1084187,
@@ -268,25 +259,16 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Pickup",
+          "tmdb": {
+            "id": 1106289,
+            "media_type": "movie",
+            "release_date": "2025-07-27"
+          }
+        },
+        {
           "rank": 7,
-          "title": "Sirona",
-          "tmdb": {
-            "id": 1156695,
-            "media_type": "movie",
-            "release_date": "2023-09-05"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Dirty Angels",
-          "tmdb": {
-            "id": 1043905,
-            "media_type": "movie",
-            "release_date": "2024-12-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Wrecking Crew",
           "tmdb": {
             "id": 1168190,
@@ -295,22 +277,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "A Working Man",
+          "rank": 8,
+          "title": "Sirona",
           "tmdb": {
-            "id": 1197306,
+            "id": 1156695,
             "media_type": "movie",
-            "release_date": "2025-03-26"
+            "release_date": "2023-09-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Dirty Angels",
+          "tmdb": {
+            "id": 1043905,
+            "media_type": "movie",
+            "release_date": "2024-12-11"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Agent Zeta",
+          "tmdb": {
+            "id": 1314786,
+            "media_type": "movie",
+            "release_date": "2026-03-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Nigeria on June 4, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Nigeria on June 6, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 4, 2026",
+      "date": "June 6, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,20 +342,20 @@
         },
         {
           "rank": 4,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Legend of Vox Machina",
           "tmdb": {
             "id": 135934,
             "media_type": "tv",
             "release_date": "2022-01-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
           }
         },
         {
@@ -387,20 +387,20 @@
         },
         {
           "rank": 9,
-          "title": "It's Not Like That",
-          "tmdb": {
-            "id": 308402,
-            "media_type": "tv",
-            "release_date": "2026-01-25"
-          }
-        },
-        {
-          "rank": 10,
           "title": "56 Days",
           "tmdb": {
             "id": 241372,
             "media_type": "tv",
             "release_date": "2026-02-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "It's Not Like That",
+          "tmdb": {
+            "id": 308402,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
           }
         }
       ]
