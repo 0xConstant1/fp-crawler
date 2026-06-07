@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/paraguay/",
-  "page_title": "TOP 10 on Streaming in Paraguay on June 6, 2026",
+  "page_title": "TOP 10 on Streaming in Paraguay on June 7, 2026",
   "region": "paraguay",
-  "date": "June 6, 2026",
-  "scraped_at_utc": "2026-06-06T15:57:19.581430+00:00",
+  "date": "June 7, 2026",
+  "scraped_at_utc": "2026-06-07T15:58:17.140477+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Netflix in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,6 +24,15 @@
         },
         {
           "rank": 2,
+          "title": "The Marked Woman",
+          "tmdb": {
+            "id": 1274706,
+            "media_type": "movie",
+            "release_date": "2026-06-05"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Creed III",
           "tmdb": {
             "id": 677179,
@@ -32,21 +41,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Rango",
           "tmdb": {
             "id": 44896,
             "media_type": "movie",
             "release_date": "2011-03-02"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
           }
         },
         {
@@ -60,20 +60,20 @@
         },
         {
           "rank": 6,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Babysitter",
           "tmdb": {
             "id": 419479,
             "media_type": "movie",
             "release_date": "2017-10-13"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Marked Woman",
-          "tmdb": {
-            "id": 1274706,
-            "media_type": "movie",
-            "release_date": "2026-06-05"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
-          "title": "Insidious: The Red Door",
-          "tmdb": {
-            "id": 614479,
-            "media_type": "movie",
-            "release_date": "2023-07-05"
-          }
-        },
-        {
-          "rank": 10,
           "title": "San Andreas",
           "tmdb": {
             "id": 254128,
             "media_type": "movie",
             "release_date": "2015-05-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Risa and the Wind Phone",
+          "tmdb": {
+            "id": 1426451,
+            "media_type": "movie",
+            "release_date": "2026-04-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Netflix in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,15 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "My Royal Nemesis",
-          "tmdb": {
-            "id": 303143,
-            "media_type": "tv",
-            "release_date": "2026-05-08"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Teach You a Lesson",
           "tmdb": {
             "id": 276161,
@@ -150,16 +141,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Handmaid's Tale",
+          "rank": 4,
+          "title": "My Royal Nemesis",
           "tmdb": {
-            "id": 69478,
+            "id": 303143,
             "media_type": "tv",
-            "release_date": "2017-04-26"
+            "release_date": "2026-05-08"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Rafa",
           "tmdb": {
             "id": 279884,
@@ -168,21 +159,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Lawmen: Bass Reeves",
-          "tmdb": {
-            "id": 157732,
-            "media_type": "tv",
-            "release_date": "2023-11-05"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Berlin and the Lady with an Ermine",
           "tmdb": {
             "id": 308014,
             "media_type": "tv",
             "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Handmaid's Tale",
+          "tmdb": {
+            "id": 69478,
+            "media_type": "tv",
+            "release_date": "2017-04-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Lawmen: Bass Reeves",
+          "tmdb": {
+            "id": 157732,
+            "media_type": "tv",
+            "release_date": "2023-11-05"
           }
         },
         {
@@ -196,21 +196,34 @@
         },
         {
           "rank": 10,
-          "title": "WWE SmackDown",
-          "tmdb": null
+          "title": "Nemesis",
+          "tmdb": {
+            "id": 285807,
+            "media_type": "tv",
+            "release_date": "2026-05-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on HBO Max in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 9,
       "entries": [
         {
           "rank": 1,
+          "title": "The Whisper",
+          "tmdb": {
+            "id": 1534530,
+            "media_type": "movie",
+            "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 2,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -219,21 +232,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Black Phone 2",
           "tmdb": {
             "id": 1197137,
             "media_type": "movie",
             "release_date": "2025-10-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Escape From Pretoria",
-          "tmdb": {
-            "id": 502425,
-            "media_type": "movie",
-            "release_date": "2020-03-06"
           }
         },
         {
@@ -247,6 +251,24 @@
         },
         {
           "rank": 5,
+          "title": "My Mother's Wedding",
+          "tmdb": {
+            "id": 985602,
+            "media_type": "movie",
+            "release_date": "2025-08-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Escape From Pretoria",
+          "tmdb": {
+            "id": 502425,
+            "media_type": "movie",
+            "release_date": "2020-03-06"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Forever Purge",
           "tmdb": {
             "id": 602223,
@@ -255,16 +277,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Bride!",
-          "tmdb": {
-            "id": 1159831,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Terrifier 3",
           "tmdb": {
             "id": 1034541,
@@ -273,31 +286,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Crooked House",
-          "tmdb": {
-            "id": 419835,
-            "media_type": "movie",
-            "release_date": "2017-09-06"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Pitch Black",
+          "title": "Blue Moon",
           "tmdb": {
-            "id": 2787,
+            "id": 1299655,
             "media_type": "movie",
-            "release_date": "2000-02-18"
+            "release_date": "2025-10-17"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on HBO Max in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -338,24 +342,6 @@
         },
         {
           "rank": 5,
-          "title": "Bahar",
-          "tmdb": {
-            "id": 245914,
-            "media_type": "tv",
-            "release_date": "2024-02-13"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Medcezir",
           "tmdb": {
             "id": 61867,
@@ -364,7 +350,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Bahar",
+          "tmdb": {
+            "id": 245914,
+            "media_type": "tv",
+            "release_date": "2024-02-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Regular Show: The Lost Tapes",
           "tmdb": {
             "id": 256695,
@@ -373,31 +368,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Naked and Afraid: Global Showdown",
+          "rank": 8,
+          "title": "Half Man",
           "tmdb": {
-            "id": 322536,
+            "id": 257994,
             "media_type": "tv",
-            "release_date": "2026-05-17"
+            "release_date": "2026-04-28"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Margarita: Make your story count",
           "tmdb": {
             "id": 245328,
             "media_type": "tv",
             "release_date": "2024-09-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Naked and Afraid: Global Showdown",
+          "tmdb": {
+            "id": 322536,
+            "media_type": "tv",
+            "release_date": "2026-05-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Paraguay on June 6, 2026",
+      "heading": "TOP Overall on Disney+ in Paraguay on June 7, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -438,6 +442,24 @@
         },
         {
           "rank": 5,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Toy Story 4",
+          "tmdb": {
+            "id": 301528,
+            "media_type": "movie",
+            "release_date": "2019-06-19"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Boss",
           "tmdb": {
             "id": 128306,
@@ -446,16 +468,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Toy Story 4",
-          "tmdb": {
-            "id": 301528,
-            "media_type": "movie",
-            "release_date": "2019-06-19"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -464,7 +477,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -473,31 +486,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
             "media_type": "movie",
             "release_date": "2006-06-29"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Inside Out 2",
-          "tmdb": {
-            "id": 1022789,
-            "media_type": "movie",
-            "release_date": "2024-06-11"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Disney+ in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,6 +542,15 @@
         },
         {
           "rank": 5,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -546,7 +559,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -555,21 +568,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
             "media_type": "movie",
             "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Inside Out 2",
-          "tmdb": {
-            "id": 1022789,
-            "media_type": "movie",
-            "release_date": "2024-06-11"
           }
         },
         {
@@ -583,21 +587,21 @@
         },
         {
           "rank": 10,
-          "title": "Predator: Badlands",
+          "title": "Inside Out 2",
           "tmdb": {
-            "id": 1242898,
+            "id": 1022789,
             "media_type": "movie",
-            "release_date": "2025-11-05"
+            "release_date": "2024-06-11"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Disney+ in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,24 +642,15 @@
         },
         {
           "rank": 5,
-          "title": "Perfect Crown",
+          "title": "The Nameless",
           "tmdb": {
-            "id": 278573,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
+            "id": 9439,
+            "media_type": "movie",
+            "release_date": "1999-10-08"
           }
         },
         {
           "rank": 6,
-          "title": "Doctor on the Edge",
-          "tmdb": {
-            "id": 287009,
-            "media_type": "tv",
-            "release_date": "2026-06-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "We'll Be Fine",
           "tmdb": {
             "id": 314172,
@@ -664,16 +659,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Marvel's The Punisher",
+          "rank": 7,
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 67178,
+            "id": 278573,
             "media_type": "tv",
-            "release_date": "2017-11-17"
+            "release_date": "2026-04-10"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
@@ -682,22 +677,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Dear Killer Nannies",
           "tmdb": {
             "id": 313721,
             "media_type": "tv",
             "release_date": "2026-04-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Doctor on the Edge",
+          "tmdb": {
+            "id": 287009,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Amazon Prime in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -794,10 +798,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -856,24 +860,15 @@
         },
         {
           "rank": 7,
-          "title": "INVINCIBLE",
+          "title": "Matka King",
           "tmdb": {
-            "id": 95557,
+            "id": 249765,
             "media_type": "tv",
-            "release_date": "2021-03-25"
+            "release_date": "2026-04-17"
           }
         },
         {
           "rank": 8,
-          "title": "Maradona: Blessed Dream",
-          "tmdb": {
-            "id": 113901,
-            "media_type": "tv",
-            "release_date": "2021-10-29"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The House of the Spirits",
           "tmdb": {
             "id": 259702,
@@ -882,22 +877,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Las de siempre",
+          "rank": 9,
+          "title": "INVINCIBLE",
           "tmdb": {
-            "id": 310954,
+            "id": 95557,
             "media_type": "tv",
-            "release_date": "2026-01-12"
+            "release_date": "2021-03-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Maxton Hall - The World Between Us",
+          "tmdb": {
+            "id": 250670,
+            "media_type": "tv",
+            "release_date": "2024-05-09"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Paramount+ in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -938,15 +942,6 @@
         },
         {
           "rank": 5,
-          "title": "World War Z",
-          "tmdb": {
-            "id": 72190,
-            "media_type": "movie",
-            "release_date": "2013-06-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Scary Movie 3",
           "tmdb": {
             "id": 4256,
@@ -955,12 +950,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Night Hunter",
+          "rank": 6,
+          "title": "World War Z",
           "tmdb": {
-            "id": 441282,
+            "id": 72190,
             "media_type": "movie",
-            "release_date": "2019-08-08"
+            "release_date": "2013-06-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Gladiator II",
+          "tmdb": {
+            "id": 558449,
+            "media_type": "movie",
+            "release_date": "2024-11-13"
           }
         },
         {
@@ -983,21 +987,21 @@
         },
         {
           "rank": 10,
-          "title": "Gladiator II",
+          "title": "Regretting You",
           "tmdb": {
-            "id": 558449,
+            "id": 1327862,
             "media_type": "movie",
-            "release_date": "2024-11-13"
+            "release_date": "2025-10-22"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1011,12 +1015,8 @@
         },
         {
           "rank": 2,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
+          "title": "UFC Fight Night",
+          "tmdb": null
         },
         {
           "rank": 3,
@@ -1029,6 +1029,15 @@
         },
         {
           "rank": 4,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1037,43 +1046,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Tulsa King",
-          "tmdb": {
-            "id": 153312,
-            "media_type": "tv",
-            "release_date": "2022-11-13"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Landman",
-          "tmdb": {
-            "id": 157741,
-            "media_type": "tv",
-            "release_date": "2024-11-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Sabrina, the Teenage Witch",
-          "tmdb": {
-            "id": 605,
-            "media_type": "tv",
-            "release_date": "1996-09-27"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Blue Bloods",
-          "tmdb": {
-            "id": 32692,
-            "media_type": "tv",
-            "release_date": "2010-09-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Among Us",
           "tmdb": {
             "id": 229544,
@@ -1082,22 +1055,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "NCIS",
+          "rank": 7,
+          "title": "Tulsa King",
           "tmdb": {
-            "id": 4614,
+            "id": 153312,
             "media_type": "tv",
-            "release_date": "2003-09-23"
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Landman",
+          "tmdb": {
+            "id": 157741,
+            "media_type": "tv",
+            "release_date": "2024-11-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Sabrina, the Teenage Witch",
+          "tmdb": {
+            "id": 605,
+            "media_type": "tv",
+            "release_date": "1996-09-27"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Blue Bloods",
+          "tmdb": {
+            "id": 32692,
+            "media_type": "tv",
+            "release_date": "2010-09-24"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Apple TV in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1120,15 +1120,6 @@
         },
         {
           "rank": 3,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Emancipation",
           "tmdb": {
             "id": 715931,
@@ -1137,43 +1128,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Argylle",
-          "tmdb": {
-            "id": 848538,
-            "media_type": "movie",
-            "release_date": "2024-01-31"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Killers of the Flower Moon",
-          "tmdb": {
-            "id": 466420,
-            "media_type": "movie",
-            "release_date": "2023-10-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Lost Bus",
-          "tmdb": {
-            "id": 1236470,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1182,22 +1146,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Ghosted",
+          "rank": 6,
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 868759,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "2023-04-18"
+            "release_date": "2023-10-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Lost Bus",
+          "tmdb": {
+            "id": 1236470,
+            "media_type": "movie",
+            "release_date": "2025-09-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Finch",
+          "tmdb": {
+            "id": 522402,
+            "media_type": "movie",
+            "release_date": "2021-11-04"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Argylle",
+          "tmdb": {
+            "id": 848538,
+            "media_type": "movie",
+            "release_date": "2024-01-31"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Apple TV in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1211,15 +1211,6 @@
         },
         {
           "rank": 2,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Cape Fear",
           "tmdb": {
             "id": 277439,
@@ -1228,7 +1219,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
           "rank": 4,
+          "title": "For All Mankind",
+          "tmdb": {
+            "id": 87917,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1237,21 +1246,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Margo's Got Money Troubles",
           "tmdb": {
             "id": 245318,
             "media_type": "tv",
             "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
           }
         },
         {
@@ -1274,43 +1274,34 @@
         },
         {
           "rank": 9,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Severance",
+          "tmdb": {
+            "id": 95396,
+            "media_type": "tv",
+            "release_date": "2022-02-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Apple TV Store in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Scary Movie",
-          "tmdb": {
-            "id": 1273221,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Lee Cronin's The Mummy",
           "tmdb": {
             "id": 1304313,
@@ -1319,16 +1310,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Dracula",
+          "rank": 2,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
           "tmdb": {
-            "id": 1246049,
+            "id": 120,
             "media_type": "movie",
-            "release_date": "2025-07-30"
+            "release_date": "2001-12-18"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
@@ -1337,67 +1328,76 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "rank": 4,
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 671,
+            "id": 1273221,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Prisoners",
+          "tmdb": {
+            "id": 146233,
+            "media_type": "movie",
+            "release_date": "2013-09-19"
           }
         },
         {
           "rank": 6,
-          "title": "Eyes Wide Shut",
+          "title": "Exhuma",
           "tmdb": {
-            "id": 345,
+            "id": 838209,
             "media_type": "movie",
-            "release_date": "1999-07-16"
+            "release_date": "2024-02-22"
           }
         },
         {
           "rank": 7,
-          "title": "Resident Evil: Degeneration",
+          "title": "Hacksaw Ridge",
           "tmdb": {
-            "id": 13648,
+            "id": 324786,
             "media_type": "movie",
-            "release_date": "2008-02-13"
+            "release_date": "2016-10-07"
           }
         },
         {
           "rank": 8,
-          "title": "The Super Mario Galaxy Movie",
+          "title": "Infinite",
           "tmdb": {
-            "id": 1226863,
+            "id": 581726,
             "media_type": "movie",
-            "release_date": "2026-04-01"
+            "release_date": "2021-09-09"
           }
         },
         {
           "rank": 9,
-          "title": "Hell House LLC Origins: The Carmichael Manor",
+          "title": "Cape Fear",
           "tmdb": {
-            "id": 1035982,
+            "id": 1598,
             "media_type": "movie",
-            "release_date": "2023-10-24"
+            "release_date": "1991-11-13"
           }
         },
         {
           "rank": 10,
-          "title": "The Housemaid",
+          "title": "Call Me by Your Name",
           "tmdb": {
-            "id": 1368166,
+            "id": 398818,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2017-10-01"
           }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Paraguay on June 6, 2026",
+      "heading": "TOP Movies on Claro Video in Paraguay on June 7, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1494,10 +1494,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Paraguay on June 6, 2026",
+      "heading": "TOP TV Shows on Claro Video in Paraguay on June 7, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "June 6, 2026",
+      "date": "June 7, 2026",
       "title_count": 10,
       "entries": [
         {
