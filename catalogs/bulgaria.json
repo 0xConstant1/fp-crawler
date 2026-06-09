@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/bulgaria/",
-  "page_title": "TOP 10 on Streaming in Bulgaria on June 8, 2026",
+  "page_title": "TOP 10 on Streaming in Bulgaria on June 9, 2026",
   "region": "bulgaria",
-  "date": "June 8, 2026",
-  "scraped_at_utc": "2026-06-08T16:48:14.282476+00:00",
+  "date": "June 9, 2026",
+  "scraped_at_utc": "2026-06-09T16:23:11.015531+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Netflix in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,6 +24,15 @@
         },
         {
           "rank": 2,
+          "title": "Mortal Kombat",
+          "tmdb": {
+            "id": 460465,
+            "media_type": "movie",
+            "release_date": "2021-04-07"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Marked Woman",
           "tmdb": {
             "id": 1274706,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -41,25 +50,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Gladiator II",
-          "tmdb": {
-            "id": 558449,
-            "media_type": "movie",
-            "release_date": "2024-11-13"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Apex",
-          "tmdb": {
-            "id": 1318447,
-            "media_type": "movie",
-            "release_date": "2026-04-24"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Murder of Rachel Nickell",
           "tmdb": {
             "id": 1693002,
@@ -68,7 +59,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Ghosts of Girlfriends Past",
+          "tmdb": {
+            "id": 12556,
+            "media_type": "movie",
+            "release_date": "2009-05-01"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Apex",
+          "tmdb": {
+            "id": 1318447,
+            "media_type": "movie",
+            "release_date": "2026-04-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Gladiator II",
+          "tmdb": {
+            "id": 558449,
+            "media_type": "movie",
+            "release_date": "2024-11-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Alto Knights",
           "tmdb": {
             "id": 1013601,
@@ -77,40 +95,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
             "media_type": "movie",
             "release_date": "2024-06-20"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Kraven the Hunter",
-          "tmdb": {
-            "id": 539972,
-            "media_type": "movie",
-            "release_date": "2024-12-11"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on Netflix in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,11 +133,11 @@
         },
         {
           "rank": 3,
-          "title": "The Boroughs",
+          "title": "Raw",
           "tmdb": {
-            "id": 224941,
+            "id": 4656,
             "media_type": "tv",
-            "release_date": "2026-05-21"
+            "release_date": "1993-01-11"
           }
         },
         {
@@ -160,6 +160,15 @@
         },
         {
           "rank": 6,
+          "title": "The Boroughs",
+          "tmdb": {
+            "id": 224941,
+            "media_type": "tv",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Four Seasons",
           "tmdb": {
             "id": 243316,
@@ -168,7 +177,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "A Good Girl's Guide to Murder",
           "tmdb": {
             "id": 218342,
@@ -177,7 +186,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Rafa",
           "tmdb": {
             "id": 279884,
@@ -186,31 +195,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Everwood",
           "tmdb": {
             "id": 1950,
             "media_type": "tv",
             "release_date": "2002-09-16"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Nemesis",
-          "tmdb": {
-            "id": 285807,
-            "media_type": "tv",
-            "release_date": "2026-05-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on HBO Max in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,20 +233,20 @@
         },
         {
           "rank": 3,
-          "title": "A Complete Unknown",
-          "tmdb": {
-            "id": 661539,
-            "media_type": "movie",
-            "release_date": "2024-12-25"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Horton Hears a Who!",
           "tmdb": {
             "id": 12222,
             "media_type": "movie",
             "release_date": "2008-03-03"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "A Complete Unknown",
+          "tmdb": {
+            "id": 661539,
+            "media_type": "movie",
+            "release_date": "2024-12-25"
           }
         },
         {
@@ -287,30 +287,30 @@
         },
         {
           "rank": 9,
-          "title": "Victor Frankenstein",
-          "tmdb": {
-            "id": 228066,
-            "media_type": "movie",
-            "release_date": "2015-11-10"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Guess Who",
           "tmdb": {
             "id": 11638,
             "media_type": "movie",
             "release_date": "2005-03-25"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Victor Frankenstein",
+          "tmdb": {
+            "id": 228066,
+            "media_type": "movie",
+            "release_date": "2015-11-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on HBO Max in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,33 +324,6 @@
         },
         {
           "rank": 2,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Bébés Lemmings",
-          "tmdb": {
-            "id": 323694,
-            "media_type": "tv",
-            "release_date": "2026-01-01"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Miniature Wife",
-          "tmdb": {
-            "id": 250220,
-            "media_type": "tv",
-            "release_date": "2026-04-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Rick and Morty",
           "tmdb": {
             "id": 60625,
@@ -359,12 +332,39 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Doc",
+          "rank": 3,
+          "title": "Euphoria",
           "tmdb": {
-            "id": 10042,
+            "id": 85552,
             "media_type": "tv",
-            "release_date": "2001-03-11"
+            "release_date": "2019-06-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Bébés Lemmings",
+          "tmdb": {
+            "id": 323694,
+            "media_type": "tv",
+            "release_date": "2026-01-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Miniature Wife",
+          "tmdb": {
+            "id": 250220,
+            "media_type": "tv",
+            "release_date": "2026-04-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Other Bennet Sister",
+          "tmdb": {
+            "id": 273866,
+            "media_type": "tv",
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -378,6 +378,15 @@
         },
         {
           "rank": 8,
+          "title": "Doc",
+          "tmdb": {
+            "id": 10042,
+            "media_type": "tv",
+            "release_date": "2001-03-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Half Man",
           "tmdb": {
             "id": 257994,
@@ -386,32 +395,23 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Other Bennet Sister",
-          "tmdb": {
-            "id": 273866,
-            "media_type": "tv",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Topurias",
+          "title": "Last Week Tonight with John Oliver",
           "tmdb": {
-            "id": 323979,
+            "id": 60694,
             "media_type": "tv",
-            "release_date": "2026-06-05"
+            "release_date": "2014-04-27"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Bulgaria on June 8, 2026",
+      "heading": "TOP Overall on Disney+ in Bulgaria on June 9, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 8, 2026",
-      "title_count": 10,
+      "date": "June 9, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
@@ -469,15 +469,6 @@
         },
         {
           "rank": 7,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Perfect Crown",
           "tmdb": {
             "id": 278573,
@@ -486,7 +477,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -495,23 +486,23 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Mary Queen of Scots",
+          "rank": 9,
+          "title": "The Devil Wears Prada",
           "tmdb": {
-            "id": 457136,
+            "id": 350,
             "media_type": "movie",
-            "release_date": "2018-12-07"
+            "release_date": "2006-06-29"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Disney+ in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 8, 2026",
-      "title_count": 10,
+      "date": "June 9, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
@@ -578,39 +569,30 @@
         },
         {
           "rank": 8,
-          "title": "The Equalizer",
-          "tmdb": {
-            "id": 156022,
-            "media_type": "movie",
-            "release_date": "2014-09-24"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-          "tmdb": {
-            "id": 22,
-            "media_type": "movie",
-            "release_date": "2003-07-09"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
             "media_type": "movie",
             "release_date": "1995-11-22"
           }
+        },
+        {
+          "rank": 9,
+          "title": "The Equalizer",
+          "tmdb": {
+            "id": 156022,
+            "media_type": "movie",
+            "release_date": "2014-09-24"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on Disney+ in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -642,6 +624,15 @@
         },
         {
           "rank": 4,
+          "title": "Alice and Steve",
+          "tmdb": {
+            "id": 318203,
+            "media_type": "tv",
+            "release_date": "2026-06-08"
+          }
+        },
+        {
+          "rank": 5,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
@@ -650,7 +641,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "Best of the World with Antoni Porowski",
+          "tmdb": {
+            "id": 323039,
+            "media_type": "tv",
+            "release_date": "2026-06-07"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Star Wars: Maul - Shadow Lord",
           "tmdb": {
             "id": 289219,
@@ -659,30 +659,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Rivals",
           "tmdb": {
             "id": 208921,
             "media_type": "tv",
             "release_date": "2024-10-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Love Story",
-          "tmdb": {
-            "id": 131142,
-            "media_type": "tv",
-            "release_date": "2026-02-12"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Marvel's The Punisher",
-          "tmdb": {
-            "id": 67178,
-            "media_type": "tv",
-            "release_date": "2017-11-17"
           }
         },
         {
@@ -696,30 +678,30 @@
         },
         {
           "rank": 10,
-          "title": "Paradise",
+          "title": "Desperate Housewives",
           "tmdb": {
-            "id": 245927,
+            "id": 693,
             "media_type": "tv",
-            "release_date": "2025-01-26"
+            "release_date": "2004-10-03"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Apple TV in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Propeller One-Way Night Coach",
+          "title": "F1",
           "tmdb": {
-            "id": 1662414,
+            "id": 911430,
             "media_type": "movie",
-            "release_date": "2026-05-15"
+            "release_date": "2025-06-25"
           }
         },
         {
@@ -733,33 +715,15 @@
         },
         {
           "rank": 3,
-          "title": "F1",
+          "title": "Propeller One-Way Night Coach",
           "tmdb": {
-            "id": 911430,
+            "id": 1662414,
             "media_type": "movie",
-            "release_date": "2025-06-25"
+            "release_date": "2026-05-15"
           }
         },
         {
           "rank": 4,
-          "title": "Sharper",
-          "tmdb": {
-            "id": 717980,
-            "media_type": "movie",
-            "release_date": "2023-02-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
@@ -768,21 +732,39 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Sharper",
+          "tmdb": {
+            "id": 717980,
+            "media_type": "movie",
+            "release_date": "2023-02-10"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
             "media_type": "movie",
             "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-          "tmdb": {
-            "id": 1693346,
-            "media_type": "movie",
-            "release_date": "2026-05-14"
           }
         },
         {
@@ -796,21 +778,21 @@
         },
         {
           "rank": 10,
-          "title": "The Gorge",
+          "title": "Luck",
           "tmdb": {
-            "id": 950396,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on Apple TV in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -842,20 +824,20 @@
         },
         {
           "rank": 4,
-          "title": "Star City",
-          "tmdb": {
-            "id": 252107,
-            "media_type": "tv",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 5,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -878,15 +860,6 @@
         },
         {
           "rank": 8,
-          "title": "Unconditional",
-          "tmdb": {
-            "id": 314916,
-            "media_type": "tv",
-            "release_date": "2026-04-27"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -895,22 +868,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Shrinking",
+          "rank": 9,
+          "title": "Unconditional",
           "tmdb": {
-            "id": 136311,
+            "id": 314916,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2026-04-27"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Morning Show",
+          "tmdb": {
+            "id": 90282,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Apple TV Store in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -933,15 +915,6 @@
         },
         {
           "rank": 3,
-          "title": "GOAT",
-          "tmdb": {
-            "id": 1297842,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Skyfall",
           "tmdb": {
             "id": 37724,
@@ -950,25 +923,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Casino Royale",
-          "tmdb": {
-            "id": 36557,
-            "media_type": "movie",
-            "release_date": "2006-11-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Godfather",
-          "tmdb": {
-            "id": 238,
-            "media_type": "movie",
-            "release_date": "1972-03-14"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "title": "The Godfather: Part II",
           "tmdb": {
             "id": 240,
@@ -977,40 +932,67 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Jupiter Ascending",
+          "rank": 5,
+          "title": "GOAT",
           "tmdb": {
-            "id": 76757,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2015-02-04"
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Inside Out 2",
+          "tmdb": {
+            "id": 1022789,
+            "media_type": "movie",
+            "release_date": "2024-06-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Equalizer 3",
+          "tmdb": {
+            "id": 926393,
+            "media_type": "movie",
+            "release_date": "2023-08-30"
           }
         },
         {
           "rank": 9,
-          "title": "Space Jam: A New Legacy",
+          "title": "Sex and the City",
           "tmdb": {
-            "id": 379686,
+            "id": 4564,
             "media_type": "movie",
-            "release_date": "2021-07-08"
+            "release_date": "2008-05-12"
           }
         },
         {
           "rank": 10,
-          "title": "Godzilla x Kong: The New Empire",
+          "title": "The Equalizer 2",
           "tmdb": {
-            "id": 823464,
+            "id": 345887,
             "media_type": "movie",
-            "release_date": "2024-03-27"
+            "release_date": "2018-07-19"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Rakuten TV in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1107,10 +1089,10 @@
     },
     {
       "catalog_id": "voyo.movies",
-      "heading": "TOP Movies on Voyo in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on Voyo in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "Voyo",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1207,10 +1189,10 @@
     },
     {
       "catalog_id": "voyo.series",
-      "heading": "TOP TV Shows on Voyo in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on Voyo in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "Voyo",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1307,10 +1289,10 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Bulgaria on June 8, 2026",
+      "heading": "TOP Movies on SkyShowtime in Bulgaria on June 9, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1324,15 +1306,6 @@
         },
         {
           "rank": 2,
-          "title": "Downton Abbey: The Grand Finale",
-          "tmdb": {
-            "id": 1289936,
-            "media_type": "movie",
-            "release_date": "2025-09-10"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Rumble",
           "tmdb": {
             "id": 598331,
@@ -1341,7 +1314,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
@@ -1350,12 +1323,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Gabby's Dollhouse: The Movie",
+          "rank": 4,
+          "title": "Downton Abbey: The Grand Finale",
           "tmdb": {
-            "id": 1280282,
+            "id": 1289936,
             "media_type": "movie",
-            "release_date": "2025-09-13"
+            "release_date": "2025-09-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Lucy",
+          "tmdb": {
+            "id": 240832,
+            "media_type": "movie",
+            "release_date": "2014-07-25"
           }
         },
         {
@@ -1369,6 +1351,15 @@
         },
         {
           "rank": 7,
+          "title": "Gabby's Dollhouse: The Movie",
+          "tmdb": {
+            "id": 1280282,
+            "media_type": "movie",
+            "release_date": "2025-09-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Black Phone 2",
           "tmdb": {
             "id": 1197137,
@@ -1377,40 +1368,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Overlord",
+          "tmdb": {
+            "id": 438799,
+            "media_type": "movie",
+            "release_date": "2018-11-01"
+          }
+        },
+        {
+          "rank": 10,
           "title": "HIM",
           "tmdb": {
             "id": 986097,
             "media_type": "movie",
             "release_date": "2025-09-18"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Dictator",
-          "tmdb": {
-            "id": 76493,
-            "media_type": "movie",
-            "release_date": "2012-05-15"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Lucy",
-          "tmdb": {
-            "id": 240832,
-            "media_type": "movie",
-            "release_date": "2014-07-25"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Bulgaria on June 8, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Bulgaria on June 9, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 8, 2026",
+      "date": "June 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1433,15 +1415,6 @@
         },
         {
           "rank": 3,
-          "title": "Prisoner",
-          "tmdb": {
-            "id": 4275,
-            "media_type": "tv",
-            "release_date": "1979-02-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Morpheus",
           "tmdb": {
             "id": 310953,
@@ -1450,16 +1423,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Marshals",
+          "rank": 4,
+          "title": "Prisoner",
           "tmdb": {
-            "id": 290856,
+            "id": 4275,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "1979-02-27"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Trio",
           "tmdb": {
             "id": 321808,
@@ -1468,16 +1441,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Brooklyn Nine-Nine",
+          "rank": 6,
+          "title": "Marshals",
           "tmdb": {
-            "id": 48891,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": "2013-09-17"
+            "release_date": "2026-03-01"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Gomorrah",
           "tmdb": {
             "id": 61068,
@@ -1486,21 +1459,30 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Brooklyn Nine-Nine",
+          "tmdb": {
+            "id": 48891,
+            "media_type": "tv",
+            "release_date": "2013-09-17"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Madison",
+          "tmdb": {
+            "id": 225891,
+            "media_type": "tv",
+            "release_date": "2026-03-14"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
             "media_type": "tv",
             "release_date": "2022-11-13"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
           }
         }
       ]
