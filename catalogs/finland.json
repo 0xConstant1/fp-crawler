@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/finland/",
-  "page_title": "TOP 10 on Streaming in Finland on June 11, 2026",
+  "page_title": "TOP 10 on Streaming in Finland on June 12, 2026",
   "region": "finland",
-  "date": "June 11, 2026",
-  "scraped_at_utc": "2026-06-11T16:49:41.373730+00:00",
+  "date": "June 12, 2026",
+  "scraped_at_utc": "2026-06-12T16:32:30.223403+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Finland on June 11, 2026",
+      "heading": "TOP Movies on Netflix in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Office Romance",
           "tmdb": {
             "id": 1358005,
             "media_type": "movie",
             "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Marked Woman",
-          "tmdb": {
-            "id": 1274706,
-            "media_type": "movie",
-            "release_date": "2026-06-05"
           }
         },
         {
@@ -42,6 +42,24 @@
         },
         {
           "rank": 4,
+          "title": "The Marked Woman",
+          "tmdb": {
+            "id": 1274706,
+            "media_type": "movie",
+            "release_date": "2026-06-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Zack Snyder's Justice League",
+          "tmdb": {
+            "id": 791373,
+            "media_type": "movie",
+            "release_date": "2021-03-18"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Murder of Rachel Nickell",
           "tmdb": {
             "id": 1693002,
@@ -50,7 +68,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Ladies First",
           "tmdb": {
             "id": 1368881,
@@ -59,7 +77,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Geostorm",
           "tmdb": {
             "id": 274855,
@@ -68,30 +86,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "The Alto Knights",
           "tmdb": {
             "id": 1013601,
             "media_type": "movie",
             "release_date": "2025-03-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Those Who Wish Me Dead",
-          "tmdb": {
-            "id": 578701,
-            "media_type": "movie",
-            "release_date": "2021-05-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Rite",
-          "tmdb": {
-            "id": 48171,
-            "media_type": "movie",
-            "release_date": "2011-01-28"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on Netflix in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -160,33 +160,6 @@
         },
         {
           "rank": 6,
-          "title": "Everwood",
-          "tmdb": {
-            "id": 1950,
-            "media_type": "tv",
-            "release_date": "2002-09-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Boroughs",
-          "tmdb": {
-            "id": 224941,
-            "media_type": "tv",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Outlast: The Jungle",
           "tmdb": {
             "id": 322803,
@@ -195,31 +168,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "A Good Girl's Guide to Murder",
+          "rank": 7,
+          "title": "Sweet Magnolias",
           "tmdb": {
-            "id": 218342,
+            "id": 102904,
             "media_type": "tv",
-            "release_date": "2024-07-10"
+            "release_date": "2020-05-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Everwood",
+          "tmdb": {
+            "id": 1950,
+            "media_type": "tv",
+            "release_date": "2002-09-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Boroughs",
+          "tmdb": {
+            "id": 224941,
+            "media_type": "tv",
+            "release_date": "2026-05-21"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Finland on June 11, 2026",
+      "heading": "TOP Kids Movies on Netflix in Finland on June 12, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Smallfoot",
+          "title": "Sonic the Hedgehog 3",
           "tmdb": {
-            "id": 446894,
+            "id": 939243,
             "media_type": "movie",
-            "release_date": "2018-09-20"
+            "release_date": "2024-12-19"
           }
         },
         {
@@ -233,15 +233,6 @@
         },
         {
           "rank": 3,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
@@ -250,21 +241,30 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Smallfoot",
+          "tmdb": {
+            "id": 446894,
+            "media_type": "movie",
+            "release_date": "2018-09-20"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Rango",
           "tmdb": {
             "id": 44896,
             "media_type": "movie",
             "release_date": "2011-03-02"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Hotel Transylvania 3: Summer Vacation",
-          "tmdb": {
-            "id": 400155,
-            "media_type": "movie",
-            "release_date": "2018-06-28"
           }
         },
         {
@@ -278,6 +278,15 @@
         },
         {
           "rank": 8,
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "tmdb": {
+            "id": 400155,
+            "media_type": "movie",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
@@ -286,31 +295,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Hotel Transylvania 2",
           "tmdb": {
             "id": 159824,
             "media_type": "movie",
             "release_date": "2015-09-21"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Storks",
-          "tmdb": {
-            "id": 332210,
-            "media_type": "movie",
-            "release_date": "2016-09-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Finland on June 11, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Finland on June 12, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,15 +324,6 @@
         },
         {
           "rank": 2,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
@@ -341,12 +332,21 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Middle",
           "tmdb": {
             "id": 1422,
             "media_type": "tv",
             "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
           }
         },
         {
@@ -369,6 +369,15 @@
         },
         {
           "rank": 7,
+          "title": "Barbie: Life in the Dreamhouse",
+          "tmdb": {
+            "id": 61838,
+            "media_type": "tv",
+            "release_date": "2012-05-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -377,21 +386,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Creature Cases",
           "tmdb": {
             "id": 195407,
             "media_type": "tv",
             "release_date": "2022-04-12"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Barbie: Life in the Dreamhouse",
-          "tmdb": {
-            "id": 61838,
-            "media_type": "tv",
-            "release_date": "2012-05-11"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Finland on June 11, 2026",
+      "heading": "TOP Movies on HBO Max in Finland on June 12, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -460,6 +460,15 @@
         },
         {
           "rank": 6,
+          "title": "A Different Man",
+          "tmdb": {
+            "id": 989662,
+            "media_type": "movie",
+            "release_date": "2024-08-24"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Zone of Interest",
           "tmdb": {
             "id": 467244,
@@ -468,21 +477,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Bride!",
           "tmdb": {
             "id": 1159831,
             "media_type": "movie",
             "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "A Different Man",
-          "tmdb": {
-            "id": 989662,
-            "media_type": "movie",
-            "release_date": "2024-08-24"
           }
         },
         {
@@ -498,28 +498,28 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on HBO Max in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "90 Day: The Single Life",
-          "tmdb": {
-            "id": 118422,
-            "media_type": "tv",
-            "release_date": "2021-02-21"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
             "media_type": "tv",
             "release_date": "2019-06-16"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "90 Day: The Single Life",
+          "tmdb": {
+            "id": 118422,
+            "media_type": "tv",
+            "release_date": "2021-02-21"
           }
         },
         {
@@ -578,30 +578,30 @@
         },
         {
           "rank": 9,
+          "title": "Ex on the Beach: Sweden",
+          "tmdb": {
+            "id": 219946,
+            "media_type": "tv",
+            "release_date": "2015-04-06"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Hacks",
           "tmdb": {
             "id": 124101,
             "media_type": "tv",
             "release_date": "2021-05-13"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Last Week Tonight with John Oliver",
-          "tmdb": {
-            "id": 60694,
-            "media_type": "tv",
-            "release_date": "2014-04-27"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Finland on June 11, 2026",
+      "heading": "TOP Overall on Disney+ in Finland on June 12, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -685,10 +685,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Finland on June 11, 2026",
+      "heading": "TOP Movies on Disney+ in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -772,10 +772,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on Disney+ in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -872,10 +872,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Finland on June 11, 2026",
+      "heading": "TOP Overall on Amazon Prime in Finland on June 12, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -889,33 +889,6 @@
         },
         {
           "rank": 2,
-          "title": "Spider-Noir",
-          "tmdb": {
-            "id": 220102,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Every Year After",
           "tmdb": {
             "id": 260592,
@@ -924,12 +897,39 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "title": "Spider-Noir",
+          "tmdb": {
+            "id": 220102,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Legend of Vox Machina",
           "tmdb": {
             "id": 135934,
             "media_type": "tv",
             "release_date": "2022-01-27"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
           }
         },
         {
@@ -961,21 +961,21 @@
         },
         {
           "rank": 10,
-          "title": "The Summer I Turned Pretty",
+          "title": "Over Your Dead Body",
           "tmdb": {
-            "id": 194766,
-            "media_type": "tv",
-            "release_date": "2022-06-16"
+            "id": 1390300,
+            "media_type": "movie",
+            "release_date": "2026-03-14"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Finland on June 11, 2026",
+      "heading": "TOP Movies on Amazon Prime in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -998,11 +998,11 @@
         },
         {
           "rank": 3,
-          "title": "The Smashing Machine",
+          "title": "Over Your Dead Body",
           "tmdb": {
-            "id": 760329,
+            "id": 1390300,
             "media_type": "movie",
-            "release_date": "2025-10-01"
+            "release_date": "2026-03-14"
           }
         },
         {
@@ -1016,11 +1016,11 @@
         },
         {
           "rank": 5,
-          "title": "Heart of a Lion",
+          "title": "The Smashing Machine",
           "tmdb": {
-            "id": 1611190,
+            "id": 760329,
             "media_type": "movie",
-            "release_date": "2026-04-18"
+            "release_date": "2025-10-01"
           }
         },
         {
@@ -1034,6 +1034,15 @@
         },
         {
           "rank": 7,
+          "title": "Heart of a Lion",
+          "tmdb": {
+            "id": 1611190,
+            "media_type": "movie",
+            "release_date": "2026-04-18"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Good Fortune",
           "tmdb": {
             "id": 1114967,
@@ -1042,7 +1051,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Crime 101",
           "tmdb": {
             "id": 1171145,
@@ -1051,31 +1060,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Dracula",
           "tmdb": {
             "id": 1246049,
             "media_type": "movie",
             "release_date": "2025-07-30"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Masters of the Universe",
-          "tmdb": {
-            "id": 454639,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1089,33 +1089,6 @@
         },
         {
           "rank": 2,
-          "title": "Spider-Noir",
-          "tmdb": {
-            "id": 220102,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Every Year After",
           "tmdb": {
             "id": 260592,
@@ -1124,12 +1097,39 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "title": "Spider-Noir",
+          "tmdb": {
+            "id": 220102,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Legend of Vox Machina",
           "tmdb": {
             "id": 135934,
             "media_type": "tv",
             "release_date": "2022-01-27"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
           }
         },
         {
@@ -1172,10 +1172,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Finland on June 11, 2026",
+      "heading": "TOP Movies on Apple TV in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1189,24 +1189,6 @@
         },
         {
           "rank": 2,
-          "title": "Propeller One-Way Night Coach",
-          "tmdb": {
-            "id": 1662414,
-            "media_type": "movie",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -1215,16 +1197,25 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Killers of the Flower Moon",
+          "rank": 3,
+          "title": "Propeller One-Way Night Coach",
           "tmdb": {
-            "id": 466420,
+            "id": 1662414,
             "media_type": "movie",
-            "release_date": "2023-10-18"
+            "release_date": "2026-05-15"
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1233,7 +1224,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1242,16 +1233,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+          "rank": 7,
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 1693346,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "2026-05-14"
+            "release_date": "2023-10-18"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Ghosted",
           "tmdb": {
             "id": 868759,
@@ -1260,22 +1251,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
             "media_type": "movie",
             "release_date": "2025-02-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+          "tmdb": {
+            "id": 1693346,
+            "media_type": "movie",
+            "release_date": "2026-05-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on Apple TV in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1325,20 +1325,20 @@
         },
         {
           "rank": 6,
-          "title": "Maximum Pleasure Guaranteed",
-          "tmdb": {
-            "id": 285404,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Star City",
           "tmdb": {
             "id": 252107,
             "media_type": "tv",
             "release_date": "2026-05-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Maximum Pleasure Guaranteed",
+          "tmdb": {
+            "id": 285404,
+            "media_type": "tv",
+            "release_date": "2026-05-19"
           }
         },
         {
@@ -1372,10 +1372,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Finland on June 11, 2026",
+      "heading": "TOP Movies on Apple TV Store in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1389,20 +1389,20 @@
         },
         {
           "rank": 2,
-          "title": "Heart of a Lion",
-          "tmdb": {
-            "id": 1611190,
-            "media_type": "movie",
-            "release_date": "2026-04-18"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
             "media_type": "movie",
             "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Heart of a Lion",
+          "tmdb": {
+            "id": 1611190,
+            "media_type": "movie",
+            "release_date": "2026-04-18"
           }
         },
         {
@@ -1416,15 +1416,6 @@
         },
         {
           "rank": 5,
-          "title": "Good Luck, Have Fun, Don't Die",
-          "tmdb": {
-            "id": 1119449,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
@@ -1433,7 +1424,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Wizard of the Kremlin",
           "tmdb": {
             "id": 1291659,
@@ -1442,21 +1433,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Greenland 2: Migration",
           "tmdb": {
             "id": 840464,
             "media_type": "movie",
             "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Exit 8",
+          "tmdb": {
+            "id": 1408208,
+            "media_type": "movie",
+            "release_date": "2025-08-28"
           }
         },
         {
@@ -1472,10 +1472,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Finland on June 11, 2026",
+      "heading": "TOP Movies on Google in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1525,24 +1525,6 @@
         },
         {
           "rank": 6,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Sisu: Road to Revenge",
-          "tmdb": {
-            "id": 1223601,
-            "media_type": "movie",
-            "release_date": "2025-10-21"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -1551,31 +1533,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Nuremberg",
+          "rank": 7,
+          "title": "The Housemaid",
           "tmdb": {
-            "id": 1214931,
+            "id": 1368166,
             "media_type": "movie",
-            "release_date": "2025-11-06"
+            "release_date": "2025-12-18"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Sisu: Road to Revenge",
+          "tmdb": {
+            "id": 1223601,
+            "media_type": "movie",
+            "release_date": "2025-10-21"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Scream 7",
           "tmdb": {
             "id": 1159559,
             "media_type": "movie",
             "release_date": "2026-02-25"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Kummeli Goldrush",
+          "tmdb": {
+            "id": 38205,
+            "media_type": "movie",
+            "release_date": "1997-12-05"
+          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Finland on June 11, 2026",
+      "heading": "TOP Movies on Rakuten TV in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1607,15 +1607,6 @@
         },
         {
           "rank": 4,
-          "title": "Sisu: Road to Revenge",
-          "tmdb": {
-            "id": 1223601,
-            "media_type": "movie",
-            "release_date": "2025-10-21"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Greenland 2: Migration",
           "tmdb": {
             "id": 840464,
@@ -1624,21 +1615,30 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Sisu: Road to Revenge",
+          "tmdb": {
+            "id": 1223601,
+            "media_type": "movie",
+            "release_date": "2025-10-21"
+          }
+        },
+        {
           "rank": 6,
+          "title": "The Wizard of the Kremlin",
+          "tmdb": {
+            "id": 1291659,
+            "media_type": "movie",
+            "release_date": "2026-01-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "28 Years Later: The Bone Temple",
           "tmdb": {
             "id": 1272837,
             "media_type": "movie",
             "release_date": "2026-01-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Five Nights at Freddy's 2",
-          "tmdb": {
-            "id": 1228246,
-            "media_type": "movie",
-            "release_date": "2025-12-03"
           }
         },
         {
@@ -1652,43 +1652,34 @@
         },
         {
           "rank": 9,
+          "title": "Five Nights at Freddy's 2",
+          "tmdb": {
+            "id": 1228246,
+            "media_type": "movie",
+            "release_date": "2025-12-03"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Love",
           "tmdb": {
             "id": 292431,
             "media_type": "movie",
             "release_date": "2015-07-15"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Zootopia 2",
-          "tmdb": {
-            "id": 1084242,
-            "media_type": "movie",
-            "release_date": "2025-11-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Finland on June 11, 2026",
+      "heading": "TOP Movies on Viaplay in Finland on June 12, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Caught Stealing",
-          "tmdb": {
-            "id": 1245993,
-            "media_type": "movie",
-            "release_date": "2025-08-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Muzzle",
           "tmdb": {
             "id": 939335,
@@ -1697,21 +1688,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Hounds of War",
+          "rank": 2,
+          "title": "Caught Stealing",
           "tmdb": {
-            "id": 949484,
+            "id": 1245993,
             "media_type": "movie",
-            "release_date": "2024-08-29"
+            "release_date": "2025-08-26"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "A Big Bold Beautiful Journey",
           "tmdb": {
             "id": 1241921,
             "media_type": "movie",
             "release_date": "2025-09-17"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Hounds of War",
+          "tmdb": {
+            "id": 949484,
+            "media_type": "movie",
+            "release_date": "2024-08-29"
           }
         },
         {
@@ -1725,15 +1725,6 @@
         },
         {
           "rank": 6,
-          "title": "Road House",
-          "tmdb": {
-            "id": 359410,
-            "media_type": "movie",
-            "release_date": "2024-03-08"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Jurassic World Dominion",
           "tmdb": {
             "id": 507086,
@@ -1742,21 +1733,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Prisoner of War",
+          "rank": 7,
+          "title": "Road House",
           "tmdb": {
-            "id": 1328803,
+            "id": 359410,
             "media_type": "movie",
-            "release_date": "2025-09-19"
+            "release_date": "2024-03-08"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Emmanuelle",
           "tmdb": {
             "id": 24402,
             "media_type": "movie",
             "release_date": "1974-06-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Prisoner of War",
+          "tmdb": {
+            "id": 1328803,
+            "media_type": "movie",
+            "release_date": "2025-09-19"
           }
         },
         {
@@ -1772,10 +1772,10 @@
     },
     {
       "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on Viaplay in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "Viaplay",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1798,15 +1798,6 @@
         },
         {
           "rank": 3,
-          "title": "Ghosts",
-          "tmdb": {
-            "id": 126027,
-            "media_type": "tv",
-            "release_date": "2021-10-07"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Chicago P.D.",
           "tmdb": {
             "id": 58841,
@@ -1815,12 +1806,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Chicago Fire",
           "tmdb": {
             "id": 44006,
             "media_type": "tv",
             "release_date": "2012-10-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ghosts",
+          "tmdb": {
+            "id": 126027,
+            "media_type": "tv",
+            "release_date": "2021-10-07"
           }
         },
         {
@@ -1872,23 +1872,14 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Finland on June 11, 2026",
+      "heading": "TOP Movies on SkyShowtime in Finland on June 12, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Bugonia",
-          "tmdb": {
-            "id": 701387,
-            "media_type": "movie",
-            "release_date": "2025-10-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Wicked: For Good",
           "tmdb": {
             "id": 967941,
@@ -1897,16 +1888,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Overlord",
+          "rank": 2,
+          "title": "Bugonia",
           "tmdb": {
-            "id": 438799,
+            "id": 701387,
             "media_type": "movie",
-            "release_date": "2018-11-01"
+            "release_date": "2025-10-23"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Silencing",
           "tmdb": {
             "id": 603119,
@@ -1915,7 +1906,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
@@ -1924,12 +1915,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Lucy",
+          "rank": 5,
+          "title": "Timeline",
           "tmdb": {
-            "id": 240832,
+            "id": 9562,
             "media_type": "movie",
-            "release_date": "2014-07-25"
+            "release_date": "2003-11-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Overlord",
+          "tmdb": {
+            "id": 438799,
+            "media_type": "movie",
+            "release_date": "2018-11-01"
           }
         },
         {
@@ -1952,30 +1952,30 @@
         },
         {
           "rank": 9,
-          "title": "Timeline",
+          "title": "Lucy",
           "tmdb": {
-            "id": 9562,
+            "id": 240832,
             "media_type": "movie",
-            "release_date": "2003-11-26"
+            "release_date": "2014-07-25"
           }
         },
         {
           "rank": 10,
-          "title": "Damsel",
+          "title": "Don't Be Afraid of the Dark",
           "tmdb": {
-            "id": 763215,
+            "id": 46261,
             "media_type": "movie",
-            "release_date": "2024-03-07"
+            "release_date": "2010-11-06"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Finland on June 11, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Finland on June 12, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 11, 2026",
+      "date": "June 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2034,11 +2034,11 @@
         },
         {
           "rank": 7,
-          "title": "Yellowstone",
+          "title": "Ligas",
           "tmdb": {
-            "id": 73586,
+            "id": 314658,
             "media_type": "tv",
-            "release_date": "2018-06-20"
+            "release_date": "2026-03-05"
           }
         },
         {
@@ -2052,20 +2052,20 @@
         },
         {
           "rank": 9,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Under Salt Marsh",
           "tmdb": {
             "id": 262262,
             "media_type": "tv",
             "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Gomorrah",
-          "tmdb": {
-            "id": 61068,
-            "media_type": "tv",
-            "release_date": "2014-05-06"
           }
         }
       ]
