@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/south-korea/",
-  "page_title": "TOP 10 on Streaming in South Korea on June 12, 2026",
+  "page_title": "TOP 10 on Streaming in South Korea on June 13, 2026",
   "region": "south-korea",
-  "date": "June 12, 2026",
-  "scraped_at_utc": "2026-06-12T16:33:29.229125+00:00",
+  "date": "June 13, 2026",
+  "scraped_at_utc": "2026-06-13T16:02:18.247776+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Netflix in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows on Netflix in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -143,7 +143,11 @@
         {
           "rank": 4,
           "title": "The Last Humanity",
-          "tmdb": null
+          "tmdb": {
+            "id": 324651,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
+          }
         },
         {
           "rank": 5,
@@ -203,10 +207,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in South Korea on June 12, 2026",
+      "heading": "TOP Overall on Disney+ in South Korea on June 13, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -229,17 +233,17 @@
         },
         {
           "rank": 3,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
           "title": "Gold Land",
           "tmdb": {
             "id": 278113,
             "media_type": "tv",
             "release_date": "2026-04-29"
           }
-        },
-        {
-          "rank": 4,
-          "title": "Toy Story 5 | A Special Look",
-          "tmdb": null
         },
         {
           "rank": 5,
@@ -261,20 +265,20 @@
         },
         {
           "rank": 7,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Made in Korea",
           "tmdb": {
             "id": 246473,
             "media_type": "tv",
             "release_date": "2025-12-24"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "A Shop for Killers",
-          "tmdb": {
-            "id": 215072,
-            "media_type": "tv",
-            "release_date": "2024-01-17"
           }
         },
         {
@@ -288,21 +292,21 @@
         },
         {
           "rank": 10,
-          "title": "Toy Story",
+          "title": "A Shop for Killers",
           "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
+            "id": 215072,
+            "media_type": "tv",
+            "release_date": "2024-01-17"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Disney+ in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -330,15 +334,6 @@
         },
         {
           "rank": 4,
-          "title": "The Roundup: Punishment",
-          "tmdb": {
-            "id": 1017163,
-            "media_type": "movie",
-            "release_date": "2024-04-24"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
@@ -347,16 +342,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Roundup",
+          "rank": 5,
+          "title": "The Roundup: Punishment",
           "tmdb": {
-            "id": 619803,
+            "id": 1017163,
             "media_type": "movie",
-            "release_date": "2022-05-18"
+            "release_date": "2024-04-24"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
@@ -365,7 +360,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -374,7 +369,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -383,22 +378,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Punisher: One Last Kill",
+          "rank": 9,
+          "title": "The Roundup",
           "tmdb": {
-            "id": 1439930,
+            "id": 619803,
             "media_type": "movie",
-            "release_date": "2026-05-12"
+            "release_date": "2022-05-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows on Disney+ in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -466,6 +470,15 @@
         },
         {
           "rank": 8,
+          "title": "The Tyrant",
+          "tmdb": {
+            "id": 246748,
+            "media_type": "tv",
+            "release_date": "2024-08-14"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Gangnam B-Side",
           "tmdb": {
             "id": 218631,
@@ -474,31 +487,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Tempest",
           "tmdb": {
             "id": 223326,
             "media_type": "tv",
             "release_date": "2025-09-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Tyrant",
-          "tmdb": {
-            "id": 246748,
-            "media_type": "tv",
-            "release_date": "2024-08-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Apple TV in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -539,20 +543,20 @@
         },
         {
           "rank": 5,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
             "media_type": "movie",
             "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
           }
         },
         {
@@ -566,11 +570,11 @@
         },
         {
           "rank": 8,
-          "title": "Eternity",
+          "title": "Wolfs",
           "tmdb": {
-            "id": 1259102,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2025-11-10"
+            "release_date": "2024-09-20"
           }
         },
         {
@@ -584,43 +588,25 @@
         },
         {
           "rank": 10,
-          "title": "Propeller One-Way Night Coach",
+          "title": "Luck",
           "tmdb": {
-            "id": 1662414,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2026-05-15"
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows on Apple TV in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Pachinko",
-          "tmdb": {
-            "id": 110382,
-            "media_type": "tv",
-            "release_date": "2022-03-24"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Cape Fear",
           "tmdb": {
             "id": 277439,
@@ -629,12 +615,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Monarch: Legacy of Monsters",
+          "rank": 2,
+          "title": "Pachinko",
           "tmdb": {
-            "id": 202411,
+            "id": 110382,
             "media_type": "tv",
-            "release_date": "2023-11-16"
+            "release_date": "2022-03-24"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -648,29 +652,29 @@
         },
         {
           "rank": 6,
-          "title": "Slow Horses",
+          "title": "Monarch: Legacy of Monsters",
           "tmdb": {
-            "id": 95480,
+            "id": 202411,
             "media_type": "tv",
-            "release_date": "2022-04-01"
+            "release_date": "2023-11-16"
           }
         },
         {
           "rank": 7,
-          "title": "Maximum Pleasure Guaranteed",
-          "tmdb": {
-            "id": 285404,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
             "media_type": "tv",
             "release_date": "2019-11-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
           }
         },
         {
@@ -695,10 +699,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Google in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -730,15 +734,6 @@
         },
         {
           "rank": 4,
-          "title": "Exit 8",
-          "tmdb": {
-            "id": 1408208,
-            "media_type": "movie",
-            "release_date": "2025-08-28"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Once We Were Us",
           "tmdb": {
             "id": 1264805,
@@ -747,21 +742,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Crayon Shin-chan: Invasion!! Alien Shiriri",
+          "rank": 5,
+          "title": "Exit 8",
           "tmdb": {
-            "id": 453575,
+            "id": 1408208,
             "media_type": "movie",
-            "release_date": "2017-04-15"
+            "release_date": "2025-08-28"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Chainsaw Man - The Movie: Reze Arc",
           "tmdb": {
             "id": 1218925,
             "media_type": "movie",
             "release_date": "2025-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Crayon Shin-chan: Invasion!! Alien Shiriri",
+          "tmdb": {
+            "id": 453575,
+            "media_type": "movie",
+            "release_date": "2017-04-15"
           }
         },
         {
@@ -784,21 +788,21 @@
         },
         {
           "rank": 10,
-          "title": "Daydream",
+          "title": "Korean Election Fraud, God's Will?",
           "tmdb": {
-            "id": 1633052,
+            "id": 1477008,
             "media_type": "movie",
-            "release_date": "2026-05-29"
+            "release_date": "2025-05-21"
           }
         }
       ]
     },
     {
       "catalog_id": "wavve.overall",
-      "heading": "TOP Overall on Wavve in South Korea on June 12, 2026",
+      "heading": "TOP Overall on Wavve in South Korea on June 13, 2026",
       "category": "overall",
       "platform": "Wavve",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -812,11 +816,11 @@
         },
         {
           "rank": 2,
-          "title": "I Am Solo",
+          "title": "Divorce Re-Boot Camp",
           "tmdb": {
-            "id": 129236,
+            "id": 262400,
             "media_type": "tv",
-            "release_date": "2021-07-14"
+            "release_date": "2024-08-15"
           }
         },
         {
@@ -830,29 +834,29 @@
         },
         {
           "rank": 4,
-          "title": "Divorce Re-Boot Camp",
+          "title": "I Am Solo",
           "tmdb": {
-            "id": 262400,
+            "id": 129236,
             "media_type": "tv",
-            "release_date": "2024-08-15"
+            "release_date": "2021-07-14"
           }
         },
         {
           "rank": 5,
-          "title": "Pearl in Red",
+          "title": "Fifties Professionals",
           "tmdb": {
-            "id": 310033,
+            "id": 297712,
             "media_type": "tv",
-            "release_date": "2026-02-23"
+            "release_date": "2026-05-22"
           }
         },
         {
           "rank": 6,
-          "title": "You Quiz on the Block",
+          "title": "Home Alone",
           "tmdb": {
-            "id": 81978,
+            "id": 65282,
             "media_type": "tv",
-            "release_date": "2018-08-29"
+            "release_date": "2013-03-22"
           }
         },
         {
@@ -866,39 +870,39 @@
         },
         {
           "rank": 8,
-          "title": "Fifties Professionals",
+          "title": "Pearl in Red",
           "tmdb": {
-            "id": 297712,
+            "id": 310033,
             "media_type": "tv",
-            "release_date": "2026-05-22"
+            "release_date": "2026-02-23"
           }
         },
         {
           "rank": 9,
-          "title": "Radio Star",
-          "tmdb": {
-            "id": 65270,
-            "media_type": "tv",
-            "release_date": "2007-05-30"
-          }
-        },
-        {
-          "rank": 10,
           "title": "실화탐사대",
           "tmdb": {
             "id": 134778,
             "media_type": "tv",
             "release_date": "2018-09-12"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Cabbage Your Life",
+          "tmdb": {
+            "id": 311650,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "wavve.movies",
-      "heading": "TOP Movies on Wavve in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Wavve in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Wavve",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -939,24 +943,6 @@
         },
         {
           "rank": 5,
-          "title": "Tazza: The High Rollers",
-          "tmdb": {
-            "id": 38015,
-            "media_type": "movie",
-            "release_date": "2006-09-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "I Saw the Devil",
-          "tmdb": {
-            "id": 49797,
-            "media_type": "movie",
-            "release_date": "2010-08-12"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Lust, Caution",
           "tmdb": {
             "id": 4588,
@@ -965,7 +951,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Bedevilled",
           "tmdb": {
             "id": 131757,
@@ -974,31 +960,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "A Hard Day",
+          "rank": 7,
+          "title": "Tazza: The High Rollers",
           "tmdb": {
-            "id": 269494,
+            "id": 38015,
             "media_type": "movie",
-            "release_date": "2014-05-29"
+            "release_date": "2006-09-28"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "I Saw the Devil",
+          "tmdb": {
+            "id": 49797,
+            "media_type": "movie",
+            "release_date": "2010-08-12"
+          }
+        },
+        {
+          "rank": 9,
           "title": "A Day",
           "tmdb": {
             "id": 459073,
             "media_type": "movie",
             "release_date": "2017-06-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Showdown",
+          "tmdb": {
+            "id": 52421,
+            "media_type": "movie",
+            "release_date": "2011-02-24"
+          }
         }
       ]
     },
     {
       "catalog_id": "wavve.series",
-      "heading": "TOP TV Shows on Wavve in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows on Wavve in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Wavve",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1030,15 +1034,6 @@
         },
         {
           "rank": 4,
-          "title": "Mistaken Love",
-          "tmdb": {
-            "id": 273177,
-            "media_type": "tv",
-            "release_date": "2024-10-24"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Soft-Hearted God",
           "tmdb": {
             "id": 318675,
@@ -1047,7 +1042,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Love Story in the 1970s",
+          "tmdb": {
+            "id": 287760,
+            "media_type": "tv",
+            "release_date": "2026-02-21"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Happiness Comes from Eating, Sleeping and Waiting",
+          "tmdb": {
+            "id": 286627,
+            "media_type": "tv",
+            "release_date": "2025-04-01"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Countdown to Yes",
           "tmdb": {
             "id": 307182,
@@ -1056,7 +1069,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Law & Order Toronto: Criminal Intent",
           "tmdb": {
             "id": 228026,
@@ -1065,21 +1078,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "How Dare You!?",
-          "tmdb": {
-            "id": 280632,
-            "media_type": "tv",
-            "release_date": "2026-02-06"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Affinity",
+          "title": "この愛は間違いですか～不倫の贖罪",
           "tmdb": {
-            "id": 311025,
+            "id": 308109,
             "media_type": "tv",
-            "release_date": "2026-01-22"
+            "release_date": "2026-01-08"
           }
         },
         {
@@ -1095,19 +1099,19 @@
     },
     {
       "catalog_id": "wavve.series",
-      "heading": "TOP TV Shows (in Korean) on Wavve in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows (in Korean) on Wavve in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Wavve",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Cabbage Your Life",
+          "title": "Fifties Professionals",
           "tmdb": {
-            "id": 311650,
+            "id": 297712,
             "media_type": "tv",
-            "release_date": "2026-03-26"
+            "release_date": "2026-05-22"
           }
         },
         {
@@ -1121,29 +1125,29 @@
         },
         {
           "rank": 3,
-          "title": "Pearl in Red",
-          "tmdb": {
-            "id": 310033,
-            "media_type": "tv",
-            "release_date": "2026-02-23"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Fifties Professionals",
-          "tmdb": {
-            "id": 297712,
-            "media_type": "tv",
-            "release_date": "2026-05-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Our Happy Days",
           "tmdb": {
             "id": 313735,
             "media_type": "tv",
             "release_date": "2026-03-30"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Cabbage Your Life",
+          "tmdb": {
+            "id": 311650,
+            "media_type": "tv",
+            "release_date": "2026-03-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Pearl in Red",
+          "tmdb": {
+            "id": 310033,
+            "media_type": "tv",
+            "release_date": "2026-02-23"
           }
         },
         {
@@ -1166,20 +1170,20 @@
         },
         {
           "rank": 8,
-          "title": "The King of Pigs",
-          "tmdb": {
-            "id": 154523,
-            "media_type": "tv",
-            "release_date": "2022-03-18"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Filing for Love",
           "tmdb": {
             "id": 297640,
             "media_type": "tv",
             "release_date": "2026-04-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The King of Pigs",
+          "tmdb": {
+            "id": 154523,
+            "media_type": "tv",
+            "release_date": "2022-03-18"
           }
         },
         {
@@ -1195,14 +1199,23 @@
     },
     {
       "catalog_id": "wavve.entertainment-shows",
-      "heading": "TOP Entertainment Shows on Wavve in South Korea on June 12, 2026",
+      "heading": "TOP Entertainment Shows on Wavve in South Korea on June 13, 2026",
       "category": "entertainment shows",
       "platform": "Wavve",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Home Alone",
+          "tmdb": {
+            "id": 65282,
+            "media_type": "tv",
+            "release_date": "2013-03-22"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Divorce Re-Boot Camp",
           "tmdb": {
             "id": 262400,
@@ -1211,16 +1224,16 @@
           }
         },
         {
-          "rank": 2,
-          "title": "I'm SOLO, Love goes on",
+          "rank": 3,
+          "title": "구기동 프렌즈",
           "tmdb": {
-            "id": 207924,
+            "id": 319339,
             "media_type": "tv",
-            "release_date": "2022-08-11"
+            "release_date": "2026-04-10"
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "언더커버 셰프",
           "tmdb": {
             "id": 323204,
@@ -1229,7 +1242,25 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "트롯 데스매치 금타는 금요일",
+          "tmdb": {
+            "id": 309272,
+            "media_type": "tv",
+            "release_date": "2025-12-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "I'm SOLO, Love goes on",
+          "tmdb": {
+            "id": 207924,
+            "media_type": "tv",
+            "release_date": "2022-08-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "I Am Solo",
           "tmdb": {
             "id": 129236,
@@ -1238,90 +1269,63 @@
           }
         },
         {
-          "rank": 5,
-          "title": "요즘 남자 라이프 - 신랑수업",
-          "tmdb": {
-            "id": 155951,
-            "media_type": "tv",
-            "release_date": "2022-01-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Miss Trot",
-          "tmdb": {
-            "id": 93009,
-            "media_type": "tv",
-            "release_date": "2019-02-28"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "You Quiz on the Block",
-          "tmdb": {
-            "id": 81978,
-            "media_type": "tv",
-            "release_date": "2018-08-29"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Radio Star",
+          "title": "The Seasons",
           "tmdb": {
-            "id": 65270,
+            "id": 219783,
             "media_type": "tv",
-            "release_date": "2007-05-30"
+            "release_date": "2023-02-05"
           }
         },
         {
           "rank": 9,
-          "title": "Yo! Welcome to Korea!",
+          "title": "Moo No Plan",
           "tmdb": {
-            "id": 74035,
+            "id": 246527,
             "media_type": "tv",
-            "release_date": "2017-07-27"
+            "release_date": "2024-02-16"
           }
         },
         {
           "rank": 10,
-          "title": "How Do You Play?",
+          "title": "My Golden Kids",
           "tmdb": {
-            "id": 91121,
+            "id": 111798,
             "media_type": "tv",
-            "release_date": "2019-07-27"
+            "release_date": "2020-05-29"
           }
         }
       ]
     },
     {
       "catalog_id": "coupang-play.overall",
-      "heading": "TOP Overall on Coupang Play in South Korea on June 12, 2026",
+      "heading": "TOP Overall on Coupang Play in South Korea on June 13, 2026",
       "category": "overall",
       "platform": "Coupang Play",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "SNL Korea",
-          "tmdb": {
-            "id": 73048,
-            "media_type": "tv",
-            "release_date": "2011-12-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Smile Clinic",
           "tmdb": null
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "I Am Solo",
           "tmdb": {
             "id": 129236,
             "media_type": "tv",
             "release_date": "2021-07-14"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "SNL Korea",
+          "tmdb": {
+            "id": 73048,
+            "media_type": "tv",
+            "release_date": "2011-12-03"
           }
         },
         {
@@ -1335,6 +1339,15 @@
         },
         {
           "rank": 5,
+          "title": "국대: 로드 투 노스 아메리카",
+          "tmdb": {
+            "id": 325269,
+            "media_type": "tv",
+            "release_date": "2026-06-11"
+          }
+        },
+        {
+          "rank": 6,
           "title": "I'm SOLO, Love goes on",
           "tmdb": {
             "id": 207924,
@@ -1343,7 +1356,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Hidden Face",
           "tmdb": {
             "id": 936245,
@@ -1352,7 +1365,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Bonjour Bakery",
           "tmdb": {
             "id": 321885,
@@ -1361,7 +1374,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Infinite Challenge",
           "tmdb": {
             "id": 5092,
@@ -1370,27 +1383,18 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Wonhee is Twenty",
           "tmdb": null
-        },
-        {
-          "rank": 10,
-          "title": "Wicked: For Good",
-          "tmdb": {
-            "id": 967941,
-            "media_type": "movie",
-            "release_date": "2025-11-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "coupang-play.movies",
-      "heading": "TOP Movies on Coupang Play in South Korea on June 12, 2026",
+      "heading": "TOP Movies on Coupang Play in South Korea on June 13, 2026",
       "category": "movies",
       "platform": "Coupang Play",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1487,28 +1491,19 @@
     },
     {
       "catalog_id": "coupang-play.series",
-      "heading": "TOP TV Shows on Coupang Play in South Korea on June 12, 2026",
+      "heading": "TOP TV Shows on Coupang Play in South Korea on June 13, 2026",
       "category": "tv shows",
       "platform": "Coupang Play",
-      "date": "June 12, 2026",
+      "date": "June 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "SNL Korea",
-          "tmdb": {
-            "id": 73048,
-            "media_type": "tv",
-            "release_date": "2011-12-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Smile Clinic",
           "tmdb": null
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "I Am Solo",
           "tmdb": {
             "id": 129236,
@@ -1517,7 +1512,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "SNL Korea",
+          "tmdb": {
+            "id": 73048,
+            "media_type": "tv",
+            "release_date": "2011-12-03"
+          }
+        },
+        {
           "rank": 4,
+          "title": "국대: 로드 투 노스 아메리카",
+          "tmdb": {
+            "id": 325269,
+            "media_type": "tv",
+            "release_date": "2026-06-11"
+          }
+        },
+        {
+          "rank": 5,
           "title": "I'm SOLO, Love goes on",
           "tmdb": {
             "id": 207924,
@@ -1526,7 +1539,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Bonjour Bakery",
           "tmdb": {
             "id": 321885,
@@ -1535,7 +1548,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Infinite Challenge",
           "tmdb": {
             "id": 5092,
@@ -1544,35 +1557,26 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Wonhee is Twenty",
           "tmdb": null
         },
         {
-          "rank": 8,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
           "rank": 9,
-          "title": "연애기숙학교 돌싱N모솔",
-          "tmdb": {
-            "id": 319744,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Friends",
           "tmdb": {
             "id": 1668,
             "media_type": "tv",
             "release_date": "1994-09-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Euphoria",
+          "tmdb": {
+            "id": 85552,
+            "media_type": "tv",
+            "release_date": "2019-06-16"
           }
         }
       ]
