@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/india/",
-  "page_title": "TOP 10 on Streaming in India on June 13, 2026",
+  "page_title": "TOP 10 on Streaming in India on June 14, 2026",
   "region": "india",
-  "date": "June 13, 2026",
-  "scraped_at_utc": "2026-06-13T16:01:35.135698+00:00",
+  "date": "June 14, 2026",
+  "scraped_at_utc": "2026-06-14T16:04:30.319980+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in India on June 13, 2026",
+      "heading": "TOP Movies on Netflix in India on June 14, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Bhooth Bangla",
+          "tmdb": {
+            "id": 1239134,
+            "media_type": "movie",
+            "release_date": "2026-04-16"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Maa Behen",
           "tmdb": {
             "id": 1628448,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "29",
           "tmdb": {
             "id": 1510769,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Kara",
           "tmdb": {
             "id": 1433117,
@@ -41,7 +50,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Office Romance",
           "tmdb": {
             "id": 1358005,
@@ -50,7 +59,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Meg 2: The Trench",
           "tmdb": {
             "id": 615656,
@@ -59,21 +68,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Godzilla x Kong: The New Empire",
           "tmdb": {
             "id": 823464,
             "media_type": "movie",
             "release_date": "2024-03-27"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Marked Woman",
-          "tmdb": {
-            "id": 1274706,
-            "media_type": "movie",
-            "release_date": "2026-06-05"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Furiosa: A Mad Max Saga",
+          "title": "The Marked Woman",
           "tmdb": {
-            "id": 786892,
+            "id": 1274706,
             "media_type": "movie",
-            "release_date": "2024-05-22"
+            "release_date": "2026-06-05"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in India on June 13, 2026",
+      "heading": "TOP TV Shows on Netflix in India on June 14, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,6 +124,11 @@
         },
         {
           "rank": 2,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
           "title": "The WONDERfools",
           "tmdb": {
             "id": 259837,
@@ -132,7 +137,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Berlin and the Lady with an Ermine",
           "tmdb": {
             "id": 308014,
@@ -141,43 +146,25 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Witness",
-          "tmdb": {
-            "id": 280511,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Desi Bling",
+          "title": "Viral Hit",
           "tmdb": {
-            "id": 319919,
+            "id": 312493,
             "media_type": "tv",
-            "release_date": "2026-05-20"
+            "release_date": "2026-06-11"
           }
         },
         {
           "rank": 6,
-          "title": "Michael Jackson: The Verdict",
+          "title": "My Royal Nemesis",
           "tmdb": {
-            "id": 323111,
+            "id": 303143,
             "media_type": "tv",
-            "release_date": "2026-06-03"
+            "release_date": "2026-05-08"
           }
         },
         {
           "rank": 7,
-          "title": "Glory",
-          "tmdb": {
-            "id": 283657,
-            "media_type": "tv",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "If Wishes Could Kill",
           "tmdb": {
             "id": 285838,
@@ -186,31 +173,236 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Desi Bling",
+          "tmdb": {
+            "id": 319919,
+            "media_type": "tv",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Witness",
+          "tmdb": {
+            "id": 280511,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Taskaree: The Smuggler's Web",
           "tmdb": {
             "id": 308482,
             "media_type": "tv",
             "release_date": "2026-01-14"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in India on June 14, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "June 14, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Angry Birds Movie",
+          "tmdb": {
+            "id": 153518,
+            "media_type": "movie",
+            "release_date": "2016-05-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "David",
+          "tmdb": {
+            "id": 1167307,
+            "media_type": "movie",
+            "release_date": "2025-12-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "We Can Be Heroes",
+          "tmdb": {
+            "id": 615677,
+            "media_type": "movie",
+            "release_date": "2020-12-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Doraemon: Stand by Me Doraemon",
+          "tmdb": null
         },
         {
           "rank": 10,
-          "title": "Raw",
+          "title": "Kung Fu Panda 3",
           "tmdb": {
-            "id": 4656,
+            "id": 140300,
+            "media_type": "movie",
+            "release_date": "2016-01-23"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in India on June 14, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "June 14, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Man Vs Baby",
+          "tmdb": {
+            "id": 279601,
             "media_type": "tv",
-            "release_date": "1993-01-11"
+            "release_date": "2025-12-11"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Unicorn Academy: Secrets Revealed",
+          "tmdb": {
+            "id": 316945,
+            "media_type": "tv",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Jurassic World Camp Cretaceous",
+          "tmdb": {
+            "id": 93741,
+            "media_type": "tv",
+            "release_date": "2020-09-18"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Mighty Bheem's Playtime",
+          "tmdb": {
+            "id": 242739,
+            "media_type": "tv",
+            "release_date": "2024-01-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Dinosaurs",
+          "tmdb": {
+            "id": 313298,
+            "media_type": "tv",
+            "release_date": "2026-03-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Kung Fu Panda: The Dragon Knight",
+          "tmdb": {
+            "id": 129959,
+            "media_type": "tv",
+            "release_date": "2022-07-14"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in India on June 13, 2026",
+      "heading": "TOP Overall on Amazon Prime in India on June 14, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -283,30 +475,30 @@
         },
         {
           "rank": 9,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 10,
           "title": "System",
           "tmdb": {
             "id": 1431071,
             "media_type": "movie",
             "release_date": "2026-05-22"
           }
+        },
+        {
+          "rank": 10,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in India on June 13, 2026",
+      "heading": "TOP Movies on Amazon Prime in India on June 14, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -352,20 +544,20 @@
         },
         {
           "rank": 6,
-          "title": "Carmeni Selvam",
-          "tmdb": {
-            "id": 1536911,
-            "media_type": "movie",
-            "release_date": "2026-04-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Godari Gattupaina",
           "tmdb": {
             "id": 1610840,
             "media_type": "movie",
             "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Leader",
+          "tmdb": {
+            "id": 897560,
+            "media_type": "movie",
+            "release_date": "2018-10-12"
           }
         },
         {
@@ -379,11 +571,11 @@
         },
         {
           "rank": 9,
-          "title": "Leader",
+          "title": "Sukhamano Sukhamann",
           "tmdb": {
-            "id": 897560,
+            "id": 947036,
             "media_type": "movie",
-            "release_date": "2018-10-12"
+            "release_date": "2026-02-13"
           }
         },
         {
@@ -399,10 +591,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in India on June 13, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in India on June 14, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -499,10 +691,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in India on June 13, 2026",
+      "heading": "TOP Movies on Apple TV in India on June 14, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -543,15 +735,6 @@
         },
         {
           "rank": 5,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -560,21 +743,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Fountain of Youth",
+          "rank": 6,
+          "title": "Ghosted",
           "tmdb": {
-            "id": 1098006,
+            "id": 868759,
             "media_type": "movie",
-            "release_date": "2025-05-19"
+            "release_date": "2023-04-18"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Finch",
           "tmdb": {
             "id": 522402,
             "media_type": "movie",
             "release_date": "2021-11-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
           }
         },
         {
@@ -599,10 +791,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in India on June 13, 2026",
+      "heading": "TOP TV Shows on Apple TV in India on June 14, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -670,11 +862,11 @@
         },
         {
           "rank": 8,
-          "title": "Shrinking",
+          "title": "Severance",
           "tmdb": {
-            "id": 136311,
+            "id": 95396,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2022-02-17"
           }
         },
         {
@@ -688,21 +880,21 @@
         },
         {
           "rank": 10,
-          "title": "Severance",
+          "title": "Shrinking",
           "tmdb": {
-            "id": 95396,
+            "id": 136311,
             "media_type": "tv",
-            "release_date": "2022-02-17"
+            "release_date": "2023-01-26"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in India on June 13, 2026",
+      "heading": "TOP Movies on Apple TV Store in India on June 14, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -743,42 +935,6 @@
         },
         {
           "rank": 5,
-          "title": "Gangs of Wasseypur – Part 1",
-          "tmdb": {
-            "id": 117691,
-            "media_type": "movie",
-            "release_date": "2012-06-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Nay Varan Bhat Loncha Kon Nai Koncha",
-          "tmdb": {
-            "id": 974713,
-            "media_type": "movie",
-            "release_date": "2022-01-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Dil Dhadakne Do",
-          "tmdb": {
-            "id": 338065,
-            "media_type": "movie",
-            "release_date": "2015-06-04"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Taj Story",
-          "tmdb": {
-            "id": 1531858,
-            "media_type": "movie",
-            "release_date": "2025-10-31"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Wuthering Heights",
           "tmdb": {
             "id": 1316092,
@@ -787,22 +943,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Gangs of Wasseypur - Part 2",
+          "rank": 6,
+          "title": "Good Luck, Have Fun, Don't Die",
           "tmdb": {
-            "id": 126400,
+            "id": 1119449,
             "media_type": "movie",
-            "release_date": "2012-08-08"
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Taj Story",
+          "tmdb": {
+            "id": 1531858,
+            "media_type": "movie",
+            "release_date": "2025-10-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Nay Varan Bhat Loncha Kon Nai Koncha",
+          "tmdb": {
+            "id": 974713,
+            "media_type": "movie",
+            "release_date": "2022-01-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "tmdb": {
+            "id": 120,
+            "media_type": "movie",
+            "release_date": "2001-12-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Piku",
+          "tmdb": {
+            "id": 332835,
+            "media_type": "movie",
+            "release_date": "2015-05-08"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in India on June 13, 2026",
+      "heading": "TOP Movies on Google in India on June 14, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -825,15 +1017,6 @@
         },
         {
           "rank": 3,
-          "title": "Gangs of Wasseypur – Part 1",
-          "tmdb": {
-            "id": 117691,
-            "media_type": "movie",
-            "release_date": "2012-06-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Dil Dhadakne Do",
           "tmdb": {
             "id": 338065,
@@ -842,7 +1025,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Gangs of Wasseypur – Part 1",
+          "tmdb": {
+            "id": 117691,
+            "media_type": "movie",
+            "release_date": "2012-06-22"
+          }
+        },
+        {
           "rank": 5,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Lee Cronin's The Mummy",
           "tmdb": {
             "id": 1304313,
@@ -851,25 +1052,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Sultan",
-          "tmdb": {
-            "id": 452606,
-            "media_type": "movie",
-            "release_date": "1978-12-01"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Pihu",
-          "tmdb": {
-            "id": 563987,
-            "media_type": "movie",
-            "release_date": "2018-11-16"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Bhaag Milkha Bhaag",
           "tmdb": {
             "id": 206324,
@@ -878,31 +1061,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Pihu",
+          "tmdb": {
+            "id": 563987,
+            "media_type": "movie",
+            "release_date": "2018-11-16"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Sultan",
+          "tmdb": {
+            "id": 452606,
+            "media_type": "movie",
+            "release_date": "1978-12-01"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Dangal",
           "tmdb": {
             "id": 360814,
             "media_type": "movie",
             "release_date": "2016-12-21"
           }
-        },
-        {
-          "rank": 10,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
         }
       ]
     },
     {
       "catalog_id": "hotstar.overall",
-      "heading": "TOP Overall (in English) on Hotstar in India on June 13, 2026",
+      "heading": "TOP Overall (in English) on Hotstar in India on June 14, 2026",
       "category": "overall",
       "platform": "Hotstar",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -916,20 +1108,20 @@
         },
         {
           "rank": 2,
-          "title": "Friends",
-          "tmdb": {
-            "id": 1668,
-            "media_type": "tv",
-            "release_date": "1994-09-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Game of Thrones",
           "tmdb": {
             "id": 1399,
             "media_type": "tv",
             "release_date": "2011-04-17"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Friends",
+          "tmdb": {
+            "id": 1668,
+            "media_type": "tv",
+            "release_date": "1994-09-22"
           }
         },
         {
@@ -943,15 +1135,6 @@
         },
         {
           "rank": 5,
-          "title": "How I Met Your Mother",
-          "tmdb": {
-            "id": 1100,
-            "media_type": "tv",
-            "release_date": "2005-09-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
@@ -960,21 +1143,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Big Bang Theory",
+          "rank": 6,
+          "title": "How I Met Your Mother",
           "tmdb": {
-            "id": 1418,
+            "id": 1100,
             "media_type": "tv",
-            "release_date": "2007-09-24"
+            "release_date": "2005-09-19"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Hoppers",
           "tmdb": {
             "id": 1327819,
             "media_type": "movie",
             "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Big Bang Theory",
+          "tmdb": {
+            "id": 1418,
+            "media_type": "tv",
+            "release_date": "2007-09-24"
           }
         },
         {
@@ -988,21 +1180,21 @@
         },
         {
           "rank": 10,
-          "title": "Family Guy",
+          "title": "Dutton Ranch",
           "tmdb": {
-            "id": 1434,
+            "id": 299167,
             "media_type": "tv",
-            "release_date": "1999-01-31"
+            "release_date": "2026-05-15"
           }
         }
       ]
     },
     {
       "catalog_id": "hotstar.overall",
-      "heading": "TOP Overall (in Hindi) on Hotstar in India on June 13, 2026",
+      "heading": "TOP Overall (in Hindi) on Hotstar in India on June 14, 2026",
       "category": "overall",
       "platform": "Hotstar",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1043,20 +1235,20 @@
         },
         {
           "rank": 5,
-          "title": "Ugly Story",
-          "tmdb": {
-            "id": 1439584,
-            "media_type": "movie",
-            "release_date": "2026-05-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dridam",
           "tmdb": {
             "id": 912378,
             "media_type": "movie",
             "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ugly Story",
+          "tmdb": {
+            "id": 1439584,
+            "media_type": "movie",
+            "release_date": "2026-05-22"
           }
         },
         {
@@ -1088,21 +1280,21 @@
         },
         {
           "rank": 10,
-          "title": "Resort",
+          "title": "MTV Splitsvilla",
           "tmdb": {
-            "id": 315038,
+            "id": 7420,
             "media_type": "tv",
-            "release_date": "2026-03-13"
+            "release_date": "2008-06-20"
           }
         }
       ]
     },
     {
       "catalog_id": "hotstar.overall",
-      "heading": "TOP Overall (in Marathi) on Hotstar in India on June 13, 2026",
+      "heading": "TOP Overall (in Marathi) on Hotstar in India on June 14, 2026",
       "category": "overall",
       "platform": "Hotstar",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1143,15 +1335,6 @@
         },
         {
           "rank": 5,
-          "title": "Duniyadari",
-          "tmdb": {
-            "id": 237214,
-            "media_type": "movie",
-            "release_date": "2013-07-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Navra Mazha Navsacha",
           "tmdb": {
             "id": 907306,
@@ -1160,16 +1343,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Aayatya Gharat Gharoba",
+          "rank": 6,
+          "title": "Duniyadari",
           "tmdb": {
-            "id": 680899,
+            "id": 237214,
             "media_type": "movie",
-            "release_date": "1991-09-25"
+            "release_date": "2013-07-19"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Mumbai Pune Mumbai 2",
           "tmdb": {
             "id": 382960,
@@ -1178,31 +1361,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Mumbai Pune Mumbai",
-          "tmdb": {
-            "id": 313646,
-            "media_type": "movie",
-            "release_date": "2010-06-11"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "Inspector Avinash",
           "tmdb": {
             "id": 226707,
             "media_type": "tv",
             "release_date": "2023-05-18"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Aayatya Gharat Gharoba",
+          "tmdb": {
+            "id": 680899,
+            "media_type": "movie",
+            "release_date": "1991-09-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Mumbai Pune Mumbai",
+          "tmdb": {
+            "id": 313646,
+            "media_type": "movie",
+            "release_date": "2010-06-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "zee5.overall",
-      "heading": "TOP Overall on ZEE5 in India on June 13, 2026",
+      "heading": "TOP Overall on ZEE5 in India on June 14, 2026",
       "category": "overall",
       "platform": "ZEE5",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {

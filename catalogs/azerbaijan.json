@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/azerbaijan/",
-  "page_title": "TOP 10 on Streaming in Azerbaijan on June 13, 2026",
+  "page_title": "TOP 10 on Streaming in Azerbaijan on June 14, 2026",
   "region": "azerbaijan",
-  "date": "June 13, 2026",
-  "scraped_at_utc": "2026-06-13T16:00:58.260130+00:00",
+  "date": "June 14, 2026",
+  "scraped_at_utc": "2026-06-14T16:03:56.147188+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Azerbaijan on June 13, 2026",
+      "heading": "TOP Movies on Apple TV in Azerbaijan on June 14, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
-        },
-        {
           "rank": 3,
-          "title": "F1",
+          "title": "Luck",
           "tmdb": {
-            "id": 911430,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-06-25"
+            "release_date": "2022-08-05"
           }
         },
         {
@@ -51,15 +51,42 @@
         },
         {
           "rank": 5,
-          "title": "Greyhound",
+          "title": "Wolfs",
           "tmdb": {
-            "id": 516486,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2024-09-20"
           }
         },
         {
           "rank": 6,
+          "title": "Wolfwalkers",
+          "tmdb": {
+            "id": 441130,
+            "media_type": "movie",
+            "release_date": "2020-10-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Napoleon",
+          "tmdb": {
+            "id": 753342,
+            "media_type": "movie",
+            "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
@@ -68,49 +95,22 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 10,
           "title": "The Lost Bus",
           "tmdb": {
             "id": 1236470,
             "media_type": "movie",
             "release_date": "2025-09-19"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Finch",
-          "tmdb": {
-            "id": 522402,
-            "media_type": "movie",
-            "release_date": "2021-11-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Azerbaijan on June 13, 2026",
+      "heading": "TOP TV Shows on Apple TV in Azerbaijan on June 14, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,29 +142,29 @@
         },
         {
           "rank": 4,
-          "title": "Margo's Got Money Troubles",
+          "title": "Tehran",
           "tmdb": {
-            "id": 245318,
+            "id": 103913,
             "media_type": "tv",
-            "release_date": "2026-04-14"
+            "release_date": "2020-06-22"
           }
         },
         {
           "rank": 5,
-          "title": "See",
-          "tmdb": {
-            "id": 80752,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
           }
         },
         {
@@ -178,15 +178,6 @@
         },
         {
           "rank": 8,
-          "title": "Tehran",
-          "tmdb": {
-            "id": 103913,
-            "media_type": "tv",
-            "release_date": "2020-06-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -195,162 +186,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Unconditional",
+          "rank": 9,
+          "title": "Margo's Got Money Troubles",
           "tmdb": {
-            "id": 314916,
+            "id": 245318,
             "media_type": "tv",
-            "release_date": "2026-04-27"
+            "release_date": "2026-04-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "See",
+          "tmdb": {
+            "id": 80752,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Azerbaijan on June 13, 2026",
+      "heading": "TOP Movies on Apple TV Store in Azerbaijan on June 14, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 13, 2026",
+      "date": "June 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Another Round",
-          "tmdb": {
-            "id": 580175,
-            "media_type": "movie",
-            "release_date": "2020-09-24"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Ad Astra",
-          "tmdb": {
-            "id": 419704,
-            "media_type": "movie",
-            "release_date": "2019-09-17"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Those Who Wish Me Dead",
-          "tmdb": {
-            "id": 578701,
-            "media_type": "movie",
-            "release_date": "2021-05-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Before the Devil Knows You're Dead",
-          "tmdb": {
-            "id": 7972,
-            "media_type": "movie",
-            "release_date": "2007-09-26"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Gentlemen",
-          "tmdb": {
-            "id": 522627,
-            "media_type": "movie",
-            "release_date": "2020-01-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-          "tmdb": {
-            "id": 22,
-            "media_type": "movie",
-            "release_date": "2003-07-09"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "How to Train Your Dragon",
-          "tmdb": {
-            "id": 1087192,
-            "media_type": "movie",
-            "release_date": "2025-06-06"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Equalizer 2",
-          "tmdb": {
-            "id": 345887,
-            "media_type": "movie",
-            "release_date": "2018-07-19"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Azerbaijan on June 13, 2026",
-      "category": "movies",
-      "platform": "Google",
-      "date": "June 13, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Iron Lung",
-          "tmdb": {
-            "id": 1116201,
-            "media_type": "movie",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -359,48 +223,184 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Nuremberg",
+          "rank": 2,
+          "title": "Michael",
           "tmdb": {
-            "id": 1214931,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2025-11-06"
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Ad Astra",
+          "tmdb": {
+            "id": 419704,
+            "media_type": "movie",
+            "release_date": "2019-09-17"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Tenet",
+          "tmdb": {
+            "id": 577922,
+            "media_type": "movie",
+            "release_date": "2020-08-22"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Edge of Tomorrow",
+          "tmdb": {
+            "id": 137113,
+            "media_type": "movie",
+            "release_date": "2014-05-27"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Batman Begins",
+          "tmdb": {
+            "id": 272,
+            "media_type": "movie",
+            "release_date": "2005-06-10"
           }
         },
         {
           "rank": 7,
-          "title": "Cars",
+          "title": "Soul",
           "tmdb": {
-            "id": 920,
+            "id": 508442,
             "media_type": "movie",
-            "release_date": "2006-06-08"
+            "release_date": "2020-12-25"
           }
         },
         {
           "rank": 8,
-          "title": "Kingdom of Heaven",
+          "title": "The Equalizer 3",
           "tmdb": {
-            "id": 1495,
+            "id": 926393,
             "media_type": "movie",
-            "release_date": "2005-05-03"
+            "release_date": "2023-08-30"
           }
         },
         {
           "rank": 9,
-          "title": "De film van Rutger, Thomas & Paco",
+          "title": "12 Angry Men",
           "tmdb": {
-            "id": 1494468,
+            "id": 389,
             "media_type": "movie",
-            "release_date": "2025-07-02"
+            "release_date": "1957-04-10"
           }
         },
         {
           "rank": 10,
-          "title": "The Passion of the Christ",
+          "title": "Meet Joe Black",
           "tmdb": {
-            "id": 615,
+            "id": 297,
             "media_type": "movie",
-            "release_date": "2004-02-25"
+            "release_date": "1998-11-12"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "google.movies",
+      "heading": "TOP Movies on Google in Azerbaijan on June 14, 2026",
+      "category": "movies",
+      "platform": "Google",
+      "date": "June 14, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdb": {
+            "id": 1226863,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Return to Silent Hill",
+          "tmdb": {
+            "id": 680493,
+            "media_type": "movie",
+            "release_date": "2026-01-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Limitless",
+          "tmdb": {
+            "id": 51876,
+            "media_type": "movie",
+            "release_date": "2011-03-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Woodwalkers 2",
+          "tmdb": {
+            "id": 1278853,
+            "media_type": "movie",
+            "release_date": "2026-01-29"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Good Luck, Have Fun, Don't Die",
+          "tmdb": {
+            "id": 1119449,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
           }
         }
       ]
