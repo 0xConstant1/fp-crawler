@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/belize/",
-  "page_title": "TOP 10 on Streaming in Belize on June 14, 2026",
+  "page_title": "TOP 10 on Streaming in Belize on June 15, 2026",
   "region": "belize",
-  "date": "June 14, 2026",
-  "scraped_at_utc": "2026-06-14T16:04:00.511335+00:00",
+  "date": "June 15, 2026",
+  "scraped_at_utc": "2026-06-15T17:18:07.400223+00:00",
   "charts": [
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Belize on June 14, 2026",
+      "heading": "TOP Movies on HBO Max in Belize on June 15, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,20 +24,20 @@
         },
         {
           "rank": 2,
+          "title": "Black Phone 2",
+          "tmdb": {
+            "id": 1197137,
+            "media_type": "movie",
+            "release_date": "2025-10-15"
+          }
+        },
+        {
+          "rank": 3,
           "title": "My Mother's Wedding",
           "tmdb": {
             "id": 985602,
             "media_type": "movie",
             "release_date": "2025-08-08"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Bourne Identity",
-          "tmdb": {
-            "id": 2501,
-            "media_type": "movie",
-            "release_date": "2002-06-14"
           }
         },
         {
@@ -60,24 +60,15 @@
         },
         {
           "rank": 6,
-          "title": "Black Phone 2",
+          "title": "The Bourne Identity",
           "tmdb": {
-            "id": 1197137,
+            "id": 2501,
             "media_type": "movie",
-            "release_date": "2025-10-15"
+            "release_date": "2002-06-14"
           }
         },
         {
           "rank": 7,
-          "title": "The Dark Tower",
-          "tmdb": {
-            "id": 353491,
-            "media_type": "movie",
-            "release_date": "2017-08-03"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Jaws",
           "tmdb": {
             "id": 578,
@@ -86,31 +77,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "The Dark Tower",
+          "tmdb": {
+            "id": 353491,
+            "media_type": "movie",
+            "release_date": "2017-08-03"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Kraven the Hunter",
+          "tmdb": {
+            "id": 539972,
+            "media_type": "movie",
+            "release_date": "2024-12-11"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Talladega Nights: The Ballad of Ricky Bobby",
           "tmdb": {
             "id": 9718,
             "media_type": "movie",
             "release_date": "2006-08-04"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Blue Moon",
-          "tmdb": {
-            "id": 1299655,
-            "media_type": "movie",
-            "release_date": "2025-10-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Belize on June 14, 2026",
+      "heading": "TOP TV Shows on HBO Max in Belize on June 15, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,6 +133,15 @@
         },
         {
           "rank": 3,
+          "title": "House of the Dragon",
+          "tmdb": {
+            "id": 94997,
+            "media_type": "tv",
+            "release_date": "2022-08-21"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
@@ -141,7 +150,16 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Real Time with Bill Maher",
+          "tmdb": {
+            "id": 4419,
+            "media_type": "tv",
+            "release_date": "2003-02-21"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Naked and Afraid: Global Showdown",
           "tmdb": {
             "id": 322536,
@@ -150,31 +168,9 @@
           }
         },
         {
-          "rank": 5,
-          "title": "90 Day Fiancé: Before the 90 Days",
-          "tmdb": {
-            "id": 73319,
-            "media_type": "tv",
-            "release_date": "2017-08-06"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Half Man",
-          "tmdb": {
-            "id": 257994,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Real Time with Bill Maher",
-          "tmdb": {
-            "id": 4419,
-            "media_type": "tv",
-            "release_date": "2003-02-21"
-          }
+          "title": "Song of the Samurai",
+          "tmdb": null
         },
         {
           "rank": 8,
@@ -196,21 +192,21 @@
         },
         {
           "rank": 10,
-          "title": "Regular Show: The Lost Tapes",
+          "title": "Big Girls Wanted: Escaping Pearadise",
           "tmdb": {
-            "id": 256695,
+            "id": 324043,
             "media_type": "tv",
-            "release_date": "2026-05-11"
+            "release_date": "2026-06-10"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Belize on June 14, 2026",
+      "heading": "TOP Overall on Disney+ in Belize on June 15, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -229,20 +225,20 @@
         },
         {
           "rank": 3,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
             "media_type": "movie",
             "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
           }
         },
         {
@@ -265,20 +261,20 @@
         },
         {
           "rank": 7,
-          "title": "Malcolm in the Middle: Life's Still Unfair",
-          "tmdb": {
-            "id": 279471,
-            "media_type": "tv",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Send Help",
           "tmdb": {
             "id": 1198994,
             "media_type": "movie",
             "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "tmdb": {
+            "id": 279471,
+            "media_type": "tv",
+            "release_date": "2026-04-10"
           }
         },
         {
@@ -294,10 +290,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Belize on June 14, 2026",
+      "heading": "TOP Movies on Disney+ in Belize on June 15, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -316,20 +312,20 @@
         },
         {
           "rank": 3,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
             "media_type": "movie",
             "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
           }
         },
         {
@@ -381,10 +377,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Belize on June 14, 2026",
+      "heading": "TOP TV Shows on Disney+ in Belize on June 15, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -425,24 +421,15 @@
         },
         {
           "rank": 5,
-          "title": "Malcolm in the Middle",
+          "title": "Zootopia+",
           "tmdb": {
-            "id": 2004,
+            "id": 114463,
             "media_type": "tv",
-            "release_date": "2000-01-09"
+            "release_date": "2022-11-09"
           }
         },
         {
           "rank": 6,
-          "title": "High Potential",
-          "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Sofia the First: Royal Magic",
           "tmdb": {
             "id": 261647,
@@ -451,12 +438,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Doctor on the Edge",
+          "rank": 7,
+          "title": "Malcolm in the Middle",
           "tmdb": {
-            "id": 287009,
+            "id": 2004,
             "media_type": "tv",
-            "release_date": "2026-06-01"
+            "release_date": "2000-01-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
           }
         },
         {
@@ -481,32 +477,14 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Belize on June 14, 2026",
+      "heading": "TOP Movies on Apple TV in Belize on June 15, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "A Charlie Brown Thanksgiving",
-          "tmdb": {
-            "id": 13479,
-            "media_type": "movie",
-            "release_date": "1973-11-20"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Greatest Beer Run Ever",
-          "tmdb": {
-            "id": 597922,
-            "media_type": "movie",
-            "release_date": "2022-09-23"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Outcome",
           "tmdb": {
             "id": 1049471,
@@ -515,25 +493,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Snoopy Presents: A Summer Musical",
-          "tmdb": {
-            "id": 1484453,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "'Twas the Fight Before Christmas",
-          "tmdb": {
-            "id": 912541,
-            "media_type": "movie",
-            "release_date": "1990-12-23"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "title": "Fly Me to the Moon",
           "tmdb": {
             "id": 956842,
@@ -542,7 +502,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 3,
           "title": "Sharper",
           "tmdb": {
             "id": 717980,
@@ -551,58 +511,94 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Lost Bus",
+          "rank": 4,
+          "title": "The Greatest Beer Run Ever",
           "tmdb": {
-            "id": 1236470,
+            "id": 597922,
             "media_type": "movie",
-            "release_date": "2025-09-19"
+            "release_date": "2022-09-23"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Palmer",
+          "tmdb": {
+            "id": 458220,
+            "media_type": "movie",
+            "release_date": "2021-01-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "All of You",
+          "tmdb": {
+            "id": 1319965,
+            "media_type": "movie",
+            "release_date": "2025-09-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "'Twas the Fight Before Christmas",
+          "tmdb": {
+            "id": 912541,
+            "media_type": "movie",
+            "release_date": "1990-12-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
           }
         },
         {
           "rank": 9,
-          "title": "Charlie Brown's Christmas Tales",
+          "title": "A Charlie Brown Thanksgiving",
           "tmdb": {
-            "id": 37556,
+            "id": 13479,
             "media_type": "movie",
-            "release_date": "2002-12-08"
+            "release_date": "1973-11-20"
           }
         },
         {
           "rank": 10,
-          "title": "Selena Gomez: My Mind & Me",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 1022256,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2022-11-04"
+            "release_date": "2025-11-11"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Belize on June 14, 2026",
+      "heading": "TOP TV Shows on Apple TV in Belize on June 15, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Your Friends & Neighbors",
-          "tmdb": {
-            "id": 241609,
-            "media_type": "tv",
-            "release_date": "2025-04-10"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
           }
         },
         {
@@ -616,24 +612,6 @@
         },
         {
           "rank": 4,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Imperfect Women",
           "tmdb": {
             "id": 108181,
@@ -642,7 +620,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "The Last Thing He Told Me",
           "tmdb": {
             "id": 201289,
@@ -651,7 +629,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Maximum Pleasure Guaranteed",
           "tmdb": {
             "id": 285404,
@@ -660,7 +638,16 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -669,22 +656,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Defending Jacob",
+          "rank": 9,
+          "title": "The Snoopy Show",
           "tmdb": {
-            "id": 87784,
+            "id": 110948,
             "media_type": "tv",
-            "release_date": "2020-04-24"
+            "release_date": "2021-02-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Belize on June 14, 2026",
+      "heading": "TOP Movies on Apple TV Store in Belize on June 15, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 14, 2026",
+      "date": "June 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -707,24 +703,6 @@
         },
         {
           "rank": 3,
-          "title": "Transformers",
-          "tmdb": {
-            "id": 1858,
-            "media_type": "movie",
-            "release_date": "2007-06-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Black Adam",
-          "tmdb": {
-            "id": 436270,
-            "media_type": "movie",
-            "release_date": "2022-10-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
@@ -733,7 +711,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "Barbie",
           "tmdb": {
             "id": 346698,
@@ -742,16 +720,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Fast Five",
+          "rank": 5,
+          "title": "Transformers",
           "tmdb": {
-            "id": 51497,
+            "id": 1858,
             "media_type": "movie",
-            "release_date": "2011-04-20"
+            "release_date": "2007-06-27"
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Black Adam",
+          "tmdb": {
+            "id": 436270,
+            "media_type": "movie",
+            "release_date": "2022-10-19"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
@@ -760,21 +747,30 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Fast Five",
+          "tmdb": {
+            "id": 51497,
+            "media_type": "movie",
+            "release_date": "2011-04-20"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Wolf of Wall Street",
+          "tmdb": {
+            "id": 106646,
+            "media_type": "movie",
+            "release_date": "2013-12-25"
+          }
+        },
+        {
+          "rank": 10,
           "title": "King Richard",
           "tmdb": {
             "id": 614917,
             "media_type": "movie",
             "release_date": "2021-11-18"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Three Steps Above Heaven",
-          "tmdb": {
-            "id": 61979,
-            "media_type": "movie",
-            "release_date": "2010-12-03"
           }
         }
       ]
