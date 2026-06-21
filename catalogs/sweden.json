@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/sweden/",
-  "page_title": "TOP 10 on Streaming in Sweden on June 20, 2026",
+  "page_title": "TOP 10 on Streaming in Sweden on June 21, 2026",
   "region": "sweden",
-  "date": "June 20, 2026",
-  "scraped_at_utc": "2026-06-20T16:02:30.629603+00:00",
+  "date": "June 21, 2026",
+  "scraped_at_utc": "2026-06-21T16:11:48.146449+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Netflix in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Voicemails for Isabelle",
+          "tmdb": {
+            "id": 614945,
+            "media_type": "movie",
+            "release_date": "2026-06-20"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Maternal Instinct",
           "tmdb": {
             "id": 1699155,
@@ -23,7 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "A Minecraft Movie",
+          "tmdb": {
+            "id": 950387,
+            "media_type": "movie",
+            "release_date": "2025-03-31"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Superintelligence",
           "tmdb": {
             "id": 521007,
@@ -32,7 +50,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Office Romance",
           "tmdb": {
             "id": 1358005,
@@ -41,16 +59,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Sonic the Hedgehog 3",
-          "tmdb": {
-            "id": 939243,
-            "media_type": "movie",
-            "release_date": "2024-12-19"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "Street Kings",
           "tmdb": {
             "id": 1266,
@@ -59,7 +68,25 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Contractor",
+          "tmdb": {
+            "id": 628900,
+            "media_type": "movie",
+            "release_date": "2022-03-10"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Venom: The Last Dance",
           "tmdb": {
             "id": 912649,
@@ -68,49 +95,22 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Roped",
-          "tmdb": {
-            "id": 699519,
-            "media_type": "movie",
-            "release_date": "2020-05-02"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Mr. Church",
-          "tmdb": {
-            "id": 374461,
-            "media_type": "movie",
-            "release_date": "2016-09-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Green Lantern",
-          "tmdb": {
-            "id": 44912,
-            "media_type": "movie",
-            "release_date": "2011-06-14"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Turbo",
+          "title": "Swapped",
           "tmdb": {
-            "id": 77950,
+            "id": 1007757,
             "media_type": "movie",
-            "release_date": "2013-07-11"
+            "release_date": "2026-05-01"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on Netflix in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,24 +142,15 @@
         },
         {
           "rank": 4,
-          "title": "Outlast: The Jungle",
+          "title": "Salish & Jordan Matter",
           "tmdb": {
-            "id": 322803,
+            "id": 318906,
             "media_type": "tv",
-            "release_date": "2026-06-10"
+            "release_date": "2026-04-11"
           }
         },
         {
           "rank": 5,
-          "title": "Sweet Magnolias",
-          "tmdb": {
-            "id": 102904,
-            "media_type": "tv",
-            "release_date": "2020-05-19"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Michael Jackson: The Verdict",
           "tmdb": {
             "id": 323111,
@@ -168,12 +159,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Salish & Jordan Matter",
+          "rank": 6,
+          "title": "Sweet Magnolias",
           "tmdb": {
-            "id": 318906,
+            "id": 102904,
             "media_type": "tv",
-            "release_date": "2026-04-11"
+            "release_date": "2020-05-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Outlast: The Jungle",
+          "tmdb": {
+            "id": 322803,
+            "media_type": "tv",
+            "release_date": "2026-06-10"
           }
         },
         {
@@ -187,34 +187,243 @@
         },
         {
           "rank": 9,
+          "title": "Oasis",
+          "tmdb": {
+            "id": 296285,
+            "media_type": "tv",
+            "release_date": "2026-06-19"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Teach You a Lesson",
           "tmdb": {
             "id": 276161,
             "media_type": "tv",
             "release_date": "2026-06-05"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Sweden on June 21, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "June 21, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Turbo",
+          "tmdb": {
+            "id": 77950,
+            "media_type": "movie",
+            "release_date": "2013-07-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Sunes sommar",
+          "tmdb": {
+            "id": 30149,
+            "media_type": "movie",
+            "release_date": "1993-12-25"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Madagascar",
+          "tmdb": {
+            "id": 953,
+            "media_type": "movie",
+            "release_date": "2005-05-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "tmdb": {
+            "id": 400155,
+            "media_type": "movie",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Lilla spöket Laban spökar igen",
+          "tmdb": {
+            "id": 1360718,
+            "media_type": "movie",
+            "release_date": "2024-10-11"
+          }
         },
         {
           "rank": 10,
-          "title": "The Four Seasons",
+          "title": "The Boss Baby",
           "tmdb": {
-            "id": 243316,
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Sweden on June 21, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "June 21, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
             "media_type": "tv",
-            "release_date": "2025-05-01"
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Booba",
+          "tmdb": {
+            "id": 81700,
+            "media_type": "tv",
+            "release_date": "2014-11-10"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Creature Cases",
+          "tmdb": {
+            "id": 195407,
+            "media_type": "tv",
+            "release_date": "2022-04-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Barbie: Life in the Dreamhouse",
+          "tmdb": {
+            "id": 61838,
+            "media_type": "tv",
+            "release_date": "2012-05-11"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sonic Prime",
+          "tmdb": {
+            "id": 115577,
+            "media_type": "tv",
+            "release_date": "2022-12-15"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Sweden on June 20, 2026",
+      "heading": "TOP Movies on HBO Max in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Midsommar",
+          "tmdb": {
+            "id": 530385,
+            "media_type": "movie",
+            "release_date": "2019-07-03"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
@@ -223,7 +432,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Until Dawn",
           "tmdb": {
             "id": 1232546,
@@ -232,7 +441,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "They Will Kill You",
           "tmdb": {
             "id": 1292695,
@@ -241,25 +450,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Lord of the Rings: The Fellowship of the Ring",
-          "tmdb": {
-            "id": 120,
-            "media_type": "movie",
-            "release_date": "2001-12-18"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Lord of the Rings: The Two Towers",
-          "tmdb": {
-            "id": 121,
-            "media_type": "movie",
-            "release_date": "2002-12-18"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Handbok för superhjältar",
           "tmdb": {
             "id": 1545652,
@@ -268,7 +459,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "tmdb": {
+            "id": 120,
+            "media_type": "movie",
+            "release_date": "2001-12-18"
+          }
+        },
+        {
           "rank": 7,
+          "title": "The Lord of the Rings: The Two Towers",
+          "tmdb": {
+            "id": 121,
+            "media_type": "movie",
+            "release_date": "2002-12-18"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Dredd",
           "tmdb": {
             "id": 49049,
@@ -277,7 +486,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Lord of the Rings: The Return of the King",
           "tmdb": {
             "id": 122,
@@ -286,31 +495,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Eternal Summer",
           "tmdb": {
             "id": 57005,
             "media_type": "movie",
             "release_date": "2006-10-13"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Zone of Interest",
-          "tmdb": {
-            "id": 467244,
-            "media_type": "movie",
-            "release_date": "2023-12-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on HBO Max in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -407,10 +607,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Sweden on June 20, 2026",
+      "heading": "TOP Overall on Disney+ in Sweden on June 21, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -429,11 +629,11 @@
         },
         {
           "rank": 3,
-          "title": "Extreme Makeover: Homer Edition",
+          "title": "Toy Story 4",
           "tmdb": {
-            "id": 1716513,
+            "id": 301528,
             "media_type": "movie",
-            "release_date": "2026-06-17"
+            "release_date": "2019-06-19"
           }
         },
         {
@@ -447,20 +647,20 @@
         },
         {
           "rank": 5,
-          "title": "Alice and Steve",
+          "title": "Extreme Makeover: Homer Edition",
           "tmdb": {
-            "id": 318203,
-            "media_type": "tv",
-            "release_date": "2026-06-08"
+            "id": 1716513,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
           }
         },
         {
           "rank": 6,
-          "title": "Toy Story 4",
+          "title": "Toy Story 2",
           "tmdb": {
-            "id": 301528,
+            "id": 863,
             "media_type": "movie",
-            "release_date": "2019-06-19"
+            "release_date": "1999-10-30"
           }
         },
         {
@@ -474,15 +674,6 @@
         },
         {
           "rank": 8,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Million Dollar Nannies",
           "tmdb": {
             "id": 322928,
@@ -491,22 +682,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Not Suitable for Work",
+          "rank": 9,
+          "title": "Send Help",
           "tmdb": {
-            "id": 284725,
+            "id": 1198994,
+            "media_type": "movie",
+            "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Alice and Steve",
+          "tmdb": {
+            "id": 318203,
             "media_type": "tv",
-            "release_date": "2026-06-02"
+            "release_date": "2026-06-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Disney+ in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -525,11 +725,11 @@
         },
         {
           "rank": 3,
-          "title": "Extreme Makeover: Homer Edition",
+          "title": "Toy Story 4",
           "tmdb": {
-            "id": 1716513,
+            "id": 301528,
             "media_type": "movie",
-            "release_date": "2026-06-17"
+            "release_date": "2019-06-19"
           }
         },
         {
@@ -543,29 +743,29 @@
         },
         {
           "rank": 5,
-          "title": "Toy Story 4",
+          "title": "Extreme Makeover: Homer Edition",
           "tmdb": {
-            "id": 301528,
+            "id": 1716513,
             "media_type": "movie",
-            "release_date": "2019-06-19"
+            "release_date": "2026-06-17"
           }
         },
         {
           "rank": 6,
-          "title": "Toy Story 3",
-          "tmdb": {
-            "id": 10193,
-            "media_type": "movie",
-            "release_date": "2010-06-16"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
             "media_type": "movie",
             "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story 3",
+          "tmdb": {
+            "id": 10193,
+            "media_type": "movie",
+            "release_date": "2010-06-16"
           }
         },
         {
@@ -579,48 +779,48 @@
         },
         {
           "rank": 9,
-          "title": "Atlantis: The Lost Empire",
-          "tmdb": {
-            "id": 10865,
-            "media_type": "movie",
-            "release_date": "2001-06-02"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
           "tmdb": {
             "id": 22,
             "media_type": "movie",
             "release_date": "2003-07-09"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Atlantis: The Lost Empire",
+          "tmdb": {
+            "id": 10865,
+            "media_type": "movie",
+            "release_date": "2001-06-02"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on Disney+ in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Alice and Steve",
-          "tmdb": {
-            "id": 318203,
-            "media_type": "tv",
-            "release_date": "2026-06-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Million Dollar Nannies",
           "tmdb": {
             "id": 322928,
             "media_type": "tv",
             "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Alice and Steve",
+          "tmdb": {
+            "id": 318203,
+            "media_type": "tv",
+            "release_date": "2026-06-08"
           }
         },
         {
@@ -670,39 +870,39 @@
         },
         {
           "rank": 8,
-          "title": "Rivals",
+          "title": "Lucky Luke",
           "tmdb": {
-            "id": 208921,
+            "id": 259405,
             "media_type": "tv",
-            "release_date": "2024-10-18"
+            "release_date": "2026-03-23"
           }
         },
         {
           "rank": 9,
-          "title": "Dragon Striker",
+          "title": "Bluey Minisodes",
           "tmdb": {
-            "id": 204135,
+            "id": 256953,
             "media_type": "tv",
-            "release_date": "2026-06-09"
+            "release_date": "2024-06-16"
           }
         },
         {
           "rank": 10,
-          "title": "Love Story",
+          "title": "Zootopia+",
           "tmdb": {
-            "id": 131142,
+            "id": 114463,
             "media_type": "tv",
-            "release_date": "2026-02-12"
+            "release_date": "2022-11-09"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Sweden on June 20, 2026",
+      "heading": "TOP Overall on Amazon Prime in Sweden on June 21, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -734,20 +934,20 @@
         },
         {
           "rank": 4,
-          "title": "Every Year After",
-          "tmdb": {
-            "id": 260592,
-            "media_type": "tv",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Shelter",
           "tmdb": {
             "id": 1290821,
             "media_type": "movie",
             "release_date": "2026-01-28"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Every Year After",
+          "tmdb": {
+            "id": 260592,
+            "media_type": "tv",
+            "release_date": "2026-06-10"
           }
         },
         {
@@ -770,15 +970,6 @@
         },
         {
           "rank": 8,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Tom Clancy's Jack Ryan: Ghost War",
           "tmdb": {
             "id": 1380291,
@@ -787,22 +978,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Tintin and the Lake of Sharks",
+          "rank": 9,
+          "title": "The Boys",
           "tmdb": {
-            "id": 241004,
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Hellboy: The Crooked Man",
+          "tmdb": {
+            "id": 1087822,
             "media_type": "movie",
-            "release_date": "1972-12-13"
+            "release_date": "2024-08-29"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Amazon Prime in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -834,20 +1034,20 @@
         },
         {
           "rank": 4,
-          "title": "Tintin and the Lake of Sharks",
+          "title": "Hellboy: The Crooked Man",
           "tmdb": {
-            "id": 241004,
+            "id": 1087822,
             "media_type": "movie",
-            "release_date": "1972-12-13"
+            "release_date": "2024-08-29"
           }
         },
         {
           "rank": 5,
-          "title": "My Fault: London",
+          "title": "Håkan Bråkan 003",
           "tmdb": {
-            "id": 1294203,
+            "id": 1430019,
             "media_type": "movie",
-            "release_date": "2025-02-12"
+            "release_date": "2025-12-19"
           }
         },
         {
@@ -861,29 +1061,29 @@
         },
         {
           "rank": 7,
-          "title": "Håkan Bråkan 003",
+          "title": "My Fault: London",
           "tmdb": {
-            "id": 1430019,
+            "id": 1294203,
             "media_type": "movie",
-            "release_date": "2025-12-19"
+            "release_date": "2025-02-12"
           }
         },
         {
           "rank": 8,
+          "title": "Tintin and the Lake of Sharks",
+          "tmdb": {
+            "id": 241004,
+            "media_type": "movie",
+            "release_date": "1972-12-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Calculus Affair",
           "tmdb": {
             "id": 536552,
             "media_type": "movie",
             "release_date": "1991-12-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hellboy: The Crooked Man",
-          "tmdb": {
-            "id": 1087822,
-            "media_type": "movie",
-            "release_date": "2024-08-29"
           }
         },
         {
@@ -899,10 +1099,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -995,10 +1195,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Apple TV in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1030,20 +1230,20 @@
         },
         {
           "rank": 4,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Outcome",
           "tmdb": {
             "id": 1049471,
             "media_type": "movie",
             "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -1075,39 +1275,39 @@
         },
         {
           "rank": 9,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
             "media_type": "movie",
             "release_date": "2022-08-05"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Napoleon",
+          "tmdb": {
+            "id": 753342,
+            "media_type": "movie",
+            "release_date": "2023-11-22"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on Apple TV in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Cape Fear",
+          "title": "Sugar",
           "tmdb": {
-            "id": 277439,
+            "id": 203744,
             "media_type": "tv",
-            "release_date": "2026-06-04"
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -1121,29 +1321,29 @@
         },
         {
           "rank": 3,
-          "title": "Sugar",
+          "title": "Cape Fear",
           "tmdb": {
-            "id": 203744,
+            "id": 277439,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2026-06-04"
           }
         },
         {
           "rank": 4,
-          "title": "Star City",
-          "tmdb": {
-            "id": 252107,
-            "media_type": "tv",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -1195,10 +1395,10 @@
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Amazon in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1295,10 +1495,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Apple TV Store in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1321,15 +1521,6 @@
         },
         {
           "rank": 3,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
@@ -1338,21 +1529,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Bad Neighbours",
+          "rank": 4,
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 1372178,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2026-02-20"
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "We Bury the Dead",
+          "tmdb": {
+            "id": 1198984,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
           }
         },
         {
           "rank": 6,
-          "title": "How to Make a Killing",
+          "title": "Greenland 2: Migration",
           "tmdb": {
-            "id": 467905,
+            "id": 840464,
             "media_type": "movie",
-            "release_date": "2026-02-16"
+            "release_date": "2026-01-07"
           }
         },
         {
@@ -1366,20 +1566,20 @@
         },
         {
           "rank": 8,
-          "title": "We Bury the Dead",
+          "title": "Bad Neighbours",
           "tmdb": {
-            "id": 1198984,
+            "id": 1372178,
             "media_type": "movie",
-            "release_date": "2026-01-01"
+            "release_date": "2026-02-20"
           }
         },
         {
           "rank": 9,
-          "title": "Greenland 2: Migration",
+          "title": "How to Make a Killing",
           "tmdb": {
-            "id": 840464,
+            "id": 467905,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2026-02-16"
           }
         },
         {
@@ -1395,10 +1595,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Google in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1495,10 +1695,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Rakuten TV in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1521,20 +1721,20 @@
         },
         {
           "rank": 3,
-          "title": "Icefall",
-          "tmdb": {
-            "id": 1242501,
-            "media_type": "movie",
-            "release_date": "2025-10-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
             "media_type": "movie",
             "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Icefall",
+          "tmdb": {
+            "id": 1242501,
+            "media_type": "movie",
+            "release_date": "2025-10-16"
           }
         },
         {
@@ -1548,15 +1748,6 @@
         },
         {
           "rank": 6,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Good Luck, Have Fun, Don't Die",
           "tmdb": {
             "id": 1119449,
@@ -1565,12 +1756,21 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Chickenhare and the Secret of the Groundhog",
+          "rank": 7,
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1215532,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2025-09-19"
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Wizard of the Kremlin",
+          "tmdb": {
+            "id": 1291659,
+            "media_type": "movie",
+            "release_date": "2026-01-21"
           }
         },
         {
@@ -1595,10 +1795,10 @@
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Sweden on June 20, 2026",
+      "heading": "TOP Movies on Viaplay in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1694,111 +1894,11 @@
       ]
     },
     {
-      "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Sweden on June 20, 2026",
-      "category": "tv shows",
-      "platform": "Viaplay",
-      "date": "June 20, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "The Beach Hotel",
-          "tmdb": {
-            "id": 219721,
-            "media_type": "tv",
-            "release_date": "2023-03-07"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Sandokan",
-          "tmdb": {
-            "id": 271855,
-            "media_type": "tv",
-            "release_date": "2025-12-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Exit",
-          "tmdb": {
-            "id": 94137,
-            "media_type": "tv",
-            "release_date": "2019-09-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Husjakt i Solen",
-          "tmdb": {
-            "id": 320334,
-            "media_type": "tv",
-            "release_date": "2026-04-21"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ghosts",
-          "tmdb": {
-            "id": 126027,
-            "media_type": "tv",
-            "release_date": "2021-10-07"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Outlander",
-          "tmdb": {
-            "id": 56570,
-            "media_type": "tv",
-            "release_date": "2014-08-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Chicago Fire",
-          "tmdb": {
-            "id": 44006,
-            "media_type": "tv",
-            "release_date": "2012-10-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Chicago P.D.",
-          "tmdb": {
-            "id": 58841,
-            "media_type": "tv",
-            "release_date": "2014-01-08"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Chicago Med",
-          "tmdb": {
-            "id": 62650,
-            "media_type": "tv",
-            "release_date": "2015-11-17"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Svenska fall",
-          "tmdb": {
-            "id": 112556,
-            "media_type": "tv",
-            "release_date": "2018-08-30"
-          }
-        }
-      ]
-    },
-    {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Sweden on June 20, 2026",
+      "heading": "TOP Movies on SkyShowtime in Sweden on June 21, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1821,11 +1921,11 @@
         },
         {
           "rank": 3,
-          "title": "Bugonia",
+          "title": "Top Gun: Maverick",
           "tmdb": {
-            "id": 701387,
+            "id": 361743,
             "media_type": "movie",
-            "release_date": "2025-10-23"
+            "release_date": "2022-05-21"
           }
         },
         {
@@ -1839,6 +1939,24 @@
         },
         {
           "rank": 5,
+          "title": "Bugonia",
+          "tmdb": {
+            "id": 701387,
+            "media_type": "movie",
+            "release_date": "2025-10-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Sonic the Hedgehog 2",
+          "tmdb": {
+            "id": 675353,
+            "media_type": "movie",
+            "release_date": "2022-03-30"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Silencing",
           "tmdb": {
             "id": 603119,
@@ -1847,30 +1965,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
             "media_type": "movie",
             "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Clifford the Big Red Dog",
-          "tmdb": {
-            "id": 585245,
-            "media_type": "movie",
-            "release_date": "2021-11-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Black Phone 2",
-          "tmdb": {
-            "id": 1197137,
-            "media_type": "movie",
-            "release_date": "2025-10-15"
           }
         },
         {
@@ -1884,21 +1984,21 @@
         },
         {
           "rank": 10,
-          "title": "All My Life",
+          "title": "Black Phone 2",
           "tmdb": {
-            "id": 632322,
+            "id": 1197137,
             "media_type": "movie",
-            "release_date": "2020-10-23"
+            "release_date": "2025-10-15"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Sweden on June 20, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Sweden on June 21, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 20, 2026",
+      "date": "June 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1948,20 +2048,20 @@
         },
         {
           "rank": 6,
-          "title": "Prisoner",
-          "tmdb": {
-            "id": 4275,
-            "media_type": "tv",
-            "release_date": "1979-02-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Rosa Elettrica - In fuga con il nemico",
           "tmdb": {
             "id": 319820,
             "media_type": "tv",
             "release_date": "2026-05-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Prisoner",
+          "tmdb": {
+            "id": 4275,
+            "media_type": "tv",
+            "release_date": "1979-02-27"
           }
         },
         {
