@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/jamaica/",
-  "page_title": "TOP 10 on Streaming in Jamaica on June 27, 2026",
+  "page_title": "TOP 10 on Streaming in Jamaica on June 28, 2026",
   "region": "jamaica",
-  "date": "June 27, 2026",
-  "scraped_at_utc": "2026-06-27T15:54:26.176568+00:00",
+  "date": "June 28, 2026",
+  "scraped_at_utc": "2026-06-28T15:56:50.189062+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Jamaica on June 27, 2026",
+      "heading": "TOP Movies on Netflix in Jamaica on June 28, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Little Brother",
+          "tmdb": {
+            "id": 1397385,
+            "media_type": "movie",
+            "release_date": "2026-06-18"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Voicemails for Isabelle",
           "tmdb": {
             "id": 614945,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Killer",
           "tmdb": {
             "id": 800158,
@@ -32,7 +41,16 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "Siberia",
+          "tmdb": {
+            "id": 438689,
+            "media_type": "movie",
+            "release_date": "2018-07-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Contractor",
           "tmdb": {
             "id": 15071,
@@ -41,30 +59,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Vacation",
-          "tmdb": {
-            "id": 296099,
-            "media_type": "movie",
-            "release_date": "2015-07-28"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "Office Romance",
           "tmdb": {
             "id": 1358005,
             "media_type": "movie",
             "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Creator",
-          "tmdb": {
-            "id": 670292,
-            "media_type": "movie",
-            "release_date": "2023-09-27"
           }
         },
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "Husbands in Action",
+          "title": "Vacation",
           "tmdb": {
-            "id": 1451344,
+            "id": 296099,
             "media_type": "movie",
-            "release_date": "2026-06-15"
+            "release_date": "2015-07-28"
           }
         },
         {
@@ -96,43 +96,25 @@
         },
         {
           "rank": 10,
-          "title": "S.M.A.R.T. Chase",
+          "title": "The Creator",
           "tmdb": {
-            "id": 473920,
+            "id": 670292,
             "media_type": "movie",
-            "release_date": "2017-09-30"
+            "release_date": "2023-09-27"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Jamaica on June 27, 2026",
+      "heading": "TOP TV Shows on Netflix in Jamaica on June 28, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "I Will Find You",
-          "tmdb": {
-            "id": 278178,
-            "media_type": "tv",
-            "release_date": "2026-06-18"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Polygamist",
-          "tmdb": {
-            "id": 322430,
-            "media_type": "tv",
-            "release_date": "2026-06-12"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Avatar the Last Airbender",
           "tmdb": {
             "id": 82452,
@@ -141,7 +123,34 @@
           }
         },
         {
+          "rank": 2,
+          "title": "I Will Find You",
+          "tmdb": {
+            "id": 278178,
+            "media_type": "tv",
+            "release_date": "2026-06-18"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Polygamist",
+          "tmdb": {
+            "id": 322430,
+            "media_type": "tv",
+            "release_date": "2026-06-12"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Agent Kim Reactivated",
+          "tmdb": {
+            "id": 296206,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Oasis",
           "tmdb": {
             "id": 296285,
@@ -150,7 +159,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "WWE Night of Champions",
+          "tmdb": null
+        },
+        {
+          "rank": 7,
           "title": "Nemesis",
           "tmdb": {
             "id": 285807,
@@ -159,16 +173,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Anne Rice's Mayfair Witches",
-          "tmdb": {
-            "id": 207863,
-            "media_type": "tv",
-            "release_date": "2023-01-08"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Teach You a Lesson",
           "tmdb": {
             "id": 276161,
@@ -177,7 +182,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Blood Sisters",
           "tmdb": {
             "id": 197428,
@@ -186,31 +191,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Man on Fire",
-          "tmdb": {
-            "id": 223386,
-            "media_type": "tv",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
           "rank": 10,
-          "title": "BAKI-DOU: The Invincible Samurai",
+          "title": "Anne Rice's Mayfair Witches",
           "tmdb": {
-            "id": 300054,
+            "id": 207863,
             "media_type": "tv",
-            "release_date": "2026-02-26"
+            "release_date": "2023-01-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Jamaica on June 27, 2026",
+      "heading": "TOP Overall on Disney+ in Jamaica on June 28, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -303,10 +299,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Jamaica on June 27, 2026",
+      "heading": "TOP Movies on Disney+ in Jamaica on June 28, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -399,10 +395,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Jamaica on June 27, 2026",
+      "heading": "TOP TV Shows on Disney+ in Jamaica on June 28, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -443,6 +439,15 @@
         },
         {
           "rank": 5,
+          "title": "The Bear",
+          "tmdb": {
+            "id": 136315,
+            "media_type": "tv",
+            "release_date": "2022-06-23"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Doctor on the Edge",
           "tmdb": {
             "id": 287009,
@@ -451,7 +456,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Not Suitable for Work",
           "tmdb": {
             "id": 284725,
@@ -460,7 +465,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Gravity Falls",
           "tmdb": {
             "id": 40075,
@@ -469,7 +474,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Sofia the First: Royal Magic",
           "tmdb": {
             "id": 261647,
@@ -478,21 +483,12 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Zootopia+",
           "tmdb": {
             "id": 114463,
             "media_type": "tv",
             "release_date": "2022-11-09"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Bear",
-          "tmdb": {
-            "id": 136315,
-            "media_type": "tv",
-            "release_date": "2022-06-23"
           }
         }
       ]

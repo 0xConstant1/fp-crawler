@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/hungary/",
-  "page_title": "TOP 10 on Streaming in Hungary on June 27, 2026",
+  "page_title": "TOP 10 on Streaming in Hungary on June 28, 2026",
   "region": "hungary",
-  "date": "June 27, 2026",
-  "scraped_at_utc": "2026-06-27T15:54:21.528431+00:00",
+  "date": "June 28, 2026",
+  "scraped_at_utc": "2026-06-28T15:56:42.937463+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Netflix in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Little Brother",
+          "tmdb": {
+            "id": 1397385,
+            "media_type": "movie",
+            "release_date": "2026-06-18"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Voicemails for Isabelle",
           "tmdb": {
             "id": 614945,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Killer",
           "tmdb": {
             "id": 800158,
@@ -32,43 +41,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Anora",
-          "tmdb": {
-            "id": 1064213,
-            "media_type": "movie",
-            "release_date": "2024-10-14"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Maternal Instinct",
-          "tmdb": {
-            "id": 1699155,
-            "media_type": "movie",
-            "release_date": "2026-06-11"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Turbo",
-          "tmdb": {
-            "id": 77950,
-            "media_type": "movie",
-            "release_date": "2013-07-11"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Those Who Wish Me Dead",
-          "tmdb": {
-            "id": 578701,
-            "media_type": "movie",
-            "release_date": "2021-05-05"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Office Romance",
           "tmdb": {
             "id": 1358005,
@@ -77,12 +50,39 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Swapped",
+          "rank": 5,
+          "title": "Those Who Wish Me Dead",
           "tmdb": {
-            "id": 1007757,
+            "id": 578701,
             "media_type": "movie",
-            "release_date": "2026-05-01"
+            "release_date": "2021-05-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Anora",
+          "tmdb": {
+            "id": 1064213,
+            "media_type": "movie",
+            "release_date": "2024-10-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Maternal Instinct",
+          "tmdb": {
+            "id": 1699155,
+            "media_type": "movie",
+            "release_date": "2026-06-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Night at the Museum",
+          "tmdb": {
+            "id": 1593,
+            "media_type": "movie",
+            "release_date": "2006-12-20"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Husbands in Action",
+          "title": "Turbo",
           "tmdb": {
-            "id": 1451344,
+            "id": 77950,
             "media_type": "movie",
-            "release_date": "2026-06-15"
+            "release_date": "2013-07-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on Netflix in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Another Self",
-          "tmdb": {
-            "id": 206180,
-            "media_type": "tv",
-            "release_date": "2022-07-28"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Oasis",
-          "tmdb": {
-            "id": 296285,
-            "media_type": "tv",
-            "release_date": "2026-06-19"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Avatar the Last Airbender",
           "tmdb": {
             "id": 82452,
@@ -150,16 +132,25 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Teach You a Lesson",
+          "rank": 3,
+          "title": "Another Self",
           "tmdb": {
-            "id": 276161,
+            "id": 206180,
             "media_type": "tv",
-            "release_date": "2026-06-05"
+            "release_date": "2022-07-28"
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Oasis",
+          "tmdb": {
+            "id": 296285,
+            "media_type": "tv",
+            "release_date": "2026-06-19"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
@@ -168,12 +159,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Polygamist",
+          "rank": 6,
+          "title": "Teach You a Lesson",
           "tmdb": {
-            "id": 322430,
+            "id": 276161,
             "media_type": "tv",
-            "release_date": "2026-06-12"
+            "release_date": "2026-06-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Agent Kim Reactivated",
+          "tmdb": {
+            "id": 296206,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
           }
         },
         {
@@ -187,30 +187,30 @@
         },
         {
           "rank": 9,
+          "title": "The Polygamist",
+          "tmdb": {
+            "id": 322430,
+            "media_type": "tv",
+            "release_date": "2026-06-12"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Sweet Magnolias",
           "tmdb": {
             "id": 102904,
             "media_type": "tv",
             "release_date": "2020-05-19"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Witness",
-          "tmdb": {
-            "id": 280511,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Hungary on June 27, 2026",
+      "heading": "TOP Movies on HBO Max in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,6 +224,15 @@
         },
         {
           "rank": 2,
+          "title": "The Accountant",
+          "tmdb": {
+            "id": 302946,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Sisu: Road to Revenge",
           "tmdb": {
             "id": 1223601,
@@ -232,21 +241,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Spy",
-          "tmdb": {
-            "id": 238713,
-            "media_type": "movie",
-            "release_date": "2015-05-06"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Liar Liar",
+          "title": "Back to Black",
           "tmdb": {
-            "id": 1624,
+            "id": 998846,
             "media_type": "movie",
-            "release_date": "1997-03-21"
+            "release_date": "2024-04-11"
           }
         },
         {
@@ -260,6 +260,24 @@
         },
         {
           "rank": 6,
+          "title": "Spy",
+          "tmdb": {
+            "id": 238713,
+            "media_type": "movie",
+            "release_date": "2015-05-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Liar Liar",
+          "tmdb": {
+            "id": 1624,
+            "media_type": "movie",
+            "release_date": "1997-03-21"
+          }
+        },
+        {
+          "rank": 8,
           "title": "They Will Kill You",
           "tmdb": {
             "id": 1292695,
@@ -268,16 +286,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Accountant",
-          "tmdb": {
-            "id": 302946,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Bring Her Back",
           "tmdb": {
             "id": 1151031,
@@ -286,31 +295,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Dodgeball: A True Underdog Story",
           "tmdb": {
             "id": 9472,
             "media_type": "movie",
             "release_date": "2004-06-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Kingsman: The Secret Service",
-          "tmdb": {
-            "id": 207703,
-            "media_type": "movie",
-            "release_date": "2015-01-24"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on HBO Max in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,6 +351,15 @@
         },
         {
           "rank": 5,
+          "title": "Proud",
+          "tmdb": {
+            "id": 315610,
+            "media_type": "tv",
+            "release_date": "2026-06-12"
+          }
+        },
+        {
+          "rank": 6,
           "title": "A Knight of the Seven Kingdoms",
           "tmdb": {
             "id": 224372,
@@ -359,21 +368,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
             "media_type": "tv",
             "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Rooster",
-          "tmdb": {
-            "id": 254953,
-            "media_type": "tv",
-            "release_date": "2026-03-08"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Hungary on June 27, 2026",
+      "heading": "TOP Overall on Disney+ in Hungary on June 28, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -483,30 +483,30 @@
         },
         {
           "rank": 9,
-          "title": "Avatar",
-          "tmdb": {
-            "id": 19995,
-            "media_type": "movie",
-            "release_date": "2009-12-16"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Extreme Makeover: Homer Edition",
           "tmdb": {
             "id": 1716513,
             "media_type": "movie",
             "release_date": "2026-06-17"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Avatar",
+          "tmdb": {
+            "id": 19995,
+            "media_type": "movie",
+            "release_date": "2009-12-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Disney+ in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -570,20 +570,20 @@
         },
         {
           "rank": 8,
-          "title": "Avatar",
-          "tmdb": {
-            "id": 19995,
-            "media_type": "movie",
-            "release_date": "2009-12-16"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Extreme Makeover: Homer Edition",
           "tmdb": {
             "id": 1716513,
             "media_type": "movie",
             "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Avatar",
+          "tmdb": {
+            "id": 19995,
+            "media_type": "movie",
+            "release_date": "2009-12-16"
           }
         },
         {
@@ -599,10 +599,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on Disney+ in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -616,20 +616,20 @@
         },
         {
           "rank": 2,
+          "title": "The Bear",
+          "tmdb": {
+            "id": 136315,
+            "media_type": "tv",
+            "release_date": "2022-06-23"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
             "media_type": "tv",
             "release_date": "2026-04-08"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "SuperKitties: Su-Purr Adventures (Shorts)",
-          "tmdb": {
-            "id": 261557,
-            "media_type": "tv",
-            "release_date": "2024-08-08"
           }
         },
         {
@@ -643,11 +643,11 @@
         },
         {
           "rank": 5,
-          "title": "Secrets of the Bees",
+          "title": "The Mandalorian",
           "tmdb": {
-            "id": 218274,
+            "id": 82856,
             "media_type": "tv",
-            "release_date": "2026-03-31"
+            "release_date": "2019-11-12"
           }
         },
         {
@@ -661,48 +661,48 @@
         },
         {
           "rank": 7,
-          "title": "The Mandalorian",
+          "title": "Secrets of the Bees",
           "tmdb": {
-            "id": 82856,
+            "id": 218274,
             "media_type": "tv",
-            "release_date": "2019-11-12"
+            "release_date": "2026-03-31"
           }
         },
         {
           "rank": 8,
+          "title": "Chernobyl: Inside The Meltdown",
+          "tmdb": {
+            "id": 313406,
+            "media_type": "tv",
+            "release_date": "2026-04-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "SuperKitties: Su-Purr Adventures (Shorts)",
+          "tmdb": {
+            "id": 261557,
+            "media_type": "tv",
+            "release_date": "2024-08-08"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Desperate Housewives",
           "tmdb": {
             "id": 693,
             "media_type": "tv",
             "release_date": "2004-10-03"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Bluey Minisodes",
-          "tmdb": {
-            "id": 256953,
-            "media_type": "tv",
-            "release_date": "2024-06-16"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Zootopia+",
-          "tmdb": {
-            "id": 114463,
-            "media_type": "tv",
-            "release_date": "2022-11-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Hungary on June 27, 2026",
+      "heading": "TOP Overall on Amazon Prime in Hungary on June 28, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -716,20 +716,20 @@
         },
         {
           "rank": 2,
-          "title": "Every Year After",
-          "tmdb": {
-            "id": 260592,
-            "media_type": "tv",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Sheep Detectives",
           "tmdb": {
             "id": 1301421,
             "media_type": "movie",
             "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Every Year After",
+          "tmdb": {
+            "id": 260592,
+            "media_type": "tv",
+            "release_date": "2026-06-10"
           }
         },
         {
@@ -761,20 +761,20 @@
         },
         {
           "rank": 7,
-          "title": "The Legend of Vox Machina",
-          "tmdb": {
-            "id": 135934,
-            "media_type": "tv",
-            "release_date": "2022-01-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Legend of Vox Machina",
+          "tmdb": {
+            "id": 135934,
+            "media_type": "tv",
+            "release_date": "2022-01-27"
           }
         },
         {
@@ -799,10 +799,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Amazon Prime in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -834,15 +834,6 @@
         },
         {
           "rank": 4,
-          "title": "My Fault",
-          "tmdb": {
-            "id": 1010581,
-            "media_type": "movie",
-            "release_date": "2023-06-08"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Our Fault",
           "tmdb": {
             "id": 1156594,
@@ -851,12 +842,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Your Fault",
+          "rank": 5,
+          "title": "Driver's Ed",
           "tmdb": {
-            "id": 1156593,
+            "id": 1398050,
             "media_type": "movie",
-            "release_date": "2024-12-26"
+            "release_date": "2026-05-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "My Fault",
+          "tmdb": {
+            "id": 1010581,
+            "media_type": "movie",
+            "release_date": "2023-06-08"
           }
         },
         {
@@ -870,6 +870,15 @@
         },
         {
           "rank": 8,
+          "title": "Your Fault",
+          "tmdb": {
+            "id": 1156593,
+            "media_type": "movie",
+            "release_date": "2024-12-26"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Summer House",
           "tmdb": {
             "id": 1556616,
@@ -878,31 +887,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Love Me Love Me",
           "tmdb": {
             "id": 1317672,
             "media_type": "movie",
             "release_date": "2026-02-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Playdate",
-          "tmdb": {
-            "id": 1248226,
-            "media_type": "movie",
-            "release_date": "2025-11-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -943,20 +943,20 @@
         },
         {
           "rank": 5,
-          "title": "The Legend of Vox Machina",
-          "tmdb": {
-            "id": 135934,
-            "media_type": "tv",
-            "release_date": "2022-01-27"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Legend of Vox Machina",
+          "tmdb": {
+            "id": 135934,
+            "media_type": "tv",
+            "release_date": "2022-01-27"
           }
         },
         {
@@ -999,10 +999,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Apple TV in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1016,15 +1016,6 @@
         },
         {
           "rank": 2,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Echo Valley",
           "tmdb": {
             "id": 1097311,
@@ -1033,25 +1024,16 @@
           }
         },
         {
+          "rank": 3,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
           "rank": 4,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Eternity",
-          "tmdb": {
-            "id": 1259102,
-            "media_type": "movie",
-            "release_date": "2025-11-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Outcome",
           "tmdb": {
             "id": 1049471,
@@ -1060,7 +1042,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1069,21 +1060,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Tetris",
           "tmdb": {
             "id": 726759,
             "media_type": "movie",
             "release_date": "2023-03-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
           }
         },
         {
@@ -1099,10 +1099,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on Apple TV in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1116,20 +1116,20 @@
         },
         {
           "rank": 2,
-          "title": "Sugar",
-          "tmdb": {
-            "id": 203744,
-            "media_type": "tv",
-            "release_date": "2024-04-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -1199,28 +1199,28 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Apple TV Store in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
             "media_type": "movie",
             "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Mortal Kombat II",
+          "tmdb": {
+            "id": 931285,
+            "media_type": "movie",
+            "release_date": "2026-05-06"
           }
         },
         {
@@ -1243,33 +1243,15 @@
         },
         {
           "rank": 5,
-          "title": "Hoppers",
+          "title": "The Wrecking Crew",
           "tmdb": {
-            "id": 1327819,
+            "id": 1168190,
             "media_type": "movie",
-            "release_date": "2026-03-04"
+            "release_date": "2026-01-28"
           }
         },
         {
           "rank": 6,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Shrek",
-          "tmdb": {
-            "id": 808,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Wolf of Wall Street",
           "tmdb": {
             "id": 106646,
@@ -1278,31 +1260,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "GOAT",
+          "rank": 7,
+          "title": "Lee Cronin's The Mummy",
           "tmdb": {
-            "id": 1297842,
+            "id": 1304313,
             "media_type": "movie",
-            "release_date": "2026-02-11"
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
           }
         },
         {
           "rank": 10,
-          "title": "Mortal Kombat",
+          "title": "Dune: Part Two",
           "tmdb": {
-            "id": 460465,
+            "id": 693134,
             "media_type": "movie",
-            "release_date": "2021-04-07"
+            "release_date": "2024-02-27"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Google in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1370,6 +1370,15 @@
         },
         {
           "rank": 8,
+          "title": "American Wedding",
+          "tmdb": {
+            "id": 8273,
+            "media_type": "movie",
+            "release_date": "2003-08-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Nobody",
           "tmdb": {
             "id": 615457,
@@ -1378,31 +1387,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Ghostbusters",
           "tmdb": {
             "id": 620,
             "media_type": "movie",
             "release_date": "1984-06-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "American Wedding",
-          "tmdb": {
-            "id": 8273,
-            "media_type": "movie",
-            "release_date": "2003-08-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Hungary on June 27, 2026",
+      "heading": "TOP Movies on Rakuten TV in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1479,11 +1479,11 @@
         },
         {
           "rank": 9,
-          "title": "Send Help",
+          "title": "Mortal Kombat II",
           "tmdb": {
-            "id": 1198994,
+            "id": 931285,
             "media_type": "movie",
-            "release_date": "2026-01-22"
+            "release_date": "2026-05-06"
           }
         },
         {
@@ -1499,28 +1499,28 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Hungary on June 27, 2026",
+      "heading": "TOP Movies on SkyShowtime in Hungary on June 28, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Honey Don't!",
-          "tmdb": {
-            "id": 1149504,
-            "media_type": "movie",
-            "release_date": "2025-08-21"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Wicked: For Good",
           "tmdb": {
             "id": 967941,
             "media_type": "movie",
             "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Honey Don't!",
+          "tmdb": {
+            "id": 1149504,
+            "media_type": "movie",
+            "release_date": "2025-08-21"
           }
         },
         {
@@ -1561,11 +1561,11 @@
         },
         {
           "rank": 7,
-          "title": "Sonic the Hedgehog 2",
+          "title": "Overlord",
           "tmdb": {
-            "id": 675353,
+            "id": 438799,
             "media_type": "movie",
-            "release_date": "2022-03-30"
+            "release_date": "2018-11-01"
           }
         },
         {
@@ -1579,30 +1579,30 @@
         },
         {
           "rank": 9,
-          "title": "Overlord",
+          "title": "Van Helsing",
           "tmdb": {
-            "id": 438799,
+            "id": 7131,
             "media_type": "movie",
-            "release_date": "2018-11-01"
+            "release_date": "2004-05-03"
           }
         },
         {
           "rank": 10,
-          "title": "Rumble",
+          "title": "Sonic the Hedgehog 2",
           "tmdb": {
-            "id": 598331,
+            "id": 675353,
             "media_type": "movie",
-            "release_date": "2021-02-12"
+            "release_date": "2022-03-30"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Hungary on June 27, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Hungary on June 28, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 27, 2026",
+      "date": "June 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1670,20 +1670,20 @@
         },
         {
           "rank": 8,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Ligas",
           "tmdb": {
             "id": 314658,
             "media_type": "tv",
             "release_date": "2026-03-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
           }
         },
         {
