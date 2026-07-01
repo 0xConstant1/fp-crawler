@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/albania/",
-  "page_title": "TOP 10 on Streaming in Albania on June 30, 2026",
+  "page_title": "TOP 10 on Streaming in Albania on July 1, 2026",
   "region": "albania",
-  "date": "June 30, 2026",
-  "scraped_at_utc": "2026-06-30T16:19:00.219276+00:00",
+  "date": "July 1, 2026",
+  "scraped_at_utc": "2026-07-01T16:19:28.805517+00:00",
   "charts": [
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Albania on June 30, 2026",
+      "heading": "TOP Movies on HBO Max in Albania on July 1, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,28 +107,28 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Albania on June 30, 2026",
+      "heading": "TOP TV Shows on HBO Max in Albania on July 1, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 2,
           "title": "House of the Dragon",
           "tmdb": {
             "id": 94997,
             "media_type": "tv",
             "release_date": "2022-08-21"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
           }
         },
         {
@@ -169,11 +169,11 @@
         },
         {
           "rank": 7,
-          "title": "Last Week Tonight with John Oliver",
+          "title": "90 Day Fiancé",
           "tmdb": {
-            "id": 60694,
+            "id": 61575,
             "media_type": "tv",
-            "release_date": "2014-04-27"
+            "release_date": "2014-01-12"
           }
         },
         {
@@ -196,21 +196,21 @@
         },
         {
           "rank": 10,
-          "title": "90 Day Fiancé",
+          "title": "Last Week Tonight with John Oliver",
           "tmdb": {
-            "id": 61575,
+            "id": 60694,
             "media_type": "tv",
-            "release_date": "2014-01-12"
+            "release_date": "2014-04-27"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Albania on June 30, 2026",
+      "heading": "TOP Overall on Disney+ in Albania on July 1, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Albania on June 30, 2026",
+      "heading": "TOP Movies on Disney+ in Albania on July 1, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -338,33 +338,6 @@
         },
         {
           "rank": 4,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Predator: Badlands",
-          "tmdb": {
-            "id": 1242898,
-            "media_type": "movie",
-            "release_date": "2025-11-05"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Avatar",
-          "tmdb": {
-            "id": 19995,
-            "media_type": "movie",
-            "release_date": "2009-12-16"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -373,12 +346,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Toy Story 5 | A Special Look",
-          "tmdb": null
+          "rank": 5,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
+          }
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -387,22 +364,45 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Avatar: The Way of Water",
+          "rank": 7,
+          "title": "Avatar",
           "tmdb": {
-            "id": 76600,
+            "id": 19995,
             "media_type": "movie",
-            "release_date": "2022-12-14"
+            "release_date": "2009-12-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Moana 2",
+          "tmdb": {
+            "id": 1241982,
+            "media_type": "movie",
+            "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
+        },
+        {
+          "rank": 10,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Albania on June 30, 2026",
+      "heading": "TOP TV Shows on Disney+ in Albania on July 1, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -425,15 +425,6 @@
         },
         {
           "rank": 3,
-          "title": "High Potential",
-          "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Perfect Crown",
           "tmdb": {
             "id": 278573,
@@ -442,43 +433,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
+          }
+        },
+        {
           "rank": 5,
-          "title": "The Testaments",
-          "tmdb": {
-            "id": 287527,
-            "media_type": "tv",
-            "release_date": "2026-04-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Million Dollar Nannies",
-          "tmdb": {
-            "id": 322928,
-            "media_type": "tv",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Star Wars: Maul - Shadow Lord",
-          "tmdb": {
-            "id": 289219,
-            "media_type": "tv",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Desperate Housewives",
-          "tmdb": {
-            "id": 693,
-            "media_type": "tv",
-            "release_date": "2004-10-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Dragon Striker",
           "tmdb": {
             "id": 204135,
@@ -487,40 +451,76 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Secrets of the Bees",
+          "rank": 6,
+          "title": "Desperate Housewives",
           "tmdb": {
-            "id": 218274,
+            "id": 693,
             "media_type": "tv",
-            "release_date": "2026-03-31"
+            "release_date": "2004-10-03"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Testaments",
+          "tmdb": {
+            "id": 287527,
+            "media_type": "tv",
+            "release_date": "2026-04-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "How I Met Your Mother",
+          "tmdb": {
+            "id": 1100,
+            "media_type": "tv",
+            "release_date": "2005-09-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bluey Minisodes",
+          "tmdb": {
+            "id": 256953,
+            "media_type": "tv",
+            "release_date": "2024-06-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Modern Family",
+          "tmdb": {
+            "id": 1421,
+            "media_type": "tv",
+            "release_date": "2009-09-23"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Albania on June 30, 2026",
+      "heading": "TOP Movies on SkyShowtime in Albania on July 1, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Lucy",
+          "title": "Death of a Unicorn",
           "tmdb": {
-            "id": 240832,
+            "id": 1153714,
             "media_type": "movie",
-            "release_date": "2014-07-25"
+            "release_date": "2025-03-17"
           }
         },
         {
           "rank": 2,
-          "title": "The Silencing",
+          "title": "Gabby's Dollhouse: The Movie",
           "tmdb": {
-            "id": 603119,
+            "id": 1280282,
             "media_type": "movie",
-            "release_date": "2020-07-18"
+            "release_date": "2025-09-13"
           }
         },
         {
@@ -534,51 +534,15 @@
         },
         {
           "rank": 4,
-          "title": "Dragnet",
+          "title": "The Dictator",
           "tmdb": {
-            "id": 10023,
+            "id": 76493,
             "media_type": "movie",
-            "release_date": "1987-06-26"
+            "release_date": "2012-05-15"
           }
         },
         {
           "rank": 5,
-          "title": "Adult Beginners",
-          "tmdb": {
-            "id": 287587,
-            "media_type": "movie",
-            "release_date": "2014-09-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Boss Baby",
-          "tmdb": {
-            "id": 295693,
-            "media_type": "movie",
-            "release_date": "2017-03-23"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Notting Hill",
-          "tmdb": {
-            "id": 509,
-            "media_type": "movie",
-            "release_date": "1999-05-21"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Sing",
-          "tmdb": {
-            "id": 335797,
-            "media_type": "movie",
-            "release_date": "2016-11-23"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Jurassic World Rebirth",
           "tmdb": {
             "id": 1234821,
@@ -587,35 +551,62 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Mexican",
+          "rank": 6,
+          "title": "Terminator Genisys",
           "tmdb": {
-            "id": 6073,
+            "id": 87101,
             "media_type": "movie",
-            "release_date": "2001-03-01"
+            "release_date": "2015-06-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Bau, Artist at War",
+          "tmdb": {
+            "id": 1106382,
+            "media_type": "movie",
+            "release_date": "2024-04-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Mission: Impossible - The Final Reckoning",
+          "tmdb": {
+            "id": 575265,
+            "media_type": "movie",
+            "release_date": "2025-05-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Paycheck",
+          "tmdb": {
+            "id": 9620,
+            "media_type": "movie",
+            "release_date": "2003-12-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Wicked",
+          "tmdb": {
+            "id": 402431,
+            "media_type": "movie",
+            "release_date": "2024-10-16"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Albania on June 30, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Albania on July 1, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "June 30, 2026",
+      "date": "July 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Agency",
           "tmdb": {
             "id": 219971,
@@ -624,7 +615,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Morpheus",
           "tmdb": {
             "id": 310953,
@@ -633,16 +624,34 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Marshals",
+          "rank": 3,
+          "title": "Dutton Ranch",
           "tmdb": {
-            "id": 290856,
+            "id": 299167,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Rosa Elettrica - In fuga con il nemico",
+          "tmdb": {
+            "id": 319820,
+            "media_type": "tv",
+            "release_date": "2026-05-08"
           }
         },
         {
           "rank": 5,
+          "title": "The Trio",
+          "tmdb": {
+            "id": 321808,
+            "media_type": "tv",
+            "release_date": "2026-06-01"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Ray Donovan",
           "tmdb": {
             "id": 1423,
@@ -651,48 +660,39 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Frasier",
-          "tmdb": {
-            "id": 3452,
-            "media_type": "tv",
-            "release_date": "1993-09-16"
-          }
-        },
-        {
           "rank": 7,
-          "title": "The Good Wife",
+          "title": "Lioness",
           "tmdb": {
-            "id": 1435,
+            "id": 113962,
             "media_type": "tv",
-            "release_date": "2009-09-22"
+            "release_date": "2023-07-23"
           }
         },
         {
           "rank": 8,
-          "title": "Prisoner",
+          "title": "Under the Dome",
           "tmdb": {
-            "id": 311858,
+            "id": 46331,
             "media_type": "tv",
-            "release_date": "2026-04-30"
+            "release_date": "2013-06-24"
           }
         },
         {
           "rank": 9,
-          "title": "Tulsa King",
+          "title": "Landman",
           "tmdb": {
-            "id": 153312,
+            "id": 157741,
             "media_type": "tv",
-            "release_date": "2022-11-13"
+            "release_date": "2024-11-17"
           }
         },
         {
           "rank": 10,
-          "title": "Star Trek: Enterprise",
+          "title": "The Alienist",
           "tmdb": {
-            "id": 314,
+            "id": 71769,
             "media_type": "tv",
-            "release_date": "2001-09-26"
+            "release_date": "2018-01-22"
           }
         }
       ]
