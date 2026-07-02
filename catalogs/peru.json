@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/peru/",
-  "page_title": "TOP 10 on Streaming in Peru on July 1, 2026",
+  "page_title": "TOP 10 on Streaming in Peru on July 2, 2026",
   "region": "peru",
-  "date": "July 1, 2026",
-  "scraped_at_utc": "2026-07-01T16:20:49.421612+00:00",
+  "date": "July 2, 2026",
+  "scraped_at_utc": "2026-07-02T16:14:56.219689+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Peru on July 1, 2026",
+      "heading": "TOP Movies on Netflix in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Netflix in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Peru on July 1, 2026",
+      "heading": "TOP Movies on HBO Max in Peru on July 2, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -242,15 +242,6 @@
         },
         {
           "rank": 4,
-          "title": "Gothika",
-          "tmdb": {
-            "id": 4970,
-            "media_type": "movie",
-            "release_date": "2003-11-21"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Body Brokers",
           "tmdb": {
             "id": 656940,
@@ -259,12 +250,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Eleanor the Great",
+          "rank": 5,
+          "title": "Sting",
           "tmdb": {
-            "id": 1212271,
+            "id": 1087388,
             "media_type": "movie",
-            "release_date": "2025-09-04"
+            "release_date": "2024-04-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gothika",
+          "tmdb": {
+            "id": 4970,
+            "media_type": "movie",
+            "release_date": "2003-11-21"
           }
         },
         {
@@ -278,11 +278,11 @@
         },
         {
           "rank": 8,
-          "title": "Sting",
+          "title": "Eleanor the Great",
           "tmdb": {
-            "id": 1087388,
+            "id": 1212271,
             "media_type": "movie",
-            "release_date": "2024-04-12"
+            "release_date": "2025-09-04"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on HBO Max in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,20 +333,20 @@
         },
         {
           "rank": 3,
-          "title": "A Knight of the Seven Kingdoms",
-          "tmdb": {
-            "id": 224372,
-            "media_type": "tv",
-            "release_date": "2026-01-18"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Bahar",
           "tmdb": {
             "id": 245914,
             "media_type": "tv",
             "release_date": "2024-02-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "A Knight of the Seven Kingdoms",
+          "tmdb": {
+            "id": 224372,
+            "media_type": "tv",
+            "release_date": "2026-01-18"
           }
         },
         {
@@ -360,15 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
-          "tmdb": {
-            "id": 295780,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Wild Heart",
           "tmdb": {
             "id": 231503,
@@ -377,16 +368,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Curb Your Enthusiasm",
+          "rank": 7,
+          "title": "Life, Larry and the Pursuit of Unhappiness",
           "tmdb": {
-            "id": 4546,
+            "id": 295780,
             "media_type": "tv",
-            "release_date": "2000-10-15"
+            "release_date": "2026-06-26"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Medcezir",
           "tmdb": {
             "id": 61867,
@@ -395,22 +386,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
             "media_type": "tv",
             "release_date": "2019-06-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "My Adventures with Superman",
+          "tmdb": {
+            "id": 125928,
+            "media_type": "tv",
+            "release_date": "2023-07-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Peru on July 1, 2026",
+      "heading": "TOP Overall on Disney+ in Peru on July 2, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -424,15 +424,6 @@
         },
         {
           "rank": 2,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -441,7 +432,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
@@ -450,21 +459,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
             "media_type": "movie",
             "release_date": "2019-06-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
           }
         },
         {
@@ -474,15 +474,6 @@
         },
         {
           "rank": 8,
-          "title": "Avatar: The Way of Water",
-          "tmdb": {
-            "id": 76600,
-            "media_type": "movie",
-            "release_date": "2022-12-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
           "tmdb": {
             "id": 1424808,
@@ -491,22 +482,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Send Help",
+          "rank": 9,
+          "title": "Avatar: The Way of Water",
           "tmdb": {
-            "id": 1198994,
+            "id": 76600,
             "media_type": "movie",
-            "release_date": "2026-01-22"
+            "release_date": "2022-12-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Not Suitable for Work",
+          "tmdb": {
+            "id": 284725,
+            "media_type": "tv",
+            "release_date": "2026-06-02"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Peru on July 1, 2026",
+      "heading": "TOP Movies on Disney+ in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,15 +538,6 @@
         },
         {
           "rank": 4,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -555,12 +546,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
             "media_type": "movie",
             "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
           }
         },
         {
@@ -570,11 +570,11 @@
         },
         {
           "rank": 8,
-          "title": "Avatar: The Way of Water",
+          "title": "Ratatouille",
           "tmdb": {
-            "id": 76600,
+            "id": 2062,
             "media_type": "movie",
-            "release_date": "2022-12-14"
+            "release_date": "2007-06-28"
           }
         },
         {
@@ -588,34 +588,25 @@
         },
         {
           "rank": 10,
-          "title": "Send Help",
+          "title": "Avatar: The Way of Water",
           "tmdb": {
-            "id": 1198994,
+            "id": 76600,
             "media_type": "movie",
-            "release_date": "2026-01-22"
+            "release_date": "2022-12-14"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Disney+ in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "High Potential",
-          "tmdb": {
-            "id": 226637,
-            "media_type": "tv",
-            "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Not Suitable for Work",
           "tmdb": {
             "id": 284725,
@@ -624,16 +615,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Perfect Crown",
+          "rank": 2,
+          "title": "High Potential",
           "tmdb": {
-            "id": 278573,
+            "id": 226637,
             "media_type": "tv",
-            "release_date": "2026-04-10"
+            "release_date": "2024-09-17"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Doctor on the Edge",
           "tmdb": {
             "id": 287009,
@@ -642,16 +633,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Malcolm in the Middle: Life's Still Unfair",
+          "rank": 4,
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 279471,
+            "id": 278573,
             "media_type": "tv",
             "release_date": "2026-04-10"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Bear",
           "tmdb": {
             "id": 136315,
@@ -660,7 +651,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -669,16 +660,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Zootopia+",
+          "rank": 7,
+          "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
-            "id": 114463,
+            "id": 279471,
             "media_type": "tv",
-            "release_date": "2022-11-09"
+            "release_date": "2026-04-10"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Would You Marry Me?",
           "tmdb": {
             "id": 281011,
@@ -687,40 +678,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "In Your Radiant Season",
+          "rank": 9,
+          "title": "Zootopia+",
           "tmdb": {
-            "id": 233833,
+            "id": 114463,
             "media_type": "tv",
-            "release_date": "2026-02-20"
+            "release_date": "2022-11-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "X-Men '97",
+          "tmdb": {
+            "id": 138502,
+            "media_type": "tv",
+            "release_date": "2024-03-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Peru on July 1, 2026",
+      "heading": "TOP Movies on Amazon Prime in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Sheep Detectives",
-          "tmdb": {
-            "id": 1301421,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
             "media_type": "movie",
             "release_date": "2025-11-06"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Sheep Detectives",
+          "tmdb": {
+            "id": 1301421,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
           }
         },
         {
@@ -779,30 +779,30 @@
         },
         {
           "rank": 9,
+          "title": "Your Fault: London",
+          "tmdb": {
+            "id": 1477317,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Legally Blonde",
           "tmdb": {
             "id": 8835,
             "media_type": "movie",
             "release_date": "2001-07-13"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Strangers: Chapter 2",
-          "tmdb": {
-            "id": 1010756,
-            "media_type": "movie",
-            "release_date": "2025-09-25"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -816,15 +816,6 @@
         },
         {
           "rank": 2,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Pa' Quererte",
           "tmdb": {
             "id": 136228,
@@ -833,21 +824,30 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Elle",
+          "tmdb": {
+            "id": 254420,
+            "media_type": "tv",
+            "release_date": "2026-07-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "See You at Work Tomorrow!",
           "tmdb": {
             "id": 289763,
             "media_type": "tv",
             "release_date": "2026-06-22"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Spider-Noir",
-          "tmdb": {
-            "id": 220102,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
           }
         },
         {
@@ -861,6 +861,15 @@
         },
         {
           "rank": 7,
+          "title": "Spider-Noir",
+          "tmdb": {
+            "id": 220102,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 8,
           "title": "El Chavo del Ocho",
           "tmdb": {
             "id": 47,
@@ -869,21 +878,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
             "media_type": "tv",
             "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Par de ideotas",
-          "tmdb": {
-            "id": 284416,
-            "media_type": "tv",
-            "release_date": "2025-03-07"
           }
         },
         {
@@ -899,10 +899,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Peru on July 1, 2026",
+      "heading": "TOP Movies on Paramount+ in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -943,6 +943,15 @@
         },
         {
           "rank": 5,
+          "title": "The Last Stand of Ellen Cole",
+          "tmdb": {
+            "id": 1411773,
+            "media_type": "movie",
+            "release_date": "2024-10-18"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Night Hunter",
           "tmdb": {
             "id": 441282,
@@ -951,7 +960,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Take Cover",
           "tmdb": {
             "id": 1094974,
@@ -960,7 +969,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "High Ground",
           "tmdb": {
             "id": 1433719,
@@ -969,7 +978,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "War of the Worlds",
           "tmdb": {
             "id": 755898,
@@ -978,40 +987,26 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Never Let Go",
-          "tmdb": {
-            "id": 814889,
-            "media_type": "movie",
-            "release_date": "2024-09-18"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Scary Movie",
+          "title": "South Park: The End Of Obesity",
           "tmdb": {
-            "id": 1273221,
+            "id": 1290938,
             "media_type": "movie",
-            "release_date": "2026-06-03"
+            "release_date": "2024-05-24"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "FIFA World Cup 2026",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -1020,25 +1015,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Agency",
-          "tmdb": {
-            "id": 219971,
-            "media_type": "tv",
-            "release_date": "2024-12-01"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1047,7 +1024,39 @@
           }
         },
         {
+          "rank": 3,
+          "title": "FIFA World Cup 2026",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "UFC Freedom 250: Topuria vs. Gaethje",
+          "tmdb": {
+            "id": 1648226,
+            "media_type": "movie",
+            "release_date": "2026-06-14"
+          }
+        },
+        {
           "rank": 6,
+          "title": "The Agency",
+          "tmdb": {
+            "id": 219971,
+            "media_type": "tv",
+            "release_date": "2024-12-01"
+          }
+        },
+        {
+          "rank": 7,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1056,7 +1065,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
@@ -1065,7 +1074,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Sabrina, the Teenage Witch",
           "tmdb": {
             "id": 605,
@@ -1074,31 +1083,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Among Us",
-          "tmdb": {
-            "id": 229544,
-            "media_type": "tv",
-            "release_date": "2026-06-05"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Landman",
+          "title": "Criminal Minds",
           "tmdb": {
-            "id": 157741,
+            "id": 4057,
             "media_type": "tv",
-            "release_date": "2024-11-17"
+            "release_date": "2005-09-22"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Peru on July 1, 2026",
+      "heading": "TOP Movies on Apple TV in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1121,24 +1121,6 @@
         },
         {
           "rank": 3,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Family Plan 2",
-          "tmdb": {
-            "id": 1363123,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1147,12 +1129,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Eternity",
+          "rank": 4,
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 1259102,
+            "id": 1029575,
             "media_type": "movie",
-            "release_date": "2025-11-10"
+            "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Napoleon",
+          "tmdb": {
+            "id": 753342,
+            "media_type": "movie",
+            "release_date": "2023-11-22"
           }
         },
         {
@@ -1166,6 +1166,15 @@
         },
         {
           "rank": 8,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -1174,31 +1183,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Echo Valley",
+          "title": "Ghosted",
           "tmdb": {
-            "id": 1097311,
+            "id": 868759,
             "media_type": "movie",
-            "release_date": "2025-06-13"
+            "release_date": "2023-04-18"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1212,20 +1212,20 @@
         },
         {
           "rank": 2,
-          "title": "Cape Fear",
-          "tmdb": {
-            "id": 277439,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Cape Fear",
+          "tmdb": {
+            "id": 277439,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
           }
         },
         {
@@ -1239,6 +1239,15 @@
         },
         {
           "rank": 5,
+          "title": "Maximum Pleasure Guaranteed",
+          "tmdb": {
+            "id": 285404,
+            "media_type": "tv",
+            "release_date": "2026-05-19"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
@@ -1247,7 +1256,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1256,7 +1265,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -1265,21 +1274,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Margo's Got Money Troubles",
           "tmdb": {
             "id": 245318,
             "media_type": "tv",
             "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Severance",
-          "tmdb": {
-            "id": 95396,
-            "media_type": "tv",
-            "release_date": "2022-02-17"
           }
         },
         {
@@ -1295,10 +1295,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Peru on July 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1312,33 +1312,6 @@
         },
         {
           "rank": 2,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Superman",
           "tmdb": {
             "id": 1061474,
@@ -1347,7 +1320,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "title": "The Drama",
+          "tmdb": {
+            "id": 1325734,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -1356,16 +1338,43 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Hobbit: An Unexpected Journey",
+          "rank": 5,
+          "title": "Mortal Kombat II",
           "tmdb": {
-            "id": 49051,
+            "id": 931285,
             "media_type": "movie",
-            "release_date": "2012-12-12"
+            "release_date": "2026-05-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdb": {
+            "id": 1226863,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 8,
+          "title": "The Matrix",
+          "tmdb": {
+            "id": 603,
+            "media_type": "movie",
+            "release_date": "1999-03-31"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Strangers: Chapter 3",
           "tmdb": {
             "id": 1010755,
@@ -1374,31 +1383,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dracula",
-          "tmdb": {
-            "id": 1246049,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Gran Turismo",
+          "title": "Man of Steel",
           "tmdb": {
-            "id": 980489,
+            "id": 49521,
             "media_type": "movie",
-            "release_date": "2023-08-09"
+            "release_date": "2013-06-12"
           }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Peru on July 1, 2026",
+      "heading": "TOP Movies on Claro Video in Peru on July 2, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1495,10 +1495,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Peru on July 1, 2026",
+      "heading": "TOP TV Shows on Claro Video in Peru on July 2, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {

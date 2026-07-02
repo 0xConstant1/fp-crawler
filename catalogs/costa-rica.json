@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/costa-rica/",
-  "page_title": "TOP 10 on Streaming in Costa Rica on July 1, 2026",
+  "page_title": "TOP 10 on Streaming in Costa Rica on July 2, 2026",
   "region": "costa-rica",
-  "date": "July 1, 2026",
-  "scraped_at_utc": "2026-07-01T16:19:55.488731+00:00",
+  "date": "July 2, 2026",
+  "scraped_at_utc": "2026-07-02T16:14:03.979944+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Netflix in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Netflix in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on HBO Max in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -242,15 +242,6 @@
         },
         {
           "rank": 4,
-          "title": "Gothika",
-          "tmdb": {
-            "id": 4970,
-            "media_type": "movie",
-            "release_date": "2003-11-21"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Body Brokers",
           "tmdb": {
             "id": 656940,
@@ -259,12 +250,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Eleanor the Great",
+          "rank": 5,
+          "title": "Sting",
           "tmdb": {
-            "id": 1212271,
+            "id": 1087388,
             "media_type": "movie",
-            "release_date": "2025-09-04"
+            "release_date": "2024-04-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gothika",
+          "tmdb": {
+            "id": 4970,
+            "media_type": "movie",
+            "release_date": "2003-11-21"
           }
         },
         {
@@ -278,11 +278,11 @@
         },
         {
           "rank": 8,
-          "title": "Sting",
+          "title": "Eleanor the Great",
           "tmdb": {
-            "id": 1087388,
+            "id": 1212271,
             "media_type": "movie",
-            "release_date": "2024-04-12"
+            "release_date": "2025-09-04"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on HBO Max in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,20 +333,20 @@
         },
         {
           "rank": 3,
-          "title": "A Knight of the Seven Kingdoms",
-          "tmdb": {
-            "id": 224372,
-            "media_type": "tv",
-            "release_date": "2026-01-18"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Bahar",
           "tmdb": {
             "id": 245914,
             "media_type": "tv",
             "release_date": "2024-02-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "A Knight of the Seven Kingdoms",
+          "tmdb": {
+            "id": 224372,
+            "media_type": "tv",
+            "release_date": "2026-01-18"
           }
         },
         {
@@ -360,15 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
-          "tmdb": {
-            "id": 295780,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Wild Heart",
           "tmdb": {
             "id": 231503,
@@ -377,16 +368,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Curb Your Enthusiasm",
+          "rank": 7,
+          "title": "Life, Larry and the Pursuit of Unhappiness",
           "tmdb": {
-            "id": 4546,
+            "id": 295780,
             "media_type": "tv",
-            "release_date": "2000-10-15"
+            "release_date": "2026-06-26"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Medcezir",
           "tmdb": {
             "id": 61867,
@@ -395,22 +386,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Euphoria",
           "tmdb": {
             "id": 85552,
             "media_type": "tv",
             "release_date": "2019-06-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "My Adventures with Superman",
+          "tmdb": {
+            "id": 125928,
+            "media_type": "tv",
+            "release_date": "2023-07-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Costa Rica on July 1, 2026",
+      "heading": "TOP Overall on Disney+ in Costa Rica on July 2, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,20 +442,20 @@
         },
         {
           "rank": 4,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
             "media_type": "movie",
             "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
           }
         },
         {
@@ -469,11 +469,6 @@
         },
         {
           "rank": 7,
-          "title": "Toy Story 5 | A Special Look",
-          "tmdb": null
-        },
-        {
-          "rank": 8,
           "title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
           "tmdb": {
             "id": 1424808,
@@ -482,31 +477,36 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
+        },
+        {
           "rank": 9,
+          "title": "Not Suitable for Work",
+          "tmdb": {
+            "id": 284725,
+            "media_type": "tv",
+            "release_date": "2026-06-02"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
             "media_type": "movie",
             "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Avatar: The Way of Water",
-          "tmdb": {
-            "id": 76600,
-            "media_type": "movie",
-            "release_date": "2022-12-14"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Disney+ in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,20 +538,20 @@
         },
         {
           "rank": 4,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
             "media_type": "movie",
             "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
           }
         },
         {
@@ -565,17 +565,17 @@
         },
         {
           "rank": 7,
-          "title": "Toy Story 5 | A Special Look",
-          "tmdb": null
-        },
-        {
-          "rank": 8,
           "title": "ខ្មោចពោះធំក្នុងការដ្ឋាន",
           "tmdb": {
             "id": 1424808,
             "media_type": "movie",
             "release_date": "2025-01-30"
           }
+        },
+        {
+          "rank": 8,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
         },
         {
           "rank": 9,
@@ -588,21 +588,21 @@
         },
         {
           "rank": 10,
-          "title": "Avatar: The Way of Water",
+          "title": "Moana",
           "tmdb": {
-            "id": 76600,
+            "id": 1108427,
             "media_type": "movie",
-            "release_date": "2022-12-14"
+            "release_date": "2026-07-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Disney+ in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -652,20 +652,20 @@
         },
         {
           "rank": 6,
-          "title": "The Bear",
-          "tmdb": {
-            "id": 136315,
-            "media_type": "tv",
-            "release_date": "2022-06-23"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Bluey Minisodes",
           "tmdb": {
             "id": 256953,
             "media_type": "tv",
             "release_date": "2024-06-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Bear",
+          "tmdb": {
+            "id": 136315,
+            "media_type": "tv",
+            "release_date": "2022-06-23"
           }
         },
         {
@@ -699,10 +699,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Amazon Prime in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -779,30 +779,30 @@
         },
         {
           "rank": 9,
-          "title": "Legally Blonde",
-          "tmdb": {
-            "id": 8835,
-            "media_type": "movie",
-            "release_date": "2001-07-13"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Driver's Ed",
           "tmdb": {
             "id": 1398050,
             "media_type": "movie",
             "release_date": "2025-09-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Blackout: Invasion Earth",
+          "tmdb": {
+            "id": 574982,
+            "media_type": "movie",
+            "release_date": "2019-11-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -834,6 +834,15 @@
         },
         {
           "rank": 4,
+          "title": "Elle",
+          "tmdb": {
+            "id": 254420,
+            "media_type": "tv",
+            "release_date": "2026-07-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Every Year After",
           "tmdb": {
             "id": 260592,
@@ -842,7 +851,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "See You at Work Tomorrow!",
           "tmdb": {
             "id": 289763,
@@ -851,21 +860,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Las de siempre",
           "tmdb": {
             "id": 310954,
             "media_type": "tv",
             "release_date": "2026-01-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Spider-Noir",
-          "tmdb": {
-            "id": 220102,
-            "media_type": "tv",
-            "release_date": "2026-05-25"
           }
         },
         {
@@ -888,21 +888,21 @@
         },
         {
           "rank": 10,
-          "title": "Rigo",
+          "title": "Spider-Noir",
           "tmdb": {
-            "id": 236873,
+            "id": 220102,
             "media_type": "tv",
-            "release_date": "2023-10-08"
+            "release_date": "2026-05-25"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Paramount+ in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -943,11 +943,11 @@
         },
         {
           "rank": 5,
-          "title": "Night Hunter",
+          "title": "The Last Stand of Ellen Cole",
           "tmdb": {
-            "id": 441282,
+            "id": 1411773,
             "media_type": "movie",
-            "release_date": "2019-08-08"
+            "release_date": "2024-10-18"
           }
         },
         {
@@ -961,11 +961,11 @@
         },
         {
           "rank": 7,
-          "title": "War of the Worlds",
+          "title": "Night Hunter",
           "tmdb": {
-            "id": 755898,
+            "id": 441282,
             "media_type": "movie",
-            "release_date": "2025-07-29"
+            "release_date": "2019-08-08"
           }
         },
         {
@@ -979,30 +979,30 @@
         },
         {
           "rank": 9,
-          "title": "The Running Man",
+          "title": "War of the Worlds",
           "tmdb": {
-            "id": 798645,
+            "id": 755898,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2025-07-29"
           }
         },
         {
           "rank": 10,
-          "title": "Never Let Go",
+          "title": "South Park: The End Of Obesity",
           "tmdb": {
-            "id": 814889,
+            "id": 1290938,
             "media_type": "movie",
-            "release_date": "2024-09-18"
+            "release_date": "2024-05-24"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -1016,24 +1016,6 @@
         },
         {
           "rank": 2,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Agency",
-          "tmdb": {
-            "id": 219971,
-            "media_type": "tv",
-            "release_date": "2024-12-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1042,12 +1024,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Tulsa King",
+          "rank": 3,
+          "title": "Yellowstone",
           "tmdb": {
-            "id": 153312,
+            "id": 73586,
             "media_type": "tv",
-            "release_date": "2022-11-13"
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "UFC Freedom 250: Topuria vs. Gaethje",
+          "tmdb": {
+            "id": 1648226,
+            "media_type": "movie",
+            "release_date": "2026-06-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Agency",
+          "tmdb": {
+            "id": 219971,
+            "media_type": "tv",
+            "release_date": "2024-12-01"
           }
         },
         {
@@ -1061,6 +1061,15 @@
         },
         {
           "rank": 7,
+          "title": "Tulsa King",
+          "tmdb": {
+            "id": 153312,
+            "media_type": "tv",
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Sabrina, the Teenage Witch",
           "tmdb": {
             "id": 605,
@@ -1069,31 +1078,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Among Us",
-          "tmdb": {
-            "id": 229544,
-            "media_type": "tv",
-            "release_date": "2026-06-05"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Landman",
+          "title": "Criminal Minds",
           "tmdb": {
-            "id": 157741,
+            "id": 4057,
             "media_type": "tv",
-            "release_date": "2024-11-17"
+            "release_date": "2005-09-22"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Apple TV in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1134,24 +1134,6 @@
         },
         {
           "rank": 5,
-          "title": "Eternity",
-          "tmdb": {
-            "id": 1259102,
-            "media_type": "movie",
-            "release_date": "2025-11-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ghosted",
-          "tmdb": {
-            "id": 868759,
-            "media_type": "movie",
-            "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Outcome",
           "tmdb": {
             "id": 1049471,
@@ -1160,16 +1142,25 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Wolfs",
+          "rank": 6,
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 877817,
+            "id": 1029575,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2023-12-14"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Highest 2 Lowest",
           "tmdb": {
             "id": 1242434,
@@ -1178,22 +1169,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Family Plan",
+          "rank": 9,
+          "title": "Wolfs",
           "tmdb": {
-            "id": 1029575,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2023-12-14"
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1243,24 +1243,15 @@
         },
         {
           "rank": 6,
-          "title": "Shrinking",
+          "title": "Maximum Pleasure Guaranteed",
           "tmdb": {
-            "id": 136311,
+            "id": 285404,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2026-05-19"
           }
         },
         {
           "rank": 7,
-          "title": "Sugar",
-          "tmdb": {
-            "id": 203744,
-            "media_type": "tv",
-            "release_date": "2024-04-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -1269,98 +1260,44 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
             "media_type": "tv",
             "release_date": "2022-02-17"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Undertone",
-          "tmdb": {
-            "id": 1480387,
-            "media_type": "movie",
-            "release_date": "2026-03-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Sing 2",
-          "tmdb": {
-            "id": 438695,
-            "media_type": "movie",
-            "release_date": "2021-12-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
@@ -1369,31 +1306,94 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Founder",
+          "rank": 2,
+          "title": "The Drama",
           "tmdb": {
-            "id": 310307,
+            "id": 1325734,
             "media_type": "movie",
-            "release_date": "2016-11-24"
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Reminders of Him",
+          "tmdb": {
+            "id": 1367642,
+            "media_type": "movie",
+            "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "PAW Patrol: The Mighty Movie",
+          "tmdb": {
+            "id": 893723,
+            "media_type": "movie",
+            "release_date": "2023-09-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Mortal Kombat II",
+          "tmdb": {
+            "id": 931285,
+            "media_type": "movie",
+            "release_date": "2026-05-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 1273221,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Hokum",
+          "tmdb": {
+            "id": 1430077,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Tenet",
+          "tmdb": {
+            "id": 577922,
+            "media_type": "movie",
+            "release_date": "2020-08-22"
           }
         },
         {
           "rank": 10,
-          "title": "Superman",
+          "title": "Spirit: Stallion of the Cimarron",
           "tmdb": {
-            "id": 1061474,
+            "id": 9023,
             "media_type": "movie",
-            "release_date": "2025-07-09"
+            "release_date": "2002-05-24"
           }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Costa Rica on July 1, 2026",
+      "heading": "TOP Movies on Claro Video in Costa Rica on July 2, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1490,10 +1490,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Costa Rica on July 1, 2026",
+      "heading": "TOP TV Shows on Claro Video in Costa Rica on July 2, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "July 1, 2026",
+      "date": "July 2, 2026",
       "title_count": 10,
       "entries": [
         {
