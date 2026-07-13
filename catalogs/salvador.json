@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/salvador/",
-  "page_title": "TOP 10 on Streaming in Salvador on July 12, 2026",
+  "page_title": "TOP 10 on Streaming in Salvador on July 13, 2026",
   "region": "salvador",
-  "date": "July 12, 2026",
-  "scraped_at_utc": "2026-07-12T16:29:30.390616+00:00",
+  "date": "July 13, 2026",
+  "scraped_at_utc": "2026-07-13T17:31:32.313303+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Netflix in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -42,6 +42,15 @@
         },
         {
           "rank": 4,
+          "title": "Nothing to Lose",
+          "tmdb": {
+            "id": 1710008,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
+          }
+        },
+        {
+          "rank": 5,
           "title": "F9",
           "tmdb": {
             "id": 385128,
@@ -50,21 +59,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Retribution",
           "tmdb": {
             "id": 762430,
             "media_type": "movie",
             "release_date": "2023-08-23"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Doorman",
-          "tmdb": {
-            "id": 737568,
-            "media_type": "movie",
-            "release_date": "2020-10-01"
           }
         },
         {
@@ -78,6 +78,15 @@
         },
         {
           "rank": 8,
+          "title": "The Doorman",
+          "tmdb": {
+            "id": 737568,
+            "media_type": "movie",
+            "release_date": "2020-10-01"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Shipwrecked: Nightmare at Sea",
           "tmdb": {
             "id": 1715492,
@@ -86,53 +95,26 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Nothing to Lose",
-          "tmdb": {
-            "id": 1710008,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Swapped",
+          "title": "Voicemails for Isabelle",
           "tmdb": {
-            "id": 1007757,
+            "id": 614945,
             "media_type": "movie",
-            "release_date": "2026-05-01"
+            "release_date": "2026-06-20"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Netflix in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Agent Kim Reactivated",
-          "tmdb": {
-            "id": 296206,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Polygamist",
-          "tmdb": {
-            "id": 322430,
-            "media_type": "tv",
-            "release_date": "2026-06-12"
-          }
-        },
-        {
-          "rank": 3,
           "title": "I'm Not Afraid",
           "tmdb": {
             "id": 290232,
@@ -141,21 +123,39 @@
           }
         },
         {
-          "rank": 4,
-          "title": "I Will Find You",
+          "rank": 2,
+          "title": "Agent Kim Reactivated",
           "tmdb": {
-            "id": 278178,
+            "id": 296206,
             "media_type": "tv",
-            "release_date": "2026-06-18"
+            "release_date": "2026-06-26"
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "The Polygamist",
+          "tmdb": {
+            "id": 322430,
+            "media_type": "tv",
+            "release_date": "2026-06-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Little House on the Prairie",
           "tmdb": {
             "id": 283304,
             "media_type": "tv",
             "release_date": "2026-07-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "I Will Find You",
+          "tmdb": {
+            "id": 278178,
+            "media_type": "tv",
+            "release_date": "2026-06-18"
           }
         },
         {
@@ -178,6 +178,15 @@
         },
         {
           "rank": 8,
+          "title": "The Faithful",
+          "tmdb": {
+            "id": 291100,
+            "media_type": "tv",
+            "release_date": "2026-03-22"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Apartment Job",
           "tmdb": {
             "id": 300727,
@@ -186,31 +195,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Beauty in Black",
           "tmdb": {
             "id": 246246,
             "media_type": "tv",
             "release_date": "2024-10-24"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Faithful",
-          "tmdb": {
-            "id": 291100,
-            "media_type": "tv",
-            "release_date": "2026-03-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Salvador on July 12, 2026",
+      "heading": "TOP Movies on HBO Max in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -260,24 +260,6 @@
         },
         {
           "rank": 6,
-          "title": "Puss in Boots",
-          "tmdb": {
-            "id": 417859,
-            "media_type": "movie",
-            "release_date": "2011-10-27"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Back to the Future",
-          "tmdb": {
-            "id": 105,
-            "media_type": "movie",
-            "release_date": "1985-07-03"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Wicked",
           "tmdb": {
             "id": 402431,
@@ -286,7 +268,16 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Puss in Boots",
+          "tmdb": {
+            "id": 417859,
+            "media_type": "movie",
+            "release_date": "2011-10-27"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Kung Fu Panda 2",
           "tmdb": {
             "id": 49444,
@@ -295,22 +286,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "King Ivory",
+          "rank": 9,
+          "title": "Minions",
           "tmdb": {
-            "id": 1155324,
+            "id": 211672,
             "media_type": "movie",
-            "release_date": "2025-05-08"
+            "release_date": "2015-06-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Back to the Future",
+          "tmdb": {
+            "id": 105,
+            "media_type": "movie",
+            "release_date": "1985-07-03"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on HBO Max in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,20 +351,20 @@
         },
         {
           "rank": 5,
-          "title": "Naked and Afraid: Global Showdown",
+          "title": "My Adventures with Superman",
           "tmdb": {
-            "id": 322536,
+            "id": 125928,
             "media_type": "tv",
-            "release_date": "2026-05-17"
+            "release_date": "2023-07-07"
           }
         },
         {
           "rank": 6,
-          "title": "Brilliant Minds",
+          "title": "Life, Larry and the Pursuit of Unhappiness",
           "tmdb": {
-            "id": 237748,
+            "id": 295780,
             "media_type": "tv",
-            "release_date": "2024-09-23"
+            "release_date": "2026-06-26"
           }
         },
         {
@@ -378,20 +378,20 @@
         },
         {
           "rank": 8,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
+          "title": "Naked and Afraid: Global Showdown",
           "tmdb": {
-            "id": 295780,
+            "id": 322536,
             "media_type": "tv",
-            "release_date": "2026-06-26"
+            "release_date": "2026-05-17"
           }
         },
         {
           "rank": 9,
-          "title": "Gilmore Girls",
+          "title": "Brilliant Minds",
           "tmdb": {
-            "id": 4586,
+            "id": 237748,
             "media_type": "tv",
-            "release_date": "2000-10-05"
+            "release_date": "2024-09-23"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Salvador on July 12, 2026",
+      "heading": "TOP Overall on Disney+ in Salvador on July 13, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,15 +433,6 @@
         },
         {
           "rank": 3,
-          "title": "Toy Story 3",
-          "tmdb": {
-            "id": 10193,
-            "media_type": "movie",
-            "release_date": "2010-06-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ready or Not 2: Here I Come",
           "tmdb": {
             "id": 1266127,
@@ -450,25 +441,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -477,16 +450,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -495,22 +459,54 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "Moana 2",
+          "tmdb": {
+            "id": 1241982,
+            "media_type": "movie",
+            "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
           "title": "X-Men '97",
           "tmdb": {
             "id": 138502,
             "media_type": "tv",
             "release_date": "2024-03-20"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Toy Story 3",
+          "tmdb": {
+            "id": 10193,
+            "media_type": "movie",
+            "release_date": "2010-06-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Disney+ in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -533,15 +529,6 @@
         },
         {
           "rank": 3,
-          "title": "Toy Story 3",
-          "tmdb": {
-            "id": 10193,
-            "media_type": "movie",
-            "release_date": "2010-06-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ready or Not 2: Here I Come",
           "tmdb": {
             "id": 1266127,
@@ -550,25 +537,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Toy Story 2",
-          "tmdb": {
-            "id": 863,
-            "media_type": "movie",
-            "release_date": "1999-10-30"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 4,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -577,16 +546,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -595,18 +555,54 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "Moana 2",
+          "tmdb": {
+            "id": 1241982,
+            "media_type": "movie",
+            "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Toy Story 5 | A Special Look",
           "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "Toy Story 3",
+          "tmdb": {
+            "id": 10193,
+            "media_type": "movie",
+            "release_date": "2010-06-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Disney+ in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -621,15 +617,19 @@
         {
           "rank": 2,
           "title": "Bluey Compilations",
-          "tmdb": null
+          "tmdb": {
+            "id": 328337,
+            "media_type": "tv",
+            "release_date": "2026-07-02"
+          }
         },
         {
           "rank": 3,
-          "title": "Doctor on the Edge",
+          "title": "Perfect Crown",
           "tmdb": {
-            "id": 287009,
+            "id": 278573,
             "media_type": "tv",
-            "release_date": "2026-06-01"
+            "release_date": "2026-04-10"
           }
         },
         {
@@ -643,11 +643,11 @@
         },
         {
           "rank": 5,
-          "title": "Perfect Crown",
+          "title": "Doctor on the Edge",
           "tmdb": {
-            "id": 278573,
+            "id": 287009,
             "media_type": "tv",
-            "release_date": "2026-04-10"
+            "release_date": "2026-06-01"
           }
         },
         {
@@ -670,6 +670,15 @@
         },
         {
           "rank": 8,
+          "title": "Bluey Minisodes",
+          "tmdb": {
+            "id": 256953,
+            "media_type": "tv",
+            "release_date": "2024-06-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
@@ -678,31 +687,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Zootopia+",
           "tmdb": {
             "id": 114463,
             "media_type": "tv",
             "release_date": "2022-11-09"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Bluey Minisodes",
-          "tmdb": {
-            "id": 256953,
-            "media_type": "tv",
-            "release_date": "2024-06-16"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Amazon Prime in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -799,10 +799,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -899,10 +899,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Paramount+ in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -925,33 +925,6 @@
         },
         {
           "rank": 3,
-          "title": "World War Z",
-          "tmdb": {
-            "id": 72190,
-            "media_type": "movie",
-            "release_date": "2013-06-19"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Last Stand of Ellen Cole",
-          "tmdb": {
-            "id": 1411773,
-            "media_type": "movie",
-            "release_date": "2024-10-18"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Internship",
           "tmdb": {
             "id": 1584215,
@@ -960,7 +933,25 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 4,
+          "title": "Top Gun: Maverick",
+          "tmdb": {
+            "id": 361743,
+            "media_type": "movie",
+            "release_date": "2022-05-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "World War Z",
+          "tmdb": {
+            "id": 72190,
+            "media_type": "movie",
+            "release_date": "2013-06-19"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Night Hunter",
           "tmdb": {
             "id": 441282,
@@ -969,16 +960,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "South Park: The End Of Obesity",
+          "rank": 7,
+          "title": "The Last Stand of Ellen Cole",
           "tmdb": {
-            "id": 1290938,
+            "id": 1411773,
             "media_type": "movie",
-            "release_date": "2024-05-24"
+            "release_date": "2024-10-18"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Take Cover",
           "tmdb": {
             "id": 1094974,
@@ -987,31 +978,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "High Ground",
+          "rank": 9,
+          "title": "Never Let Go",
           "tmdb": {
-            "id": 1433719,
+            "id": 814889,
             "media_type": "movie",
-            "release_date": "2025-03-17"
+            "release_date": "2024-09-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "War of the Worlds",
+          "tmdb": {
+            "id": 755898,
+            "media_type": "movie",
+            "release_date": "2025-07-29"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "UFC",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -1020,25 +1015,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Among Us",
-          "tmdb": {
-            "id": 229544,
-            "media_type": "tv",
-            "release_date": "2026-06-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "South Park",
-          "tmdb": {
-            "id": 2190,
-            "media_type": "tv",
-            "release_date": "1997-08-13"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -1047,7 +1024,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
@@ -1056,7 +1033,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 4,
           "title": "The Agency",
           "tmdb": {
             "id": 219971,
@@ -1065,7 +1042,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "South Park",
+          "tmdb": {
+            "id": 2190,
+            "media_type": "tv",
+            "release_date": "1997-08-13"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1074,31 +1060,45 @@
           }
         },
         {
-          "rank": 9,
-          "title": "UFC Freedom 250: Topuria vs. Gaethje",
+          "rank": 7,
+          "title": "Criminal Minds",
           "tmdb": {
-            "id": 1648226,
-            "media_type": "movie",
-            "release_date": "2026-06-14"
+            "id": 4057,
+            "media_type": "tv",
+            "release_date": "2005-09-22"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "UFC",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
           "title": "Sabrina, the Teenage Witch",
           "tmdb": {
             "id": 605,
             "media_type": "tv",
             "release_date": "1996-09-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "MobLand",
+          "tmdb": {
+            "id": 247718,
+            "media_type": "tv",
+            "release_date": "2025-03-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Apple TV in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1121,20 +1121,20 @@
         },
         {
           "rank": 3,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Ghosted",
           "tmdb": {
             "id": 868759,
             "media_type": "movie",
             "release_date": "2023-04-18"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Echo Valley",
-          "tmdb": {
-            "id": 1097311,
-            "media_type": "movie",
-            "release_date": "2025-06-13"
           }
         },
         {
@@ -1148,24 +1148,15 @@
         },
         {
           "rank": 6,
-          "title": "Luck",
+          "title": "Echo Valley",
           "tmdb": {
-            "id": 585511,
+            "id": 1097311,
             "media_type": "movie",
-            "release_date": "2022-08-05"
+            "release_date": "2025-06-13"
           }
         },
         {
           "rank": 7,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Palmer",
           "tmdb": {
             "id": 458220,
@@ -1174,31 +1165,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Family Plan 2",
-          "tmdb": {
-            "id": 1363123,
-            "media_type": "movie",
-            "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "The Instigators",
           "tmdb": {
             "id": 1059064,
             "media_type": "movie",
             "release_date": "2024-08-02"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Apple TV in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1221,24 +1221,6 @@
         },
         {
           "rank": 3,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -1247,16 +1229,25 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Sugar",
+          "rank": 4,
+          "title": "Widow's Bay",
           "tmdb": {
-            "id": 203744,
+            "id": 270476,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2026-04-28"
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1265,80 +1256,53 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Star City",
+          "rank": 7,
+          "title": "Trying",
           "tmdb": {
-            "id": 252107,
+            "id": 98177,
             "media_type": "tv",
-            "release_date": "2026-05-28"
+            "release_date": "2020-05-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
           }
         },
         {
           "rank": 9,
-          "title": "Margo's Got Money Troubles",
-          "tmdb": {
-            "id": 245318,
-            "media_type": "tv",
-            "release_date": "2026-04-14"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
             "media_type": "tv",
             "release_date": "2023-11-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Margo's Got Money Troubles",
+          "tmdb": {
+            "id": 245318,
+            "media_type": "tv",
+            "release_date": "2026-04-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Apple TV Store in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Hokum",
           "tmdb": {
             "id": 1430077,
@@ -1347,58 +1311,94 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Spirit: Stallion of the Cimarron",
+          "rank": 2,
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 9023,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2002-05-24"
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Drama",
+          "tmdb": {
+            "id": 1325734,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Strangers: Chapter 3",
+          "tmdb": {
+            "id": 1010755,
+            "media_type": "movie",
+            "release_date": "2026-02-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "City of Angels",
+          "tmdb": {
+            "id": 795,
+            "media_type": "movie",
+            "release_date": "1998-04-10"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Dennis the Menace",
+          "tmdb": {
+            "id": 12139,
+            "media_type": "movie",
+            "release_date": "1993-06-09"
           }
         },
         {
           "rank": 7,
-          "title": "Scary Movie",
+          "title": "The Ten Commandments",
           "tmdb": {
-            "id": 1273221,
+            "id": 6844,
             "media_type": "movie",
-            "release_date": "2026-06-03"
+            "release_date": "1956-10-05"
           }
         },
         {
           "rank": 8,
-          "title": "Love Actually",
+          "title": "Digimon Adventure: Last Evolution Kizuna",
           "tmdb": {
-            "id": 508,
+            "id": 571265,
             "media_type": "movie",
-            "release_date": "2003-09-07"
+            "release_date": "2020-02-21"
           }
         },
         {
           "rank": 9,
-          "title": "Fast Five",
+          "title": "Fall",
           "tmdb": {
-            "id": 51497,
+            "id": 985939,
             "media_type": "movie",
-            "release_date": "2011-04-20"
+            "release_date": "2022-08-11"
           }
         },
         {
           "rank": 10,
-          "title": "Fear",
+          "title": "Mothers' Instinct",
           "tmdb": {
-            "id": 10543,
+            "id": 758679,
             "media_type": "movie",
-            "release_date": "1996-04-12"
+            "release_date": "2024-01-11"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Google in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1495,10 +1495,10 @@
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Salvador on July 12, 2026",
+      "heading": "TOP Movies on Claro Video in Salvador on July 13, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1566,15 +1566,6 @@
         },
         {
           "rank": 8,
-          "title": "Mummies",
-          "tmdb": {
-            "id": 816904,
-            "media_type": "movie",
-            "release_date": "2023-01-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Minions: The Rise of Gru",
           "tmdb": {
             "id": 438148,
@@ -1583,22 +1574,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Wonder Park",
           "tmdb": {
             "id": 400157,
             "media_type": "movie",
             "release_date": "2019-03-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Coraline",
+          "tmdb": {
+            "id": 14836,
+            "media_type": "movie",
+            "release_date": "2009-02-05"
+          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Salvador on July 12, 2026",
+      "heading": "TOP TV Shows on Claro Video in Salvador on July 13, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "July 12, 2026",
+      "date": "July 13, 2026",
       "title_count": 10,
       "entries": [
         {
