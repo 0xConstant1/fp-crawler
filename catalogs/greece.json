@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/greece/",
-  "page_title": "TOP 10 on Streaming in Greece on July 13, 2026",
+  "page_title": "TOP 10 on Streaming in Greece on July 14, 2026",
   "region": "greece",
-  "date": "July 13, 2026",
-  "scraped_at_utc": "2026-07-13T17:30:49.534055+00:00",
+  "date": "July 14, 2026",
+  "scraped_at_utc": "2026-07-14T16:46:10.226501+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Greece on July 13, 2026",
+      "heading": "TOP Movies on Netflix in Greece on July 14, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Nothing to Lose",
+          "tmdb": {
+            "id": 1710008,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Undertone",
           "tmdb": {
             "id": 1480387,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Wild Robot",
           "tmdb": {
             "id": 1184918,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Shipwrecked: Nightmare at Sea",
           "tmdb": {
             "id": 1715492,
@@ -41,21 +50,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Enola Holmes 3",
           "tmdb": {
             "id": 1202033,
             "media_type": "movie",
             "release_date": "2026-06-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Nothing to Lose",
-          "tmdb": {
-            "id": 1710008,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
           }
         },
         {
@@ -69,29 +69,29 @@
         },
         {
           "rank": 7,
-          "title": "Sinners",
-          "tmdb": {
-            "id": 1233413,
-            "media_type": "movie",
-            "release_date": "2025-04-16"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Voicemails for Isabelle",
-          "tmdb": {
-            "id": 614945,
-            "media_type": "movie",
-            "release_date": "2026-06-20"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
             "media_type": "movie",
             "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Hangover",
+          "tmdb": {
+            "id": 18785,
+            "media_type": "movie",
+            "release_date": "2009-06-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Journey 2: The Mysterious Island",
+          "tmdb": {
+            "id": 72545,
+            "media_type": "movie",
+            "release_date": "2012-01-19"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Greece on July 13, 2026",
+      "heading": "TOP TV Shows on Netflix in Greece on July 14, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -135,22 +135,13 @@
           "rank": 3,
           "title": "Little House on the Prairie",
           "tmdb": {
-            "id": 283304,
+            "id": 1781,
             "media_type": "tv",
-            "release_date": "2026-07-09"
+            "release_date": "1974-09-11"
           }
         },
         {
           "rank": 4,
-          "title": "Agent Kim Reactivated",
-          "tmdb": {
-            "id": 296206,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 5,
           "title": "L'Été 36",
           "tmdb": {
             "id": 287976,
@@ -159,7 +150,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Agent Kim Reactivated",
+          "tmdb": {
+            "id": 296206,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Friends",
           "tmdb": {
             "id": 1668,
@@ -168,21 +177,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Avatar the Last Airbender",
           "tmdb": {
             "id": 82452,
             "media_type": "tv",
             "release_date": "2024-02-22"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
           }
         },
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Greece on July 13, 2026",
+      "heading": "TOP Overall on Disney+ in Greece on July 14, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Greece on July 13, 2026",
+      "heading": "TOP Overall on Amazon Prime in Greece on July 14, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Greece on July 13, 2026",
+      "heading": "TOP Movies on Amazon Prime in Greece on July 14, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -460,20 +460,20 @@
         },
         {
           "rank": 6,
-          "title": "My Fault: London",
-          "tmdb": {
-            "id": 1294203,
-            "media_type": "movie",
-            "release_date": "2025-02-12"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Your Fault",
           "tmdb": {
             "id": 1156593,
             "media_type": "movie",
             "release_date": "2024-12-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "My Fault: London",
+          "tmdb": {
+            "id": 1294203,
+            "media_type": "movie",
+            "release_date": "2025-02-12"
           }
         },
         {
@@ -487,30 +487,30 @@
         },
         {
           "rank": 9,
+          "title": "Crime 101",
+          "tmdb": {
+            "id": 1171145,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Love Me Love Me",
           "tmdb": {
             "id": 1317672,
             "media_type": "movie",
             "release_date": "2026-02-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Tell Me Softly",
-          "tmdb": {
-            "id": 1379963,
-            "media_type": "movie",
-            "release_date": "2025-12-11"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Greece on July 13, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Greece on July 14, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -587,30 +587,30 @@
         },
         {
           "rank": 9,
-          "title": "Maxton Hall - The World Between Us",
-          "tmdb": {
-            "id": 250670,
-            "media_type": "tv",
-            "release_date": "2024-05-09"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Young Sherlock",
           "tmdb": {
             "id": 255661,
             "media_type": "tv",
             "release_date": "2026-03-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "56 Days",
+          "tmdb": {
+            "id": 241372,
+            "media_type": "tv",
+            "release_date": "2026-02-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Greece on July 13, 2026",
+      "heading": "TOP Movies on Apple TV in Greece on July 14, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -624,11 +624,11 @@
         },
         {
           "rank": 2,
-          "title": "Outcome",
+          "title": "Wolfs",
           "tmdb": {
-            "id": 1049471,
+            "id": 877817,
             "media_type": "movie",
-            "release_date": "2026-04-06"
+            "release_date": "2024-09-20"
           }
         },
         {
@@ -642,6 +642,15 @@
         },
         {
           "rank": 4,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -650,21 +659,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
             "media_type": "movie",
             "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
           }
         },
         {
@@ -678,15 +678,6 @@
         },
         {
           "rank": 8,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -695,22 +686,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Family Plan",
+          "rank": 9,
+          "title": "Napoleon",
           "tmdb": {
-            "id": 1029575,
+            "id": 753342,
             "media_type": "movie",
-            "release_date": "2023-12-14"
+            "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Greece on July 13, 2026",
+      "heading": "TOP TV Shows on Apple TV in Greece on July 14, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,20 +733,20 @@
         },
         {
           "rank": 3,
-          "title": "Sugar",
-          "tmdb": {
-            "id": 203744,
-            "media_type": "tv",
-            "release_date": "2024-04-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -769,20 +769,20 @@
         },
         {
           "rank": 7,
-          "title": "Star City",
-          "tmdb": {
-            "id": 252107,
-            "media_type": "tv",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Star City",
+          "tmdb": {
+            "id": 252107,
+            "media_type": "tv",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -807,10 +807,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Greece on July 13, 2026",
+      "heading": "TOP Movies on Apple TV Store in Greece on July 14, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 13, 2026",
+      "date": "July 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -842,51 +842,24 @@
         },
         {
           "rank": 4,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "title": "Troy",
           "tmdb": {
-            "id": 671,
+            "id": 652,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2004-05-13"
           }
         },
         {
           "rank": 5,
-          "title": "The Dark Knight Rises",
+          "title": "The Dark Knight",
           "tmdb": {
-            "id": 49026,
+            "id": 155,
             "media_type": "movie",
-            "release_date": "2012-07-17"
+            "release_date": "2008-07-16"
           }
         },
         {
           "rank": 6,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Fast X",
-          "tmdb": {
-            "id": 385687,
-            "media_type": "movie",
-            "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Prestige",
-          "tmdb": {
-            "id": 1124,
-            "media_type": "movie",
-            "release_date": "2006-10-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -895,35 +868,16 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Undertone",
+          "rank": 7,
+          "title": "The Prestige",
           "tmdb": {
-            "id": 1480387,
+            "id": 1124,
             "media_type": "movie",
-            "release_date": "2026-03-12"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Greece on July 13, 2026",
-      "category": "movies",
-      "platform": "Google",
-      "date": "July 13, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "2006-10-19"
           }
         },
         {
-          "rank": 2,
+          "rank": 8,
           "title": "Mortal Kombat II",
           "tmdb": {
             "id": 931285,
@@ -932,7 +886,35 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 9,
+          "title": "Hamnet",
+          "tmdb": {
+            "id": 858024,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "google.movies",
+      "heading": "TOP Movies on Google in Greece on July 14, 2026",
+      "category": "movies",
+      "platform": "Google",
+      "date": "July 14, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
@@ -941,25 +923,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Finding Nemo",
+          "rank": 2,
+          "title": "The Devil Wears Prada 2",
           "tmdb": {
-            "id": 12,
+            "id": 1314481,
             "media_type": "movie",
-            "release_date": "2003-05-30"
+            "release_date": "2026-04-29"
           }
         },
         {
-          "rank": 5,
-          "title": "A Minecraft Movie",
-          "tmdb": {
-            "id": 950387,
-            "media_type": "movie",
-            "release_date": "2025-03-31"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -968,12 +941,39 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Toy Story",
+          "rank": 4,
+          "title": "Mortal Kombat II",
           "tmdb": {
-            "id": 862,
+            "id": 931285,
             "media_type": "movie",
-            "release_date": "1995-11-22"
+            "release_date": "2026-05-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Harry Potter and the Order of the Phoenix",
+          "tmdb": {
+            "id": 675,
+            "media_type": "movie",
+            "release_date": "2007-07-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Half-Blood Prince",
+          "tmdb": {
+            "id": 767,
+            "media_type": "movie",
+            "release_date": "2009-07-15"
           }
         },
         {
@@ -987,20 +987,20 @@
         },
         {
           "rank": 9,
-          "title": "Harry Potter and the Order of the Phoenix",
+          "title": "Harry Potter and the Prisoner of Azkaban",
           "tmdb": {
-            "id": 675,
+            "id": 673,
             "media_type": "movie",
-            "release_date": "2007-07-08"
+            "release_date": "2004-05-31"
           }
         },
         {
           "rank": 10,
-          "title": "Ratatouille",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 2062,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2007-06-28"
+            "release_date": "2001-11-16"
           }
         }
       ]
