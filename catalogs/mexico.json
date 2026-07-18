@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/mexico/",
-  "page_title": "TOP 10 on Streaming in Mexico on July 17, 2026",
+  "page_title": "TOP 10 on Streaming in Mexico on July 18, 2026",
   "region": "mexico",
-  "date": "July 17, 2026",
-  "scraped_at_utc": "2026-07-17T16:41:43.438136+00:00",
+  "date": "July 18, 2026",
+  "scraped_at_utc": "2026-07-18T16:27:54.564507+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Netflix in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,20 +33,20 @@
         },
         {
           "rank": 3,
-          "title": "Nothing to Lose",
-          "tmdb": {
-            "id": 1710008,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Due Date",
           "tmdb": {
             "id": 41733,
             "media_type": "movie",
             "release_date": "2010-11-03"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Nothing to Lose",
+          "tmdb": {
+            "id": 1710008,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
-          "title": "Shipwrecked: Nightmare at Sea",
-          "tmdb": {
-            "id": 1715492,
-            "media_type": "movie",
-            "release_date": "2026-07-10"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Voicemails for Isabelle",
           "tmdb": {
             "id": 614945,
             "media_type": "movie",
             "release_date": "2026-06-20"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Shipwrecked: Nightmare at Sea",
+          "tmdb": {
+            "id": 1715492,
+            "media_type": "movie",
+            "release_date": "2026-07-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Netflix in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 2,
-          "title": "Valle salvaje",
-          "tmdb": {
-            "id": 242874,
-            "media_type": "tv",
-            "release_date": "2024-09-18"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Polygamist",
           "tmdb": {
             "id": 322430,
             "media_type": "tv",
             "release_date": "2026-06-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Valle salvaje",
+          "tmdb": {
+            "id": 242874,
+            "media_type": "tv",
+            "release_date": "2024-09-18"
           }
         },
         {
@@ -206,11 +206,207 @@
       ]
     },
     {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Mexico on July 18, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "July 18, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Migration",
+          "tmdb": {
+            "id": 940551,
+            "media_type": "movie",
+            "release_date": "2023-12-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Kung Fu Panda 3",
+          "tmdb": {
+            "id": 140300,
+            "media_type": "movie",
+            "release_date": "2016-01-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Angry Birds Movie",
+          "tmdb": {
+            "id": 153518,
+            "media_type": "movie",
+            "release_date": "2016-05-11"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Turbo",
+          "tmdb": {
+            "id": 77950,
+            "media_type": "movie",
+            "release_date": "2013-07-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Spider-Man: Across the Spider-Verse",
+          "tmdb": {
+            "id": 569094,
+            "media_type": "movie",
+            "release_date": "2023-05-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Cat in the Hat",
+          "tmdb": {
+            "id": 10588,
+            "media_type": "movie",
+            "release_date": "2003-11-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Kung Fu Panda",
+          "tmdb": {
+            "id": 9502,
+            "media_type": "movie",
+            "release_date": "2008-06-04"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Mexico on July 18, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "July 18, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Learning and fun with Jose Comelon",
+          "tmdb": null
+        },
+        {
+          "rank": 2,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Plim Plim, A Hero's heart",
+          "tmdb": {
+            "id": 59172,
+            "media_type": "tv",
+            "release_date": "2011-09-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "SpongeBob SquarePants",
+          "tmdb": {
+            "id": 387,
+            "media_type": "tv",
+            "release_date": "1999-05-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Little Angel",
+          "tmdb": {
+            "id": 219004,
+            "media_type": "tv",
+            "release_date": "2022-10-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Paw Patrol",
+          "tmdb": {
+            "id": 57532,
+            "media_type": "tv",
+            "release_date": "2013-08-12"
+          }
+        }
+      ]
+    },
+    {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Mexico on July 17, 2026",
+      "heading": "TOP Movies on HBO Max in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,20 +420,20 @@
         },
         {
           "rank": 2,
-          "title": "Fast Five",
-          "tmdb": {
-            "id": 51497,
-            "media_type": "movie",
-            "release_date": "2011-04-20"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Wicked: For Good",
           "tmdb": {
             "id": 967941,
             "media_type": "movie",
             "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Fast Five",
+          "tmdb": {
+            "id": 51497,
+            "media_type": "movie",
+            "release_date": "2011-04-20"
           }
         },
         {
@@ -278,6 +474,15 @@
         },
         {
           "rank": 8,
+          "title": "2 Fast 2 Furious",
+          "tmdb": {
+            "id": 584,
+            "media_type": "movie",
+            "release_date": "2003-06-05"
+          }
+        },
+        {
+          "rank": 9,
           "title": "A Very Unlikely Goalkeeper",
           "tmdb": {
             "id": 1668574,
@@ -286,31 +491,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Jurassic Park",
-          "tmdb": {
-            "id": 329,
-            "media_type": "movie",
-            "release_date": "1993-06-11"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Puss in Boots",
+          "title": "Fast & Furious 6",
           "tmdb": {
-            "id": 417859,
+            "id": 82992,
             "media_type": "movie",
-            "release_date": "2011-10-27"
+            "release_date": "2013-05-21"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on HBO Max in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,24 +538,6 @@
         },
         {
           "rank": 4,
-          "title": "Far Away",
-          "tmdb": {
-            "id": 274556,
-            "media_type": "tv",
-            "release_date": "2024-11-11"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Bahar",
-          "tmdb": {
-            "id": 245914,
-            "media_type": "tv",
-            "release_date": "2024-02-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "SpongeBob SquarePants",
           "tmdb": {
             "id": 387,
@@ -368,7 +546,34 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Far Away",
+          "tmdb": {
+            "id": 274556,
+            "media_type": "tv",
+            "release_date": "2024-11-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Naked and Afraid: Global Showdown",
+          "tmdb": {
+            "id": 322536,
+            "media_type": "tv",
+            "release_date": "2026-05-17"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Bahar",
+          "tmdb": {
+            "id": 245914,
+            "media_type": "tv",
+            "release_date": "2024-02-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Gilmore Girls",
           "tmdb": {
             "id": 4586,
@@ -377,40 +582,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Brilliant Minds",
+          "tmdb": {
+            "id": 237748,
+            "media_type": "tv",
+            "release_date": "2024-09-23"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Life, Larry and the Pursuit of Unhappiness",
           "tmdb": {
             "id": 295780,
             "media_type": "tv",
             "release_date": "2026-06-26"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Medcezir",
-          "tmdb": {
-            "id": 61867,
-            "media_type": "tv",
-            "release_date": "2013-09-13"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "My Adventures with Superman",
-          "tmdb": {
-            "id": 125928,
-            "media_type": "tv",
-            "release_date": "2023-07-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Mexico on July 17, 2026",
+      "heading": "TOP Overall on Disney+ in Mexico on July 18, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,20 +638,20 @@
         },
         {
           "rank": 4,
-          "title": "Ready or Not 2: Here I Come",
-          "tmdb": {
-            "id": 1266127,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
             "media_type": "movie",
             "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ready or Not 2: Here I Come",
+          "tmdb": {
+            "id": 1266127,
+            "media_type": "movie",
+            "release_date": "2026-03-19"
           }
         },
         {
@@ -469,11 +665,11 @@
         },
         {
           "rank": 7,
-          "title": "X-Men '97",
+          "title": "Avengers: Endgame",
           "tmdb": {
-            "id": 138502,
-            "media_type": "tv",
-            "release_date": "2024-03-20"
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
           }
         },
         {
@@ -483,30 +679,30 @@
         },
         {
           "rank": 9,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Up",
           "tmdb": {
             "id": 14160,
             "media_type": "movie",
             "release_date": "2009-05-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "X-Men '97",
+          "tmdb": {
+            "id": 138502,
+            "media_type": "tv",
+            "release_date": "2024-03-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Disney+ in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,15 +734,6 @@
         },
         {
           "rank": 4,
-          "title": "Ready or Not 2: Here I Come",
-          "tmdb": {
-            "id": 1266127,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
@@ -555,18 +742,27 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Toy Story 5 | A Special Look",
-          "tmdb": null
+          "rank": 5,
+          "title": "Ready or Not 2: Here I Come",
+          "tmdb": {
+            "id": 1266127,
+            "media_type": "movie",
+            "release_date": "2026-03-19"
+          }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
             "media_type": "movie",
             "release_date": "2019-04-24"
           }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story 5 | A Special Look",
+          "tmdb": null
         },
         {
           "rank": 8,
@@ -579,11 +775,11 @@
         },
         {
           "rank": 9,
-          "title": "Toy Story 4",
+          "title": "Wreck-It Ralph",
           "tmdb": {
-            "id": 301528,
+            "id": 82690,
             "media_type": "movie",
-            "release_date": "2019-06-19"
+            "release_date": "2012-11-01"
           }
         },
         {
@@ -599,10 +795,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Disney+ in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -699,28 +895,28 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Mexico on July 17, 2026",
+      "heading": "TOP Overall on Amazon Prime in Mexico on July 18, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Yo soy Betty la fea",
           "tmdb": {
             "id": 16286,
             "media_type": "tv",
             "release_date": "1999-10-25"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Drama",
+          "tmdb": {
+            "id": 1325734,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
           }
         },
         {
@@ -734,6 +930,15 @@
         },
         {
           "rank": 4,
+          "title": "Shelter",
+          "tmdb": {
+            "id": 1290821,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
@@ -742,21 +947,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Elle",
           "tmdb": {
             "id": 254420,
             "media_type": "tv",
             "release_date": "2026-07-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ride or Die",
-          "tmdb": {
-            "id": 241882,
-            "media_type": "tv",
-            "release_date": "2026-07-15"
           }
         },
         {
@@ -770,6 +966,15 @@
         },
         {
           "rank": 8,
+          "title": "Ride or Die",
+          "tmdb": {
+            "id": 241882,
+            "media_type": "tv",
+            "release_date": "2026-07-15"
+          }
+        },
+        {
+          "rank": 9,
           "title": "See You at Work Tomorrow!",
           "tmdb": {
             "id": 289763,
@@ -778,31 +983,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Boulevard",
           "tmdb": {
             "id": 1595852,
             "media_type": "movie",
             "release_date": "2026-04-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Sing 2",
-          "tmdb": {
-            "id": 438695,
-            "media_type": "movie",
-            "release_date": "2021-12-01"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Amazon Prime in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -825,6 +1021,15 @@
         },
         {
           "rank": 3,
+          "title": "Shelter",
+          "tmdb": {
+            "id": 1290821,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
@@ -833,7 +1038,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Boulevard",
           "tmdb": {
             "id": 1595852,
@@ -842,7 +1047,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Sing 2",
           "tmdb": {
             "id": 438695,
@@ -851,16 +1056,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Now You See Me: Now You Don't",
+          "rank": 7,
+          "title": "Kraven the Hunter",
           "tmdb": {
-            "id": 425274,
+            "id": 539972,
             "media_type": "movie",
-            "release_date": "2025-11-12"
+            "release_date": "2024-12-11"
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
@@ -869,40 +1074,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 10,
           "title": "How to Make a Killing",
           "tmdb": {
             "id": 467905,
             "media_type": "movie",
             "release_date": "2026-02-16"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Dead of Winter",
-          "tmdb": {
-            "id": 1235746,
-            "media_type": "movie",
-            "release_date": "2025-09-23"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Despicable Me 4",
-          "tmdb": {
-            "id": 519182,
-            "media_type": "movie",
-            "release_date": "2024-06-20"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -952,20 +1148,20 @@
         },
         {
           "rank": 6,
-          "title": "Par de ideotas",
-          "tmdb": {
-            "id": 284416,
-            "media_type": "tv",
-            "release_date": "2025-03-07"
-          }
-        },
-        {
-          "rank": 7,
           "title": "El dentista",
           "tmdb": {
             "id": 238253,
             "media_type": "tv",
             "release_date": "2025-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Par de ideotas",
+          "tmdb": {
+            "id": 284416,
+            "media_type": "tv",
+            "release_date": "2025-03-07"
           }
         },
         {
@@ -999,10 +1195,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Paramount+ in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1025,15 +1221,6 @@
         },
         {
           "rank": 3,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 4,
           "title": "World War Z",
           "tmdb": {
             "id": 72190,
@@ -1042,21 +1229,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Internship",
+          "rank": 4,
+          "title": "Top Gun: Maverick",
           "tmdb": {
-            "id": 1584215,
+            "id": 361743,
             "media_type": "movie",
-            "release_date": "2026-01-13"
+            "release_date": "2022-05-21"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Last Stand of Ellen Cole",
           "tmdb": {
             "id": 1411773,
             "media_type": "movie",
             "release_date": "2024-10-18"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Internship",
+          "tmdb": {
+            "id": 1584215,
+            "media_type": "movie",
+            "release_date": "2026-01-13"
           }
         },
         {
@@ -1079,30 +1275,30 @@
         },
         {
           "rank": 9,
-          "title": "War of the Worlds",
+          "title": "Flight 7500",
           "tmdb": {
-            "id": 755898,
+            "id": 82657,
             "media_type": "movie",
-            "release_date": "2025-07-29"
+            "release_date": "2014-05-16"
           }
         },
         {
           "rank": 10,
-          "title": "High Ground",
+          "title": "Never Let Go",
           "tmdb": {
-            "id": 1433719,
+            "id": 814889,
             "media_type": "movie",
-            "release_date": "2025-03-17"
+            "release_date": "2024-09-18"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1152,20 +1348,20 @@
         },
         {
           "rank": 6,
+          "title": "Cross",
+          "tmdb": {
+            "id": 213306,
+            "media_type": "tv",
+            "release_date": "2024-11-14"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
             "media_type": "tv",
             "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Agency",
-          "tmdb": {
-            "id": 219971,
-            "media_type": "tv",
-            "release_date": "2024-12-01"
           }
         },
         {
@@ -1179,11 +1375,11 @@
         },
         {
           "rank": 9,
-          "title": "MobLand",
+          "title": "The Agency",
           "tmdb": {
-            "id": 247718,
+            "id": 219971,
             "media_type": "tv",
-            "release_date": "2025-03-30"
+            "release_date": "2024-12-01"
           }
         },
         {
@@ -1199,10 +1395,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Apple TV in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1261,15 +1457,6 @@
         },
         {
           "rank": 7,
-          "title": "Finch",
-          "tmdb": {
-            "id": 522402,
-            "media_type": "movie",
-            "release_date": "2021-11-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -1278,31 +1465,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Fountain of Youth",
+          "rank": 8,
+          "title": "Finch",
           "tmdb": {
-            "id": 1098006,
+            "id": 522402,
             "media_type": "movie",
-            "release_date": "2025-05-19"
+            "release_date": "2021-11-04"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Echo Valley",
           "tmdb": {
             "id": 1097311,
             "media_type": "movie",
             "release_date": "2025-06-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Apple TV in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1325,15 +1521,6 @@
         },
         {
           "rank": 3,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Cape Fear",
           "tmdb": {
             "id": 277439,
@@ -1342,12 +1529,21 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -1370,15 +1566,6 @@
         },
         {
           "rank": 8,
-          "title": "Monarch: Legacy of Monsters",
-          "tmdb": {
-            "id": 202411,
-            "media_type": "tv",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1387,22 +1574,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Sugar",
           "tmdb": {
             "id": 203744,
             "media_type": "tv",
             "release_date": "2024-04-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Amazon in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1443,11 +1639,11 @@
         },
         {
           "rank": 5,
-          "title": "Hokum",
+          "title": "Backrooms",
           "tmdb": {
-            "id": 1430077,
+            "id": 1083381,
             "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "2026-05-27"
           }
         },
         {
@@ -1461,11 +1657,11 @@
         },
         {
           "rank": 7,
-          "title": "Oppenheimer",
+          "title": "Hokum",
           "tmdb": {
-            "id": 872585,
+            "id": 1430077,
             "media_type": "movie",
-            "release_date": "2023-07-19"
+            "release_date": "2026-04-29"
           }
         },
         {
@@ -1479,11 +1675,11 @@
         },
         {
           "rank": 9,
-          "title": "Shelter",
+          "title": "One Day",
           "tmdb": {
-            "id": 1290821,
+            "id": 51828,
             "media_type": "movie",
-            "release_date": "2026-01-28"
+            "release_date": "2011-03-02"
           }
         },
         {
@@ -1499,32 +1695,14 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Apple TV Store in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Oppenheimer",
-          "tmdb": {
-            "id": 872585,
-            "media_type": "movie",
-            "release_date": "2023-07-19"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
@@ -1533,52 +1711,25 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Oppenheimer",
+          "tmdb": {
+            "id": 872585,
+            "media_type": "movie",
+            "release_date": "2023-07-19"
+          }
+        },
+        {
           "rank": 4,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Princess Mononoke",
-          "tmdb": {
-            "id": 128,
-            "media_type": "movie",
-            "release_date": "1997-07-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Three Steps Above Heaven",
-          "tmdb": {
-            "id": 61979,
-            "media_type": "movie",
-            "release_date": "2010-12-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Matrix Reloaded",
           "tmdb": {
             "id": 604,
@@ -1587,22 +1738,67 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Ponyo",
+          "rank": 5,
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 12429,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2008-07-19"
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Drama",
+          "tmdb": {
+            "id": 1325734,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Matrix Revolutions",
+          "tmdb": {
+            "id": 605,
+            "media_type": "movie",
+            "release_date": "2003-11-05"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Three Steps Above Heaven",
+          "tmdb": {
+            "id": 61979,
+            "media_type": "movie",
+            "release_date": "2010-12-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Matrix",
+          "tmdb": {
+            "id": 603,
+            "media_type": "movie",
+            "release_date": "1999-03-31"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Google in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1616,20 +1812,20 @@
         },
         {
           "rank": 2,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
             "media_type": "movie",
             "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -1643,33 +1839,6 @@
         },
         {
           "rank": 5,
-          "title": "Coraline",
-          "tmdb": {
-            "id": 14836,
-            "media_type": "movie",
-            "release_date": "2009-02-05"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Scream 7",
-          "tmdb": {
-            "id": 1159559,
-            "media_type": "movie",
-            "release_date": "2026-02-25"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Dracula",
           "tmdb": {
             "id": 1246049,
@@ -1678,31 +1847,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Coraline",
+          "tmdb": {
+            "id": 14836,
+            "media_type": "movie",
+            "release_date": "2009-02-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Scream 7",
+          "tmdb": {
+            "id": 1159559,
+            "media_type": "movie",
+            "release_date": "2026-02-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Ugly Stepsister",
+          "tmdb": {
+            "id": 1284120,
+            "media_type": "movie",
+            "release_date": "2025-03-07"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Hokum",
           "tmdb": {
             "id": 1430077,
             "media_type": "movie",
             "release_date": "2026-04-29"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Five Nights at Freddy's 2",
-          "tmdb": {
-            "id": 1228246,
-            "media_type": "movie",
-            "release_date": "2025-12-03"
-          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Mexico on July 17, 2026",
+      "heading": "TOP Movies on Claro Video in Mexico on July 18, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1716,15 +1912,6 @@
         },
         {
           "rank": 2,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -1733,7 +1920,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Sing 2",
           "tmdb": {
             "id": 438695,
@@ -1742,16 +1929,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Puss in Boots: The Last Wish",
-          "tmdb": {
-            "id": 315162,
-            "media_type": "movie",
-            "release_date": "2022-12-07"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "Minions: The Rise of Gru",
           "tmdb": {
             "id": 438148,
@@ -1760,7 +1938,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Despicable Me 2",
+          "tmdb": {
+            "id": 93456,
+            "media_type": "movie",
+            "release_date": "2013-06-26"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Despicable Me 3",
           "tmdb": {
             "id": 324852,
@@ -1769,7 +1956,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Minions",
           "tmdb": {
             "id": 211672,
@@ -1778,7 +1965,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The Bad Guys",
           "tmdb": {
             "id": 629542,
@@ -1787,22 +1974,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Despicable Me",
           "tmdb": {
             "id": 20352,
             "media_type": "movie",
             "release_date": "2010-07-08"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Shrek Forever After",
+          "tmdb": {
+            "id": 10192,
+            "media_type": "movie",
+            "release_date": "2010-05-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Mexico on July 17, 2026",
+      "heading": "TOP TV Shows on Claro Video in Mexico on July 18, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "July 17, 2026",
+      "date": "July 18, 2026",
       "title_count": 10,
       "entries": [
         {
