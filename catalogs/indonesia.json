@@ -3,7 +3,7 @@
   "page_title": "TOP 10 on Streaming in Indonesia on July 20, 2026",
   "region": "indonesia",
   "date": "July 20, 2026",
-  "scraped_at_utc": "2026-07-20T16:57:30.634496+00:00",
+  "scraped_at_utc": "2026-07-20T22:14:56.179926+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
@@ -701,6 +701,106 @@
             "id": 1380291,
             "media_type": "movie",
             "release_date": "2026-05-20"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "amazon-prime.series",
+      "heading": "TOP TV Shows on Amazon Prime in Indonesia on July 20, 2026",
+      "category": "tv shows",
+      "platform": "Amazon Prime",
+      "date": "July 20, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "See You at Work Tomorrow!",
+          "tmdb": {
+            "id": 289763,
+            "media_type": "tv",
+            "release_date": "2026-06-22"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Ride or Die",
+          "tmdb": {
+            "id": 241882,
+            "media_type": "tv",
+            "release_date": "2026-07-15"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Elle",
+          "tmdb": {
+            "id": 254420,
+            "media_type": "tv",
+            "release_date": "2026-07-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Marry My Husband",
+          "tmdb": {
+            "id": 221851,
+            "media_type": "tv",
+            "release_date": "2024-01-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Touch Your Heart",
+          "tmdb": {
+            "id": 85404,
+            "media_type": "tv",
+            "release_date": "2019-02-06"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Spider-Noir",
+          "tmdb": {
+            "id": 220102,
+            "media_type": "tv",
+            "release_date": "2026-05-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Every Year After",
+          "tmdb": {
+            "id": 260592,
+            "media_type": "tv",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Spring Fever",
+          "tmdb": {
+            "id": 280948,
+            "media_type": "tv",
+            "release_date": "2026-01-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Young Sherlock",
+          "tmdb": {
+            "id": 255661,
+            "media_type": "tv",
+            "release_date": "2026-03-04"
           }
         }
       ]
@@ -1594,7 +1694,11 @@
       ]
     },
     {
-      "catalog_id": "vidio.overall",
+      "catalog_id": "vidio.overall-ja",
+      "variant": {
+        "id": "ja",
+        "label": "Japanese"
+      },
       "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on July 20, 2026",
       "category": "overall",
       "platform": "Vidio",
@@ -1694,7 +1798,11 @@
       ]
     },
     {
-      "catalog_id": "vidio.overall",
+      "catalog_id": "vidio.overall-ko",
+      "variant": {
+        "id": "ko",
+        "label": "Korean"
+      },
       "heading": "TOP Overall (in Korean) on Vidio in Indonesia on July 20, 2026",
       "category": "overall",
       "platform": "Vidio",
@@ -1894,7 +2002,11 @@
       ]
     },
     {
-      "catalog_id": "vidio.movies",
+      "catalog_id": "vidio.movies-en",
+      "variant": {
+        "id": "en",
+        "label": "English"
+      },
       "heading": "TOP Movies (in English) on Vidio in Indonesia on July 20, 2026",
       "category": "movies",
       "platform": "Vidio",
@@ -1994,7 +2106,11 @@
       ]
     },
     {
-      "catalog_id": "vidio.movies",
+      "catalog_id": "vidio.movies-id",
+      "variant": {
+        "id": "id",
+        "label": "Indonesian"
+      },
       "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on July 20, 2026",
       "category": "movies",
       "platform": "Vidio",
@@ -2190,7 +2306,11 @@
       ]
     },
     {
-      "catalog_id": "vidio.series",
+      "catalog_id": "vidio.series-id",
+      "variant": {
+        "id": "id",
+        "label": "Indonesian"
+      },
       "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on July 20, 2026",
       "category": "tv shows",
       "platform": "Vidio",
