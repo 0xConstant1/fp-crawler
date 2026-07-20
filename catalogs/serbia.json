@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/serbia/",
-  "page_title": "TOP 10 on Streaming in Serbia on July 19, 2026",
+  "page_title": "TOP 10 on Streaming in Serbia on July 20, 2026",
   "region": "serbia",
-  "date": "July 19, 2026",
-  "scraped_at_utc": "2026-07-19T16:28:19.799181+00:00",
+  "date": "July 20, 2026",
+  "scraped_at_utc": "2026-07-20T16:58:01.268318+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Serbia on July 19, 2026",
+      "heading": "TOP Movies on Netflix in Serbia on July 20, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Serbia on July 19, 2026",
+      "heading": "TOP TV Shows on Netflix in Serbia on July 20, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,14 +207,23 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Serbia on July 19, 2026",
+      "heading": "TOP Movies on HBO Max in Serbia on July 20, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Heads of State",
           "tmdb": {
             "id": 749170,
@@ -223,43 +232,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Interstellar",
-          "tmdb": {
-            "id": 157336,
-            "media_type": "movie",
-            "release_date": "2014-11-05"
-          }
-        },
-        {
           "rank": 3,
-          "title": "Lee Cronin's The Mummy",
-          "tmdb": {
-            "id": 1304313,
-            "media_type": "movie",
-            "release_date": "2026-04-15"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Inferno",
-          "tmdb": {
-            "id": 207932,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Da Vinci Code",
-          "tmdb": {
-            "id": 591,
-            "media_type": "movie",
-            "release_date": "2006-05-17"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Accountant²",
           "tmdb": {
             "id": 870028,
@@ -268,7 +241,52 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Lee Cronin's The Mummy",
+          "tmdb": {
+            "id": 1304313,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Accountant",
+          "tmdb": {
+            "id": 302946,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Oh, Hi!",
+          "tmdb": {
+            "id": 1339658,
+            "media_type": "movie",
+            "release_date": "2025-07-25"
+          }
+        },
+        {
           "rank": 7,
+          "title": "A Quiet Place: Day One",
+          "tmdb": {
+            "id": 762441,
+            "media_type": "movie",
+            "release_date": "2024-06-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Interstellar",
+          "tmdb": {
+            "id": 157336,
+            "media_type": "movie",
+            "release_date": "2014-11-05"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Inception",
           "tmdb": {
             "id": 27205,
@@ -277,40 +295,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Angels & Demons",
-          "tmdb": {
-            "id": 13448,
-            "media_type": "movie",
-            "release_date": "2009-04-20"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Your Highness",
-          "tmdb": {
-            "id": 38319,
-            "media_type": "movie",
-            "release_date": "2011-04-08"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Accountant",
+          "title": "The Da Vinci Code",
           "tmdb": {
-            "id": 302946,
+            "id": 591,
             "media_type": "movie",
-            "release_date": "2016-10-13"
+            "release_date": "2006-05-17"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Serbia on July 19, 2026",
+      "heading": "TOP TV Shows on HBO Max in Serbia on July 20, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,6 +342,15 @@
         },
         {
           "rank": 4,
+          "title": "Life, Larry and the Pursuit of Unhappiness",
+          "tmdb": {
+            "id": 295780,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Proud",
           "tmdb": {
             "id": 315610,
@@ -350,21 +359,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Miniature Wife",
           "tmdb": {
             "id": 250220,
             "media_type": "tv",
             "release_date": "2026-04-09"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
-          "tmdb": {
-            "id": 295780,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
           }
         },
         {
@@ -387,30 +387,30 @@
         },
         {
           "rank": 9,
-          "title": "Evil Lives Here",
-          "tmdb": {
-            "id": 70249,
-            "media_type": "tv",
-            "release_date": "2016-01-17"
-          }
-        },
-        {
-          "rank": 10,
           "title": "DTF St. Louis",
           "tmdb": {
             "id": 206828,
             "media_type": "tv",
             "release_date": "2026-03-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Evil Lives Here",
+          "tmdb": {
+            "id": 70249,
+            "media_type": "tv",
+            "release_date": "2016-01-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Serbia on July 19, 2026",
+      "heading": "TOP Overall on Disney+ in Serbia on July 20, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -451,20 +451,20 @@
         },
         {
           "rank": 5,
-          "title": "R.J. Decker",
-          "tmdb": {
-            "id": 302074,
-            "media_type": "tv",
-            "release_date": "2026-03-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
             "media_type": "movie",
             "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "R.J. Decker",
+          "tmdb": {
+            "id": 302074,
+            "media_type": "tv",
+            "release_date": "2026-03-03"
           }
         },
         {
@@ -487,130 +487,130 @@
         },
         {
           "rank": 9,
-          "title": "Inside Out 2",
+          "title": "Toy Story",
           "tmdb": {
-            "id": 1022789,
+            "id": 862,
             "media_type": "movie",
-            "release_date": "2024-06-11"
+            "release_date": "1995-11-22"
           }
         },
         {
           "rank": 10,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Serbia on July 19, 2026",
-      "category": "movies",
-      "platform": "Disney+",
-      "date": "July 19, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Descendants: Wicked Wonderland",
-          "tmdb": {
-            "id": 1318621,
-            "media_type": "movie",
-            "release_date": "2026-07-16"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Ready or Not 2: Here I Come",
-          "tmdb": {
-            "id": 1266127,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Inside Out 2",
-          "tmdb": {
-            "id": 1022789,
-            "media_type": "movie",
-            "release_date": "2024-06-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Descendants",
           "tmdb": {
             "id": 277217,
             "media_type": "movie",
             "release_date": "2015-07-31"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "disney.movies",
+      "heading": "TOP Movies on Disney+ in Serbia on July 20, 2026",
+      "category": "movies",
+      "platform": "Disney+",
+      "date": "July 20, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Descendants: Wicked Wonderland",
+          "tmdb": {
+            "id": 1318621,
+            "media_type": "movie",
+            "release_date": "2026-07-16"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Ready or Not 2: Here I Come",
+          "tmdb": {
+            "id": 1266127,
+            "media_type": "movie",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Moana 2",
+          "tmdb": {
+            "id": 1241982,
+            "media_type": "movie",
+            "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Descendants: The Rise of Red",
+          "tmdb": {
+            "id": 974262,
+            "media_type": "movie",
+            "release_date": "2024-07-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Toy Story 3",
+          "tmdb": {
+            "id": 10193,
+            "media_type": "movie",
+            "release_date": "2010-06-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
         },
         {
           "rank": 10,
-          "title": "Encanto",
+          "title": "Descendants",
           "tmdb": {
-            "id": 568124,
+            "id": 277217,
             "media_type": "movie",
-            "release_date": "2021-10-13"
+            "release_date": "2015-07-31"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Serbia on July 19, 2026",
+      "heading": "TOP TV Shows on Disney+ in Serbia on July 20, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,15 +633,6 @@
         },
         {
           "rank": 3,
-          "title": "X-Men '97",
-          "tmdb": {
-            "id": 138502,
-            "media_type": "tv",
-            "release_date": "2024-03-20"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Sofia the First: Royal Magic",
           "tmdb": {
             "id": 261647,
@@ -650,21 +641,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Cult of NatureBoy",
-          "tmdb": {
-            "id": 320579,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
             "media_type": "tv",
             "release_date": "2024-09-17"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "X-Men '97",
+          "tmdb": {
+            "id": 138502,
+            "media_type": "tv",
+            "release_date": "2024-03-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Cult of NatureBoy",
+          "tmdb": {
+            "id": 320579,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -687,30 +687,30 @@
         },
         {
           "rank": 9,
-          "title": "Desperate Housewives",
-          "tmdb": {
-            "id": 693,
-            "media_type": "tv",
-            "release_date": "2004-10-03"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
             "media_type": "tv",
             "release_date": "2026-04-08"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Desperate Housewives",
+          "tmdb": {
+            "id": 693,
+            "media_type": "tv",
+            "release_date": "2004-10-03"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Serbia on July 19, 2026",
+      "heading": "TOP Movies on SkyShowtime in Serbia on July 20, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,6 +733,15 @@
         },
         {
           "rank": 3,
+          "title": "Wicked: For Good",
+          "tmdb": {
+            "id": 967941,
+            "media_type": "movie",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Dracula Untold",
           "tmdb": {
             "id": 49017,
@@ -741,21 +750,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Friend",
-          "tmdb": {
-            "id": 1186563,
-            "media_type": "movie",
-            "release_date": "2025-03-28"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Shrek 2",
+          "title": "The Croods: A New Age",
           "tmdb": {
-            "id": 809,
+            "id": 529203,
             "media_type": "movie",
-            "release_date": "2004-05-19"
+            "release_date": "2020-11-25"
           }
         },
         {
@@ -769,48 +769,48 @@
         },
         {
           "rank": 7,
-          "title": "Wicked: For Good",
+          "title": "The Croods",
           "tmdb": {
-            "id": 967941,
+            "id": 49519,
             "media_type": "movie",
-            "release_date": "2025-11-19"
+            "release_date": "2013-03-15"
           }
         },
         {
           "rank": 8,
-          "title": "The Chronicles of Riddick",
-          "tmdb": {
-            "id": 2789,
-            "media_type": "movie",
-            "release_date": "2004-06-11"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The SpongeBob Movie: Search for SquarePants",
-          "tmdb": {
-            "id": 991494,
-            "media_type": "movie",
-            "release_date": "2025-12-16"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Honey Don't!",
           "tmdb": {
             "id": 1149504,
             "media_type": "movie",
             "release_date": "2025-08-21"
           }
+        },
+        {
+          "rank": 9,
+          "title": "The Friend",
+          "tmdb": {
+            "id": 1186563,
+            "media_type": "movie",
+            "release_date": "2025-03-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Chronicles of Riddick",
+          "tmdb": {
+            "id": 2789,
+            "media_type": "movie",
+            "release_date": "2004-06-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Serbia on July 19, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Serbia on July 20, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "July 19, 2026",
+      "date": "July 20, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -860,15 +860,6 @@
         },
         {
           "rank": 6,
-          "title": "SkyMed",
-          "tmdb": {
-            "id": 133908,
-            "media_type": "tv",
-            "release_date": "2022-07-10"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Quantum Leap",
           "tmdb": {
             "id": 4018,
@@ -877,21 +868,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Rosa Elettrica - In fuga con il nemico",
-          "tmdb": {
-            "id": 319820,
-            "media_type": "tv",
-            "release_date": "2026-05-08"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Dr. Death",
           "tmdb": {
             "id": 93749,
             "media_type": "tv",
             "release_date": "2021-07-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "SkyMed",
+          "tmdb": {
+            "id": 133908,
+            "media_type": "tv",
+            "release_date": "2022-07-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Rosa Elettrica - In fuga con il nemico",
+          "tmdb": {
+            "id": 319820,
+            "media_type": "tv",
+            "release_date": "2026-05-08"
           }
         },
         {
