@@ -3,7 +3,7 @@
   "page_title": "TOP 10 on Streaming in South Korea on July 20, 2026",
   "region": "south-korea",
   "date": "July 20, 2026",
-  "scraped_at_utc": "2026-07-20T16:58:08.174880+00:00",
+  "scraped_at_utc": "2026-07-20T22:15:37.706249+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
@@ -201,6 +201,182 @@
             "id": 297826,
             "media_type": "tv",
             "release_date": "2026-07-09"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in South Korea on July 20, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "July 20, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Spirited Away",
+          "tmdb": {
+            "id": 129,
+            "media_type": "movie",
+            "release_date": "2001-07-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Journey 2: The Mysterious Island",
+          "tmdb": {
+            "id": 72545,
+            "media_type": "movie",
+            "release_date": "2012-01-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "My Neighbor Totoro",
+          "tmdb": {
+            "id": 8392,
+            "media_type": "movie",
+            "release_date": "1988-04-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Bread Barbershop: The Bakerytown Baddies",
+          "tmdb": {
+            "id": 1521915,
+            "media_type": "movie",
+            "release_date": "2025-09-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Howls Moving Castle",
+          "tmdb": {
+            "id": 4935,
+            "media_type": "movie",
+            "release_date": "2004-09-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Journey to the Center of the Earth",
+          "tmdb": {
+            "id": 88751,
+            "media_type": "movie",
+            "release_date": "2008-07-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Ponyo",
+          "tmdb": {
+            "id": 12429,
+            "media_type": "movie",
+            "release_date": "2008-07-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Crayon Shin-chan: Very Tasty! B-class Gourmet Survival!!",
+          "tmdb": {
+            "id": 163786,
+            "media_type": "movie",
+            "release_date": "2013-04-19"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in South Korea on July 20, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "July 20, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Zanmang Loopy’s Mukbang",
+          "tmdb": {
+            "id": 327044,
+            "media_type": "tv",
+            "release_date": "2026-01-23"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "GeniKids: Fantastic Folktales",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
+          "title": "GeniKids: Korean War History",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
+          "title": "GeniKids: The Professional Princess",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
+          "title": "Bebefinn",
+          "tmdb": {
+            "id": 241948,
+            "media_type": "tv",
+            "release_date": "2022-11-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "GeniKids: The First Aid Princess",
+          "tmdb": null
+        },
+        {
+          "rank": 8,
+          "title": "Learning and fun with Jose Comelon",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "GeniKids: Classic Fairy Tales",
+          "tmdb": null
+        },
+        {
+          "rank": 10,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
           }
         }
       ]
@@ -1098,7 +1274,11 @@
       ]
     },
     {
-      "catalog_id": "wavve.series",
+      "catalog_id": "wavve.series-ko",
+      "variant": {
+        "id": "ko",
+        "label": "Korean"
+      },
       "heading": "TOP TV Shows (in Korean) on Wavve in South Korea on July 20, 2026",
       "category": "tv shows",
       "platform": "Wavve",

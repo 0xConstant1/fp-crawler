@@ -1,9 +1,11 @@
 from __future__ import annotations
 
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import UTC, datetime
 import json
+import logging
 import random
 import re
 from pathlib import Path
@@ -44,6 +46,45 @@ REGIONAL_SERVICE_HEADING_PATTERN = re.compile(
 REGIONAL_SUBHEADING_PATTERN = re.compile(
     r"^TOP 10 (?P<label>.+?)(?: \((?P<qualifier>.+)\))?$"
 )
+QUALIFIER_PATTERN = re.compile(
+    r"^(?P<base>.+?) \((?P<qualifier>(?:in|from) [^)]+)\)$"
+)
+
+logger = logging.getLogger(__name__)
+
+# Heading qualifier -> (variant_id, variant_label). Languages use their ISO 639-1
+# code; non-language qualifiers use a kebab-case slug of the phrase. A qualifier
+# that is missing from this table is only fatal inside a colliding group, where
+# there is no unique catalog_id to fall back to.
+VARIANT_TABLE: dict[str, tuple[str, str]] = {
+    "in english": ("en", "English"),
+    "in hindi": ("hi", "Hindi"),
+    "in marathi": ("mr", "Marathi"),
+    "in japanese": ("ja", "Japanese"),
+    "in korean": ("ko", "Korean"),
+    "in indonesian": ("id", "Indonesian"),
+    "in italian": ("it", "Italian"),
+    "from amazon channels": ("amazon-channels", "Amazon Channels"),
+}
+
+CANONICAL_CATEGORIES: frozenset[str] = frozenset({"movies", "series", "overall"})
+
+
+def split_catalog_id(chart: dict[str, Any]) -> tuple[str, str, str | None]:
+    """Return ``(service, category, variant_id)`` for a serialized chart.
+
+    ``category`` is the slug used in the id (``series``, not ``tv shows``); the
+    variant id is stripped off using the chart's own ``variant`` field rather
+    than guessed from the string, so a variant id that contains a dash
+    (``amazon-channels``) is handled correctly.
+    """
+    service, _, rest = chart["catalog_id"].partition(".")
+    variant = chart.get("variant")
+    if variant is None:
+        return service, rest, None
+    suffix = f"-{variant['id']}"
+    category = rest[: -len(suffix)] if rest.endswith(suffix) else rest
+    return service, category, variant["id"]
 
 
 class ScraperError(RuntimeError):
@@ -69,6 +110,15 @@ class ChartEntry:
 
 
 @dataclass(frozen=True, slots=True)
+class ChartVariant:
+    id: str
+    label: str
+
+    def to_dict(self) -> dict[str, Any]:
+        return {"id": self.id, "label": self.label}
+
+
+@dataclass(frozen=True, slots=True)
 class Chart:
     heading: str
     catalog_id: str
@@ -77,6 +127,7 @@ class Chart:
     date: str
     is_full_top10: bool
     entries: list[ChartEntry]
+    variant: ChartVariant | None = None
 
     @property
     def title_count(self) -> int:
@@ -87,15 +138,34 @@ class Chart:
         return [entry.title for entry in self.entries]
 
     def to_dict(self) -> dict[str, Any]:
-        return {
-            "catalog_id": self.catalog_id,
-            "heading": self.heading,
-            "category": _serialize_category(self.category),
-            "platform": self.platform,
-            "date": self.date,
-            "title_count": self.title_count,
-            "entries": [entry.to_dict() for entry in self.entries],
-        }
+        payload: dict[str, Any] = {"catalog_id": self.catalog_id}
+        if self.variant is not None:
+            payload["variant"] = self.variant.to_dict()
+        payload.update(
+            {
+                "heading": self.heading,
+                "category": _serialize_category(self.category),
+                "platform": self.platform,
+                "date": self.date,
+                "title_count": self.title_count,
+                "entries": [entry.to_dict() for entry in self.entries],
+            }
+        )
+        return payload
+
+
+@dataclass(frozen=True, slots=True)
+class _PendingChart:
+    """A scraped chart before its catalog_id is known.
+
+    catalog_id assignment is collision-scoped, so it cannot happen until every
+    chart on the page has been seen and bucketed by (service, category).
+    """
+
+    chart: Chart
+    service_slug: str
+    category_slug: str
+    qualifier: str | None
 
 
 @dataclass(frozen=True, slots=True)
@@ -199,7 +269,9 @@ class FlixPatrolScraper:
         soup = BeautifulSoup(html, "html.parser")
         page_title = self._extract_page_title(soup)
         page_region, page_date = self._extract_page_metadata(page_title)
-        charts = self._extract_charts(soup, page_region=page_region)
+        charts = _assign_catalog_ids(
+            self._extract_charts(soup, page_region=page_region)
+        )
 
         if not charts:
             raise NoChartsFoundError("No TOP 10 charts were found in the provided HTML.")
@@ -239,14 +311,18 @@ class FlixPatrolScraper:
             raise ScraperError(f"Unexpected page title format: {page_title!r}")
         return match.group("region"), match.group("date")
 
-    def _extract_charts(self, soup: BeautifulSoup, *, page_region: str) -> list[Chart]:
+    def _extract_charts(
+        self, soup: BeautifulSoup, *, page_region: str
+    ) -> list[_PendingChart]:
         regional_charts = self._extract_regional_charts(soup)
         if regional_charts:
             return regional_charts
         return self._extract_global_charts(soup, region=page_region)
 
-    def _extract_global_charts(self, soup: BeautifulSoup, *, region: str) -> list[Chart]:
-        charts: list[Chart] = []
+    def _extract_global_charts(
+        self, soup: BeautifulSoup, *, region: str
+    ) -> list[_PendingChart]:
+        charts: list[_PendingChart] = []
 
         for heading_tag in soup.find_all("h2"):
             heading_text = _normalize_whitespace(heading_tag.get_text(" ", strip=True))
@@ -259,26 +335,32 @@ class FlixPatrolScraper:
                 raise ScraperError(f"Could not find a table for chart {heading_text!r}.")
 
             entries = self._extract_entries_from_table(table, heading_text)
+            platform = heading_match.group("platform")
+            base_label, qualifier = _split_label_qualifier(
+                heading_match.group("category")
+            )
 
             charts.append(
-                Chart(
-                    heading=heading_text,
-                    catalog_id=_serialize_catalog_id(
-                        heading_match.group("platform"),
-                        heading_match.group("category"),
+                _PendingChart(
+                    chart=Chart(
+                        heading=heading_text,
+                        catalog_id="",
+                        category=base_label,
+                        platform=platform,
+                        date=heading_match.group("date"),
+                        is_full_top10=len(entries) == self.max_titles_per_chart,
+                        entries=entries,
                     ),
-                    category=heading_match.group("category"),
-                    platform=heading_match.group("platform"),
-                    date=heading_match.group("date"),
-                    is_full_top10=len(entries) == self.max_titles_per_chart,
-                    entries=entries,
+                    service_slug=_slugify_platform(platform),
+                    category_slug=_category_slug(base_label),
+                    qualifier=qualifier,
                 )
             )
 
         return charts
 
-    def _extract_regional_charts(self, soup: BeautifulSoup) -> list[Chart]:
-        charts: list[Chart] = []
+    def _extract_regional_charts(self, soup: BeautifulSoup) -> list[_PendingChart]:
+        charts: list[_PendingChart] = []
 
         for heading_tag in soup.find_all("h2"):
             heading_text = _normalize_whitespace(heading_tag.get_text(" ", strip=True))
@@ -305,7 +387,7 @@ class FlixPatrolScraper:
                     continue
 
                 label = _normalize_whitespace(subheading_text.removeprefix("TOP 10 "))
-                category = self._normalize_regional_category(label)
+                base_label, qualifier = _split_label_qualifier(label)
 
                 table = self._find_table_for_subheading(subheading_tag, section)
                 if table is None:
@@ -318,14 +400,19 @@ class FlixPatrolScraper:
                 chart_heading = f"TOP {label} on {platform} in {region} on {date}"
 
                 charts.append(
-                    Chart(
-                        heading=chart_heading,
-                        catalog_id=_serialize_catalog_id(platform, label),
-                        category=category,
-                        platform=platform,
-                        date=date,
-                        is_full_top10=len(entries) == self.max_titles_per_chart,
-                        entries=entries,
+                    _PendingChart(
+                        chart=Chart(
+                            heading=chart_heading,
+                            catalog_id="",
+                            category=base_label,
+                            platform=platform,
+                            date=date,
+                            is_full_top10=len(entries) == self.max_titles_per_chart,
+                            entries=entries,
+                        ),
+                        service_slug=_slugify_platform(platform),
+                        category_slug=_category_slug(base_label),
+                        qualifier=qualifier,
                     )
                 )
 
@@ -357,10 +444,6 @@ class FlixPatrolScraper:
             return next_table
 
         return None
-
-    @staticmethod
-    def _normalize_regional_category(label: str) -> str:
-        return _normalize_whitespace(label.split(" (", 1)[0])
 
     def _extract_entries_from_table(self, table: Tag, heading: str) -> list[ChartEntry]:
         entries: list[ChartEntry] = []
@@ -443,6 +526,7 @@ class FlixPatrolScraper:
                     date=chart.date,
                     is_full_top10=chart.is_full_top10,
                     entries=enriched_entries,
+                    variant=chart.variant,
                 )
             )
 
@@ -493,8 +577,102 @@ def _serialize_category(category: str) -> str:
     return category.lower()
 
 
-def _serialize_catalog_id(platform: str, label: str) -> str:
-    return f"{_slugify_platform(platform)}.{_slugify_label(label)}"
+def _assign_catalog_ids(pending: list[_PendingChart]) -> list[Chart]:
+    """Assign collision-scoped catalog_ids to every scraped chart.
+
+    A chart is suffixed only when its (service, category) bucket has siblings;
+    a qualifier alone is not enough. Each bucket keeps exactly one bare-ID
+    member -- its genuine unqualified chart if it has one, otherwise the English
+    variant promoted to the bare ID. This preserves the ID older consumers
+    already resolve, without emitting a duplicate of the promoted chart under a
+    redundant suffix, and without a hand-maintained alias list.
+    """
+    buckets: dict[tuple[str, str], list[_PendingChart]] = defaultdict(list)
+    for item in pending:
+        buckets[(item.service_slug, item.category_slug)].append(item)
+
+    bare_holder = {key: _bare_id_holder(members) for key, members in buckets.items()}
+
+    charts: list[Chart] = []
+    for item in pending:
+        key = (item.service_slug, item.category_slug)
+        bare_id = f"{item.service_slug}.{item.category_slug}"
+
+        if item is bare_holder[key]:
+            charts.append(_with_catalog_id(item.chart, bare_id))
+            continue
+
+        variant = _lookup_variant(item.qualifier) if item.qualifier else None
+        if variant is None:
+            logger.error(
+                "Dropping chart %r: unrecognized qualifier %r in colliding group %s. "
+                "Add it to VARIANT_TABLE.",
+                item.chart.heading,
+                item.qualifier,
+                bare_id,
+            )
+            continue
+
+        charts.append(
+            _with_catalog_id(item.chart, f"{bare_id}-{variant.id}", variant=variant)
+        )
+
+    return charts
+
+
+def _bare_id_holder(members: list[_PendingChart]) -> _PendingChart:
+    """The bucket member that keeps the unsuffixed catalog_id.
+
+    A genuine unqualified chart wins; otherwise the English variant, falling back
+    to the first scraped. Promotion is by variant *identity*, not scrape position,
+    so a reordered feed cannot silently change which content the bare ID serves.
+    """
+    for member in members:
+        if member.qualifier is None:
+            return member
+    for member in members:
+        variant = _lookup_variant(member.qualifier) if member.qualifier else None
+        if variant is not None and variant.id == "en":
+            return member
+    return members[0]
+
+
+def _with_catalog_id(
+    chart: Chart,
+    catalog_id: str,
+    *,
+    variant: ChartVariant | None = None,
+) -> Chart:
+    return Chart(
+        heading=chart.heading,
+        catalog_id=catalog_id,
+        category=chart.category,
+        platform=chart.platform,
+        date=chart.date,
+        is_full_top10=chart.is_full_top10,
+        entries=chart.entries,
+        variant=variant,
+    )
+
+
+def _split_label_qualifier(label: str) -> tuple[str, str | None]:
+    """Split a heading label into its category text and trailing qualifier.
+
+    Runs for every chart regardless of whether the category is recognized, so
+    qualifier extraction is no longer coupled to category recognition.
+    """
+    match = QUALIFIER_PATTERN.fullmatch(label)
+    if match is None:
+        return label, None
+    return match.group("base"), match.group("qualifier")
+
+
+def _lookup_variant(qualifier: str) -> ChartVariant | None:
+    entry = VARIANT_TABLE.get(_normalize_whitespace(qualifier).casefold())
+    if entry is None:
+        return None
+    variant_id, variant_label = entry
+    return ChartVariant(id=variant_id, label=variant_label)
 
 
 def _slugify_platform(platform: str) -> str:
@@ -504,6 +682,9 @@ def _slugify_platform(platform: str) -> str:
     return normalized.strip("-")
 
 
+# Canonical alias map, not a whitelist: only categories whose slug differs from
+# their heading text need an entry. Anything absent is slugified as-is, so a
+# category FlixPatrol invents tomorrow needs no change here.
 KNOWN_CATEGORIES = {
     "movies": "movies",
     "tv shows": "series",
@@ -512,24 +693,8 @@ KNOWN_CATEGORIES = {
 }
 
 
-def _slugify_label(label: str) -> str:
-    base_label = label
-    qualifier = ""
-
-    if " (" in label and label.endswith(")"):
-        base_label, qualifier = label[:-1].split(" (", 1)
-
-    base_key = base_label.casefold()
-
-    if base_key in KNOWN_CATEGORIES:
-        return KNOWN_CATEGORIES[base_key]
-
-    normalized_base = _slugify_text(base_label)
-
-    if not qualifier:
-        return normalized_base
-
-    return f"{normalized_base}-{_slugify_text(qualifier)}"
+def _category_slug(base_label: str) -> str:
+    return KNOWN_CATEGORIES.get(base_label.casefold(), _slugify_text(base_label))
 
 
 def _slugify_text(value: str) -> str:
