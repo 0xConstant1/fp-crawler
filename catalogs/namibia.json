@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/namibia/",
-  "page_title": "TOP 10 on Streaming in Namibia on July 20, 2026",
+  "page_title": "TOP 10 on Streaming in Namibia on July 21, 2026",
   "region": "namibia",
-  "date": "July 20, 2026",
-  "scraped_at_utc": "2026-07-20T22:15:14.121962+00:00",
+  "date": "July 21, 2026",
+  "scraped_at_utc": "2026-07-21T16:56:11.390592+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Namibia on July 20, 2026",
+      "heading": "TOP Movies on Apple TV in Namibia on July 21, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 20, 2026",
+      "date": "July 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Ghosted",
+          "tmdb": {
+            "id": 868759,
+            "media_type": "movie",
+            "release_date": "2023-04-18"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Lost Bus",
           "tmdb": {
             "id": 1236470,
             "media_type": "movie",
             "release_date": "2025-09-19"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
           }
         },
         {
@@ -42,24 +42,6 @@
         },
         {
           "rank": 4,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -68,21 +50,39 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Ghosted",
+          "rank": 5,
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 868759,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2023-04-18"
+            "release_date": "2025-11-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
           }
         },
         {
           "rank": 8,
-          "title": "Echo Valley",
+          "title": "Fountain of Youth",
           "tmdb": {
-            "id": 1097311,
+            "id": 1098006,
             "media_type": "movie",
-            "release_date": "2025-06-13"
+            "release_date": "2025-05-19"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Wolfs",
+          "title": "Outcome",
           "tmdb": {
-            "id": 877817,
+            "id": 1049471,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2026-04-06"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Namibia on July 20, 2026",
+      "heading": "TOP TV Shows on Apple TV in Namibia on July 21, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 20, 2026",
+      "date": "July 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -160,11 +160,11 @@
         },
         {
           "rank": 6,
-          "title": "Your Friends & Neighbors",
+          "title": "Trying",
           "tmdb": {
-            "id": 241609,
+            "id": 98177,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2020-05-01"
           }
         },
         {
@@ -178,43 +178,106 @@
         },
         {
           "rank": 8,
-          "title": "See",
-          "tmdb": {
-            "id": 80752,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Trying",
-          "tmdb": {
-            "id": 98177,
-            "media_type": "tv",
-            "release_date": "2020-05-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Invasion",
+          "tmdb": {
+            "id": 127235,
+            "media_type": "tv",
+            "release_date": "2021-10-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Namibia on July 20, 2026",
+      "heading": "TOP Movies on Apple TV Store in Namibia on July 21, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 20, 2026",
+      "date": "July 21, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Lee Cronin's The Mummy",
+          "tmdb": {
+            "id": 1304313,
+            "media_type": "movie",
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "David",
+          "tmdb": {
+            "id": 1167307,
+            "media_type": "movie",
+            "release_date": "2025-12-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Snatch",
+          "tmdb": {
+            "id": 107,
+            "media_type": "movie",
+            "release_date": "2000-09-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Trainspotting",
+          "tmdb": {
+            "id": 627,
+            "media_type": "movie",
+            "release_date": "1996-02-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Gentlemen",
+          "tmdb": {
+            "id": 522627,
+            "media_type": "movie",
+            "release_date": "2020-01-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Odyssey: The Real Story",
+          "tmdb": {
+            "id": 1716056,
+            "media_type": "movie",
+            "release_date": "2026-06-29"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -223,7 +286,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 9,
           "title": "Mufasa: The Lion King",
           "tmdb": {
             "id": 762509,
@@ -232,81 +295,22 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 10,
           "title": "Ice Age",
           "tmdb": {
             "id": 425,
             "media_type": "movie",
             "release_date": "2002-03-14"
           }
-        },
-        {
-          "rank": 4,
-          "title": "Guardians of the Galaxy Volume 3",
-          "tmdb": null
-        },
-        {
-          "rank": 5,
-          "title": "Meg 2: The Trench",
-          "tmdb": {
-            "id": 615656,
-            "media_type": "movie",
-            "release_date": "2023-08-02"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Hellboy II: The Golden Army",
-          "tmdb": {
-            "id": 11253,
-            "media_type": "movie",
-            "release_date": "2008-07-11"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Amadeus",
-          "tmdb": {
-            "id": 279,
-            "media_type": "movie",
-            "release_date": "1984-09-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Elemental",
-          "tmdb": {
-            "id": 976573,
-            "media_type": "movie",
-            "release_date": "2023-06-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Namibia on July 20, 2026",
+      "heading": "TOP Movies on Google in Namibia on July 21, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "July 20, 2026",
+      "date": "July 21, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -329,20 +333,20 @@
         },
         {
           "rank": 3,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
             "media_type": "movie",
             "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
           }
         },
         {
@@ -383,20 +387,20 @@
         },
         {
           "rank": 9,
-          "title": "Lee Cronin's The Mummy",
+          "title": "Jurassic World Rebirth",
           "tmdb": {
-            "id": 1304313,
+            "id": 1234821,
             "media_type": "movie",
-            "release_date": "2026-04-15"
+            "release_date": "2025-06-23"
           }
         },
         {
           "rank": 10,
-          "title": "F1",
+          "title": "The Housemaid",
           "tmdb": {
-            "id": 911430,
+            "id": 1368166,
             "media_type": "movie",
-            "release_date": "2025-06-25"
+            "release_date": "2025-12-18"
           }
         }
       ]
