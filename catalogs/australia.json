@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/australia/",
-  "page_title": "TOP 10 on Streaming in Australia on July 22, 2026",
+  "page_title": "TOP 10 on Streaming in Australia on July 23, 2026",
   "region": "australia",
-  "date": "July 22, 2026",
-  "scraped_at_utc": "2026-07-22T16:55:48.943028+00:00",
+  "date": "July 23, 2026",
+  "scraped_at_utc": "2026-07-23T16:58:01.069735+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Australia on July 22, 2026",
+      "heading": "TOP Movies on Netflix in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Take Shelter",
+          "tmdb": {
+            "id": 64720,
+            "media_type": "movie",
+            "release_date": "2011-09-30"
+          }
+        },
+        {
+          "rank": 2,
           "title": "21 Jump Street",
           "tmdb": {
             "id": 64688,
             "media_type": "movie",
             "release_date": "2012-03-14"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Tarot",
-          "tmdb": {
-            "id": 719221,
-            "media_type": "movie",
-            "release_date": "2024-05-01"
           }
         },
         {
@@ -51,6 +51,15 @@
         },
         {
           "rank": 5,
+          "title": "Tarot",
+          "tmdb": {
+            "id": 719221,
+            "media_type": "movie",
+            "release_date": "2024-05-01"
+          }
+        },
+        {
+          "rank": 6,
           "title": "22 Jump Street",
           "tmdb": {
             "id": 187017,
@@ -59,16 +68,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Ladder 49",
+          "rank": 7,
+          "title": "Voicemails for Isabelle",
           "tmdb": {
-            "id": 11128,
+            "id": 614945,
             "media_type": "movie",
-            "release_date": "2004-10-01"
+            "release_date": "2026-06-20"
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Death on the Nile",
           "tmdb": {
             "id": 505026,
@@ -77,40 +86,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Quarantine 2: Terminal",
-          "tmdb": {
-            "id": 59115,
-            "media_type": "movie",
-            "release_date": "2011-06-16"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Shipwrecked: Nightmare at Sea",
+          "title": "Elize: Shadows of a Woman",
           "tmdb": {
-            "id": 1715492,
+            "id": 1487861,
             "media_type": "movie",
-            "release_date": "2026-07-10"
+            "release_date": "2026-07-22"
           }
         },
         {
           "rank": 10,
-          "title": "Voicemails for Isabelle",
+          "title": "Ladder 49",
           "tmdb": {
-            "id": 614945,
+            "id": 11128,
             "media_type": "movie",
-            "release_date": "2026-06-20"
+            "release_date": "2004-10-01"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Netflix in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,15 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Raw",
-          "tmdb": {
-            "id": 4656,
-            "media_type": "tv",
-            "release_date": "1993-01-11"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Hunting Wives",
           "tmdb": {
             "id": 244447,
@@ -141,7 +132,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "I Will Find You",
           "tmdb": {
             "id": 278178,
@@ -150,7 +141,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Little House on the Prairie",
           "tmdb": {
             "id": 1781,
@@ -159,7 +150,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The East Palace",
           "tmdb": {
             "id": 279323,
@@ -168,12 +159,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Hot Ones: Extra Heat",
+          "rank": 6,
+          "title": "Elite Force",
           "tmdb": {
-            "id": 326194,
+            "id": 281281,
             "media_type": "tv",
-            "release_date": "2026-07-13"
+            "release_date": "2026-07-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Ultimatum: Marry or Move On",
+          "tmdb": {
+            "id": 169588,
+            "media_type": "tv",
+            "release_date": "2022-04-06"
           }
         },
         {
@@ -187,11 +187,11 @@
         },
         {
           "rank": 9,
-          "title": "The Ultimatum: Marry or Move On",
+          "title": "Raw",
           "tmdb": {
-            "id": 169588,
+            "id": 4656,
             "media_type": "tv",
-            "release_date": "2022-04-06"
+            "release_date": "1993-01-11"
           }
         },
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Australia on July 22, 2026",
+      "heading": "TOP Kids Movies on Netflix in Australia on July 23, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -278,20 +278,20 @@
         },
         {
           "rank": 8,
-          "title": "Minions & More Volume 2",
-          "tmdb": {
-            "id": 1045644,
-            "media_type": "movie",
-            "release_date": "2022-11-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Night at the Museum",
           "tmdb": {
             "id": 1593,
             "media_type": "movie",
             "release_date": "2006-12-20"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Minions & More Volume 2",
+          "tmdb": {
+            "id": 1045644,
+            "media_type": "movie",
+            "release_date": "2022-11-08"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Australia on July 22, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Australia on July 23, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -383,30 +383,30 @@
         },
         {
           "rank": 9,
-          "title": "The InBESTigators",
-          "tmdb": {
-            "id": 91348,
-            "media_type": "tv",
-            "release_date": "2019-06-21"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Middle",
           "tmdb": {
             "id": 1422,
             "media_type": "tv",
             "release_date": "2009-09-30"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The InBESTigators",
+          "tmdb": {
+            "id": 91348,
+            "media_type": "tv",
+            "release_date": "2019-06-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Australia on July 22, 2026",
+      "heading": "TOP Movies on HBO Max in Australia on July 23, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -465,15 +465,6 @@
         },
         {
           "rank": 7,
-          "title": "Gray Matter",
-          "tmdb": {
-            "id": 1093796,
-            "media_type": "movie",
-            "release_date": "2023-07-13"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Magnolia",
           "tmdb": {
             "id": 334,
@@ -482,31 +473,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Dish",
+          "rank": 8,
+          "title": "Gray Matter",
           "tmdb": {
-            "id": 5257,
+            "id": 1093796,
             "media_type": "movie",
-            "release_date": "2000-10-19"
+            "release_date": "2023-07-13"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Goonies",
           "tmdb": {
             "id": 9340,
             "media_type": "movie",
             "release_date": "1985-06-07"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Dish",
+          "tmdb": {
+            "id": 5257,
+            "media_type": "movie",
+            "release_date": "2000-10-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on HBO Max in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -538,33 +538,6 @@
         },
         {
           "rank": 4,
-          "title": "90 Day Fiancé",
-          "tmdb": {
-            "id": 61575,
-            "media_type": "tv",
-            "release_date": "2014-01-12"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Evil Lives Here",
-          "tmdb": {
-            "id": 70249,
-            "media_type": "tv",
-            "release_date": "2016-01-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "In the Eye of the Storm: Chasers",
-          "tmdb": {
-            "id": 321456,
-            "media_type": "tv",
-            "release_date": "2026-05-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Deadliest Catch",
           "tmdb": {
             "id": 2612,
@@ -573,7 +546,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "90 Day Fiancé",
+          "tmdb": {
+            "id": 61575,
+            "media_type": "tv",
+            "release_date": "2014-01-12"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Task",
           "tmdb": {
             "id": 228305,
@@ -582,31 +564,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Naked and Afraid: Global Showdown",
+          "rank": 7,
+          "title": "In the Eye of the Storm: Chasers",
           "tmdb": {
-            "id": 322536,
+            "id": 321456,
             "media_type": "tv",
             "release_date": "2026-05-17"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Evil Lives Here",
+          "tmdb": {
+            "id": 70249,
+            "media_type": "tv",
+            "release_date": "2016-01-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Unexpected",
           "tmdb": {
             "id": 75035,
             "media_type": "tv",
             "release_date": "2017-11-12"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Conspiracies & Coverups",
+          "tmdb": {
+            "id": 317265,
+            "media_type": "tv",
+            "release_date": "2026-04-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Australia on July 22, 2026",
+      "heading": "TOP Overall on Disney+ in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -674,6 +674,15 @@
         },
         {
           "rank": 8,
+          "title": "Descendants: The Rise of Red",
+          "tmdb": {
+            "id": 974262,
+            "media_type": "movie",
+            "release_date": "2024-07-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -682,31 +691,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
             "media_type": "movie",
             "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Australia on July 22, 2026",
+      "heading": "TOP Movies on Disney+ in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -765,6 +765,15 @@
         },
         {
           "rank": 7,
+          "title": "Descendants: The Rise of Red",
+          "tmdb": {
+            "id": 974262,
+            "media_type": "movie",
+            "release_date": "2024-07-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -773,7 +782,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
@@ -782,31 +791,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Descendants",
+          "title": "The Avengers",
           "tmdb": {
-            "id": 277217,
+            "id": 24428,
             "media_type": "movie",
-            "release_date": "2015-07-31"
+            "release_date": "2012-04-25"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Disney+ in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -820,20 +820,20 @@
         },
         {
           "rank": 2,
+          "title": "X-Men '97",
+          "tmdb": {
+            "id": 138502,
+            "media_type": "tv",
+            "release_date": "2024-03-20"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Not Suitable for Work",
           "tmdb": {
             "id": 284725,
             "media_type": "tv",
             "release_date": "2026-06-02"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Million Dollar Nannies",
-          "tmdb": {
-            "id": 322928,
-            "media_type": "tv",
-            "release_date": "2026-06-17"
           }
         },
         {
@@ -847,20 +847,20 @@
         },
         {
           "rank": 5,
+          "title": "Million Dollar Nannies",
+          "tmdb": {
+            "id": 322928,
+            "media_type": "tv",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
             "media_type": "tv",
             "release_date": "2026-04-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "X-Men '97",
-          "tmdb": {
-            "id": 138502,
-            "media_type": "tv",
-            "release_date": "2024-03-20"
           }
         },
         {
@@ -874,6 +874,15 @@
         },
         {
           "rank": 8,
+          "title": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
+          "tmdb": {
+            "id": 321960,
+            "media_type": "tv",
+            "release_date": "2026-05-19"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Abandonados",
           "tmdb": {
             "id": 324050,
@@ -882,31 +891,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Alice and Steve",
           "tmdb": {
             "id": 318203,
             "media_type": "tv",
             "release_date": "2026-06-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
-          "tmdb": {
-            "id": 321960,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Australia on July 22, 2026",
+      "heading": "TOP Overall on Amazon Prime in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -920,20 +920,20 @@
         },
         {
           "rank": 2,
+          "title": "Masters of the Universe",
+          "tmdb": {
+            "id": 454639,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Elle",
           "tmdb": {
             "id": 254420,
             "media_type": "tv",
             "release_date": "2026-07-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
           }
         },
         {
@@ -947,70 +947,6 @@
         },
         {
           "rank": 5,
-          "title": "Clarkson's Farm",
-          "tmdb": {
-            "id": 117648,
-            "media_type": "tv",
-            "release_date": "2021-06-11"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Alliance",
-          "tmdb": {
-            "id": 326367,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Every Year After",
-          "tmdb": {
-            "id": 260592,
-            "media_type": "tv",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Sheep Detectives",
-          "tmdb": {
-            "id": 1301421,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Shelter",
-          "tmdb": {
-            "id": 1290821,
-            "media_type": "movie",
-            "release_date": "2026-01-28"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Hellfire",
-          "tmdb": {
-            "id": 1088434,
-            "media_type": "movie",
-            "release_date": "2026-05-14"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Australia on July 22, 2026",
-      "category": "movies",
-      "platform": "Amazon Prime",
-      "date": "July 22, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
@@ -1019,7 +955,34 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 6,
+          "title": "Clarkson's Farm",
+          "tmdb": {
+            "id": 117648,
+            "media_type": "tv",
+            "release_date": "2021-06-11"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Alliance",
+          "tmdb": {
+            "id": 326367,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Every Year After",
+          "tmdb": {
+            "id": 260592,
+            "media_type": "tv",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Sheep Detectives",
           "tmdb": {
             "id": 1301421,
@@ -1028,21 +991,58 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 10,
           "title": "Shelter",
           "tmdb": {
             "id": 1290821,
             "media_type": "movie",
             "release_date": "2026-01-28"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "amazon-prime.movies",
+      "heading": "TOP Movies on Amazon Prime in Australia on July 23, 2026",
+      "category": "movies",
+      "platform": "Amazon Prime",
+      "date": "July 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Masters of the Universe",
+          "tmdb": {
+            "id": 454639,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Sheep Detectives",
+          "tmdb": {
+            "id": 1301421,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
+          }
         },
         {
           "rank": 4,
-          "title": "Hellfire",
+          "title": "Shelter",
           "tmdb": {
-            "id": 1088434,
+            "id": 1290821,
             "media_type": "movie",
-            "release_date": "2026-05-14"
+            "release_date": "2026-01-28"
           }
         },
         {
@@ -1056,6 +1056,15 @@
         },
         {
           "rank": 6,
+          "title": "Hellfire",
+          "tmdb": {
+            "id": 1088434,
+            "media_type": "movie",
+            "release_date": "2026-05-14"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Legally Blonde",
           "tmdb": {
             "id": 8835,
@@ -1064,16 +1073,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Anaconda",
+          "rank": 8,
+          "title": "Ek Din",
           "tmdb": {
-            "id": 1234731,
+            "id": 1171094,
             "media_type": "movie",
-            "release_date": "2025-12-24"
+            "release_date": "2026-05-01"
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Tom Clancy's Jack Ryan: Ghost War",
           "tmdb": {
             "id": 1380291,
@@ -1082,31 +1091,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "F9",
-          "tmdb": {
-            "id": 385128,
-            "media_type": "movie",
-            "release_date": "2021-05-19"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Toxic Avenger",
+          "title": "Anaconda",
           "tmdb": {
-            "id": 15239,
+            "id": 1234731,
             "media_type": "movie",
-            "release_date": "1984-05-15"
+            "release_date": "2025-12-24"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1203,14 +1203,23 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Australia on July 22, 2026",
+      "heading": "TOP Movies on Paramount+ in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Perfect Man",
+          "tmdb": {
+            "id": 15648,
+            "media_type": "movie",
+            "release_date": "2005-06-17"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Contraband",
           "tmdb": {
             "id": 77866,
@@ -1219,30 +1228,21 @@
           }
         },
         {
-          "rank": 2,
-          "title": "South Park: The Streaming Wars",
-          "tmdb": {
-            "id": 974691,
-            "media_type": "movie",
-            "release_date": "2022-06-01"
-          }
-        },
-        {
           "rank": 3,
-          "title": "Wild Child",
+          "title": "Finestkind",
           "tmdb": {
-            "id": 13971,
+            "id": 507532,
             "media_type": "movie",
-            "release_date": "2008-08-15"
+            "release_date": "2023-09-08"
           }
         },
         {
           "rank": 4,
-          "title": "The Secret Life of Pets",
+          "title": "High Ground",
           "tmdb": {
-            "id": 328111,
+            "id": 1433719,
             "media_type": "movie",
-            "release_date": "2016-06-18"
+            "release_date": "2025-03-17"
           }
         },
         {
@@ -1256,38 +1256,38 @@
         },
         {
           "rank": 6,
-          "title": "High Ground",
+          "title": "The Unholy Trinity",
           "tmdb": {
-            "id": 1433719,
+            "id": 1195518,
             "media_type": "movie",
-            "release_date": "2025-03-17"
+            "release_date": "2025-06-13"
           }
         },
         {
           "rank": 7,
-          "title": "Finestkind",
+          "title": "The Secret Life of Pets",
           "tmdb": {
-            "id": 507532,
+            "id": 328111,
             "media_type": "movie",
-            "release_date": "2023-09-08"
+            "release_date": "2016-06-18"
           }
         },
         {
           "rank": 8,
-          "title": "South Park: The End Of Obesity",
+          "title": "Wild Child",
           "tmdb": {
-            "id": 1290938,
+            "id": 13971,
             "media_type": "movie",
-            "release_date": "2024-05-24"
+            "release_date": "2008-08-15"
           }
         },
         {
           "rank": 9,
-          "title": "South Park the Streaming Wars Part 2",
+          "title": "The Thicket",
           "tmdb": {
-            "id": 993729,
+            "id": 395817,
             "media_type": "movie",
-            "release_date": "2022-07-13"
+            "release_date": "2024-09-05"
           }
         },
         {
@@ -1303,10 +1303,10 @@
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1320,20 +1320,20 @@
         },
         {
           "rank": 2,
-          "title": "SpongeBob SquarePants",
-          "tmdb": {
-            "id": 387,
-            "media_type": "tv",
-            "release_date": "1999-05-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "NCIS",
           "tmdb": {
             "id": 4614,
             "media_type": "tv",
             "release_date": "2003-09-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "SpongeBob SquarePants",
+          "tmdb": {
+            "id": 387,
+            "media_type": "tv",
+            "release_date": "1999-05-01"
           }
         },
         {
@@ -1347,15 +1347,6 @@
         },
         {
           "rank": 5,
-          "title": "Criminal Minds",
-          "tmdb": {
-            "id": 4057,
-            "media_type": "tv",
-            "release_date": "2005-09-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -1364,7 +1355,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Criminal Minds",
+          "tmdb": {
+            "id": 4057,
+            "media_type": "tv",
+            "release_date": "2005-09-22"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Ghosts",
+          "tmdb": {
+            "id": 126027,
+            "media_type": "tv",
+            "release_date": "2021-10-07"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The King of Queens",
           "tmdb": {
             "id": 4238,
@@ -1373,40 +1382,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Agency",
+          "rank": 9,
+          "title": "Marshals",
           "tmdb": {
-            "id": 219971,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": "2024-12-01"
+            "release_date": "2026-03-01"
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Neighborhood",
           "tmdb": {
             "id": 81144,
             "media_type": "tv",
             "release_date": "2018-10-01"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Ghosts",
-          "tmdb": {
-            "id": 126027,
-            "media_type": "tv",
-            "release_date": "2021-10-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "paramount.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Australia on July 22, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1474,15 +1474,6 @@
         },
         {
           "rank": 8,
-          "title": "Two Years Later",
-          "tmdb": {
-            "id": 322687,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 9,
           "title": "MobLand",
           "tmdb": {
             "id": 247718,
@@ -1491,22 +1482,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
             "media_type": "tv",
             "release_date": "2023-07-23"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Two Years Later",
+          "tmdb": {
+            "id": 322687,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Australia on July 22, 2026",
+      "heading": "TOP Movies on Apple TV in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1565,24 +1565,6 @@
         },
         {
           "rank": 7,
-          "title": "Highest 2 Lowest",
-          "tmdb": {
-            "id": 1242434,
-            "media_type": "movie",
-            "release_date": "2025-08-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -1591,40 +1573,58 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Sharper",
           "tmdb": {
             "id": 717980,
             "media_type": "movie",
             "release_date": "2023-02-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Apple TV in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Lucky",
           "tmdb": {
             "id": 278624,
             "media_type": "tv",
             "release_date": "2026-07-14"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
           }
         },
         {
@@ -1638,24 +1638,15 @@
         },
         {
           "rank": 4,
-          "title": "Cape Fear",
+          "title": "Trying",
           "tmdb": {
-            "id": 277439,
+            "id": 98177,
             "media_type": "tv",
-            "release_date": "2026-06-04"
+            "release_date": "2020-05-01"
           }
         },
         {
           "rank": 5,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Maximum Pleasure Guaranteed",
           "tmdb": {
             "id": 285404,
@@ -1664,12 +1655,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Sugar",
+          "rank": 6,
+          "title": "Cape Fear",
           "tmdb": {
-            "id": 203744,
+            "id": 277439,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2026-06-04"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -1683,11 +1683,11 @@
         },
         {
           "rank": 9,
-          "title": "Trying",
+          "title": "Sugar",
           "tmdb": {
-            "id": 98177,
+            "id": 203744,
             "media_type": "tv",
-            "release_date": "2020-05-01"
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -1703,10 +1703,10 @@
     },
     {
       "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Australia on July 22, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1729,20 +1729,20 @@
         },
         {
           "rank": 3,
-          "title": "Cape Fear",
-          "tmdb": {
-            "id": 277439,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Cape Fear",
+          "tmdb": {
+            "id": 277439,
+            "media_type": "tv",
+            "release_date": "2026-06-04"
           }
         },
         {
@@ -1756,11 +1756,11 @@
         },
         {
           "rank": 6,
-          "title": "Sugar",
+          "title": "Trying",
           "tmdb": {
-            "id": 203744,
+            "id": 98177,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2020-05-01"
           }
         },
         {
@@ -1774,6 +1774,15 @@
         },
         {
           "rank": 8,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Dark Matter",
           "tmdb": {
             "id": 62425,
@@ -1782,131 +1791,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Margo's Got Money Troubles",
           "tmdb": {
             "id": 245318,
             "media_type": "tv",
             "release_date": "2026-04-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Australia on July 22, 2026",
+      "heading": "TOP Movies on Amazon in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "July 22, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Scary Movie",
-          "tmdb": {
-            "id": 1273221,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Backrooms",
-          "tmdb": {
-            "id": 1083381,
-            "media_type": "movie",
-            "release_date": "2026-05-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Deep Water",
-          "tmdb": {
-            "id": 1127384,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Fuze",
-          "tmdb": {
-            "id": 1242265,
-            "media_type": "movie",
-            "release_date": "2026-03-23"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Australia on July 22, 2026",
-      "category": "movies",
-      "platform": "Apple TV Store",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1938,11 +1838,111 @@
         },
         {
           "rank": 4,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Spider-Man: No Way Home",
+          "tmdb": {
+            "id": 634649,
+            "media_type": "movie",
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
             "media_type": "movie",
             "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "In the Grey",
+          "tmdb": {
+            "id": 1122573,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Deep Water",
+          "tmdb": {
+            "id": 1127384,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Age of Disclosure",
+          "tmdb": {
+            "id": 1422166,
+            "media_type": "movie",
+            "release_date": "2025-11-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Fuze",
+          "tmdb": {
+            "id": 1242265,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "apple-tv-store.movies",
+      "heading": "TOP Movies on Apple TV Store in Australia on July 23, 2026",
+      "category": "movies",
+      "platform": "Apple TV Store",
+      "date": "July 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Star Wars: The Mandalorian and Grogu",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 1273221,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -1956,11 +1956,11 @@
         },
         {
           "rank": 6,
-          "title": "Tuner",
+          "title": "The Devil Wears Prada 2",
           "tmdb": {
-            "id": 1340206,
+            "id": 1314481,
             "media_type": "movie",
-            "release_date": "2026-05-21"
+            "release_date": "2026-04-29"
           }
         },
         {
@@ -1983,30 +1983,30 @@
         },
         {
           "rank": 9,
-          "title": "Project Hail Mary",
+          "title": "Tuner",
           "tmdb": {
-            "id": 687163,
+            "id": 1340206,
             "media_type": "movie",
-            "release_date": "2026-03-15"
+            "release_date": "2026-05-21"
           }
         },
         {
           "rank": 10,
-          "title": "Dune: Part Two",
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 693134,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2024-02-27"
+            "release_date": "2026-04-01"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2038,15 +2038,6 @@
         },
         {
           "rank": 4,
-          "title": "The Panthers",
-          "tmdb": {
-            "id": 131294,
-            "media_type": "tv",
-            "release_date": "2021-08-15"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Outcry",
           "tmdb": {
             "id": 103050,
@@ -2055,58 +2046,67 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Mr Inbetween",
+          "rank": 5,
+          "title": "The Panthers",
           "tmdb": {
-            "id": 81358,
+            "id": 131294,
             "media_type": "tv",
-            "release_date": "2018-09-25"
+            "release_date": "2021-08-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "House of the Dragon",
+          "tmdb": {
+            "id": 94997,
+            "media_type": "tv",
+            "release_date": "2022-08-21"
           }
         },
         {
           "rank": 7,
-          "title": "The Boondocks",
-          "tmdb": {
-            "id": 2604,
-            "media_type": "tv",
-            "release_date": "2005-11-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Euphoria",
-          "tmdb": {
-            "id": 85552,
-            "media_type": "tv",
-            "release_date": "2019-06-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "North and South",
-          "tmdb": {
-            "id": 3266,
-            "media_type": "tv",
-            "release_date": "1985-11-03"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Taboo",
           "tmdb": {
             "id": 65708,
             "media_type": "tv",
             "release_date": "2017-01-07"
           }
+        },
+        {
+          "rank": 8,
+          "title": "The Vampire Lestat",
+          "tmdb": {
+            "id": 323411,
+            "media_type": "tv",
+            "release_date": "2026-06-07"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Crow Girl",
+          "tmdb": {
+            "id": 248698,
+            "media_type": "tv",
+            "release_date": "2025-01-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Mr Inbetween",
+          "tmdb": {
+            "id": 81358,
+            "media_type": "tv",
+            "release_date": "2018-09-25"
+          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Australia on July 22, 2026",
+      "heading": "TOP Movies on Google in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2203,23 +2203,14 @@
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Australia on July 22, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Below Deck Mediterranean",
-          "tmdb": {
-            "id": 66902,
-            "media_type": "tv",
-            "release_date": "2016-05-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "House of the Dragon",
           "tmdb": {
             "id": 94997,
@@ -2228,12 +2219,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Rick and Morty",
+          "rank": 2,
+          "title": "In the City",
           "tmdb": {
-            "id": 60625,
+            "id": 318955,
             "media_type": "tv",
-            "release_date": "2013-12-02"
+            "release_date": "2026-05-19"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Below Deck Mediterranean",
+          "tmdb": {
+            "id": 66902,
+            "media_type": "tv",
+            "release_date": "2016-05-03"
           }
         },
         {
@@ -2247,6 +2247,24 @@
         },
         {
           "rank": 5,
+          "title": "Rick and Morty",
+          "tmdb": {
+            "id": 60625,
+            "media_type": "tv",
+            "release_date": "2013-12-02"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Agency",
           "tmdb": {
             "id": 219971,
@@ -2255,30 +2273,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The McBee Dynasty: Real American Cowboys",
-          "tmdb": {
-            "id": 247172,
-            "media_type": "tv",
-            "release_date": "2024-03-11"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
             "media_type": "tv",
             "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Ellis",
-          "tmdb": {
-            "id": 245746,
-            "media_type": "tv",
-            "release_date": "2024-10-31"
           }
         },
         {
@@ -2292,34 +2292,43 @@
         },
         {
           "rank": 10,
-          "title": "Lucky",
+          "title": "The Pitt",
           "tmdb": {
-            "id": 278624,
+            "id": 250307,
             "media_type": "tv",
-            "release_date": "2026-07-14"
+            "release_date": "2025-01-09"
           }
         }
       ]
     },
     {
       "catalog_id": "crunchyroll.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in Australia on July 22, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Crunchyroll",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Skeleton Knight in Another World",
+          "title": "The Oblivious Saint Can't Contain Her Power",
           "tmdb": {
-            "id": 123528,
+            "id": 296436,
             "media_type": "tv",
-            "release_date": "2022-04-07"
+            "release_date": "2026-06-30"
           }
         },
         {
           "rank": 2,
+          "title": "I Became a Legend After My 10 Year-Long Last Stand",
+          "tmdb": {
+            "id": 302051,
+            "media_type": "tv",
+            "release_date": "2026-07-06"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Mushoku Tensei: Jobless Reincarnation",
           "tmdb": {
             "id": 94664,
@@ -2328,21 +2337,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Insipid Prince's Furtive Grab for the Throne",
-          "tmdb": {
-            "id": 284581,
-            "media_type": "tv",
-            "release_date": "2026-07-06"
-          }
-        },
-        {
           "rank": 4,
-          "title": "BLACK TORCH",
+          "title": "Skeleton Knight in Another World",
           "tmdb": {
-            "id": 285993,
+            "id": 123528,
             "media_type": "tv",
-            "release_date": "2026-07-04"
+            "release_date": "2022-04-07"
           }
         },
         {
@@ -2356,24 +2356,15 @@
         },
         {
           "rank": 6,
-          "title": "Daemons of the Shadow Realm",
+          "title": "BLACK TORCH",
           "tmdb": {
-            "id": 260463,
+            "id": 285993,
             "media_type": "tv",
-            "release_date": "2026-04-04"
+            "release_date": "2026-07-04"
           }
         },
         {
           "rank": 7,
-          "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
-          "tmdb": {
-            "id": 298831,
-            "media_type": "tv",
-            "release_date": "2026-07-06"
-          }
-        },
-        {
-          "rank": 8,
           "title": "That Time I Got Reincarnated as a Slime",
           "tmdb": {
             "id": 82684,
@@ -2382,31 +2373,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "ONE PIECE",
+          "rank": 8,
+          "title": "Daemons of the Shadow Realm",
           "tmdb": {
-            "id": 111110,
+            "id": 260463,
             "media_type": "tv",
-            "release_date": "2023-08-31"
+            "release_date": "2026-04-04"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Solo Leveling",
           "tmdb": {
             "id": 127532,
             "media_type": "tv",
             "release_date": "2024-01-07"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Attack on Titan",
+          "tmdb": {
+            "id": 1429,
+            "media_type": "tv",
+            "release_date": "2013-04-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "stan.movies",
-      "heading": "TOP Movies on Stan in Australia on July 22, 2026",
+      "heading": "TOP Movies on Stan in Australia on July 23, 2026",
       "category": "movies",
       "platform": "Stan",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2503,10 +2503,10 @@
     },
     {
       "catalog_id": "stan.series",
-      "heading": "TOP TV Shows on Stan in Australia on July 22, 2026",
+      "heading": "TOP TV Shows on Stan in Australia on July 23, 2026",
       "category": "tv shows",
       "platform": "Stan",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 9,
       "entries": [
         {
@@ -2594,23 +2594,14 @@
     },
     {
       "catalog_id": "sbs.overall",
-      "heading": "TOP Overall on SBS in Australia on July 22, 2026",
+      "heading": "TOP Overall on SBS in Australia on July 23, 2026",
       "category": "overall",
       "platform": "SBS",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "FIFA World Cup 2026",
-          "tmdb": {
-            "id": 1731504,
-            "media_type": "movie",
-            "release_date": "2026-07-14"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Alone Australia",
           "tmdb": {
             "id": 223418,
@@ -2619,7 +2610,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Coroner",
           "tmdb": {
             "id": 85586,
@@ -2628,34 +2619,16 @@
           }
         },
         {
+          "rank": 3,
+          "title": "The Americans",
+          "tmdb": {
+            "id": 46533,
+            "media_type": "tv",
+            "release_date": "2013-01-30"
+          }
+        },
+        {
           "rank": 4,
-          "title": "Cold Haven",
-          "tmdb": {
-            "id": 132529,
-            "media_type": "tv",
-            "release_date": "2025-11-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Tour de France",
-          "tmdb": {
-            "id": 193185,
-            "media_type": "movie",
-            "release_date": "2011-01-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Expanse",
-          "tmdb": {
-            "id": 63639,
-            "media_type": "tv",
-            "release_date": "2015-12-14"
-          }
-        },
-        {
-          "rank": 7,
           "title": "FIFA World Cup 2026",
           "tmdb": {
             "id": 1731504,
@@ -2664,16 +2637,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Old Man",
-          "tmdb": {
-            "id": 111800,
-            "media_type": "tv",
-            "release_date": "2022-06-16"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Insight",
           "tmdb": {
             "id": 796339,
@@ -2682,18 +2646,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Cold Haven",
+          "tmdb": {
+            "id": 132529,
+            "media_type": "tv",
+            "release_date": "2025-11-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Expanse",
+          "tmdb": {
+            "id": 63639,
+            "media_type": "tv",
+            "release_date": "2015-12-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "SAS: Rogue Heroes",
+          "tmdb": {
+            "id": 93870,
+            "media_type": "tv",
+            "release_date": "2022-10-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Crossing Lines",
+          "tmdb": {
+            "id": 46975,
+            "media_type": "tv",
+            "release_date": "2013-08-22"
+          }
+        },
+        {
           "rank": 10,
-          "title": "What&#39;s Trending",
-          "tmdb": null
+          "title": "The Old Man",
+          "tmdb": {
+            "id": 111800,
+            "media_type": "tv",
+            "release_date": "2022-06-16"
+          }
         }
       ]
     },
     {
       "catalog_id": "mubi.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MUBI in Australia on July 22, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MUBI in Australia on July 23, 2026",
       "category": "overall",
       "platform": "MUBI",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2707,11 +2711,11 @@
         },
         {
           "rank": 2,
-          "title": "Revenge",
+          "title": "The Non-Actor",
           "tmdb": {
-            "id": 39358,
-            "media_type": "tv",
-            "release_date": "2011-09-21"
+            "id": 1396608,
+            "media_type": "movie",
+            "release_date": "2025-02-02"
           }
         },
         {
@@ -2725,33 +2729,15 @@
         },
         {
           "rank": 4,
-          "title": "No Other Choice",
+          "title": "Battle Royale",
           "tmdb": {
-            "id": 639988,
+            "id": 3176,
             "media_type": "movie",
-            "release_date": "2025-09-24"
+            "release_date": "2000-12-16"
           }
         },
         {
           "rank": 5,
-          "title": "Pusher",
-          "tmdb": {
-            "id": 2061,
-            "media_type": "movie",
-            "release_date": "1996-08-30"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Outsiders",
-          "tmdb": {
-            "id": 8108,
-            "media_type": "tv",
-            "release_date": "1990-03-25"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Aftersun",
           "tmdb": {
             "id": 965150,
@@ -2760,40 +2746,58 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Anatomy of a Fall",
+          "rank": 6,
+          "title": "Carol",
           "tmdb": {
-            "id": 915935,
+            "id": 258480,
             "media_type": "movie",
-            "release_date": "2023-08-23"
+            "release_date": "2015-11-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "No Other Choice",
+          "tmdb": {
+            "id": 639988,
+            "media_type": "movie",
+            "release_date": "2025-09-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Pusher",
+          "tmdb": {
+            "id": 2061,
+            "media_type": "movie",
+            "release_date": "1996-08-30"
           }
         },
         {
           "rank": 9,
-          "title": "Persepolis",
+          "title": "5x2",
           "tmdb": {
-            "id": 2011,
+            "id": 4974,
             "media_type": "movie",
-            "release_date": "2007-06-27"
+            "release_date": "2004-09-01"
           }
         },
         {
           "rank": 10,
-          "title": "The Non-Actor",
+          "title": "Hereditary",
           "tmdb": {
-            "id": 1396608,
+            "id": 493922,
             "media_type": "movie",
-            "release_date": "2025-02-02"
+            "release_date": "2018-06-07"
           }
         }
       ]
     },
     {
       "catalog_id": "binge.overall",
-      "heading": "TOP Overall on Binge in Australia on July 22, 2026",
+      "heading": "TOP Overall on Binge in Australia on July 23, 2026",
       "category": "overall",
       "platform": "Binge",
-      "date": "July 22, 2026",
+      "date": "July 23, 2026",
       "title_count": 10,
       "entries": [
         {
