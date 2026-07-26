@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-25T16:27:23Z",
+  "generated_at": "2026-07-26T16:31:34Z",
   "variantLabels": {
     "amazon-channels": "Amazon Channels",
     "en": "English",
@@ -1111,6 +1111,10 @@
       }
     },
     "global": {
+      "amazon": {
+        "movies": [],
+        "series": []
+      },
       "amazon-prime": {
         "movies": [],
         "series": []
