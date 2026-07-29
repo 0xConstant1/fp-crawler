@@ -6,7 +6,7 @@ import threading
 
 DEFAULT_SOLVE_URL = "https://flixpatrol.com/top10/"
 DEFAULT_SOLVE_TIMEOUT_MS = 120_000
-DEFAULT_SOLVE_DEADLINE_SECONDS = 180.0
+DEFAULT_SOLVE_DEADLINE_SECONDS = 600.0
 CF_CLEARANCE_COOKIE = "cf_clearance"
 
 logger = logging.getLogger(__name__)
@@ -69,9 +69,9 @@ def solve_challenge(
     if worker.is_alive():
         raise ChallengeSolverTimeoutError(
             f"Challenge solver did not finish within {deadline_seconds:.0f}s for "
-            f"{url!r}. The challenge is most likely being re-issued faster than "
-            "it can be solved, which is typical for a datacenter egress IP; "
-            "route the solver and the scrape through a residential proxy."
+            f"{url!r}. Each retry costs 10-20s and a slow or heavily scored "
+            "egress can need many of them, so raise --solve-timeout before "
+            "concluding the egress is unusable."
         )
     if failed:
         raise failed[0]

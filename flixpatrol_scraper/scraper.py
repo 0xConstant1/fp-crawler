@@ -18,7 +18,12 @@ from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Response, Session
 from curl_cffi.requests.exceptions import HTTPError, RequestException
 
-from .cf import CF_CLEARANCE_COOKIE, ChallengeSolution, solve_challenge
+from .cf import (
+    CF_CLEARANCE_COOKIE,
+    DEFAULT_SOLVE_DEADLINE_SECONDS,
+    ChallengeSolution,
+    solve_challenge,
+)
 from .http_client import format_response_diagnostics, get_with_retries
 from .rate_limit import RateLimiter
 from .tmdb import TMDBMatch, TMDBResolver, normalize_title
@@ -236,6 +241,7 @@ class FlixPatrolScraper:
         solve_cf: bool = False,
         proxy: str | None = None,
         solve_headless: bool = True,
+        solve_deadline_seconds: float = DEFAULT_SOLVE_DEADLINE_SECONDS,
         challenge_solver: Callable[..., ChallengeSolution] = solve_challenge,
     ) -> None:
         self._shared_session = session
@@ -245,6 +251,7 @@ class FlixPatrolScraper:
         self.solve_cf = solve_cf
         self.proxy = proxy or None
         self.solve_headless = solve_headless
+        self.solve_deadline_seconds = solve_deadline_seconds
         self._challenge_solver = challenge_solver
         self._challenge_lock = threading.Lock()
         self._credentials_generation = 0
@@ -293,7 +300,9 @@ class FlixPatrolScraper:
                 return True
 
             solution = self._challenge_solver(
-                proxy=self.proxy, headless=self.solve_headless
+                proxy=self.proxy,
+                headless=self.solve_headless,
+                deadline_seconds=self.solve_deadline_seconds,
             )
             self.cf_clearance = solution.cf_clearance
             self.user_agent = solution.user_agent

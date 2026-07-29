@@ -7,6 +7,7 @@ from pathlib import Path
 import sys
 
 from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
+from .cf import DEFAULT_SOLVE_DEADLINE_SECONDS
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
@@ -24,6 +25,20 @@ FLIXPATROL_MAX_WORKERS = 4
 
 def _env_flag(name: str) -> bool:
     return os.getenv(name, "").strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _solve_deadline(override: float | None) -> float:
+    if override is not None:
+        return override
+    raw = os.getenv("FLIXPATROL_SOLVE_TIMEOUT", "").strip()
+    if not raw:
+        return DEFAULT_SOLVE_DEADLINE_SECONDS
+    try:
+        return float(raw)
+    except ValueError:
+        raise SystemExit(
+            f"Error: FLIXPATROL_SOLVE_TIMEOUT must be a number, got {raw!r}.\n"
+        ) from None
 
 
 def normalize_region_token(value: str) -> str:
@@ -212,6 +227,16 @@ def build_parser() -> argparse.ArgumentParser:
         ),
     )
     parser.add_argument(
+        "--solve-timeout",
+        type=float,
+        default=None,
+        help=(
+            "Seconds to let the solver keep retrying before giving up "
+            f"(default {DEFAULT_SOLVE_DEADLINE_SECONDS:.0f}). Each retry costs "
+            "10-20s. Falls back to FLIXPATROL_SOLVE_TIMEOUT."
+        ),
+    )
+    parser.add_argument(
         "--proxy",
         help=(
             "Proxy used for both the solve and the scrape. Clearance is bound "
@@ -338,6 +363,7 @@ def main(argv: list[str] | None = None) -> int:
         solve_headless=not (
             args.solve_headed or _env_flag("FLIXPATROL_SOLVE_HEADED")
         ),
+        solve_deadline_seconds=_solve_deadline(args.solve_timeout),
     )
 
     try:
