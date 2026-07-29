@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
 from pathlib import Path
 import sys
 
@@ -9,6 +10,7 @@ from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_S
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
+    DEFAULT_USER_AGENT,
     FlixPatrolScraper,
     NoChartsFoundError,
     ScraperError,
@@ -18,6 +20,10 @@ from .scraper import (
 from .tmdb import TMDB_DEFAULT_LANGUAGE, TMDBResolver, TMDBResolverError
 
 FLIXPATROL_MAX_WORKERS = 4
+
+
+def _env_flag(name: str) -> bool:
+    return os.getenv(name, "").strip().lower() in {"1", "true", "yes", "on"}
 
 
 def normalize_region_token(value: str) -> str:
@@ -189,6 +195,31 @@ def build_parser() -> argparse.ArgumentParser:
         help="HTTP timeout in seconds for live requests.",
     )
     parser.add_argument(
+        "--cf-clearance",
+        help=(
+            "Clearance cookie captured from a browser that solved the "
+            "challenge. Falls back to FLIXPATROL_CF_CLEARANCE. Must be paired "
+            "with the same browser's --user-agent."
+        ),
+    )
+    parser.add_argument(
+        "--solve-cf",
+        action="store_true",
+        help=(
+            "Mint clearance automatically with a real browser (requires the "
+            "'solver' extra), then scrape at full speed with it. Also enabled "
+            "by FLIXPATROL_SOLVE_CF=1."
+        ),
+    )
+    parser.add_argument(
+        "--user-agent",
+        help=(
+            "User-Agent to send. Clearance is bound to it, so it must match the "
+            "browser that solved the challenge. Falls back to "
+            f"FLIXPATROL_USER_AGENT, then {DEFAULT_USER_AGENT!r}."
+        ),
+    )
+    parser.add_argument(
         "--resolve-tmdb",
         action="store_true",
         help="Resolve scraped titles to TMDB IDs. Requires TMDB credentials.",
@@ -283,6 +314,9 @@ def main(argv: list[str] | None = None) -> int:
     scraper = FlixPatrolScraper(
         timeout_seconds=args.timeout,
         tmdb_resolver=tmdb_resolver,
+        cf_clearance=args.cf_clearance or os.getenv("FLIXPATROL_CF_CLEARANCE"),
+        user_agent=args.user_agent or os.getenv("FLIXPATROL_USER_AGENT"),
+        solve_cf=args.solve_cf or _env_flag("FLIXPATROL_SOLVE_CF"),
     )
 
     try:
