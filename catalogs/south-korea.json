@@ -3,7 +3,7 @@
   "page_title": "TOP 10 on Streaming in South Korea on July 29, 2026",
   "region": "south-korea",
   "date": "July 29, 2026",
-  "scraped_at_utc": "2026-07-29T13:36:36.231039+00:00",
+  "scraped_at_utc": "2026-07-29T16:52:16.725537+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
@@ -42,11 +42,11 @@
         },
         {
           "rank": 4,
-          "title": "The Truthers",
+          "title": "Hindsight",
           "tmdb": {
-            "id": 1659155,
+            "id": 81460,
             "media_type": "movie",
-            "release_date": "2026-07-24"
+            "release_date": "2011-08-31"
           }
         },
         {
@@ -60,6 +60,15 @@
         },
         {
           "rank": 6,
+          "title": "The Truthers",
+          "tmdb": {
+            "id": 1659155,
+            "media_type": "movie",
+            "release_date": "2026-07-24"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Husbands in Action",
           "tmdb": {
             "id": 1451344,
@@ -68,25 +77,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Hindsight",
-          "tmdb": {
-            "id": 81460,
-            "media_type": "movie",
-            "release_date": "2011-08-31"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Lobby",
-          "tmdb": {
-            "id": 1129557,
-            "media_type": "movie",
-            "release_date": "2025-04-02"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Exhuma",
           "tmdb": {
             "id": 838209,
@@ -95,12 +86,21 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "War Machine",
           "tmdb": {
             "id": 1265609,
             "media_type": "movie",
             "release_date": "2026-02-12"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Lobby",
+          "tmdb": {
+            "id": 1129557,
+            "media_type": "movie",
+            "release_date": "2025-04-02"
           }
         }
       ]
@@ -115,15 +115,6 @@
       "entries": [
         {
           "rank": 1,
-          "title": "Spooky in Love",
-          "tmdb": {
-            "id": 298610,
-            "media_type": "tv",
-            "release_date": "2026-07-18"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Agent Kim Reactivated",
           "tmdb": {
             "id": 296206,
@@ -132,16 +123,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Apartment Job",
+          "rank": 2,
+          "title": "Spooky in Love",
           "tmdb": {
-            "id": 300727,
+            "id": 298610,
             "media_type": "tv",
-            "release_date": "2026-07-11"
+            "release_date": "2026-07-18"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The East Palace",
           "tmdb": {
             "id": 279323,
@@ -150,7 +141,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "The Apartment Job",
+          "tmdb": {
+            "id": 300727,
+            "media_type": "tv",
+            "release_date": "2026-07-11"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Better Late Than Single",
+          "tmdb": {
+            "id": 288912,
+            "media_type": "tv",
+            "release_date": "2025-07-08"
+          }
+        },
+        {
+          "rank": 6,
           "title": "내가 만난 사이코패스",
           "tmdb": {
             "id": 325859,
@@ -159,21 +168,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Teach You a Lesson",
           "tmdb": {
             "id": 276161,
             "media_type": "tv",
             "release_date": "2026-06-05"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Better Late Than Single",
-          "tmdb": {
-            "id": 288912,
-            "media_type": "tv",
-            "release_date": "2025-07-08"
           }
         },
         {
@@ -187,21 +187,209 @@
         },
         {
           "rank": 9,
-          "title": "Though I Am an Inept Villainess",
-          "tmdb": {
-            "id": 286345,
-            "media_type": "tv",
-            "release_date": "2026-07-12"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Elite Force",
           "tmdb": {
             "id": 281281,
             "media_type": "tv",
             "release_date": "2026-07-22"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Though I Am an Inept Villainess",
+          "tmdb": {
+            "id": 286345,
+            "media_type": "tv",
+            "release_date": "2026-07-12"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in South Korea on July 29, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "July 29, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Spirited Away",
+          "tmdb": {
+            "id": 129,
+            "media_type": "movie",
+            "release_date": "2001-07-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Bread Barbershop: The Bakerytown Baddies",
+          "tmdb": {
+            "id": 1521915,
+            "media_type": "movie",
+            "release_date": "2025-09-27"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "My Neighbor Totoro",
+          "tmdb": {
+            "id": 8392,
+            "media_type": "movie",
+            "release_date": "1988-04-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Howls Moving Castle",
+          "tmdb": {
+            "id": 4935,
+            "media_type": "movie",
+            "release_date": "2004-09-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ponyo",
+          "tmdb": {
+            "id": 12429,
+            "media_type": "movie",
+            "release_date": "2008-07-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Spider-Man: Into the Spider-Verse",
+          "tmdb": {
+            "id": 324857,
+            "media_type": "movie",
+            "release_date": "2018-12-06"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Crayon Shin-chan: Very Tasty! B-class Gourmet Survival!!",
+          "tmdb": {
+            "id": 163786,
+            "media_type": "movie",
+            "release_date": "2013-04-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Heartsping : Teenieping of Love",
+          "tmdb": {
+            "id": 1275096,
+            "media_type": "movie",
+            "release_date": "2024-08-07"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in South Korea on July 29, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "July 29, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Zanmang Loopy’s Mukbang",
+          "tmdb": {
+            "id": 327044,
+            "media_type": "tv",
+            "release_date": "2026-01-23"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Bebefinn",
+          "tmdb": {
+            "id": 241948,
+            "media_type": "tv",
+            "release_date": "2022-11-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "BNA: Brand New Animal",
+          "tmdb": {
+            "id": 92592,
+            "media_type": "tv",
+            "release_date": "2020-04-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Pororo Sing Along Show",
+          "tmdb": null
+        },
+        {
+          "rank": 7,
+          "title": "Bread Barbershop",
+          "tmdb": {
+            "id": 129832,
+            "media_type": "tv",
+            "release_date": "2019-01-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "GeniKids: The First Aid Princess",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "Octonauts and the Great Barrier Reef",
+          "tmdb": {
+            "id": 752885,
+            "media_type": "movie",
+            "release_date": "2020-11-12"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "GeniKids: Fantastic Folktales",
+          "tmdb": null
         }
       ]
     },

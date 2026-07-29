@@ -3,7 +3,7 @@
   "page_title": "TOP 10 on Streaming in South Africa on July 29, 2026",
   "region": "south-africa",
   "date": "July 29, 2026",
-  "scraped_at_utc": "2026-07-29T13:36:30.397573+00:00",
+  "scraped_at_utc": "2026-07-29T16:52:10.449787+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
@@ -24,15 +24,6 @@
         },
         {
           "rank": 2,
-          "title": "A Toxic Love Story",
-          "tmdb": {
-            "id": 1723460,
-            "media_type": "movie",
-            "release_date": "2026-07-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Elize: Shadows of a Woman",
           "tmdb": {
             "id": 1487861,
@@ -41,21 +32,30 @@
           }
         },
         {
+          "rank": 3,
+          "title": "A Toxic Love Story",
+          "tmdb": {
+            "id": 1723460,
+            "media_type": "movie",
+            "release_date": "2026-07-22"
+          }
+        },
+        {
           "rank": 4,
+          "title": "DC League of Super-Pets",
+          "tmdb": {
+            "id": 539681,
+            "media_type": "movie",
+            "release_date": "2022-07-27"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Debt Collector",
           "tmdb": {
             "id": 1630409,
             "media_type": "movie",
             "release_date": "2026-07-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Truthers",
-          "tmdb": {
-            "id": 1659155,
-            "media_type": "movie",
-            "release_date": "2026-07-24"
           }
         },
         {
@@ -69,6 +69,15 @@
         },
         {
           "rank": 7,
+          "title": "The Truthers",
+          "tmdb": {
+            "id": 1659155,
+            "media_type": "movie",
+            "release_date": "2026-07-24"
+          }
+        },
+        {
+          "rank": 8,
           "title": "San Andreas",
           "tmdb": {
             "id": 254128,
@@ -77,7 +86,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Sniper: No Nation",
           "tmdb": {
             "id": 1641319,
@@ -86,21 +95,12 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Desire",
           "tmdb": {
             "id": 1668364,
             "media_type": "movie",
             "release_date": "2026-05-07"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Little Brother",
-          "tmdb": {
-            "id": 1397385,
-            "media_type": "movie",
-            "release_date": "2026-06-18"
           }
         }
       ]
@@ -192,11 +192,211 @@
         },
         {
           "rank": 10,
-          "title": "The Hawk",
+          "title": "The Polygamist",
           "tmdb": {
-            "id": 254528,
+            "id": 322430,
             "media_type": "tv",
-            "release_date": "2026-07-16"
+            "release_date": "2026-06-12"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in South Africa on July 29, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "July 29, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "DC League of Super-Pets",
+          "tmdb": {
+            "id": 539681,
+            "media_type": "movie",
+            "release_date": "2022-07-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Kung Fu Panda 4",
+          "tmdb": {
+            "id": 1011985,
+            "media_type": "movie",
+            "release_date": "2024-03-02"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "David",
+          "tmdb": {
+            "id": 1167307,
+            "media_type": "movie",
+            "release_date": "2025-12-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Spider-Man: Into the Spider-Verse",
+          "tmdb": {
+            "id": 324857,
+            "media_type": "movie",
+            "release_date": "2018-12-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Monsters vs Aliens",
+          "tmdb": {
+            "id": 15512,
+            "media_type": "movie",
+            "release_date": "2009-03-19"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in South Africa on July 29, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "July 29, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Cocomelon",
+          "tmdb": {
+            "id": 114718,
+            "media_type": "tv",
+            "release_date": "2020-05-31"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Bebefinn",
+          "tmdb": {
+            "id": 241948,
+            "media_type": "tv",
+            "release_date": "2022-11-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "CoComelon Lane",
+          "tmdb": {
+            "id": 209710,
+            "media_type": "tv",
+            "release_date": "2023-11-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
           }
         }
       ]
