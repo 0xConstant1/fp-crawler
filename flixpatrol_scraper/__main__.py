@@ -2,13 +2,16 @@ from __future__ import annotations
 
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
 from pathlib import Path
 import sys
 
 from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
+from .cf import DEFAULT_SOLVE_DEADLINE_SECONDS
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
+    DEFAULT_USER_AGENT,
     FlixPatrolScraper,
     NoChartsFoundError,
     ScraperError,
@@ -18,6 +21,24 @@ from .scraper import (
 from .tmdb import TMDB_DEFAULT_LANGUAGE, TMDBResolver, TMDBResolverError
 
 FLIXPATROL_MAX_WORKERS = 4
+
+
+def _env_flag(name: str) -> bool:
+    return os.getenv(name, "").strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _solve_deadline(override: float | None) -> float:
+    if override is not None:
+        return override
+    raw = os.getenv("FLIXPATROL_SOLVE_TIMEOUT", "").strip()
+    if not raw:
+        return DEFAULT_SOLVE_DEADLINE_SECONDS
+    try:
+        return float(raw)
+    except ValueError:
+        raise SystemExit(
+            f"Error: FLIXPATROL_SOLVE_TIMEOUT must be a number, got {raw!r}.\n"
+        ) from None
 
 
 def normalize_region_token(value: str) -> str:
@@ -189,6 +210,58 @@ def build_parser() -> argparse.ArgumentParser:
         help="HTTP timeout in seconds for live requests.",
     )
     parser.add_argument(
+        "--cf-clearance",
+        help=(
+            "Clearance cookie captured from a browser that solved the "
+            "challenge. Falls back to FLIXPATROL_CF_CLEARANCE. Must be paired "
+            "with the same browser's --user-agent."
+        ),
+    )
+    parser.add_argument(
+        "--solve-cf",
+        action="store_true",
+        help=(
+            "Mint clearance automatically with a real browser (requires the "
+            "'solver' extra), then scrape at full speed with it. Also enabled "
+            "by FLIXPATROL_SOLVE_CF=1."
+        ),
+    )
+    parser.add_argument(
+        "--solve-timeout",
+        type=float,
+        default=None,
+        help=(
+            "Seconds to let the solver keep retrying before giving up "
+            f"(default {DEFAULT_SOLVE_DEADLINE_SECONDS:.0f}). Each retry costs "
+            "10-20s. Falls back to FLIXPATROL_SOLVE_TIMEOUT."
+        ),
+    )
+    parser.add_argument(
+        "--proxy",
+        help=(
+            "Proxy used for both the solve and the scrape. Clearance is bound "
+            "to the egress IP, so they must share one. Falls back to "
+            "FLIXPATROL_PROXY."
+        ),
+    )
+    parser.add_argument(
+        "--solve-headed",
+        action="store_true",
+        help=(
+            "Run the solver with a visible browser. On a headless CI runner "
+            "wrap the command in xvfb-run. Also enabled by "
+            "FLIXPATROL_SOLVE_HEADED=1."
+        ),
+    )
+    parser.add_argument(
+        "--user-agent",
+        help=(
+            "User-Agent to send. Clearance is bound to it, so it must match the "
+            "browser that solved the challenge. Falls back to "
+            f"FLIXPATROL_USER_AGENT, then {DEFAULT_USER_AGENT!r}."
+        ),
+    )
+    parser.add_argument(
         "--resolve-tmdb",
         action="store_true",
         help="Resolve scraped titles to TMDB IDs. Requires TMDB credentials.",
@@ -283,6 +356,14 @@ def main(argv: list[str] | None = None) -> int:
     scraper = FlixPatrolScraper(
         timeout_seconds=args.timeout,
         tmdb_resolver=tmdb_resolver,
+        cf_clearance=args.cf_clearance or os.getenv("FLIXPATROL_CF_CLEARANCE"),
+        user_agent=args.user_agent or os.getenv("FLIXPATROL_USER_AGENT"),
+        solve_cf=args.solve_cf or _env_flag("FLIXPATROL_SOLVE_CF"),
+        proxy=args.proxy or os.getenv("FLIXPATROL_PROXY"),
+        solve_headless=not (
+            args.solve_headed or _env_flag("FLIXPATROL_SOLVE_HEADED")
+        ),
+        solve_deadline_seconds=_solve_deadline(args.solve_timeout),
     )
 
     try:

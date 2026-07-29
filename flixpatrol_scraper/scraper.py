@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from collections import defaultdict
+from collections.abc import Callable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import UTC, datetime
@@ -17,6 +18,12 @@ from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Response, Session
 from curl_cffi.requests.exceptions import HTTPError, RequestException
 
+from .cf import (
+    CF_CLEARANCE_COOKIE,
+    DEFAULT_SOLVE_DEADLINE_SECONDS,
+    ChallengeSolution,
+    solve_challenge,
+)
 from .http_client import format_response_diagnostics, get_with_retries
 from .rate_limit import RateLimiter
 from .tmdb import TMDBMatch, TMDBResolver, normalize_title
@@ -27,12 +34,15 @@ DEFAULT_OUTPUT_PATH = Path("flixpatrol_top10.json")
 DEFAULT_TMDB_MAX_WORKERS = 16
 DEFAULT_FLIXPATROL_MAX_REQUESTS_PER_SECOND = 1.5
 DEFAULT_FLIXPATROL_REQUEST_JITTER_RANGE = (0.1, 0.4)
-DEFAULT_BROWSER_IMPERSONATE = "chrome136"
+DEFAULT_BROWSER_IMPERSONATE = "chrome146"
+
 DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/136.0.0.0 Safari/537.36"
+    "Chrome/150.0.0.0 Safari/537.36"
 )
+
+CF_CHALLENGE_MARKERS = ("__cf_chl", "challenge-platform", "Just a moment...")
 
 CHART_HEADING_PATTERN = re.compile(
     r"^TOP (?P<category>Movies|TV Shows) on (?P<platform>.+) on (?P<date>.+)$"
@@ -70,6 +80,16 @@ VARIANT_TABLE: dict[str, tuple[str, str]] = {
 CANONICAL_CATEGORIES: frozenset[str] = frozenset({"movies", "series", "overall"})
 
 
+def _is_cf_challenge(response: Response) -> bool:
+    """Tell a CF challenge apart from an ordinary 403."""
+    if response.headers.get("cf-mitigated") == "challenge":
+        return True
+    if response.status_code not in (403, 503):
+        return False
+    body = response.text or ""
+    return any(marker in body for marker in CF_CHALLENGE_MARKERS)
+
+
 def split_catalog_id(chart: dict[str, Any]) -> tuple[str, str, str | None]:
     """Return ``(service, category, variant_id)`` for a serialized chart.
 
@@ -93,6 +113,14 @@ class ScraperError(RuntimeError):
 
 class NoChartsFoundError(ScraperError):
     """Raised when a valid FlixPatrol page exposes no TOP 10 charts."""
+
+
+class CFChallengeError(ScraperError):
+    """Raised when a CF challenge is served instead of the page.
+
+    Distinct from a plain 403 because the remedy is different: a challenge needs
+    fresh clearance, not a retry or a different rate limit.
+    """
 
 
 @dataclass(frozen=True, slots=True)
@@ -208,9 +236,25 @@ class FlixPatrolScraper:
         tmdb_max_workers: int = DEFAULT_TMDB_MAX_WORKERS,
         max_requests_per_second: float = DEFAULT_FLIXPATROL_MAX_REQUESTS_PER_SECOND,
         request_jitter_range: tuple[float, float] = DEFAULT_FLIXPATROL_REQUEST_JITTER_RANGE,
+        cf_clearance: str | None = None,
+        user_agent: str | None = None,
+        solve_cf: bool = False,
+        proxy: str | None = None,
+        solve_headless: bool = True,
+        solve_deadline_seconds: float = DEFAULT_SOLVE_DEADLINE_SECONDS,
+        challenge_solver: Callable[..., ChallengeSolution] = solve_challenge,
     ) -> None:
         self._shared_session = session
         self._thread_local = threading.local()
+        self.cf_clearance = cf_clearance or None
+        self.user_agent = user_agent or DEFAULT_USER_AGENT
+        self.solve_cf = solve_cf
+        self.proxy = proxy or None
+        self.solve_headless = solve_headless
+        self.solve_deadline_seconds = solve_deadline_seconds
+        self._challenge_solver = challenge_solver
+        self._challenge_lock = threading.Lock()
+        self._credentials_generation = 0
         self.timeout_seconds = timeout_seconds
         self.max_titles_per_chart = max_titles_per_chart
         self.tmdb_resolver = tmdb_resolver
@@ -220,17 +264,13 @@ class FlixPatrolScraper:
         )
         self.request_jitter_range = request_jitter_range
 
-    @staticmethod
-    def _build_session() -> Session:
+    def _build_session(self) -> Session:
         return Session(
             impersonate=DEFAULT_BROWSER_IMPERSONATE,
             default_headers=True,
             default_encoding="utf-8",
-            headers={
-                "User-Agent": DEFAULT_USER_AGENT,
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.9",
-            },
+            headers={"user-agent": self.user_agent},
+            **({"proxy": self.proxy} if self.proxy else {}),
         )
 
     def _get_session(self) -> Session:
@@ -238,10 +278,36 @@ class FlixPatrolScraper:
             return self._shared_session
 
         session = getattr(self._thread_local, "session", None)
-        if session is None:
+        generation = getattr(self._thread_local, "generation", None)
+        if session is None or generation != self._credentials_generation:
             session = self._build_session()
             self._thread_local.session = session
+            self._thread_local.generation = self._credentials_generation
         return session
+
+    def _refresh_challenge_credentials(self, seen_generation: int) -> bool:
+        """Solve the challenge once and adopt the credentials.
+
+        ``seen_generation`` is the generation the caller held when it was
+        challenged. If another thread already refreshed past it, this is a no-op
+        and the caller retries with the newer credentials.
+        """
+        if not self.solve_cf:
+            return False
+
+        with self._challenge_lock:
+            if self._credentials_generation != seen_generation:
+                return True
+
+            solution = self._challenge_solver(
+                proxy=self.proxy,
+                headless=self.solve_headless,
+                deadline_seconds=self.solve_deadline_seconds,
+            )
+            self.cf_clearance = solution.cf_clearance
+            self.user_agent = solution.user_agent
+            self._credentials_generation += 1
+            return True
 
     def _sleep_request_jitter(self) -> None:
         minimum, maximum = self.request_jitter_range
@@ -252,18 +318,46 @@ class FlixPatrolScraper:
             time.sleep(time_to_sleep)
 
     def scrape_url(self, url: str = DEFAULT_TOP10_URL) -> ScrapeResult:
+        response = self._fetch(url)
+        return self.parse_html(response.text, source=response.url)
+
+    def _fetch(self, url: str) -> Response:
+        """Fetch ``url``, solving a challenge once if one is served.
+
+        Clearance expires after a few hours, so a long ``--all-regions`` run can
+        be challenged part-way through; refreshing mid-run keeps it going.
+        """
+        response, generation = self._request(url)
+        if not _is_cf_challenge(response):
+            self._raise_for_bad_response(response, url)
+            return response
+
+        if not self._refresh_challenge_credentials(generation):
+            self._raise_for_bad_response(response, url)
+            return response
+
+        response, _ = self._request(url)
+        self._raise_for_bad_response(response, url)
+        return response
+
+    def _request(self, url: str) -> tuple[Response, int]:
         self._sleep_request_jitter()
         self._rate_limiter.acquire()
+        generation = self._credentials_generation
+        session = self._get_session()
+        cookies = (
+            {CF_CLEARANCE_COOKIE: self.cf_clearance} if self.cf_clearance else None
+        )
         try:
             response = get_with_retries(
-                self._get_session(),
+                session,
                 url,
                 timeout_seconds=self.timeout_seconds,
+                cookies=cookies,
             )
         except RequestException as exc:
             raise ScraperError(f"Failed to fetch {url!r}: {exc}") from exc
-        self._raise_for_bad_response(response, url)
-        return self.parse_html(response.text, source=response.url)
+        return response, generation
 
     def parse_html(self, html: str, *, source: str) -> ScrapeResult:
         soup = BeautifulSoup(html, "html.parser")
@@ -293,9 +387,12 @@ class FlixPatrolScraper:
         try:
             response.raise_for_status()
         except HTTPError as exc:
-            raise ScraperError(
-                f"Failed to fetch {url!r}: {format_response_diagnostics(response)}"
-            ) from exc
+            diagnostics = format_response_diagnostics(response)
+            if _is_cf_challenge(response):
+                raise CFChallengeError(
+                    f"Failed to fetch {url!r}: {diagnostics}, challenged"
+                ) from exc
+            raise ScraperError(f"Failed to fetch {url!r}: {diagnostics}") from exc
 
     @staticmethod
     def _extract_page_title(soup: BeautifulSoup) -> str:

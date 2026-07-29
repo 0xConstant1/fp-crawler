@@ -20,6 +20,9 @@ jobs:
       PYTHONUTF8: "1"
       TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
+      FLIXPATROL_SOLVE_CF: "1"
+      FLIXPATROL_SOLVE_HEADED: "1"
+      FLIXPATROL_PROXY: ${{ secrets.FLIXPATROL_PROXY }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -31,7 +34,13 @@ jobs:
           cache: "pip"
 
       - name: Install scraper
-        run: python -m pip install .
+        run: python -m pip install ".[solver]"
+
+      - name: Install solver browser
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+          scrapling install
 
       - name: Validate TMDB credentials
         run: |
@@ -41,7 +50,7 @@ jobs:
           fi
 
       - name: Update slim catalogs
-        run: python scripts/update_catalogs.py
+        run: xvfb-run -a python scripts/update_catalogs.py
 
       - name: Commit and push catalog updates
         run: |
