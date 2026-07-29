@@ -212,6 +212,23 @@ def build_parser() -> argparse.ArgumentParser:
         ),
     )
     parser.add_argument(
+        "--proxy",
+        help=(
+            "Proxy used for both the solve and the scrape. Clearance is bound "
+            "to the egress IP, so they must share one. Falls back to "
+            "FLIXPATROL_PROXY."
+        ),
+    )
+    parser.add_argument(
+        "--solve-headed",
+        action="store_true",
+        help=(
+            "Run the solver with a visible browser. On a headless CI runner "
+            "wrap the command in xvfb-run. Also enabled by "
+            "FLIXPATROL_SOLVE_HEADED=1."
+        ),
+    )
+    parser.add_argument(
         "--user-agent",
         help=(
             "User-Agent to send. Clearance is bound to it, so it must match the "
@@ -317,6 +334,10 @@ def main(argv: list[str] | None = None) -> int:
         cf_clearance=args.cf_clearance or os.getenv("FLIXPATROL_CF_CLEARANCE"),
         user_agent=args.user_agent or os.getenv("FLIXPATROL_USER_AGENT"),
         solve_cf=args.solve_cf or _env_flag("FLIXPATROL_SOLVE_CF"),
+        proxy=args.proxy or os.getenv("FLIXPATROL_PROXY"),
+        solve_headless=not (
+            args.solve_headed or _env_flag("FLIXPATROL_SOLVE_HEADED")
+        ),
     )
 
     try:

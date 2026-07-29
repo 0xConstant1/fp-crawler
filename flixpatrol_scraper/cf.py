@@ -2,9 +2,11 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import logging
+import threading
 
 DEFAULT_SOLVE_URL = "https://flixpatrol.com/top10/"
 DEFAULT_SOLVE_TIMEOUT_MS = 120_000
+DEFAULT_SOLVE_DEADLINE_SECONDS = 180.0
 CF_CLEARANCE_COOKIE = "cf_clearance"
 
 logger = logging.getLogger(__name__)
@@ -16,6 +18,15 @@ class ChallengeSolverError(RuntimeError):
 
 class ChallengeSolverUnavailableError(ChallengeSolverError):
     """Raised when the optional solver dependency is not installed."""
+
+
+class ChallengeSolverTimeoutError(ChallengeSolverError):
+    """Raised when the solver exceeds its wall-clock deadline.
+
+    The upstream solver retries by unbounded recursion, so a challenge that
+    never clears - typically a datacenter egress IP - would otherwise hang the
+    caller indefinitely rather than failing.
+    """
 
 
 @dataclass(frozen=True, slots=True)
@@ -32,8 +43,48 @@ def solve_challenge(
     headless: bool = True,
     timeout_ms: int = DEFAULT_SOLVE_TIMEOUT_MS,
     proxy: str | None = None,
+    deadline_seconds: float = DEFAULT_SOLVE_DEADLINE_SECONDS,
 ) -> ChallengeSolution:
-    """Drive a browser through the challenge and return fresh credentials."""
+    """Drive a browser through the challenge and return fresh credentials.
+
+    Bounded by ``deadline_seconds`` because the upstream solver retries forever.
+    The worker is a daemon thread, so a solver stuck in that loop cannot keep
+    the interpreter alive once the caller gives up.
+    """
+    solved: list[ChallengeSolution] = []
+    failed: list[BaseException] = []
+
+    def run() -> None:
+        try:
+            solved.append(
+                _solve(url, headless=headless, timeout_ms=timeout_ms, proxy=proxy)
+            )
+        except BaseException as exc:  # noqa: BLE001
+            failed.append(exc)
+
+    worker = threading.Thread(target=run, daemon=True, name="cf-challenge-solver")
+    worker.start()
+    worker.join(deadline_seconds)
+
+    if worker.is_alive():
+        raise ChallengeSolverTimeoutError(
+            f"Challenge solver did not finish within {deadline_seconds:.0f}s for "
+            f"{url!r}. The challenge is most likely being re-issued faster than "
+            "it can be solved, which is typical for a datacenter egress IP; "
+            "route the solver and the scrape through a residential proxy."
+        )
+    if failed:
+        raise failed[0]
+    return solved[0]
+
+
+def _solve(
+    url: str,
+    *,
+    headless: bool,
+    timeout_ms: int,
+    proxy: str | None,
+) -> ChallengeSolution:
     fetcher = _load_stealthy_fetcher()
 
     logger.info("Solving challenge at %s", url)

@@ -234,13 +234,17 @@ class FlixPatrolScraper:
         cf_clearance: str | None = None,
         user_agent: str | None = None,
         solve_cf: bool = False,
-        challenge_solver: Callable[[], ChallengeSolution] = solve_challenge,
+        proxy: str | None = None,
+        solve_headless: bool = True,
+        challenge_solver: Callable[..., ChallengeSolution] = solve_challenge,
     ) -> None:
         self._shared_session = session
         self._thread_local = threading.local()
         self.cf_clearance = cf_clearance or None
         self.user_agent = user_agent or DEFAULT_USER_AGENT
         self.solve_cf = solve_cf
+        self.proxy = proxy or None
+        self.solve_headless = solve_headless
         self._challenge_solver = challenge_solver
         self._challenge_lock = threading.Lock()
         self._credentials_generation = 0
@@ -259,6 +263,7 @@ class FlixPatrolScraper:
             default_headers=True,
             default_encoding="utf-8",
             headers={"user-agent": self.user_agent},
+            **({"proxy": self.proxy} if self.proxy else {}),
         )
 
     def _get_session(self) -> Session:
@@ -287,7 +292,9 @@ class FlixPatrolScraper:
             if self._credentials_generation != seen_generation:
                 return True
 
-            solution = self._challenge_solver()
+            solution = self._challenge_solver(
+                proxy=self.proxy, headless=self.solve_headless
+            )
             self.cf_clearance = solution.cf_clearance
             self.user_agent = solution.user_agent
             self._credentials_generation += 1
