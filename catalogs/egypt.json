@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/egypt/",
-  "page_title": "TOP 10 on Streaming in Egypt on July 31, 2026",
+  "page_title": "TOP 10 on Streaming in Egypt on August 2, 2026",
   "region": "egypt",
-  "date": "July 31, 2026",
-  "scraped_at_utc": "2026-07-31T17:05:48.746504+00:00",
+  "date": "August 2, 2026",
+  "scraped_at_utc": "2026-08-02T14:53:08.294230+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Netflix in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,20 +24,20 @@
         },
         {
           "rank": 2,
-          "title": "Elize: Shadows of a Woman",
-          "tmdb": {
-            "id": 1487861,
-            "media_type": "movie",
-            "release_date": "2026-07-22"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Family Business",
           "tmdb": {
             "id": 10551,
             "media_type": "movie",
             "release_date": "1989-12-06"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Elize: Shadows of a Woman",
+          "tmdb": {
+            "id": 1487861,
+            "media_type": "movie",
+            "release_date": "2026-07-22"
           }
         },
         {
@@ -51,20 +51,20 @@
         },
         {
           "rank": 5,
+          "title": "Max",
+          "tmdb": {
+            "id": 13560,
+            "media_type": "movie",
+            "release_date": "2002-09-10"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Desire",
           "tmdb": {
             "id": 1668364,
             "media_type": "movie",
             "release_date": "2026-05-07"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Voicemails for Isabelle",
-          "tmdb": {
-            "id": 614945,
-            "media_type": "movie",
-            "release_date": "2026-06-20"
           }
         },
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "The Debt Collector",
+          "title": "Voicemails for Isabelle",
           "tmdb": {
-            "id": 1630409,
+            "id": 614945,
             "media_type": "movie",
-            "release_date": "2026-07-20"
+            "release_date": "2026-06-20"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on Netflix in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,6 +124,11 @@
         },
         {
           "rank": 2,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
           "title": "Elite Force",
           "tmdb": {
             "id": 281281,
@@ -132,7 +137,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Idaho Murders: College Nightmare",
           "tmdb": {
             "id": 328735,
@@ -141,43 +146,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Agent Kim Reactivated",
-          "tmdb": {
-            "id": 296206,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Mentalist",
-          "tmdb": {
-            "id": 5920,
-            "media_type": "tv",
-            "release_date": "2008-09-23"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "MobLand",
-          "tmdb": {
-            "id": 247718,
-            "media_type": "tv",
-            "release_date": "2025-03-30"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Fool Me Once",
-          "tmdb": {
-            "id": 220801,
-            "media_type": "tv",
-            "release_date": "2024-01-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Bombing of Pan Am 103",
           "tmdb": {
             "id": 248226,
@@ -186,31 +155,54 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Avatar the Last Airbender",
+          "rank": 6,
+          "title": "Agent Kim Reactivated",
           "tmdb": {
-            "id": 82452,
+            "id": 296206,
             "media_type": "tv",
-            "release_date": "2024-02-22"
+            "release_date": "2026-06-26"
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
           "title": "Spooky in Love",
           "tmdb": {
             "id": 298610,
             "media_type": "tv",
             "release_date": "2026-07-18"
           }
+        },
+        {
+          "rank": 8,
+          "title": "WWE SummerSlam",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "MobLand",
+          "tmdb": {
+            "id": 247718,
+            "media_type": "tv",
+            "release_date": "2025-03-30"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Mentalist",
+          "tmdb": {
+            "id": 5920,
+            "media_type": "tv",
+            "release_date": "2008-09-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Amazon Prime in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -260,15 +252,6 @@
         },
         {
           "rank": 6,
-          "title": "Boulevard",
-          "tmdb": {
-            "id": 1595852,
-            "media_type": "movie",
-            "release_date": "2026-04-10"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Your Fault: London",
           "tmdb": {
             "id": 1477317,
@@ -277,16 +260,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Boss Baby: Family Business",
-          "tmdb": {
-            "id": 459151,
-            "media_type": "movie",
-            "release_date": "2021-07-01"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Tom Clancy's Jack Ryan: Ghost War",
           "tmdb": {
             "id": 1380291,
@@ -295,22 +269,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Boss Baby",
+          "rank": 8,
+          "title": "Red One",
           "tmdb": {
-            "id": 295693,
+            "id": 845781,
             "media_type": "movie",
-            "release_date": "2017-03-23"
+            "release_date": "2024-10-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Wrecking Crew",
+          "tmdb": {
+            "id": 1168190,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Boulevard",
+          "tmdb": {
+            "id": 1595852,
+            "media_type": "movie",
+            "release_date": "2026-04-10"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,20 +334,20 @@
         },
         {
           "rank": 4,
-          "title": "See You at Work Tomorrow!",
-          "tmdb": {
-            "id": 289763,
-            "media_type": "tv",
-            "release_date": "2026-06-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Elle",
           "tmdb": {
             "id": 254420,
             "media_type": "tv",
             "release_date": "2026-07-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "See You at Work Tomorrow!",
+          "tmdb": {
+            "id": 289763,
+            "media_type": "tv",
+            "release_date": "2026-06-22"
           }
         },
         {
@@ -369,6 +361,15 @@
         },
         {
           "rank": 7,
+          "title": "Batman: Caped Crusader",
+          "tmdb": {
+            "id": 125909,
+            "media_type": "tv",
+            "release_date": "2024-08-01"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Boys",
           "tmdb": {
             "id": 76479,
@@ -377,7 +378,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Every Year After",
           "tmdb": {
             "id": 260592,
@@ -386,31 +387,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
             "media_type": "tv",
             "release_date": "2022-06-16"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Forbidden Love",
-          "tmdb": {
-            "id": 109237,
-            "media_type": "tv",
-            "release_date": "2020-09-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Apple TV in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,24 +425,6 @@
         },
         {
           "rank": 3,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -459,34 +433,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Killers of the Flower Moon",
+          "rank": 4,
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 466420,
+            "id": 1029575,
             "media_type": "movie",
-            "release_date": "2023-10-18"
+            "release_date": "2023-12-14"
           }
         },
         {
-          "rank": 7,
-          "title": "Sharper",
-          "tmdb": {
-            "id": 717980,
-            "media_type": "movie",
-            "release_date": "2023-02-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
@@ -495,22 +451,58 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 6,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
             "media_type": "movie",
             "release_date": "2025-11-11"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Killers of the Flower Moon",
+          "tmdb": {
+            "id": 466420,
+            "media_type": "movie",
+            "release_date": "2023-10-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sharper",
+          "tmdb": {
+            "id": 717980,
+            "media_type": "movie",
+            "release_date": "2023-02-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on Apple TV in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,20 +516,20 @@
         },
         {
           "rank": 2,
-          "title": "Lucky",
-          "tmdb": {
-            "id": 278624,
-            "media_type": "tv",
-            "release_date": "2026-07-14"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Cape Fear",
           "tmdb": {
             "id": 277439,
             "media_type": "tv",
             "release_date": "2026-06-04"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
           }
         },
         {
@@ -551,11 +543,11 @@
         },
         {
           "rank": 5,
-          "title": "Your Friends & Neighbors",
+          "title": "Sugar",
           "tmdb": {
-            "id": 241609,
+            "id": 203744,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -569,11 +561,11 @@
         },
         {
           "rank": 7,
-          "title": "Maximum Pleasure Guaranteed",
+          "title": "Your Friends & Neighbors",
           "tmdb": {
-            "id": 285404,
+            "id": 241609,
             "media_type": "tv",
-            "release_date": "2026-05-19"
+            "release_date": "2025-04-10"
           }
         },
         {
@@ -587,43 +579,34 @@
         },
         {
           "rank": 9,
-          "title": "Sugar",
+          "title": "Maximum Pleasure Guaranteed",
           "tmdb": {
-            "id": 203744,
+            "id": 285404,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2026-05-19"
           }
         },
         {
           "rank": 10,
-          "title": "See",
+          "title": "Hijack",
           "tmdb": {
-            "id": 80752,
+            "id": 198102,
             "media_type": "tv",
-            "release_date": "2019-11-01"
+            "release_date": "2023-06-28"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Apple TV Store in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 2,
           "title": "In the Grey",
           "tmdb": {
             "id": 1122573,
@@ -632,16 +615,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Super Mario Galaxy Movie",
+          "rank": 2,
+          "title": "Mortal Kombat II",
           "tmdb": {
-            "id": 1226863,
+            "id": 931285,
             "media_type": "movie",
-            "release_date": "2026-04-01"
+            "release_date": "2026-05-06"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -650,16 +633,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Bourne Identity",
-          "tmdb": {
-            "id": 2501,
-            "media_type": "movie",
-            "release_date": "2002-06-14"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -668,7 +642,34 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdb": {
+            "id": 1226863,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Dune: Part Two",
+          "tmdb": {
+            "id": 693134,
+            "media_type": "movie",
+            "release_date": "2024-02-27"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Oppenheimer",
           "tmdb": {
             "id": 872585,
@@ -677,40 +678,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "300",
-          "tmdb": {
-            "id": 1271,
-            "media_type": "movie",
-            "release_date": "2007-03-07"
-          }
-        },
-        {
           "rank": 9,
-          "title": "In the Heart of the Sea",
-          "tmdb": {
-            "id": 205775,
-            "media_type": "movie",
-            "release_date": "2015-12-03"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
             "media_type": "movie",
             "release_date": "2025-12-18"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Greenland 2: Migration",
+          "tmdb": {
+            "id": 840464,
+            "media_type": "movie",
+            "release_date": "2026-01-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "osn.movies",
-      "heading": "TOP Movies on OSN in Egypt on July 31, 2026",
+      "heading": "TOP Movies on OSN in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "OSN",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -760,24 +752,6 @@
         },
         {
           "rank": 6,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Weapons",
-          "tmdb": {
-            "id": 1078605,
-            "media_type": "movie",
-            "release_date": "2025-08-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Se7en",
           "tmdb": {
             "id": 807,
@@ -786,12 +760,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Harry Potter and the Chamber of Secrets",
+          "rank": 7,
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 672,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2002-11-13"
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Weapons",
+          "tmdb": {
+            "id": 1078605,
+            "media_type": "movie",
+            "release_date": "2025-08-04"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Prestige",
+          "tmdb": {
+            "id": 1124,
+            "media_type": "movie",
+            "release_date": "2006-10-19"
           }
         },
         {
@@ -807,10 +799,10 @@
     },
     {
       "catalog_id": "osn.series",
-      "heading": "TOP TV Shows on OSN in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on OSN in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "OSN",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -842,17 +834,17 @@
         },
         {
           "rank": 4,
-          "title": "Cranberry Sorbet",
-          "tmdb": null
-        },
-        {
-          "rank": 5,
           "title": "The Mentalist",
           "tmdb": {
             "id": 5920,
             "media_type": "tv",
             "release_date": "2008-09-23"
           }
+        },
+        {
+          "rank": 5,
+          "title": "Cranberry Sorbet",
+          "tmdb": null
         },
         {
           "rank": 6,
@@ -865,20 +857,20 @@
         },
         {
           "rank": 7,
-          "title": "The Big Bang Theory",
-          "tmdb": {
-            "id": 1418,
-            "media_type": "tv",
-            "release_date": "2007-09-24"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Suits",
           "tmdb": {
             "id": 37680,
             "media_type": "tv",
             "release_date": "2011-06-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Big Bang Theory",
+          "tmdb": {
+            "id": 1418,
+            "media_type": "tv",
+            "release_date": "2007-09-24"
           }
         },
         {
@@ -903,10 +895,10 @@
     },
     {
       "catalog_id": "shahid.movies",
-      "heading": "TOP Movies on Shahid in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Shahid in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Shahid",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -929,29 +921,29 @@
         },
         {
           "rank": 3,
-          "title": "Troy",
-          "tmdb": {
-            "id": 652,
-            "media_type": "movie",
-            "release_date": "2004-05-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Who Would Believe It?",
-          "tmdb": {
-            "id": 1376999,
-            "media_type": "movie",
-            "release_date": "2024-11-27"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
             "media_type": "movie",
             "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Spider-Man: Homecoming",
+          "tmdb": {
+            "id": 315635,
+            "media_type": "movie",
+            "release_date": "2017-07-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Troy",
+          "tmdb": {
+            "id": 652,
+            "media_type": "movie",
+            "release_date": "2004-05-13"
           }
         },
         {
@@ -965,20 +957,20 @@
         },
         {
           "rank": 7,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 8,
           "title": "My Father's Scent",
           "tmdb": {
             "id": 1369661,
             "media_type": "movie",
             "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Who Would Believe It?",
+          "tmdb": {
+            "id": 1376999,
+            "media_type": "movie",
+            "release_date": "2024-11-27"
           }
         },
         {
@@ -992,34 +984,25 @@
         },
         {
           "rank": 10,
-          "title": "A Break of Happy Moments",
+          "title": "Spider-Man: Far from Home",
           "tmdb": {
-            "id": 1224392,
+            "id": 429617,
             "media_type": "movie",
-            "release_date": "2024-04-10"
+            "release_date": "2019-06-28"
           }
         }
       ]
     },
     {
       "catalog_id": "shahid.series",
-      "heading": "TOP TV Shows on Shahid in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on Shahid in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "Shahid",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Love on Paper",
-          "tmdb": {
-            "id": 322993,
-            "media_type": "tv",
-            "release_date": "2026-06-14"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Sins and Roses",
           "tmdb": {
             "id": 300388,
@@ -1028,12 +1011,21 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Torn Apart",
           "tmdb": {
             "id": 317883,
             "media_type": "tv",
             "release_date": "2026-05-31"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Love on Paper",
+          "tmdb": {
+            "id": 322993,
+            "media_type": "tv",
+            "release_date": "2026-06-14"
           }
         },
         {
@@ -1052,20 +1044,20 @@
         },
         {
           "rank": 6,
-          "title": "Full Count",
-          "tmdb": {
-            "id": 302985,
-            "media_type": "tv",
-            "release_date": null
-          }
-        },
-        {
-          "rank": 7,
           "title": "Possible Love",
           "tmdb": {
             "id": 322499,
             "media_type": "tv",
             "release_date": "2026-06-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Full Count",
+          "tmdb": {
+            "id": 302985,
+            "media_type": "tv",
+            "release_date": null
           }
         },
         {
@@ -1088,30 +1080,25 @@
         },
         {
           "rank": 10,
-          "title": "Family Topic",
-          "tmdb": null
+          "title": "Apartment Works",
+          "tmdb": {
+            "id": 246244,
+            "media_type": "tv",
+            "release_date": "2024-03-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "starz.movies",
-      "heading": "TOP Movies on Starz in Egypt on July 31, 2026",
+      "heading": "TOP Movies on Starz in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "Starz",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Kira We El Gin",
-          "tmdb": {
-            "id": 632702,
-            "media_type": "movie",
-            "release_date": "2022-06-30"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Terrifier 3",
           "tmdb": {
             "id": 1034541,
@@ -1120,9 +1107,22 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Not Me",
+          "tmdb": {
+            "id": 882178,
+            "media_type": "movie",
+            "release_date": "2018-03-01"
+          }
+        },
+        {
           "rank": 3,
-          "title": "Lef We Ergaa' Tany",
-          "tmdb": null
+          "title": "Kira We El Gin",
+          "tmdb": {
+            "id": 632702,
+            "media_type": "movie",
+            "release_date": "2022-06-30"
+          }
         },
         {
           "rank": 4,
@@ -1135,21 +1135,17 @@
         },
         {
           "rank": 5,
-          "title": "Not Me",
+          "title": "The Knower: Younis's Return",
           "tmdb": {
-            "id": 882178,
+            "id": 823353,
             "media_type": "movie",
-            "release_date": "2018-03-01"
+            "release_date": "2021-07-12"
           }
         },
         {
           "rank": 6,
-          "title": "Mama's Boy",
-          "tmdb": {
-            "id": 1405185,
-            "media_type": "movie",
-            "release_date": "2024-12-31"
-          }
+          "title": "Lef We Ergaa' Tany",
+          "tmdb": null
         },
         {
           "rank": 7,
@@ -1171,30 +1167,30 @@
         },
         {
           "rank": 9,
-          "title": "Ahmed Noterdame",
+          "title": "Captain Hima",
           "tmdb": {
-            "id": 827373,
+            "id": 144182,
             "media_type": "movie",
-            "release_date": "2021-05-13"
+            "release_date": "2008-06-25"
           }
         },
         {
           "rank": 10,
-          "title": "First Blood",
+          "title": "Bittersweet",
           "tmdb": {
-            "id": 1368,
+            "id": 151896,
             "media_type": "movie",
-            "release_date": "1982-10-22"
+            "release_date": "1999-09-30"
           }
         }
       ]
     },
     {
       "catalog_id": "starz.series",
-      "heading": "TOP TV Shows on Starz in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on Starz in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "Starz",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1213,20 +1209,20 @@
         },
         {
           "rank": 3,
-          "title": "ALL or NOTHING",
-          "tmdb": {
-            "id": 66943,
-            "media_type": "tv",
-            "release_date": "2016-06-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ghamam Island",
           "tmdb": {
             "id": 195561,
             "media_type": "tv",
             "release_date": "2022-04-02"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Sultan's daughter",
+          "tmdb": {
+            "id": 121568,
+            "media_type": "tv",
+            "release_date": "2021-04-13"
           }
         },
         {
@@ -1240,17 +1236,17 @@
         },
         {
           "rank": 6,
-          "title": "They All Love Mody",
-          "tmdb": null
+          "title": "ALL or NOTHING",
+          "tmdb": {
+            "id": 66943,
+            "media_type": "tv",
+            "release_date": "2016-06-30"
+          }
         },
         {
           "rank": 7,
-          "title": "The Captain",
-          "tmdb": {
-            "id": 197357,
-            "media_type": "tv",
-            "release_date": "2022-07-18"
-          }
+          "title": "They All Love Mody",
+          "tmdb": null
         },
         {
           "rank": 8,
@@ -1263,34 +1259,43 @@
         },
         {
           "rank": 9,
+          "title": "The Captain",
+          "tmdb": {
+            "id": 197357,
+            "media_type": "tv",
+            "release_date": "2022-07-18"
+          }
+        },
+        {
+          "rank": 10,
           "title": "El Nos",
           "tmdb": {
             "id": 276068,
             "media_type": "tv",
             "release_date": "2025-03-01"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Spartacus",
-          "tmdb": {
-            "id": 46296,
-            "media_type": "tv",
-            "release_date": "2010-01-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "watchit.movies",
-      "heading": "TOP Movies on WatchIT in Egypt on July 31, 2026",
+      "heading": "TOP Movies on WatchIT in Egypt on August 2, 2026",
       "category": "movies",
       "platform": "WatchIT",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Restart",
+          "tmdb": {
+            "id": 376934,
+            "media_type": "movie",
+            "release_date": "2005-01-10"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Happiness I Have",
           "tmdb": {
             "id": 1353543,
@@ -1299,21 +1304,17 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Monopoly (Bank Of Luck)",
           "tmdb": null
         },
         {
-          "rank": 3,
-          "title": "A Break of Happy Moments",
-          "tmdb": {
-            "id": 1224392,
-            "media_type": "movie",
-            "release_date": "2024-04-10"
-          }
+          "rank": 4,
+          "title": "Shaqow",
+          "tmdb": null
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Siko Siko",
           "tmdb": {
             "id": 1316416,
@@ -1322,7 +1323,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "El Harifa 2: Remontada",
           "tmdb": {
             "id": 1324331,
@@ -1331,21 +1332,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Freezer's Campaign",
           "tmdb": {
             "id": 433825,
             "media_type": "movie",
             "release_date": "2016-09-10"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Day 13",
-          "tmdb": {
-            "id": 725495,
-            "media_type": "movie",
-            "release_date": "2020-04-08"
           }
         },
         {
@@ -1359,57 +1351,39 @@
         },
         {
           "rank": 9,
+          "title": "A Break of Happy Moments",
+          "tmdb": {
+            "id": 1224392,
+            "media_type": "movie",
+            "release_date": "2024-04-10"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Fadl & Naema",
           "tmdb": {
             "id": 1022991,
             "media_type": "movie",
             "release_date": "2022-10-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Mr. Ex",
-          "tmdb": {
-            "id": 968448,
-            "media_type": "movie",
-            "release_date": "2023-06-28"
-          }
         }
       ]
     },
     {
       "catalog_id": "watchit.series",
-      "heading": "TOP TV Shows on WatchIT in Egypt on July 31, 2026",
+      "heading": "TOP TV Shows on WatchIT in Egypt on August 2, 2026",
       "category": "tv shows",
       "platform": "WatchIT",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Special Case",
-          "tmdb": {
-            "id": 242594,
-            "media_type": "tv",
-            "release_date": "2024-01-03"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Legitimate Relationship",
-          "tmdb": {
-            "id": 220990,
-            "media_type": "tv",
-            "release_date": "2023-03-23"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Helwa El Donia Sokar",
           "tmdb": null
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Suits",
           "tmdb": {
             "id": 37680,
@@ -1418,7 +1392,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Special Case",
+          "tmdb": {
+            "id": 242594,
+            "media_type": "tv",
+            "release_date": "2024-01-03"
+          }
+        },
+        {
+          "rank": 4,
           "title": "A Husband's Diary",
           "tmdb": {
             "id": 220880,
@@ -1427,21 +1410,39 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Legitimate Relationship",
+          "tmdb": {
+            "id": 220990,
+            "media_type": "tv",
+            "release_date": "2023-03-23"
+          }
+        },
+        {
           "rank": 6,
-          "title": "Dayman Amer",
+          "title": "6 Months",
           "tmdb": null
         },
         {
           "rank": 7,
-          "title": "A Moment of Anger",
+          "title": "My Way",
           "tmdb": {
-            "id": 246878,
+            "id": 207260,
             "media_type": "tv",
-            "release_date": "2024-03-11"
+            "release_date": "2022-07-29"
           }
         },
         {
           "rank": 8,
+          "title": "A shot of luck",
+          "tmdb": {
+            "id": 88926,
+            "media_type": "tv",
+            "release_date": "2019-05-05"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Father But...",
           "tmdb": {
             "id": 301583,
@@ -1450,18 +1451,13 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Balto",
           "tmdb": {
             "id": 21032,
             "media_type": "movie",
             "release_date": "1995-12-22"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Highest viewing rate",
-          "tmdb": null
         }
       ]
     }

@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/portugal/",
-  "page_title": "TOP 10 on Streaming in Portugal on July 31, 2026",
+  "page_title": "TOP 10 on Streaming in Portugal on August 2, 2026",
   "region": "portugal",
-  "date": "July 31, 2026",
-  "scraped_at_utc": "2026-07-31T17:06:33.200430+00:00",
+  "date": "August 2, 2026",
+  "scraped_at_utc": "2026-08-02T14:53:56.257153+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Portugal on July 31, 2026",
+      "heading": "TOP Movies on Netflix in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "72 Hours",
           "tmdb": {
             "id": 949838,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Elize: Shadows of a Woman",
           "tmdb": {
             "id": 1487861,
@@ -32,16 +41,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "A Toxic Love Story",
+          "rank": 4,
+          "title": "Final Destination Bloodlines",
           "tmdb": {
-            "id": 1723460,
+            "id": 574475,
             "media_type": "movie",
-            "release_date": "2026-07-22"
+            "release_date": "2025-05-14"
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Truthers",
           "tmdb": {
             "id": 1659155,
@@ -50,7 +59,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "A Toxic Love Story",
+          "tmdb": {
+            "id": 1723460,
+            "media_type": "movie",
+            "release_date": "2026-07-22"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Debt Collector",
           "tmdb": {
             "id": 1630409,
@@ -59,7 +77,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
+          "title": "The Hunger Games",
+          "tmdb": {
+            "id": 70160,
+            "media_type": "movie",
+            "release_date": "2012-03-12"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Desire",
           "tmdb": {
             "id": 1668364,
@@ -68,49 +95,22 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Voicemails for Isabelle",
           "tmdb": {
             "id": 614945,
             "media_type": "movie",
             "release_date": "2026-06-20"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Love in Slow Motion",
-          "tmdb": {
-            "id": 1620682,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Enola Holmes 3",
-          "tmdb": {
-            "id": 1202033,
-            "media_type": "movie",
-            "release_date": "2026-06-30"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Creator",
-          "tmdb": {
-            "id": 670292,
-            "media_type": "movie",
-            "release_date": "2023-09-27"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Portugal on July 31, 2026",
+      "heading": "TOP TV Shows on Netflix in Portugal on August 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Elite Force",
-          "tmdb": {
-            "id": 281281,
-            "media_type": "tv",
-            "release_date": "2026-07-22"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "My Daughter's Father",
-          "tmdb": {
-            "id": 329394,
-            "media_type": "tv",
-            "release_date": "2026-07-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Wrath",
           "tmdb": {
             "id": 292533,
@@ -150,16 +132,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Ransom Canyon",
-          "tmdb": {
-            "id": 240993,
-            "media_type": "tv",
-            "release_date": "2025-04-17"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "The Bombing of Pan Am 103",
           "tmdb": {
             "id": 248226,
@@ -168,7 +141,39 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Elite Force",
+          "tmdb": {
+            "id": 281281,
+            "media_type": "tv",
+            "release_date": "2026-07-22"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "My Daughter's Father",
+          "tmdb": {
+            "id": 329394,
+            "media_type": "tv",
+            "release_date": "2026-07-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ransom Canyon",
+          "tmdb": {
+            "id": 240993,
+            "media_type": "tv",
+            "release_date": "2025-04-17"
+          }
+        },
+        {
           "rank": 7,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 8,
           "title": "I Will Find You",
           "tmdb": {
             "id": 278178,
@@ -177,44 +182,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Elize Matsunaga: Once Upon a Crime",
-          "tmdb": {
-            "id": 127617,
-            "media_type": "tv",
-            "release_date": "2021-07-08"
-          }
-        },
-        {
           "rank": 9,
-          "title": "The Map of Longing",
-          "tmdb": {
-            "id": 288671,
-            "media_type": "tv",
-            "release_date": "2026-07-17"
-          }
+          "title": "WWE SummerSlam",
+          "tmdb": null
         },
         {
           "rank": 10,
-          "title": "Oasis",
+          "title": "Spooky in Love",
           "tmdb": {
-            "id": 296285,
+            "id": 298610,
             "media_type": "tv",
-            "release_date": "2026-06-19"
+            "release_date": "2026-07-18"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Portugal on July 31, 2026",
+      "heading": "TOP Kids Movies on Netflix in Portugal on August 2, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
@@ -223,7 +224,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Swapped",
           "tmdb": {
             "id": 1007757,
@@ -232,7 +233,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Sonic the Hedgehog 3",
           "tmdb": {
             "id": 939243,
@@ -241,34 +242,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "We Can Be Heroes",
-          "tmdb": {
-            "id": 615677,
-            "media_type": "movie",
-            "release_date": "2020-12-25"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Boss Baby",
-          "tmdb": {
-            "id": 295693,
-            "media_type": "movie",
-            "release_date": "2017-03-23"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Kung Fu Panda 4",
-          "tmdb": {
-            "id": 1011985,
-            "media_type": "movie",
-            "release_date": "2024-03-02"
-          }
-        },
-        {
-          "rank": 7,
           "title": "In Your Dreams",
           "tmdb": {
             "id": 1117857,
@@ -277,7 +251,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Kung Fu Panda 4",
+          "tmdb": {
+            "id": 1011985,
+            "media_type": "movie",
+            "release_date": "2024-03-02"
+          }
+        },
+        {
           "rank": 8,
+          "title": "We Can Be Heroes",
+          "tmdb": {
+            "id": 615677,
+            "media_type": "movie",
+            "release_date": "2020-12-25"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Back to the Outback",
           "tmdb": {
             "id": 770254,
@@ -286,31 +287,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Monsters vs Aliens",
-          "tmdb": {
-            "id": 15512,
-            "media_type": "movie",
-            "release_date": "2009-03-19"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Hotel Transylvania 3: Summer Vacation",
+          "title": "Woody Woodpecker Goes to Camp",
           "tmdb": {
-            "id": 400155,
+            "id": 1239146,
             "media_type": "movie",
-            "release_date": "2018-06-28"
+            "release_date": "2024-04-12"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Portugal on July 31, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Portugal on August 2, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,20 +316,20 @@
         },
         {
           "rank": 2,
-          "title": "Winx Club: The Magic is Back",
-          "tmdb": {
-            "id": 286822,
-            "media_type": "tv",
-            "release_date": "2025-10-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
             "media_type": "tv",
             "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Winx Club: The Magic is Back",
+          "tmdb": {
+            "id": 286822,
+            "media_type": "tv",
+            "release_date": "2025-10-01"
           }
         },
         {
@@ -356,11 +348,11 @@
         },
         {
           "rank": 6,
-          "title": "Simon",
+          "title": "Shaun the Sheep: Adventures from Mossy Bottom",
           "tmdb": {
-            "id": 79888,
+            "id": 100605,
             "media_type": "tv",
-            "release_date": "2016-12-17"
+            "release_date": "2020-03-16"
           }
         },
         {
@@ -374,20 +366,20 @@
         },
         {
           "rank": 8,
+          "title": "Simon",
+          "tmdb": {
+            "id": 79888,
+            "media_type": "tv",
+            "release_date": "2016-12-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Paw Patrol",
           "tmdb": {
             "id": 57532,
             "media_type": "tv",
             "release_date": "2013-08-12"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Shaun the Sheep: Adventures from Mossy Bottom",
-          "tmdb": {
-            "id": 100605,
-            "media_type": "tv",
-            "release_date": "2020-03-16"
           }
         },
         {
@@ -403,10 +395,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Portugal on July 31, 2026",
+      "heading": "TOP Movies on HBO Max in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,11 +412,11 @@
         },
         {
           "rank": 2,
-          "title": "Dangerous Animals",
+          "title": "Together",
           "tmdb": {
-            "id": 1285965,
+            "id": 1242011,
             "media_type": "movie",
-            "release_date": "2025-06-05"
+            "release_date": "2025-07-14"
           }
         },
         {
@@ -447,11 +439,11 @@
         },
         {
           "rank": 5,
-          "title": "Mortal Kombat",
+          "title": "Dangerous Animals",
           "tmdb": {
-            "id": 460465,
+            "id": 1285965,
             "media_type": "movie",
-            "release_date": "2021-04-07"
+            "release_date": "2025-06-05"
           }
         },
         {
@@ -465,24 +457,15 @@
         },
         {
           "rank": 7,
-          "title": "Lee Cronin's The Mummy",
+          "title": "Mortal Kombat",
           "tmdb": {
-            "id": 1304313,
+            "id": 460465,
             "media_type": "movie",
-            "release_date": "2026-04-15"
+            "release_date": "2021-04-07"
           }
         },
         {
           "rank": 8,
-          "title": "Nightbitch",
-          "tmdb": {
-            "id": 728949,
-            "media_type": "movie",
-            "release_date": "2024-12-06"
-          }
-        },
-        {
-          "rank": 9,
           "title": "28 Days Later",
           "tmdb": {
             "id": 170,
@@ -491,22 +474,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Spider-Man: Homecoming",
+          "rank": 9,
+          "title": "Lee Cronin's The Mummy",
           "tmdb": {
-            "id": 315635,
+            "id": 1304313,
             "media_type": "movie",
-            "release_date": "2017-07-05"
+            "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Nightbitch",
+          "tmdb": {
+            "id": 728949,
+            "media_type": "movie",
+            "release_date": "2024-12-06"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Portugal on July 31, 2026",
+      "heading": "TOP TV Shows on HBO Max in Portugal on August 2, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -520,20 +512,20 @@
         },
         {
           "rank": 2,
-          "title": "Rick and Morty",
-          "tmdb": {
-            "id": 60625,
-            "media_type": "tv",
-            "release_date": "2013-12-02"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Stuart Fails to Save the Universe",
           "tmdb": {
             "id": 287620,
             "media_type": "tv",
             "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Rick and Morty",
+          "tmdb": {
+            "id": 60625,
+            "media_type": "tv",
+            "release_date": "2013-12-02"
           }
         },
         {
@@ -547,24 +539,6 @@
         },
         {
           "rank": 5,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
-          "tmdb": {
-            "id": 295780,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Stuart Fails to Save the Universe Podcast",
-          "tmdb": {
-            "id": 329818,
-            "media_type": "tv",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Proud",
           "tmdb": {
             "id": 315610,
@@ -573,7 +547,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Life, Larry and the Pursuit of Unhappiness",
+          "tmdb": {
+            "id": 295780,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Stuart Fails to Save the Universe Podcast",
+          "tmdb": {
+            "id": 329818,
+            "media_type": "tv",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Deadly Influence: The Social Media Murders",
+          "tmdb": {
+            "id": 255805,
+            "media_type": "tv",
+            "release_date": "2024-06-03"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Last Week Tonight with John Oliver",
           "tmdb": {
             "id": 60694,
@@ -582,31 +583,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "90 Day Fiancé",
-          "tmdb": {
-            "id": 61575,
-            "media_type": "tv",
-            "release_date": "2014-01-12"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Tip Toe",
+          "title": "All American",
           "tmdb": {
-            "id": 286617,
+            "id": 82428,
             "media_type": "tv",
-            "release_date": "2026-05-31"
+            "release_date": "2018-10-10"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Portugal on July 31, 2026",
+      "heading": "TOP Overall on Disney+ in Portugal on August 2, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -629,15 +621,6 @@
         },
         {
           "rank": 3,
-          "title": "Furious",
-          "tmdb": {
-            "id": 287238,
-            "media_type": "tv",
-            "release_date": "2026-07-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -646,34 +629,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Furious",
+          "tmdb": {
+            "id": 287238,
+            "media_type": "tv",
+            "release_date": "2026-07-27"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Princess Diaries",
           "tmdb": {
             "id": 9880,
@@ -682,7 +647,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "Spider-Man: Homecoming",
           "tmdb": {
             "id": 315635,
@@ -691,22 +656,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Spider-Man: Far from Home",
           "tmdb": {
             "id": 429617,
             "media_type": "movie",
             "release_date": "2019-06-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Portugal on July 31, 2026",
+      "heading": "TOP Overall on Amazon Prime in Portugal on August 2, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,20 +712,20 @@
         },
         {
           "rank": 2,
-          "title": "Páginas da Vida",
-          "tmdb": {
-            "id": 42789,
-            "media_type": "tv",
-            "release_date": "2006-07-10"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Devil's Mouth",
           "tmdb": {
             "id": 1481343,
             "media_type": "movie",
             "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Páginas da Vida",
+          "tmdb": {
+            "id": 42789,
+            "media_type": "tv",
+            "release_date": "2006-07-10"
           }
         },
         {
@@ -765,15 +757,6 @@
         },
         {
           "rank": 7,
-          "title": "Elle",
-          "tmdb": {
-            "id": 254420,
-            "media_type": "tv",
-            "release_date": "2026-07-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
@@ -782,27 +765,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Elle",
+          "tmdb": {
+            "id": 254420,
+            "media_type": "tv",
+            "release_date": "2026-07-01"
+          }
+        },
+        {
           "rank": 9,
-          "title": "Caetana. A portuguese girlie",
-          "tmdb": null
+          "title": "I Love It",
+          "tmdb": {
+            "id": 194503,
+            "media_type": "tv",
+            "release_date": "2013-09-09"
+          }
         },
         {
           "rank": 10,
-          "title": "See You at Work Tomorrow!",
+          "title": "Patrocínio",
           "tmdb": {
-            "id": 289763,
+            "id": 324707,
             "media_type": "tv",
-            "release_date": "2026-06-22"
+            "release_date": "2026-06-04"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Portugal on July 31, 2026",
+      "heading": "TOP Movies on Amazon Prime in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -835,7 +831,11 @@
         {
           "rank": 4,
           "title": "Caetana. A portuguese girlie",
-          "tmdb": null
+          "tmdb": {
+            "id": 1741575,
+            "media_type": "movie",
+            "release_date": "2026-07-27"
+          }
         },
         {
           "rank": 5,
@@ -848,15 +848,6 @@
         },
         {
           "rank": 6,
-          "title": "Marty Supreme",
-          "tmdb": {
-            "id": 1317288,
-            "media_type": "movie",
-            "release_date": "2025-12-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "How to Have Sex",
           "tmdb": {
             "id": 1075175,
@@ -865,7 +856,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Marty Supreme",
+          "tmdb": {
+            "id": 1317288,
+            "media_type": "movie",
+            "release_date": "2025-12-19"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Someone Like You",
+          "tmdb": {
+            "id": 1029330,
+            "media_type": "movie",
+            "release_date": "2024-04-02"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Despicable Me 4",
           "tmdb": {
             "id": 519182,
@@ -874,31 +883,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Boulevard",
           "tmdb": {
             "id": 1595852,
             "media_type": "movie",
             "release_date": "2026-04-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Someone Like You",
-          "tmdb": {
-            "id": 12658,
-            "media_type": "movie",
-            "release_date": "2001-03-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Portugal on July 31, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Portugal on August 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -957,11 +957,11 @@
         },
         {
           "rank": 7,
-          "title": "See You at Work Tomorrow!",
+          "title": "Patrocínio",
           "tmdb": {
-            "id": 289763,
+            "id": 324707,
             "media_type": "tv",
-            "release_date": "2026-06-22"
+            "release_date": "2026-06-04"
           }
         },
         {
@@ -975,11 +975,11 @@
         },
         {
           "rank": 9,
-          "title": "Patrocínio",
+          "title": "See You at Work Tomorrow!",
           "tmdb": {
-            "id": 324707,
+            "id": 289763,
             "media_type": "tv",
-            "release_date": "2026-06-04"
+            "release_date": "2026-06-22"
           }
         },
         {
@@ -995,10 +995,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Portugal on July 31, 2026",
+      "heading": "TOP Movies on Apple TV in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1021,33 +1021,6 @@
         },
         {
           "rank": 3,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Sharper",
           "tmdb": {
             "id": 717980,
@@ -1056,25 +1029,43 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Luck",
+          "rank": 4,
+          "title": "The Gorge",
           "tmdb": {
-            "id": 585511,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2022-08-05"
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Napoleon",
+          "tmdb": {
+            "id": 753342,
+            "media_type": "movie",
+            "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
           }
         },
         {
           "rank": 8,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1083,22 +1074,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Greyhound",
+          "rank": 9,
+          "title": "Eternity",
           "tmdb": {
-            "id": 516486,
+            "id": 1259102,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2025-11-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+          "tmdb": {
+            "id": 1698575,
+            "media_type": "movie",
+            "release_date": "2026-07-30"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Portugal on July 31, 2026",
+      "heading": "TOP TV Shows on Apple TV in Portugal on August 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1112,11 +1112,11 @@
         },
         {
           "rank": 2,
-          "title": "Lucky",
+          "title": "Cape Fear",
           "tmdb": {
-            "id": 278624,
+            "id": 277439,
             "media_type": "tv",
-            "release_date": "2026-07-14"
+            "release_date": "2026-06-04"
           }
         },
         {
@@ -1130,24 +1130,15 @@
         },
         {
           "rank": 4,
-          "title": "Cape Fear",
+          "title": "Lucky",
           "tmdb": {
-            "id": 277439,
+            "id": 278624,
             "media_type": "tv",
-            "release_date": "2026-06-04"
+            "release_date": "2026-07-14"
           }
         },
         {
           "rank": 5,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Sugar",
           "tmdb": {
             "id": 203744,
@@ -1156,7 +1147,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Severance",
+          "tmdb": {
+            "id": 95396,
+            "media_type": "tv",
+            "release_date": "2022-02-17"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
@@ -1165,7 +1174,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Trying",
           "tmdb": {
             "id": 98177,
@@ -1174,35 +1183,35 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
             "media_type": "tv",
             "release_date": "2023-01-26"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Maximum Pleasure Guaranteed",
-          "tmdb": {
-            "id": 285404,
-            "media_type": "tv",
-            "release_date": "2026-05-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Portugal on July 31, 2026",
+      "heading": "TOP Movies on Apple TV Store in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Mandalorian and Grogu",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1211,15 +1220,6 @@
           }
         },
         {
-          "rank": 2,
-          "title": "The Mandalorian and Grogu",
-          "tmdb": {
-            "id": 1228710,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
           "rank": 3,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
@@ -1230,15 +1230,6 @@
         },
         {
           "rank": 4,
-          "title": "Supergirl",
-          "tmdb": {
-            "id": 1081003,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -1247,180 +1238,43 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Greenland 2: Migration",
-          "tmdb": {
-            "id": 840464,
-            "media_type": "movie",
-            "release_date": "2026-01-07"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Portugal on July 31, 2026",
-      "category": "movies",
-      "platform": "Google",
-      "date": "July 31, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "The Mandalorian and Grogu",
-          "tmdb": {
-            "id": 1228710,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Moana 2",
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 1241982,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2024-11-21"
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 6,
-          "title": "Project Hail Mary",
+          "title": "The Drama",
           "tmdb": {
-            "id": 687163,
+            "id": 1325734,
             "media_type": "movie",
-            "release_date": "2026-03-15"
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 7,
-          "title": "Atlantis: The Lost Empire",
+          "title": "Spider-Man: Across the Spider-Verse",
           "tmdb": {
-            "id": 10865,
+            "id": 569094,
             "media_type": "movie",
-            "release_date": "2001-06-02"
+            "release_date": "2023-05-31"
           }
         },
         {
           "rank": 8,
-          "title": "Mission: Impossible - The Final Reckoning",
+          "title": "Billie Eilish – Hit Me Hard and Soft: The Tour",
           "tmdb": {
-            "id": 575265,
+            "id": 1515899,
             "media_type": "movie",
-            "release_date": "2025-05-17"
+            "release_date": "2026-05-06"
           }
         },
         {
           "rank": 9,
-          "title": "Frozen II",
-          "tmdb": {
-            "id": 330457,
-            "media_type": "movie",
-            "release_date": "2019-11-20"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Terminator 2: Judgment Day",
-          "tmdb": {
-            "id": 280,
-            "media_type": "movie",
-            "release_date": "1991-07-03"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Portugal on July 31, 2026",
-      "category": "movies",
-      "platform": "Rakuten TV",
-      "date": "July 31, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Dracula",
-          "tmdb": {
-            "id": 1246049,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Nuremberg",
-          "tmdb": {
-            "id": 1214931,
-            "media_type": "movie",
-            "release_date": "2025-11-06"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Reminders of Him",
           "tmdb": {
             "id": 1367642,
@@ -1429,12 +1283,158 @@
           }
         },
         {
+          "rank": 10,
+          "title": "Tenet",
+          "tmdb": {
+            "id": 577922,
+            "media_type": "movie",
+            "release_date": "2020-08-22"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "google.movies",
+      "heading": "TOP Movies on Google in Portugal on August 2, 2026",
+      "category": "movies",
+      "platform": "Google",
+      "date": "August 2, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Mandalorian and Grogu",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdb": {
+            "id": 1226863,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
+        },
+        {
           "rank": 4,
+          "title": "The Devil Wears Prada 2",
+          "tmdb": {
+            "id": 1314481,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The SpongeBob Movie: Search for SquarePants",
+          "tmdb": {
+            "id": 991494,
+            "media_type": "movie",
+            "release_date": "2025-12-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Frozen",
+          "tmdb": {
+            "id": 109445,
+            "media_type": "movie",
+            "release_date": "2013-11-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Dog Man",
+          "tmdb": {
+            "id": 774370,
+            "media_type": "movie",
+            "release_date": "2025-01-24"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Spider-Man: No Way Home",
+          "tmdb": {
+            "id": 634649,
+            "media_type": "movie",
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Puss in Boots: The Last Wish",
+          "tmdb": {
+            "id": 315162,
+            "media_type": "movie",
+            "release_date": "2022-12-07"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "rakuten-tv.movies",
+      "heading": "TOP Movies on Rakuten TV in Portugal on August 2, 2026",
+      "category": "movies",
+      "platform": "Rakuten TV",
+      "date": "August 2, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Nuremberg",
+          "tmdb": {
+            "id": 1214931,
+            "media_type": "movie",
+            "release_date": "2025-11-06"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Dracula",
+          "tmdb": {
+            "id": 1246049,
+            "media_type": "movie",
+            "release_date": "2025-07-30"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
             "media_type": "movie",
             "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Weekend in Taipei",
+          "tmdb": {
+            "id": 1167271,
+            "media_type": "movie",
+            "release_date": "2024-09-19"
           }
         },
         {
@@ -1448,6 +1448,15 @@
         },
         {
           "rank": 6,
+          "title": "Reminders of Him",
+          "tmdb": {
+            "id": 1367642,
+            "media_type": "movie",
+            "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Hamnet",
           "tmdb": {
             "id": 858024,
@@ -1456,7 +1465,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Balas & Bolinhos: Só Mais Uma Coisa",
           "tmdb": {
             "id": 1323894,
@@ -1465,53 +1474,53 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "After",
+          "tmdb": {
+            "id": 537915,
+            "media_type": "movie",
+            "release_date": "2019-04-11"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Ready or Not 2: Here I Come",
           "tmdb": {
             "id": 1266127,
             "media_type": "movie",
             "release_date": "2026-03-19"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Fackham Hall",
-          "tmdb": {
-            "id": 1175174,
-            "media_type": "movie",
-            "release_date": "2025-12-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Beast",
-          "tmdb": {
-            "id": 1292415,
-            "media_type": "movie",
-            "release_date": "2026-04-10"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Portugal on July 31, 2026",
+      "heading": "TOP Movies on SkyShowtime in Portugal on August 2, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Odyssey: The Making of an Epic",
+          "title": "One Mile: Chapter One",
           "tmdb": {
-            "id": 1731494,
+            "id": 1327688,
             "media_type": "movie",
-            "release_date": "2026-07-14"
+            "release_date": "2026-02-20"
           }
         },
         {
           "rank": 2,
+          "title": "One Mile: Chapter Two",
+          "tmdb": {
+            "id": 1327690,
+            "media_type": "movie",
+            "release_date": "2026-02-27"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Primate",
           "tmdb": {
             "id": 1315303,
@@ -1520,7 +1529,34 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "The Odyssey: The Making of an Epic",
+          "tmdb": {
+            "id": 1731494,
+            "media_type": "movie",
+            "release_date": "2026-07-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Preschool",
+          "tmdb": {
+            "id": 1440049,
+            "media_type": "movie",
+            "release_date": "2026-03-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Untitled Home Invasion Romance",
+          "tmdb": {
+            "id": 1340076,
+            "media_type": "movie",
+            "release_date": "2026-01-27"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Five Nights at Freddy's 2",
           "tmdb": {
             "id": 1228246,
@@ -1529,16 +1565,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Puss in Boots",
-          "tmdb": {
-            "id": 417859,
-            "media_type": "movie",
-            "release_date": "2011-10-27"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 8,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -1547,76 +1574,49 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Chronicles of Riddick",
-          "tmdb": {
-            "id": 2789,
-            "media_type": "movie",
-            "release_date": "2004-06-11"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Lost City",
-          "tmdb": {
-            "id": 752623,
-            "media_type": "movie",
-            "release_date": "2022-03-23"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Wicked: For Good",
-          "tmdb": {
-            "id": 967941,
-            "media_type": "movie",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Shrek Forever After",
-          "tmdb": {
-            "id": 10192,
-            "media_type": "movie",
-            "release_date": "2010-05-16"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Bugonia",
           "tmdb": {
             "id": 701387,
             "media_type": "movie",
             "release_date": "2025-10-23"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Wicked: For Good",
+          "tmdb": {
+            "id": 967941,
+            "media_type": "movie",
+            "release_date": "2025-11-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Portugal on July 31, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Portugal on August 2, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "July 31, 2026",
+      "date": "August 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Agency",
-          "tmdb": {
-            "id": 219971,
-            "media_type": "tv",
-            "release_date": "2024-12-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Star Trek: Strange New Worlds",
           "tmdb": {
             "id": 103516,
             "media_type": "tv",
             "release_date": "2022-05-05"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Agency",
+          "tmdb": {
+            "id": 219971,
+            "media_type": "tv",
+            "release_date": "2024-12-01"
           }
         },
         {
@@ -1630,20 +1630,20 @@
         },
         {
           "rank": 4,
-          "title": "Warehouse 13",
-          "tmdb": {
-            "id": 15819,
-            "media_type": "tv",
-            "release_date": "2009-07-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Heroes Reborn",
           "tmdb": {
             "id": 60858,
             "media_type": "tv",
             "release_date": "2015-09-24"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Warehouse 13",
+          "tmdb": {
+            "id": 15819,
+            "media_type": "tv",
+            "release_date": "2009-07-07"
           }
         },
         {
@@ -1675,20 +1675,20 @@
         },
         {
           "rank": 9,
+          "title": "Young Rock",
+          "tmdb": {
+            "id": 97754,
+            "media_type": "tv",
+            "release_date": "2021-02-16"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Riviera",
           "tmdb": {
             "id": 70496,
             "media_type": "tv",
             "release_date": "2017-06-15"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "SkyMed",
-          "tmdb": {
-            "id": 133908,
-            "media_type": "tv",
-            "release_date": "2022-07-10"
           }
         }
       ]
