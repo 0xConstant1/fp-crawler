@@ -14,7 +14,10 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-solver = ["scrapling[fetchers]>=0.4.12"]
+solver = [
+    "scrapling[fetchers]>=0.4.12",
+    "apify-fingerprint-datapoints==0.13.0",
+]
 
 [project.scripts]
 flixpatrol-scraper = "flixpatrol_scraper.__main__:main"
