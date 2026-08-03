@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/austria/",
-  "page_title": "TOP 10 on Streaming in Austria on August 2, 2026",
+  "page_title": "TOP 10 on Streaming in Austria on August 3, 2026",
   "region": "austria",
-  "date": "August 2, 2026",
-  "scraped_at_utc": "2026-08-02T16:31:44.068938+00:00",
+  "date": "August 3, 2026",
+  "scraped_at_utc": "2026-08-03T17:28:01.216106+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Austria on August 2, 2026",
+      "heading": "TOP Movies on Netflix in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Austria on August 2, 2026",
+      "heading": "TOP TV Shows on Netflix in Austria on August 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -151,6 +151,11 @@
         },
         {
           "rank": 5,
+          "title": "WWE SummerSlam",
+          "tmdb": null
+        },
+        {
+          "rank": 6,
           "title": "Elite Force",
           "tmdb": {
             "id": 281281,
@@ -159,7 +164,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Ransom Canyon",
           "tmdb": {
             "id": 240993,
@@ -168,7 +173,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "My Daughter's Father",
           "tmdb": {
             "id": 329394,
@@ -177,21 +182,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "I Will Find You",
           "tmdb": {
             "id": 278178,
             "media_type": "tv",
             "release_date": "2026-06-18"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Rookie",
-          "tmdb": {
-            "id": 79744,
-            "media_type": "tv",
-            "release_date": "2018-10-16"
           }
         },
         {
@@ -206,11 +202,211 @@
       ]
     },
     {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Austria on August 3, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "August 3, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Night at the Museum",
+          "tmdb": {
+            "id": 1593,
+            "media_type": "movie",
+            "release_date": "2006-12-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "tmdb": {
+            "id": 400155,
+            "media_type": "movie",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Turbo",
+          "tmdb": {
+            "id": 77950,
+            "media_type": "movie",
+            "release_date": "2013-07-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Hotel Transylvania 2",
+          "tmdb": {
+            "id": 159824,
+            "media_type": "movie",
+            "release_date": "2015-09-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Night at the Museum: Battle of the Smithsonian",
+          "tmdb": {
+            "id": 18360,
+            "media_type": "movie",
+            "release_date": "2009-05-20"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Austria on August 3, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "August 3, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Bobo Siebenschläfer",
+          "tmdb": {
+            "id": 69389,
+            "media_type": "tv",
+            "release_date": "2014-09-27"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Winx Club: The Magic is Back",
+          "tmdb": {
+            "id": 286822,
+            "media_type": "tv",
+            "release_date": "2025-10-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "SpongeBob SquarePants",
+          "tmdb": {
+            "id": 387,
+            "media_type": "tv",
+            "release_date": "1999-05-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Paw Patrol",
+          "tmdb": {
+            "id": 57532,
+            "media_type": "tv",
+            "release_date": "2013-08-12"
+          }
+        }
+      ]
+    },
+    {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Austria on August 2, 2026",
+      "heading": "TOP Overall on Disney+ in Austria on August 3, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,6 +420,15 @@
         },
         {
           "rank": 2,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Furious",
           "tmdb": {
             "id": 287238,
@@ -232,25 +437,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Descendants: Wicked Wonderland",
-          "tmdb": {
-            "id": 1318621,
-            "media_type": "movie",
-            "release_date": "2026-07-16"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Princess Diaries",
           "tmdb": {
             "id": 9880,
@@ -259,7 +446,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -268,25 +455,16 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Descendants: Wicked Wonderland",
+          "tmdb": {
+            "id": 1318621,
+            "media_type": "movie",
+            "release_date": "2026-07-16"
+          }
+        },
+        {
           "rank": 7,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Pompeii: Out of Time with Tom Hiddleston",
           "tmdb": {
             "id": 277640,
@@ -295,22 +473,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Avengers: Infinity War",
+          "tmdb": {
+            "id": 299536,
+            "media_type": "movie",
+            "release_date": "2018-04-25"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Hoppers",
           "tmdb": {
             "id": 1327819,
             "media_type": "movie",
             "release_date": "2026-03-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Austria on August 2, 2026",
+      "heading": "TOP Movies on Disney+ in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,15 +529,6 @@
         },
         {
           "rank": 3,
-          "title": "Descendants: Wicked Wonderland",
-          "tmdb": {
-            "id": 1318621,
-            "media_type": "movie",
-            "release_date": "2026-07-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Princess Diaries",
           "tmdb": {
             "id": 9880,
@@ -350,7 +537,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The Devil Wears Prada",
           "tmdb": {
             "id": 350,
@@ -359,34 +546,16 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Descendants: Wicked Wonderland",
+          "tmdb": {
+            "id": 1318621,
+            "media_type": "movie",
+            "release_date": "2026-07-16"
+          }
+        },
+        {
           "rank": 6,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
@@ -395,22 +564,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Mickey Mouse Clubhouse+: Mickey's Country Farm Songs",
+          "rank": 7,
+          "title": "Hoppers",
           "tmdb": {
-            "id": 1722167,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2026-07-30"
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Avengers",
+          "tmdb": {
+            "id": 24428,
+            "media_type": "movie",
+            "release_date": "2012-04-25"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "tmdb": {
+            "id": 120,
+            "media_type": "movie",
+            "release_date": "2001-12-18"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Austria on August 2, 2026",
+      "heading": "TOP TV Shows on Disney+ in Austria on August 3, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -469,6 +665,15 @@
         },
         {
           "rank": 7,
+          "title": "Scrubs",
+          "tmdb": {
+            "id": 4556,
+            "media_type": "tv",
+            "release_date": "2001-10-02"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
@@ -477,21 +682,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
             "media_type": "tv",
             "release_date": "2024-09-17"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Scrubs",
-          "tmdb": {
-            "id": 4556,
-            "media_type": "tv",
-            "release_date": "2001-10-02"
           }
         },
         {
@@ -507,10 +703,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Austria on August 2, 2026",
+      "heading": "TOP Overall on Amazon Prime in Austria on August 3, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,20 +720,20 @@
         },
         {
           "rank": 2,
-          "title": "The Devil's Mouth",
-          "tmdb": {
-            "id": 1481343,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Greenland 2: Migration",
           "tmdb": {
             "id": 840464,
             "media_type": "movie",
             "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Devil's Mouth",
+          "tmdb": {
+            "id": 1481343,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
           }
         },
         {
@@ -551,20 +747,20 @@
         },
         {
           "rank": 5,
-          "title": "The Way Out",
-          "tmdb": {
-            "id": 321007,
-            "media_type": "tv",
-            "release_date": "2026-05-12"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Gunner",
           "tmdb": {
             "id": 5492,
             "media_type": "movie",
             "release_date": "2024-08-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Way Out",
+          "tmdb": {
+            "id": 321007,
+            "media_type": "tv",
+            "release_date": "2026-05-12"
           }
         },
         {
@@ -578,20 +774,20 @@
         },
         {
           "rank": 8,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Sheep Detectives",
           "tmdb": {
             "id": 1301421,
             "media_type": "movie",
             "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -607,10 +803,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Austria on August 2, 2026",
+      "heading": "TOP Movies on Amazon Prime in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -624,20 +820,20 @@
         },
         {
           "rank": 2,
-          "title": "The Devil's Mouth",
-          "tmdb": {
-            "id": 1481343,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Greenland 2: Migration",
           "tmdb": {
             "id": 840464,
             "media_type": "movie",
             "release_date": "2026-01-07"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Devil's Mouth",
+          "tmdb": {
+            "id": 1481343,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
           }
         },
         {
@@ -651,20 +847,20 @@
         },
         {
           "rank": 5,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Sheep Detectives",
           "tmdb": {
             "id": 1301421,
             "media_type": "movie",
             "release_date": "2026-04-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -678,15 +874,6 @@
         },
         {
           "rank": 8,
-          "title": "Troy",
-          "tmdb": {
-            "id": 652,
-            "media_type": "movie",
-            "release_date": "2004-05-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Greenland",
           "tmdb": {
             "id": 524047,
@@ -695,22 +882,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Uncharted",
           "tmdb": {
             "id": 335787,
             "media_type": "movie",
             "release_date": "2022-02-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Troy",
+          "tmdb": {
+            "id": 652,
+            "media_type": "movie",
+            "release_date": "2004-05-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Austria on August 2, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Austria on August 3, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -796,26 +992,26 @@
         },
         {
           "rank": 10,
-          "title": "The Boys",
+          "title": "Silo",
           "tmdb": {
-            "id": 76479,
+            "id": 125988,
             "media_type": "tv",
-            "release_date": "2019-07-25"
+            "release_date": "2023-05-04"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Austria on August 2, 2026",
+      "heading": "TOP Movies on Paramount+ in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Avatar: Aang, The Last Airbender",
+          "title": "Avatar Aang: The Last Airbender",
           "tmdb": {
             "id": 980431,
             "media_type": "movie",
@@ -869,15 +1065,6 @@
         },
         {
           "rank": 7,
-          "title": "Air Force One Down",
-          "tmdb": {
-            "id": 1124127,
-            "media_type": "movie",
-            "release_date": "2024-02-09"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Long Gone Heroes",
           "tmdb": {
             "id": 1276825,
@@ -886,7 +1073,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Mission: Impossible - The Final Reckoning",
           "tmdb": {
             "id": 575265,
@@ -895,35 +1082,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Scary Movie 2",
+          "rank": 9,
+          "title": "Last Man Down",
           "tmdb": {
-            "id": 4248,
+            "id": 860623,
             "media_type": "movie",
-            "release_date": "2001-07-04"
+            "release_date": "2021-03-30"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Scary Movie 3",
+          "tmdb": {
+            "id": 4256,
+            "media_type": "movie",
+            "release_date": "2003-10-24"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Austria on August 2, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Austria on August 3, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Star Trek: Strange New Worlds",
-          "tmdb": {
-            "id": 103516,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
-          }
-        },
-        {
-          "rank": 2,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -932,34 +1119,25 @@
           }
         },
         {
-          "rank": 3,
-          "title": "From",
+          "rank": 2,
+          "title": "Lioness",
           "tmdb": {
-            "id": 124364,
+            "id": 113962,
             "media_type": "tv",
-            "release_date": "2022-02-20"
+            "release_date": "2023-07-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb": {
+            "id": 103516,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
           }
         },
         {
           "rank": 4,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Under the Dome",
           "tmdb": {
             "id": 46331,
@@ -968,7 +1146,34 @@
           }
         },
         {
+          "rank": 5,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Agency",
+          "tmdb": {
+            "id": 219971,
+            "media_type": "tv",
+            "release_date": "2024-12-01"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
@@ -977,21 +1182,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Dexter",
-          "tmdb": {
-            "id": 1405,
-            "media_type": "tv",
-            "release_date": "2006-10-01"
-          }
-        },
-        {
           "rank": 9,
-          "title": "The Agency",
+          "title": "Dutton Ranch",
           "tmdb": {
-            "id": 219971,
+            "id": 299167,
             "media_type": "tv",
-            "release_date": "2024-12-01"
+            "release_date": "2026-05-15"
           }
         },
         {
@@ -1007,10 +1203,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Austria on August 2, 2026",
+      "heading": "TOP Movies on Apple TV in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1060,6 +1256,15 @@
         },
         {
           "rank": 6,
+          "title": "The Family Plan 2",
+          "tmdb": {
+            "id": 1363123,
+            "media_type": "movie",
+            "release_date": "2025-11-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1068,25 +1273,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Tetris",
-          "tmdb": {
-            "id": 726759,
-            "media_type": "movie",
-            "release_date": "2023-03-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
@@ -1095,22 +1282,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Family Plan 2",
+          "rank": 9,
+          "title": "Tetris",
           "tmdb": {
-            "id": 1363123,
+            "id": 726759,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2023-03-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Austria on August 2, 2026",
+      "heading": "TOP TV Shows on Apple TV in Austria on August 3, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1124,15 +1320,6 @@
         },
         {
           "rank": 2,
-          "title": "Cape Fear",
-          "tmdb": {
-            "id": 277439,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1141,21 +1328,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Sugar",
+          "rank": 3,
+          "title": "Cape Fear",
           "tmdb": {
-            "id": 203744,
+            "id": 277439,
             "media_type": "tv",
-            "release_date": "2024-04-04"
+            "release_date": "2026-06-04"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Lucky",
           "tmdb": {
             "id": 278624,
             "media_type": "tv",
             "release_date": "2026-07-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sugar",
+          "tmdb": {
+            "id": 203744,
+            "media_type": "tv",
+            "release_date": "2024-04-04"
           }
         },
         {
@@ -1169,6 +1365,15 @@
         },
         {
           "rank": 7,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1177,21 +1382,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Trying",
           "tmdb": {
             "id": 98177,
             "media_type": "tv",
             "release_date": "2020-05-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Your Friends & Neighbors",
-          "tmdb": {
-            "id": 241609,
-            "media_type": "tv",
-            "release_date": "2025-04-10"
           }
         },
         {
@@ -1207,10 +1403,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Austria on August 2, 2026",
+      "heading": "TOP Movies on Apple TV Store in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1224,15 +1420,6 @@
         },
         {
           "rank": 2,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -1241,16 +1428,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Michael",
+          "rank": 3,
+          "title": "Spider-Man: Homecoming",
           "tmdb": {
-            "id": 936075,
+            "id": 315635,
             "media_type": "movie",
-            "release_date": "2026-04-22"
+            "release_date": "2017-07-05"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Spider-Man: Far from Home",
           "tmdb": {
             "id": 429617,
@@ -1259,12 +1446,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Mandalorian and Grogu",
           "tmdb": {
             "id": 1228710,
             "media_type": "movie",
             "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
           }
         },
         {
@@ -1296,39 +1492,39 @@
         },
         {
           "rank": 10,
-          "title": "Scary Movie",
+          "title": "The Devil Wears Prada 2",
           "tmdb": {
-            "id": 1273221,
+            "id": 1314481,
             "media_type": "movie",
-            "release_date": "2026-06-03"
+            "release_date": "2026-04-29"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Austria on August 2, 2026",
+      "heading": "TOP Movies on Google in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Eismayer",
-          "tmdb": {
-            "id": 936362,
-            "media_type": "movie",
-            "release_date": "2022-10-28"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
             "media_type": "movie",
             "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Eismayer",
+          "tmdb": {
+            "id": 936362,
+            "media_type": "movie",
+            "release_date": "2022-10-28"
           }
         },
         {
@@ -1342,15 +1538,6 @@
         },
         {
           "rank": 4,
-          "title": "The Super Mario Galaxy Movie",
-          "tmdb": {
-            "id": 1226863,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -1359,7 +1546,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Shelter",
           "tmdb": {
             "id": 1290821,
@@ -1368,12 +1555,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
             "media_type": "movie",
             "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Super Mario Galaxy Movie",
+          "tmdb": {
+            "id": 1226863,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
           }
         },
         {
@@ -1396,21 +1592,21 @@
         },
         {
           "rank": 10,
-          "title": "The Housemaid",
+          "title": "Mortal Kombat II",
           "tmdb": {
-            "id": 1368166,
+            "id": 931285,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2026-05-06"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Austria on August 2, 2026",
+      "heading": "TOP Movies on Rakuten TV in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1442,20 +1638,20 @@
         },
         {
           "rank": 4,
-          "title": "Ip Man: Kung Fu Legend",
+          "title": "The Wolf of Wall Street",
           "tmdb": {
-            "id": 1628071,
+            "id": 106646,
             "media_type": "movie",
-            "release_date": "2026-07-22"
+            "release_date": "2013-12-25"
           }
         },
         {
           "rank": 5,
-          "title": "The Drama",
+          "title": "Limitless",
           "tmdb": {
-            "id": 1325734,
+            "id": 51876,
             "media_type": "movie",
-            "release_date": "2026-04-01"
+            "release_date": "2011-03-17"
           }
         },
         {
@@ -1469,20 +1665,20 @@
         },
         {
           "rank": 7,
-          "title": "Limitless",
+          "title": "Love",
           "tmdb": {
-            "id": 51876,
+            "id": 292431,
             "media_type": "movie",
-            "release_date": "2011-03-17"
+            "release_date": "2015-07-15"
           }
         },
         {
           "rank": 8,
-          "title": "The Wolf of Wall Street",
+          "title": "Greenland 2: Migration",
           "tmdb": {
-            "id": 106646,
+            "id": 840464,
             "media_type": "movie",
-            "release_date": "2013-12-25"
+            "release_date": "2026-01-07"
           }
         },
         {
@@ -1496,21 +1692,21 @@
         },
         {
           "rank": 10,
-          "title": "Greenland 2: Migration",
+          "title": "A Private Life",
           "tmdb": {
-            "id": 840464,
+            "id": 1290432,
             "media_type": "movie",
-            "release_date": "2026-01-07"
+            "release_date": "2025-09-27"
           }
         }
       ]
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in Austria on August 2, 2026",
+      "heading": "TOP Movies on Chili in Austria on August 3, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "August 2, 2026",
+      "date": "August 3, 2026",
       "title_count": 10,
       "entries": [
         {
