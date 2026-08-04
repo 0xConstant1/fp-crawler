@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/united-kingdom/",
-  "page_title": "TOP 10 on Streaming in the United Kingdom on August 3, 2026",
+  "page_title": "TOP 10 on Streaming in the United Kingdom on August 4, 2026",
   "region": "united-kingdom",
-  "date": "August 3, 2026",
-  "scraped_at_utc": "2026-08-03T17:29:33.167011+00:00",
+  "date": "August 4, 2026",
+  "scraped_at_utc": "2026-08-04T17:15:31.099669+00:00",
   "charts": [
     {
       "catalog_id": "hayu.overall",
-      "heading": "TOP Overall (from Amazon Channels) on hayu in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on hayu in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "hayu",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Real Housewives of Atlanta",
+          "tmdb": {
+            "id": 17380,
+            "media_type": "tv",
+            "release_date": "2008-10-07"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Real Housewives of Orange County",
           "tmdb": {
             "id": 10222,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Below Deck Mediterranean",
           "tmdb": {
             "id": 66902,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Valley",
           "tmdb": {
             "id": 247758,
@@ -41,21 +50,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Next Gen NYC",
           "tmdb": {
             "id": 288453,
             "media_type": "tv",
             "release_date": "2025-06-03"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Real Housewives of Atlanta",
-          "tmdb": {
-            "id": 17380,
-            "media_type": "tv",
-            "release_date": "2008-10-07"
           }
         },
         {
@@ -69,15 +69,6 @@
         },
         {
           "rank": 7,
-          "title": "Basketball Wives",
-          "tmdb": {
-            "id": 32789,
-            "media_type": "tv",
-            "release_date": "2010-04-11"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Below Deck Down Under",
           "tmdb": {
             "id": 125506,
@@ -86,31 +77,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Valley After Show",
+          "rank": 8,
+          "title": "Basketball Wives",
           "tmdb": {
-            "id": 290311,
+            "id": 32789,
             "media_type": "tv",
-            "release_date": "2025-04-16"
+            "release_date": "2010-04-11"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Real Housewives of Rhode Island",
           "tmdb": {
             "id": 290883,
             "media_type": "tv",
             "release_date": "2026-04-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Real Housewives of Beverly Hills",
+          "tmdb": {
+            "id": 32390,
+            "media_type": "tv",
+            "release_date": "2010-10-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Netflix in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,24 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "Aitch: Don't Be Afraid​",
-          "tmdb": {
-            "id": 1739239,
-            "media_type": "movie",
-            "release_date": "2026-07-26"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Training Day",
-          "tmdb": {
-            "id": 2034,
-            "media_type": "movie",
-            "release_date": "2001-10-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Two Weeks Notice",
           "tmdb": {
             "id": 2642,
@@ -159,12 +141,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Speak No Evil",
+          "rank": 4,
+          "title": "Aitch: Don't Be Afraid​",
           "tmdb": {
-            "id": 1114513,
+            "id": 1739239,
             "media_type": "movie",
-            "release_date": "2024-09-11"
+            "release_date": "2026-07-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Training Day",
+          "tmdb": {
+            "id": 2034,
+            "media_type": "movie",
+            "release_date": "2001-10-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
           }
         },
         {
@@ -178,11 +178,11 @@
         },
         {
           "rank": 8,
-          "title": "Despicable Me 4",
+          "title": "Geostorm",
           "tmdb": {
-            "id": 519182,
+            "id": 274855,
             "media_type": "movie",
-            "release_date": "2024-06-20"
+            "release_date": "2017-10-12"
           }
         },
         {
@@ -196,21 +196,21 @@
         },
         {
           "rank": 10,
-          "title": "Voicemails for Isabelle",
+          "title": "Speak No Evil",
           "tmdb": {
-            "id": 614945,
+            "id": 1114513,
             "media_type": "movie",
-            "release_date": "2026-06-20"
+            "release_date": "2024-09-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Netflix in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -265,6 +265,15 @@
         },
         {
           "rank": 7,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Hawk",
           "tmdb": {
             "id": 254528,
@@ -273,7 +282,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Rookie",
           "tmdb": {
             "id": 79744,
@@ -282,31 +291,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Chicago P.D.",
           "tmdb": {
             "id": 58841,
             "media_type": "tv",
             "release_date": "2014-01-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Elite Force",
-          "tmdb": {
-            "id": 281281,
-            "media_type": "tv",
-            "release_date": "2026-07-22"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in the United Kingdom on August 3, 2026",
+      "heading": "TOP Kids Movies on Netflix in the United Kingdom on August 4, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -338,15 +338,6 @@
         },
         {
           "rank": 4,
-          "title": "Shrek 2",
-          "tmdb": {
-            "id": 809,
-            "media_type": "movie",
-            "release_date": "2004-05-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Boss Baby",
           "tmdb": {
             "id": 295693,
@@ -355,16 +346,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Swapped",
+          "rank": 5,
+          "title": "Shrek 2",
           "tmdb": {
-            "id": 1007757,
+            "id": 809,
             "media_type": "movie",
-            "release_date": "2026-05-01"
+            "release_date": "2004-05-19"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Trolls",
           "tmdb": {
             "id": 136799,
@@ -373,16 +364,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Night at the Museum",
+          "rank": 7,
+          "title": "Swapped",
           "tmdb": {
-            "id": 1593,
+            "id": 1007757,
             "media_type": "movie",
-            "release_date": "2006-12-20"
+            "release_date": "2026-05-01"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "The Cat in the Hat",
           "tmdb": {
             "id": 10588,
@@ -391,40 +382,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Wonka",
+          "rank": 9,
+          "title": "Night at the Museum",
           "tmdb": {
-            "id": 787699,
+            "id": 1593,
             "media_type": "movie",
-            "release_date": "2023-12-06"
+            "release_date": "2006-12-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Shrek Forever After",
+          "tmdb": {
+            "id": 10192,
+            "media_type": "movie",
+            "release_date": "2010-05-16"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in the United Kingdom on August 3, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in the United Kingdom on August 4, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Steve & Maggie",
+          "tmdb": {
+            "id": 217869,
+            "media_type": "tv",
+            "release_date": null
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ms. Rachel",
           "tmdb": {
             "id": 282238,
             "media_type": "tv",
             "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Danny Go!",
-          "tmdb": {
-            "id": 258124,
-            "media_type": "tv",
-            "release_date": "2019-08-21"
           }
         },
         {
@@ -438,6 +438,15 @@
         },
         {
           "rank": 4,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
@@ -446,7 +455,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -455,25 +464,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Jamie Johnson",
-          "tmdb": {
-            "id": 79112,
-            "media_type": "tv",
-            "release_date": "2016-06-08"
-          }
-        },
-        {
           "rank": 7,
-          "title": "SpongeBob SquarePants",
-          "tmdb": {
-            "id": 387,
-            "media_type": "tv",
-            "release_date": "1999-05-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Winx Club: The Magic is Back",
           "tmdb": {
             "id": 286822,
@@ -482,31 +473,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "SpongeBob SquarePants",
+          "tmdb": {
+            "id": 387,
+            "media_type": "tv",
+            "release_date": "1999-05-01"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Jamie Johnson",
+          "tmdb": {
+            "id": 79112,
+            "media_type": "tv",
+            "release_date": "2016-06-08"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Paw Patrol",
           "tmdb": {
             "id": 57532,
             "media_type": "tv",
             "release_date": "2013-08-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Ben and Holly's Little Kingdom",
-          "tmdb": {
-            "id": 322920,
-            "media_type": "tv",
-            "release_date": "2009-01-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on HBO Max in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -547,20 +547,20 @@
         },
         {
           "rank": 5,
+          "title": "Godzilla vs. Kong",
+          "tmdb": {
+            "id": 399566,
+            "media_type": "movie",
+            "release_date": "2021-03-24"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Inception",
           "tmdb": {
             "id": 27205,
             "media_type": "movie",
             "release_date": "2010-07-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Training Day",
-          "tmdb": {
-            "id": 2034,
-            "media_type": "movie",
-            "release_date": "2001-10-05"
           }
         },
         {
@@ -574,20 +574,20 @@
         },
         {
           "rank": 8,
-          "title": "Godzilla vs. Kong",
-          "tmdb": {
-            "id": 399566,
-            "media_type": "movie",
-            "release_date": "2021-03-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Clash of the Titans",
           "tmdb": {
             "id": 18823,
             "media_type": "movie",
             "release_date": "2010-03-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Training Day",
+          "tmdb": {
+            "id": 2034,
+            "media_type": "movie",
+            "release_date": "2001-10-05"
           }
         },
         {
@@ -603,10 +603,10 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on HBO Max in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -656,6 +656,15 @@
         },
         {
           "rank": 6,
+          "title": "My Adventures with Superman",
+          "tmdb": {
+            "id": 125928,
+            "media_type": "tv",
+            "release_date": "2023-07-07"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Staircase",
           "tmdb": {
             "id": 122196,
@@ -664,7 +673,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Killings at Parrish Station",
           "tmdb": {
             "id": 301284,
@@ -673,7 +682,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Pitt",
           "tmdb": {
             "id": 250307,
@@ -682,31 +691,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "90 Day Fiancé",
           "tmdb": {
             "id": 61575,
             "media_type": "tv",
             "release_date": "2014-01-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Proud",
-          "tmdb": {
-            "id": 315610,
-            "media_type": "tv",
-            "release_date": "2026-06-12"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall (from Amazon Channels) on HBO Max in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on HBO Max in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -729,15 +729,6 @@
         },
         {
           "rank": 3,
-          "title": "Stuart Fails to Save the Universe",
-          "tmdb": {
-            "id": 287620,
-            "media_type": "tv",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Mortal Kombat II",
           "tmdb": {
             "id": 931285,
@@ -746,7 +737,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "President Curtis",
+          "tmdb": {
+            "id": 296756,
+            "media_type": "tv",
+            "release_date": "2026-07-26"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Stuart Fails to Save the Universe",
+          "tmdb": {
+            "id": 287620,
+            "media_type": "tv",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Pitt",
           "tmdb": {
             "id": 250307,
@@ -755,7 +764,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Game of Thrones",
           "tmdb": {
             "id": 1399,
@@ -764,7 +773,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "House of the Dragon",
+          "tmdb": {
+            "id": 94997,
+            "media_type": "tv",
+            "release_date": "2022-08-21"
+          }
+        },
+        {
+          "rank": 9,
           "title": "A Knight of the Seven Kingdoms",
           "tmdb": {
             "id": 224372,
@@ -773,40 +791,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Troy",
           "tmdb": {
             "id": 652,
             "media_type": "movie",
             "release_date": "2004-05-13"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Band of Brothers",
-          "tmdb": {
-            "id": 4613,
-            "media_type": "tv",
-            "release_date": "2001-09-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall on Disney+ in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -834,6 +834,15 @@
         },
         {
           "rank": 4,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Princess Diaries",
           "tmdb": {
             "id": 9880,
@@ -842,21 +851,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
             "media_type": "movie",
             "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
           }
         },
         {
@@ -870,6 +870,15 @@
         },
         {
           "rank": 8,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -878,31 +887,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Avengers",
           "tmdb": {
             "id": 24428,
             "media_type": "movie",
             "release_date": "2012-04-25"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Ready or Not 2: Here I Come",
-          "tmdb": {
-            "id": 1266127,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Disney+ in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -916,33 +916,6 @@
         },
         {
           "rank": 2,
-          "title": "The Princess Diaries",
-          "tmdb": {
-            "id": 9880,
-            "media_type": "movie",
-            "release_date": "2001-08-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Devil Wears Prada",
-          "tmdb": {
-            "id": 350,
-            "media_type": "movie",
-            "release_date": "2006-06-29"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
@@ -951,7 +924,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "title": "The Princess Diaries",
+          "tmdb": {
+            "id": 9880,
+            "media_type": "movie",
+            "release_date": "2001-08-03"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -960,7 +942,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "The Avengers",
           "tmdb": {
             "id": 24428,
@@ -969,40 +951,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Devil Wears Prada",
+          "tmdb": {
+            "id": 350,
+            "media_type": "movie",
+            "release_date": "2006-06-29"
+          }
+        },
+        {
           "rank": 8,
-          "title": "Ready or Not 2: Here I Come",
-          "tmdb": {
-            "id": 1266127,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Iron Man",
           "tmdb": {
             "id": 1726,
             "media_type": "movie",
             "release_date": "2008-04-30"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Avengers: Age of Ultron",
+          "tmdb": {
+            "id": 99861,
+            "media_type": "movie",
+            "release_date": "2015-04-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Captain America: Civil War",
+          "tmdb": {
+            "id": 271110,
+            "media_type": "movie",
+            "release_date": "2016-04-27"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Disney+ in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1048,15 +1048,6 @@
         },
         {
           "rank": 6,
-          "title": "Alice and Steve",
-          "tmdb": {
-            "id": 318203,
-            "media_type": "tv",
-            "release_date": "2026-06-08"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Rivals",
           "tmdb": {
             "id": 208921,
@@ -1065,7 +1056,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "R.J. Decker",
           "tmdb": {
             "id": 302074,
@@ -1074,49 +1065,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "X-Men '97",
+          "rank": 8,
+          "title": "Alice and Steve",
           "tmdb": {
-            "id": 138502,
+            "id": 318203,
             "media_type": "tv",
-            "release_date": "2024-03-20"
+            "release_date": "2026-06-08"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Testaments",
           "tmdb": {
             "id": 287527,
             "media_type": "tv",
             "release_date": "2026-04-08"
           }
+        },
+        {
+          "rank": 10,
+          "title": "X-Men '97",
+          "tmdb": {
+            "id": 138502,
+            "media_type": "tv",
+            "release_date": "2024-03-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall on Amazon Prime in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Masters of the Universe",
-          "tmdb": {
-            "id": 454639,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Ride or Die",
           "tmdb": {
             "id": 241882,
             "media_type": "tv",
             "release_date": "2026-07-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Masters of the Universe",
+          "tmdb": {
+            "id": 454639,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
           }
         },
         {
@@ -1130,20 +1130,20 @@
         },
         {
           "rank": 4,
-          "title": "Giant",
-          "tmdb": {
-            "id": 33828,
-            "media_type": "tv",
-            "release_date": "2010-05-10"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Good Boy",
           "tmdb": {
             "id": 981484,
             "media_type": "movie",
             "release_date": "2018-04-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Devil's Mouth",
+          "tmdb": {
+            "id": 1481343,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
           }
         },
         {
@@ -1157,11 +1157,11 @@
         },
         {
           "rank": 7,
-          "title": "The Devil's Mouth",
+          "title": "Giant",
           "tmdb": {
-            "id": 1481343,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
+            "id": 33828,
+            "media_type": "tv",
+            "release_date": "2010-05-10"
           }
         },
         {
@@ -1175,11 +1175,11 @@
         },
         {
           "rank": 9,
-          "title": "The Sheep Detectives",
+          "title": "Elle",
           "tmdb": {
-            "id": 1301421,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
+            "id": 254420,
+            "media_type": "tv",
+            "release_date": "2026-07-01"
           }
         },
         {
@@ -1195,10 +1195,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Amazon Prime in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1212,20 +1212,20 @@
         },
         {
           "rank": 2,
-          "title": "Giant",
-          "tmdb": {
-            "id": 1712,
-            "media_type": "movie",
-            "release_date": "1956-11-08"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Good Boy",
           "tmdb": {
             "id": 981484,
             "media_type": "movie",
             "release_date": "2018-04-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Devil's Mouth",
+          "tmdb": {
+            "id": 1481343,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
           }
         },
         {
@@ -1239,29 +1239,29 @@
         },
         {
           "rank": 5,
-          "title": "The Devil's Mouth",
+          "title": "Giant",
           "tmdb": {
-            "id": 1481343,
+            "id": 1712,
             "media_type": "movie",
-            "release_date": "2026-07-29"
+            "release_date": "1956-11-08"
           }
         },
         {
           "rank": 6,
-          "title": "The Sheep Detectives",
-          "tmdb": {
-            "id": 1301421,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
             "media_type": "movie",
             "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Sheep Detectives",
+          "tmdb": {
+            "id": 1301421,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
           }
         },
         {
@@ -1284,21 +1284,21 @@
         },
         {
           "rank": 10,
-          "title": "This Is Birmingham",
+          "title": "Marty Supreme",
           "tmdb": {
-            "id": 1660400,
+            "id": 1317288,
             "media_type": "movie",
-            "release_date": "2026-04-06"
+            "release_date": "2025-12-19"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1339,24 +1339,6 @@
         },
         {
           "rank": 5,
-          "title": "The Pendragon Cycle: Rise of the Merlin",
-          "tmdb": {
-            "id": 235685,
-            "media_type": "tv",
-            "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Batman: Caped Crusader",
-          "tmdb": {
-            "id": 125909,
-            "media_type": "tv",
-            "release_date": "2024-08-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Curse Of Love Island",
           "tmdb": {
             "id": 329378,
@@ -1365,12 +1347,30 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Reacher",
+          "rank": 6,
+          "title": "The Pendragon Cycle: Rise of the Merlin",
           "tmdb": {
-            "id": 108978,
+            "id": 235685,
             "media_type": "tv",
-            "release_date": "2022-02-03"
+            "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Gotham Knights",
+          "tmdb": {
+            "id": 195868,
+            "media_type": "tv",
+            "release_date": "2023-03-14"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Batman: Caped Crusader",
+          "tmdb": {
+            "id": 125909,
+            "media_type": "tv",
+            "release_date": "2024-08-01"
           }
         },
         {
@@ -1384,39 +1384,39 @@
         },
         {
           "rank": 10,
-          "title": "Every Year After",
+          "title": "Reacher",
           "tmdb": {
-            "id": 260592,
+            "id": 108978,
             "media_type": "tv",
-            "release_date": "2026-06-10"
+            "release_date": "2022-02-03"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Paramount+ in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "One Mile: Chapter Two",
-          "tmdb": {
-            "id": 1327690,
-            "media_type": "movie",
-            "release_date": "2026-02-27"
-          }
-        },
-        {
-          "rank": 2,
           "title": "One Mile: Chapter One",
           "tmdb": {
             "id": 1327688,
             "media_type": "movie",
             "release_date": "2026-02-20"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "One Mile: Chapter Two",
+          "tmdb": {
+            "id": 1327690,
+            "media_type": "movie",
+            "release_date": "2026-02-27"
           }
         },
         {
@@ -1430,24 +1430,6 @@
         },
         {
           "rank": 4,
-          "title": "Primate",
-          "tmdb": {
-            "id": 1315303,
-            "media_type": "movie",
-            "release_date": "2026-01-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "First Blood",
-          "tmdb": {
-            "id": 1368,
-            "media_type": "movie",
-            "release_date": "1982-10-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Running Man",
           "tmdb": {
             "id": 798645,
@@ -1456,21 +1438,39 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Primate",
+          "tmdb": {
+            "id": 1315303,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Rambo: First Blood Part II",
+          "tmdb": {
+            "id": 1369,
+            "media_type": "movie",
+            "release_date": "1985-05-21"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Killing Faith",
+          "tmdb": {
+            "id": 1200320,
+            "media_type": "movie",
+            "release_date": "2025-10-03"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Girl Who Survived: The Alina Thompson Story",
           "tmdb": {
             "id": 1529279,
             "media_type": "movie",
             "release_date": "2025-09-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
           }
         },
         {
@@ -1495,10 +1495,10 @@
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Paramount+ in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1584,39 +1584,39 @@
         },
         {
           "rank": 10,
-          "title": "Frasier",
+          "title": "FBI",
           "tmdb": {
-            "id": 3452,
+            "id": 80748,
             "media_type": "tv",
-            "release_date": "1993-09-16"
+            "release_date": "2018-09-25"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Lioness",
+          "tmdb": {
+            "id": 113962,
+            "media_type": "tv",
+            "release_date": "2023-07-23"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Crow Girl",
           "tmdb": {
             "id": 248698,
             "media_type": "tv",
             "release_date": "2025-01-16"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Star Trek: Strange New Worlds",
-          "tmdb": {
-            "id": 103516,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
           }
         },
         {
@@ -1630,6 +1630,15 @@
         },
         {
           "rank": 4,
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb": {
+            "id": 103516,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Agency",
           "tmdb": {
             "id": 219971,
@@ -1638,7 +1647,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1647,30 +1656,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Avatar Aang: The Last Airbender",
-          "tmdb": {
-            "id": 980431,
-            "media_type": "movie",
-            "release_date": "2026-07-24"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Dan Brown's The Lost Symbol",
-          "tmdb": {
-            "id": 120452,
-            "media_type": "tv",
-            "release_date": "2021-09-16"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
             "media_type": "tv",
             "release_date": "2018-06-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Landman",
+          "tmdb": {
+            "id": 157741,
+            "media_type": "tv",
+            "release_date": "2024-11-17"
           }
         },
         {
@@ -1684,21 +1684,21 @@
         },
         {
           "rank": 10,
-          "title": "Landman",
+          "title": "Dan Brown's The Lost Symbol",
           "tmdb": {
-            "id": 157741,
+            "id": 120452,
             "media_type": "tv",
-            "release_date": "2024-11-17"
+            "release_date": "2021-09-16"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Apple TV in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1748,24 +1748,6 @@
         },
         {
           "rank": 6,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -1774,12 +1756,30 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
           }
         },
         {
@@ -1795,10 +1795,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Apple TV in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1857,20 +1857,20 @@
         },
         {
           "rank": 7,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
             "media_type": "tv",
             "release_date": "2022-04-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -1895,10 +1895,10 @@
     },
     {
       "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1921,20 +1921,20 @@
         },
         {
           "rank": 3,
-          "title": "Lucky",
-          "tmdb": {
-            "id": 278624,
-            "media_type": "tv",
-            "release_date": "2026-07-14"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
           }
         },
         {
@@ -1975,30 +1975,30 @@
         },
         {
           "rank": 9,
-          "title": "Trying",
-          "tmdb": {
-            "id": 98177,
-            "media_type": "tv",
-            "release_date": "2020-05-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
             "media_type": "tv",
             "release_date": "2022-04-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Trying",
+          "tmdb": {
+            "id": 98177,
+            "media_type": "tv",
+            "release_date": "2020-05-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Amazon in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2030,20 +2030,20 @@
         },
         {
           "rank": 4,
-          "title": "The Mandalorian and Grogu",
-          "tmdb": {
-            "id": 1228710,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
             "media_type": "movie",
             "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Mandalorian and Grogu",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
           }
         },
         {
@@ -2095,10 +2095,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Apple TV Store in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2139,6 +2139,24 @@
         },
         {
           "rank": 5,
+          "title": "The Four Musketeers",
+          "tmdb": {
+            "id": 12310,
+            "media_type": "movie",
+            "release_date": "1974-10-31"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Leaving Las Vegas",
+          "tmdb": {
+            "id": 451,
+            "media_type": "movie",
+            "release_date": "1995-10-27"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
@@ -2147,30 +2165,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Lord of the Rings: The Fellowship of the Ring",
-          "tmdb": {
-            "id": 120,
-            "media_type": "movie",
-            "release_date": "2001-12-18"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
             "media_type": "movie",
             "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Drama",
-          "tmdb": {
-            "id": 1325734,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
           }
         },
         {
@@ -2184,21 +2184,21 @@
         },
         {
           "rank": 10,
-          "title": "The Devil Wears Prada 2",
+          "title": "Angel Heart",
           "tmdb": {
-            "id": 1314481,
+            "id": 635,
             "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "1987-03-06"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in the United Kingdom on August 3, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in the United Kingdom on August 4, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2221,60 +2221,6 @@
         },
         {
           "rank": 3,
-          "title": "Lawmen: Bass Reeves",
-          "tmdb": {
-            "id": 157732,
-            "media_type": "tv",
-            "release_date": "2023-11-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Good Lord Bird",
-          "tmdb": {
-            "id": 87523,
-            "media_type": "tv",
-            "release_date": "2020-10-04"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Key & Peele",
-          "tmdb": {
-            "id": 43082,
-            "media_type": "tv",
-            "release_date": "2012-01-31"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Friends",
-          "tmdb": {
-            "id": 1668,
-            "media_type": "tv",
-            "release_date": "1994-09-22"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Five Daughters",
-          "tmdb": {
-            "id": 32568,
-            "media_type": "tv",
-            "release_date": "2010-04-25"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Game of Thrones",
-          "tmdb": {
-            "id": 1399,
-            "media_type": "tv",
-            "release_date": "2011-04-17"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Come Fly With Me",
           "tmdb": {
             "id": 34604,
@@ -2283,22 +2229,76 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Rick and Morty",
+          "rank": 4,
+          "title": "Five Daughters",
           "tmdb": {
-            "id": 60625,
+            "id": 32568,
             "media_type": "tv",
-            "release_date": "2013-12-02"
+            "release_date": "2010-04-25"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Game of Thrones",
+          "tmdb": {
+            "id": 1399,
+            "media_type": "tv",
+            "release_date": "2011-04-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "House of the Dragon",
+          "tmdb": {
+            "id": 94997,
+            "media_type": "tv",
+            "release_date": "2022-08-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Rookie",
+          "tmdb": {
+            "id": 79744,
+            "media_type": "tv",
+            "release_date": "2018-10-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Friends",
+          "tmdb": {
+            "id": 1668,
+            "media_type": "tv",
+            "release_date": "1994-09-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Lawmen: Bass Reeves",
+          "tmdb": {
+            "id": 157732,
+            "media_type": "tv",
+            "release_date": "2023-11-05"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "ted",
+          "tmdb": {
+            "id": 201834,
+            "media_type": "tv",
+            "release_date": "2024-01-11"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Google in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2395,10 +2395,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Rakuten TV in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2412,11 +2412,11 @@
         },
         {
           "rank": 2,
-          "title": "Desert Warrior",
+          "title": "The Drama",
           "tmdb": {
-            "id": 898704,
+            "id": 1325734,
             "media_type": "movie",
-            "release_date": "2026-04-23"
+            "release_date": "2026-04-01"
           }
         },
         {
@@ -2439,6 +2439,24 @@
         },
         {
           "rank": 5,
+          "title": "Desert Warrior",
+          "tmdb": {
+            "id": 898704,
+            "media_type": "movie",
+            "release_date": "2026-04-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Ready or Not 2: Here I Come",
           "tmdb": {
             "id": 1266127,
@@ -2447,7 +2465,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "The Christophers",
           "tmdb": {
             "id": 1400357,
@@ -2456,7 +2474,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -2465,40 +2483,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Troy",
           "tmdb": {
             "id": 652,
             "media_type": "movie",
             "release_date": "2004-05-13"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Good Luck, Have Fun, Don't Die",
-          "tmdb": {
-            "id": 1119449,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in the United Kingdom on August 3, 2026",
+      "heading": "TOP Movies on Chili in the United Kingdom on August 4, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2548,11 +2548,11 @@
         },
         {
           "rank": 6,
-          "title": "Obsession",
+          "title": "Michael",
           "tmdb": {
-            "id": 1339713,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2026-05-13"
+            "release_date": "2026-04-22"
           }
         },
         {
@@ -2566,11 +2566,11 @@
         },
         {
           "rank": 8,
-          "title": "Michael",
+          "title": "Obsession",
           "tmdb": {
-            "id": 936075,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2026-04-22"
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -2595,10 +2595,10 @@
     },
     {
       "catalog_id": "canal.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Canal+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Canal+ in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Canal+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2612,20 +2612,20 @@
         },
         {
           "rank": 2,
-          "title": "Terminator 2: Judgment Day",
-          "tmdb": {
-            "id": 280,
-            "media_type": "movie",
-            "release_date": "1991-07-03"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Legend",
           "tmdb": {
             "id": 327451,
             "media_type": "tv",
             "release_date": "2023-06-05"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Terminator 2: Judgment Day",
+          "tmdb": {
+            "id": 280,
+            "media_type": "movie",
+            "release_date": "1991-07-03"
           }
         },
         {
@@ -2639,12 +2639,8 @@
         },
         {
           "rank": 5,
-          "title": "The Fifth Element",
-          "tmdb": {
-            "id": 18,
-            "media_type": "movie",
-            "release_date": "1997-05-02"
-          }
+          "title": "Feng Shui Master & The Pregnant Ghos",
+          "tmdb": null
         },
         {
           "rank": 6,
@@ -2657,24 +2653,15 @@
         },
         {
           "rank": 7,
-          "title": "Paddington",
+          "title": "The Fifth Element",
           "tmdb": {
-            "id": 116149,
+            "id": 18,
             "media_type": "movie",
-            "release_date": "2014-11-24"
+            "release_date": "1997-05-02"
           }
         },
         {
           "rank": 8,
-          "title": "Paddington 2",
-          "tmdb": {
-            "id": 346648,
-            "media_type": "movie",
-            "release_date": "2017-11-09"
-          }
-        },
-        {
-          "rank": 9,
           "title": "First Blood",
           "tmdb": {
             "id": 1368,
@@ -2683,37 +2670,46 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Hannibal",
+          "rank": 9,
+          "title": "Train to Busan",
           "tmdb": {
-            "id": 40008,
-            "media_type": "tv",
-            "release_date": "2013-04-04"
+            "id": 396535,
+            "media_type": "movie",
+            "release_date": "2016-07-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Leon: The Professional",
+          "tmdb": {
+            "id": 101,
+            "media_type": "movie",
+            "release_date": "1994-09-14"
           }
         }
       ]
     },
     {
       "catalog_id": "mgm.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MGM in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MGM in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "MGM",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Feng Shui Master & The Pregnant Ghos",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
           "title": "The Westies",
           "tmdb": {
             "id": 286709,
             "media_type": "tv",
             "release_date": "2026-07-12"
           }
+        },
+        {
+          "rank": 2,
+          "title": "Feng Shui Master & The Pregnant Ghos",
+          "tmdb": null
         },
         {
           "rank": 3,
@@ -2744,6 +2740,15 @@
         },
         {
           "rank": 6,
+          "title": "The Institute",
+          "tmdb": {
+            "id": 253372,
+            "media_type": "tv",
+            "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Power Book IV: Force",
           "tmdb": {
             "id": 119845,
@@ -2752,7 +2757,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Outlander: Blood of My Blood",
           "tmdb": {
             "id": 207484,
@@ -2761,7 +2766,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Power Book II: Ghost",
           "tmdb": {
             "id": 97890,
@@ -2770,80 +2775,26 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "22 Jump Street",
           "tmdb": {
             "id": 187017,
             "media_type": "movie",
             "release_date": "2014-06-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "21 Jump Street",
-          "tmdb": {
-            "id": 1486,
-            "media_type": "tv",
-            "release_date": "1987-04-12"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Power Book III: Raising Kanan",
-          "tmdb": {
-            "id": 124394,
-            "media_type": "tv",
-            "release_date": "2021-07-18"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Real Housewives of Orange County",
-          "tmdb": {
-            "id": 10222,
-            "media_type": "tv",
-            "release_date": "2006-03-21"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Crow Girl",
-          "tmdb": {
-            "id": 248698,
-            "media_type": "tv",
-            "release_date": "2025-01-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Star Trek: Strange New Worlds",
-          "tmdb": {
-            "id": 103516,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 6,
           "title": "House of the Dragon",
           "tmdb": {
             "id": 94997,
@@ -2852,49 +2803,94 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Silo",
+          "rank": 2,
+          "title": "Lioness",
           "tmdb": {
-            "id": 125988,
+            "id": 113962,
             "media_type": "tv",
-            "release_date": "2023-05-04"
+            "release_date": "2023-07-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Real Housewives of Atlanta",
+          "tmdb": {
+            "id": 17380,
+            "media_type": "tv",
+            "release_date": "2008-10-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Crow Girl",
+          "tmdb": {
+            "id": 248698,
+            "media_type": "tv",
+            "release_date": "2025-01-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Real Housewives of Orange County",
+          "tmdb": {
+            "id": 10222,
+            "media_type": "tv",
+            "release_date": "2006-03-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Westies",
+          "tmdb": {
+            "id": 286709,
+            "media_type": "tv",
+            "release_date": "2026-07-12"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Dutton Ranch",
+          "tmdb": {
+            "id": 299167,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
           }
         },
         {
           "rank": 8,
+          "title": "Power Book III: Raising Kanan",
+          "tmdb": {
+            "id": 124394,
+            "media_type": "tv",
+            "release_date": "2021-07-18"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb": {
+            "id": 103516,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Valley",
           "tmdb": {
             "id": 247758,
             "media_type": "tv",
             "release_date": "2024-03-19"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Cape Fear",
-          "tmdb": {
-            "id": 277439,
-            "media_type": "tv",
-            "release_date": "2026-06-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Rick and Morty",
-          "tmdb": {
-            "id": 60625,
-            "media_type": "tv",
-            "release_date": "2013-12-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "crunchyroll.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Crunchyroll",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2904,6 +2900,15 @@
         },
         {
           "rank": 2,
+          "title": "Mushoku Tensei: Jobless Reincarnation",
+          "tmdb": {
+            "id": 94664,
+            "media_type": "tv",
+            "release_date": "2021-01-11"
+          }
+        },
+        {
+          "rank": 3,
           "title": "BLACK TORCH",
           "tmdb": {
             "id": 285993,
@@ -2912,25 +2917,34 @@
           }
         },
         {
-          "rank": 3,
-          "title": "I Became a Legend After My 10 Year-Long Last Stand",
-          "tmdb": {
-            "id": 302051,
-            "media_type": "tv",
-            "release_date": "2026-07-06"
-          }
-        },
-        {
           "rank": 4,
-          "title": "That Time I Got Reincarnated as a Slime",
+          "title": "My Hero Academia",
           "tmdb": {
-            "id": 82684,
+            "id": 65930,
             "media_type": "tv",
-            "release_date": "2018-10-02"
+            "release_date": "2016-04-03"
           }
         },
         {
           "rank": 5,
+          "title": "The World's Strongest Rearguard",
+          "tmdb": {
+            "id": 300267,
+            "media_type": "tv",
+            "release_date": "2026-07-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "One Piece",
+          "tmdb": {
+            "id": 111110,
+            "media_type": "tv",
+            "release_date": "2023-08-31"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Daemons of the Shadow Realm",
           "tmdb": {
             "id": 260463,
@@ -2939,16 +2953,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Exiled Heavy Knight Knows How to Game the System",
-          "tmdb": {
-            "id": 270603,
-            "media_type": "tv",
-            "release_date": "2026-07-03"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "Solo Leveling",
           "tmdb": {
             "id": 127532,
@@ -2957,49 +2962,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Attack on Titan",
-          "tmdb": {
-            "id": 1429,
-            "media_type": "tv",
-            "release_date": "2013-04-07"
-          }
-        },
-        {
           "rank": 9,
-          "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+          "title": "That Time I Got Reincarnated as a Slime",
           "tmdb": {
-            "id": 314554,
+            "id": 82684,
             "media_type": "tv",
-            "release_date": "2026-07-02"
+            "release_date": "2018-10-02"
           }
         },
         {
           "rank": 10,
-          "title": "The Ogre's Bride",
+          "title": "Attack on Titan",
           "tmdb": {
-            "id": 293489,
-            "media_type": "tv",
-            "release_date": "2026-07-05"
+            "id": 295830,
+            "media_type": "movie",
+            "release_date": "2015-08-01"
           }
         }
       ]
     },
     {
       "catalog_id": "mubi.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MUBI in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MUBI in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "MUBI",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Substance",
+          "title": "Twin Peaks",
           "tmdb": {
-            "id": 933260,
-            "media_type": "movie",
-            "release_date": "2024-09-07"
+            "id": 1920,
+            "media_type": "tv",
+            "release_date": "1990-04-08"
           }
         },
         {
@@ -3013,42 +3009,15 @@
         },
         {
           "rank": 3,
-          "title": "The Non-Actor",
+          "title": "No Other Choice",
           "tmdb": {
-            "id": 1396608,
+            "id": 639988,
             "media_type": "movie",
-            "release_date": "2025-02-02"
+            "release_date": "2025-09-24"
           }
         },
         {
           "rank": 4,
-          "title": "Die My Love",
-          "tmdb": {
-            "id": 1033148,
-            "media_type": "movie",
-            "release_date": "2025-10-06"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Twin Peaks",
-          "tmdb": {
-            "id": 1920,
-            "media_type": "tv",
-            "release_date": "1990-04-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Father Mother Sister Brother",
-          "tmdb": {
-            "id": 1159206,
-            "media_type": "movie",
-            "release_date": "2025-12-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Sentimental Value",
           "tmdb": {
             "id": 1697369,
@@ -3057,12 +3026,39 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Die My Love",
+          "tmdb": {
+            "id": 1033148,
+            "media_type": "movie",
+            "release_date": "2025-10-06"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Secret Agent",
           "tmdb": {
-            "id": 1220564,
+            "id": 67067,
+            "media_type": "tv",
+            "release_date": "2016-07-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Non-Actor",
+          "tmdb": {
+            "id": 1396608,
             "media_type": "movie",
-            "release_date": "2025-07-23"
+            "release_date": "2025-02-02"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Substance",
+          "tmdb": {
+            "id": 933260,
+            "media_type": "movie",
+            "release_date": "2024-09-07"
           }
         },
         {
@@ -3076,21 +3072,21 @@
         },
         {
           "rank": 10,
-          "title": "No Other Choice",
+          "title": "Father Mother Sister Brother",
           "tmdb": {
-            "id": 639988,
+            "id": 1159206,
             "media_type": "movie",
-            "release_date": "2025-09-24"
+            "release_date": "2025-12-01"
           }
         }
       ]
     },
     {
       "catalog_id": "shudder.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Shudder in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Shudder in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Shudder",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3104,6 +3100,15 @@
         },
         {
           "rank": 2,
+          "title": "What Happened to Dorothy Bell?",
+          "tmdb": {
+            "id": 1330445,
+            "media_type": "movie",
+            "release_date": "2024-09-22"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Host",
           "tmdb": {
             "id": 1535290,
@@ -3112,7 +3117,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "This Is Not a Test",
           "tmdb": {
             "id": 1428990,
@@ -3121,25 +3126,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Terrifier",
-          "tmdb": {
-            "id": 420634,
-            "media_type": "movie",
-            "release_date": "2018-01-25"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Mortuary Assistant",
-          "tmdb": {
-            "id": 1470130,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Terrifier 2",
           "tmdb": {
             "id": 663712,
@@ -3148,16 +3135,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Hell House LLC II: The Abaddon Hotel",
-          "tmdb": {
-            "id": 532973,
-            "media_type": "movie",
-            "release_date": "2018-09-14"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Hell House LLC",
           "tmdb": {
             "id": 359246,
@@ -3166,7 +3144,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Tales from the Crypt",
           "tmdb": {
             "id": 2391,
@@ -3175,22 +3153,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "What Happened to Dorothy Bell?",
+          "rank": 8,
+          "title": "Hell House LLC II: The Abaddon Hotel",
           "tmdb": {
-            "id": 1330445,
+            "id": 532973,
             "media_type": "movie",
-            "release_date": "2024-09-22"
+            "release_date": "2018-09-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Mortuary Assistant",
+          "tmdb": {
+            "id": 1470130,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Terrifier",
+          "tmdb": {
+            "id": 420634,
+            "media_type": "movie",
+            "release_date": "2018-01-25"
           }
         }
       ]
     },
     {
       "catalog_id": "lionsgate.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in the United Kingdom on August 3, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in the United Kingdom on August 4, 2026",
       "category": "overall",
       "platform": "Lionsgate+",
-      "date": "August 3, 2026",
+      "date": "August 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3213,33 +3209,6 @@
         },
         {
           "rank": 3,
-          "title": "Sicario",
-          "tmdb": {
-            "id": 273481,
-            "media_type": "movie",
-            "release_date": "2015-09-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Burden of Truth",
-          "tmdb": {
-            "id": 72743,
-            "media_type": "tv",
-            "release_date": "2018-01-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Sinister",
-          "tmdb": {
-            "id": 82507,
-            "media_type": "movie",
-            "release_date": "2012-10-04"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Why Did I Get Married?",
           "tmdb": {
             "id": 17202,
@@ -3248,25 +3217,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Limitless",
+          "rank": 4,
+          "title": "Sinister",
           "tmdb": {
-            "id": 51876,
+            "id": 82507,
             "media_type": "movie",
-            "release_date": "2011-03-17"
+            "release_date": "2012-10-04"
           }
         },
         {
-          "rank": 8,
-          "title": "The Secret: Dare to Dream",
-          "tmdb": {
-            "id": 550231,
-            "media_type": "movie",
-            "release_date": "2020-04-16"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "John Wick: Chapter 3 – Parabellum",
           "tmdb": {
             "id": 458156,
@@ -3275,12 +3235,48 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Princess Bride",
+          "rank": 6,
+          "title": "Sicario",
           "tmdb": {
-            "id": 2493,
+            "id": 273481,
             "media_type": "movie",
-            "release_date": "1987-09-25"
+            "release_date": "2015-09-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Burden of Truth",
+          "tmdb": {
+            "id": 72743,
+            "media_type": "tv",
+            "release_date": "2018-01-10"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Love, Rosie",
+          "tmdb": {
+            "id": 200727,
+            "media_type": "movie",
+            "release_date": "2014-10-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Limitless",
+          "tmdb": {
+            "id": 51876,
+            "media_type": "movie",
+            "release_date": "2011-03-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Secret: Dare to Dream",
+          "tmdb": {
+            "id": 550231,
+            "media_type": "movie",
+            "release_date": "2020-04-16"
           }
         }
       ]
