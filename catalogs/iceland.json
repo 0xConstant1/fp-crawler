@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/iceland/",
-  "page_title": "TOP 10 on Streaming in Iceland on August 7, 2026",
+  "page_title": "TOP 10 on Streaming in Iceland on August 8, 2026",
   "region": "iceland",
-  "date": "August 7, 2026",
-  "scraped_at_utc": "2026-08-07T16:25:52.304634+00:00",
+  "date": "August 8, 2026",
+  "scraped_at_utc": "2026-08-08T15:57:44.301026+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Iceland on August 7, 2026",
+      "heading": "TOP Movies on Netflix in Iceland on August 8, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Last House",
+          "tmdb": {
+            "id": 1284041,
+            "media_type": "movie",
+            "release_date": "2026-08-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "72 Hours",
           "tmdb": {
             "id": 949838,
             "media_type": "movie",
             "release_date": "2026-07-20"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "A Toxic Love Story",
-          "tmdb": {
-            "id": 1723460,
-            "media_type": "movie",
-            "release_date": "2026-07-22"
           }
         },
         {
@@ -42,15 +42,6 @@
         },
         {
           "rank": 4,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Spider-Man: Homecoming",
           "tmdb": {
             "id": 315635,
@@ -59,7 +50,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "A Toxic Love Story",
+          "tmdb": {
+            "id": 1723460,
+            "media_type": "movie",
+            "release_date": "2026-07-22"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Spider-Man: No Way Home",
+          "tmdb": {
+            "id": 634649,
+            "media_type": "movie",
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Spider-Man: Far from Home",
           "tmdb": {
             "id": 429617,
@@ -68,7 +77,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Kraven the Hunter",
           "tmdb": {
             "id": 539972,
@@ -77,58 +95,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "She's Out of My League",
-          "tmdb": {
-            "id": 34016,
-            "media_type": "movie",
-            "release_date": "2010-03-11"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Ladies in Black",
           "tmdb": {
             "id": 483411,
             "media_type": "movie",
             "release_date": "2018-10-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Despicable Me 4",
-          "tmdb": {
-            "id": 519182,
-            "media_type": "movie",
-            "release_date": "2024-06-20"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Iceland on August 7, 2026",
+      "heading": "TOP TV Shows on Netflix in Iceland on August 8, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Idaho Murders: College Nightmare",
-          "tmdb": {
-            "id": 328735,
-            "media_type": "tv",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 2,
           "title": "My Life with the Walter Boys",
           "tmdb": {
             "id": 199001,
             "media_type": "tv",
             "release_date": "2023-12-07"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Idaho Murders: College Nightmare",
+          "tmdb": {
+            "id": 328735,
+            "media_type": "tv",
+            "release_date": "2026-07-29"
           }
         },
         {
@@ -151,20 +151,20 @@
         },
         {
           "rank": 5,
+          "title": "Ricky Gervais Alley Cats",
+          "tmdb": {
+            "id": 300480,
+            "media_type": "tv",
+            "release_date": "2026-08-07"
+          }
+        },
+        {
+          "rank": 6,
           "title": "I Will Find You",
           "tmdb": {
             "id": 278178,
             "media_type": "tv",
             "release_date": "2026-06-18"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ransom Canyon",
-          "tmdb": {
-            "id": 240993,
-            "media_type": "tv",
-            "release_date": "2025-04-17"
           }
         },
         {
@@ -178,6 +178,15 @@
         },
         {
           "rank": 8,
+          "title": "Ransom Canyon",
+          "tmdb": {
+            "id": 240993,
+            "media_type": "tv",
+            "release_date": "2025-04-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "1670",
           "tmdb": {
             "id": 236450,
@@ -186,31 +195,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Friends",
           "tmdb": {
             "id": 1668,
             "media_type": "tv",
             "release_date": "1994-09-22"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Chicago P.D.",
-          "tmdb": {
-            "id": 58841,
-            "media_type": "tv",
-            "release_date": "2014-01-08"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall on HBO Max in Iceland on August 7, 2026",
+      "heading": "TOP Overall on HBO Max in Iceland on August 8, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,11 +224,11 @@
         },
         {
           "rank": 2,
-          "title": "President Curtis",
+          "title": "Stuart Fails to Save the Universe",
           "tmdb": {
-            "id": 296756,
+            "id": 287620,
             "media_type": "tv",
-            "release_date": "2026-07-26"
+            "release_date": "2026-07-23"
           }
         },
         {
@@ -242,11 +242,11 @@
         },
         {
           "rank": 4,
-          "title": "Stuart Fails to Save the Universe",
+          "title": "A Monster Uncovered",
           "tmdb": {
-            "id": 287620,
+            "id": 331039,
             "media_type": "tv",
-            "release_date": "2026-07-23"
+            "release_date": "2026-08-07"
           }
         },
         {
@@ -260,33 +260,15 @@
         },
         {
           "rank": 6,
-          "title": "The Westies",
+          "title": "President Curtis",
           "tmdb": {
-            "id": 286709,
+            "id": 296756,
             "media_type": "tv",
-            "release_date": "2026-07-12"
+            "release_date": "2026-07-26"
           }
         },
         {
           "rank": 7,
-          "title": "Green Lantern",
-          "tmdb": {
-            "id": 44912,
-            "media_type": "movie",
-            "release_date": "2011-06-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Life, Larry and the Pursuit of Unhappiness",
-          "tmdb": {
-            "id": 295780,
-            "media_type": "tv",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Dark Knight",
           "tmdb": {
             "id": 155,
@@ -295,22 +277,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Jurassic Sharks",
+          "rank": 8,
+          "title": "The Westies",
           "tmdb": {
-            "id": 1739632,
+            "id": 286709,
+            "media_type": "tv",
+            "release_date": "2026-07-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Green Lantern",
+          "tmdb": {
+            "id": 44912,
             "media_type": "movie",
-            "release_date": "2026-07-28"
+            "release_date": "2011-06-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Batman Begins",
+          "tmdb": {
+            "id": 272,
+            "media_type": "movie",
+            "release_date": "2005-06-10"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Iceland on August 7, 2026",
+      "heading": "TOP Overall on Disney+ in Iceland on August 8, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,6 +324,15 @@
         },
         {
           "rank": 2,
+          "title": "The Shards",
+          "tmdb": {
+            "id": 298168,
+            "media_type": "tv",
+            "release_date": "2026-08-05"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Furious",
           "tmdb": {
             "id": 287238,
@@ -332,21 +341,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Spider-Man: Far from Home",
+          "title": "Hoppers",
           "tmdb": {
-            "id": 429617,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2019-06-28"
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -360,24 +360,15 @@
         },
         {
           "rank": 6,
-          "title": "Avengers: Infinity War",
+          "title": "Spider-Man: Homecoming",
           "tmdb": {
-            "id": 299536,
+            "id": 315635,
             "media_type": "movie",
-            "release_date": "2018-04-25"
+            "release_date": "2017-07-05"
           }
         },
         {
           "rank": 7,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -386,12 +377,21 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Princess Diaries",
+          "rank": 8,
+          "title": "Avengers: Infinity War",
           "tmdb": {
-            "id": 9880,
+            "id": 299536,
             "media_type": "movie",
-            "release_date": "2001-08-03"
+            "release_date": "2018-04-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
           }
         },
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Iceland on August 7, 2026",
+      "heading": "TOP Movies on Disney+ in Iceland on August 8, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -507,10 +507,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Iceland on August 7, 2026",
+      "heading": "TOP TV Shows on Disney+ in Iceland on August 8, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -607,10 +607,10 @@
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Iceland on August 7, 2026",
+      "heading": "TOP Movies on Viaplay in Iceland on August 8, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -651,15 +651,6 @@
         },
         {
           "rank": 5,
-          "title": "He's Just Not That Into You",
-          "tmdb": {
-            "id": 10184,
-            "media_type": "movie",
-            "release_date": "2009-02-06"
-          }
-        },
-        {
-          "rank": 6,
           "title": "American Pie",
           "tmdb": {
             "id": 2105,
@@ -668,16 +659,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Batman",
-          "tmdb": {
-            "id": 414906,
-            "media_type": "movie",
-            "release_date": "2022-03-01"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -686,12 +668,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Spider-Man: Homecoming",
+          "rank": 7,
+          "title": "We're the Millers",
           "tmdb": {
-            "id": 315635,
+            "id": 138832,
             "media_type": "movie",
-            "release_date": "2017-07-05"
+            "release_date": "2013-08-07"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "He's Just Not That Into You",
+          "tmdb": {
+            "id": 10184,
+            "media_type": "movie",
+            "release_date": "2009-02-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Batman",
+          "tmdb": {
+            "id": 414906,
+            "media_type": "movie",
+            "release_date": "2022-03-01"
           }
         },
         {
@@ -707,10 +707,10 @@
     },
     {
       "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Iceland on August 7, 2026",
+      "heading": "TOP TV Shows on Viaplay in Iceland on August 8, 2026",
       "category": "tv shows",
       "platform": "Viaplay",
-      "date": "August 7, 2026",
+      "date": "August 8, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -751,20 +751,20 @@
         },
         {
           "rank": 5,
-          "title": "Adventurous Renovation",
-          "tmdb": {
-            "id": 110889,
-            "media_type": "tv",
-            "release_date": "2015-09-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Hawaii Five-0",
           "tmdb": {
             "id": 32798,
             "media_type": "tv",
             "release_date": "2010-09-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Adventurous Renovation",
+          "tmdb": {
+            "id": 110889,
+            "media_type": "tv",
+            "release_date": "2015-09-03"
           }
         },
         {
