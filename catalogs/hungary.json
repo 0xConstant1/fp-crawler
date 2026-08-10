@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/hungary/",
-  "page_title": "TOP 10 on Streaming in Hungary on August 9, 2026",
+  "page_title": "TOP 10 on Streaming in Hungary on August 10, 2026",
   "region": "hungary",
-  "date": "August 9, 2026",
-  "scraped_at_utc": "2026-08-09T15:59:44.569213+00:00",
+  "date": "August 10, 2026",
+  "scraped_at_utc": "2026-08-10T16:24:20.452296+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Netflix in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on Netflix in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -207,10 +207,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Hungary on August 9, 2026",
+      "heading": "TOP Movies on HBO Max in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,6 +233,24 @@
         },
         {
           "rank": 3,
+          "title": "The Voyeurs",
+          "tmdb": {
+            "id": 645710,
+            "media_type": "movie",
+            "release_date": "2021-08-25"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Jurassic Sharks",
+          "tmdb": {
+            "id": 1739632,
+            "media_type": "movie",
+            "release_date": "2026-07-28"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Maze Runner: The Scorch Trials",
           "tmdb": {
             "id": 294254,
@@ -241,7 +259,16 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "title": "The Best You Can",
+          "tmdb": {
+            "id": 1238379,
+            "media_type": "movie",
+            "release_date": "2025-06-07"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -250,7 +277,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "Maze Runner: The Death Cure",
           "tmdb": {
             "id": 336843,
@@ -259,7 +286,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "The Maze Runner",
           "tmdb": {
             "id": 198663,
@@ -268,49 +295,22 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Addition",
-          "tmdb": {
-            "id": 1326036,
-            "media_type": "movie",
-            "release_date": "2026-01-29"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 10,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
             "media_type": "movie",
             "release_date": "2026-02-11"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Mortal Kombat",
-          "tmdb": {
-            "id": 460465,
-            "media_type": "movie",
-            "release_date": "2021-04-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on HBO Max in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,33 +351,6 @@
         },
         {
           "rank": 5,
-          "title": "All American",
-          "tmdb": {
-            "id": 82428,
-            "media_type": "tv",
-            "release_date": "2018-10-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Powerpuff Girls",
-          "tmdb": {
-            "id": 607,
-            "media_type": "tv",
-            "release_date": "1998-11-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Marvelous Misadventures of Flapjack",
-          "tmdb": {
-            "id": 6673,
-            "media_type": "tv",
-            "release_date": "2008-06-05"
-          }
-        },
-        {
-          "rank": 8,
           "title": "A Monster Uncovered",
           "tmdb": {
             "id": 331039,
@@ -386,31 +359,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Proud",
+          "rank": 6,
+          "title": "All American",
           "tmdb": {
-            "id": 315610,
+            "id": 82428,
             "media_type": "tv",
-            "release_date": "2026-06-12"
+            "release_date": "2018-10-10"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Powerpuff Girls",
+          "tmdb": {
+            "id": 607,
+            "media_type": "tv",
+            "release_date": "1998-11-18"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Life, Larry and the Pursuit of Unhappiness",
+          "tmdb": {
+            "id": 295780,
+            "media_type": "tv",
+            "release_date": "2026-06-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Marvelous Misadventures of Flapjack",
+          "tmdb": {
+            "id": 6673,
+            "media_type": "tv",
+            "release_date": "2008-06-05"
           }
         },
         {
           "rank": 10,
-          "title": "The Grim Adventures of Billy and Mandy",
+          "title": "Pogány Induló: Vajon mit mondana anya",
           "tmdb": {
-            "id": 897,
+            "id": 296187,
             "media_type": "tv",
-            "release_date": "2001-08-24"
+            "release_date": "2025-11-28"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Hungary on August 9, 2026",
+      "heading": "TOP Overall on Disney+ in Hungary on August 10, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,15 +442,6 @@
         },
         {
           "rank": 4,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -459,21 +450,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Star Wars: Visions Presents - The Ninth Jedi",
+          "rank": 5,
+          "title": "Spider-Man: Homecoming",
           "tmdb": {
-            "id": 289324,
-            "media_type": "tv",
-            "release_date": "2026-08-05"
+            "id": 315635,
+            "media_type": "movie",
+            "release_date": "2017-07-05"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Spider-Man: Far from Home",
           "tmdb": {
             "id": 429617,
             "media_type": "movie",
             "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Star Wars: Visions Presents - The Ninth Jedi",
+          "tmdb": {
+            "id": 289324,
+            "media_type": "tv",
+            "release_date": "2026-08-05"
           }
         },
         {
@@ -507,10 +507,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Disney+ in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,20 +524,20 @@
         },
         {
           "rank": 2,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
             "media_type": "movie",
             "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Spider-Man: Homecoming",
+          "tmdb": {
+            "id": 315635,
+            "media_type": "movie",
+            "release_date": "2017-07-05"
           }
         },
         {
@@ -607,10 +607,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on Disney+ in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -674,20 +674,20 @@
         },
         {
           "rank": 8,
-          "title": "Desperate Housewives",
-          "tmdb": {
-            "id": 693,
-            "media_type": "tv",
-            "release_date": "2004-10-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Bluey Compilations",
           "tmdb": {
             "id": 328337,
             "media_type": "tv",
             "release_date": "2026-07-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Desperate Housewives",
+          "tmdb": {
+            "id": 693,
+            "media_type": "tv",
+            "release_date": "2004-10-03"
           }
         },
         {
@@ -703,10 +703,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Hungary on August 9, 2026",
+      "heading": "TOP Overall on Amazon Prime in Hungary on August 10, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -803,10 +803,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Amazon Prime in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -903,10 +903,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1003,10 +1003,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Apple TV in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1020,20 +1020,20 @@
         },
         {
           "rank": 2,
-          "title": "The Dink",
-          "tmdb": {
-            "id": 1361774,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
             "media_type": "movie",
             "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Dink",
+          "tmdb": {
+            "id": 1361774,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
           }
         },
         {
@@ -1056,15 +1056,6 @@
         },
         {
           "rank": 6,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Eternity",
           "tmdb": {
             "id": 1259102,
@@ -1073,7 +1064,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
@@ -1082,31 +1073,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Finch",
+          "rank": 8,
+          "title": "Napoleon",
           "tmdb": {
-            "id": 522402,
+            "id": 753342,
             "media_type": "movie",
-            "release_date": "2021-11-04"
+            "release_date": "2023-11-22"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Finch",
+          "tmdb": {
+            "id": 522402,
+            "media_type": "movie",
+            "release_date": "2021-11-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on Apple TV in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1203,10 +1203,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Apple TV Store in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1229,15 +1229,6 @@
         },
         {
           "rank": 3,
-          "title": "Nuremberg",
-          "tmdb": {
-            "id": 1214931,
-            "media_type": "movie",
-            "release_date": "2025-11-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
@@ -1246,16 +1237,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "The Mandalorian and Grogu",
           "tmdb": {
             "id": 1228710,
@@ -1264,7 +1246,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Ballerina",
           "tmdb": {
             "id": 541671,
@@ -1273,7 +1255,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "Nuremberg",
+          "tmdb": {
+            "id": 1214931,
+            "media_type": "movie",
+            "release_date": "2025-11-06"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
@@ -1282,31 +1273,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Wolf of Wall Street",
+          "rank": 8,
+          "title": "Project Hail Mary",
           "tmdb": {
-            "id": 106646,
+            "id": 687163,
             "media_type": "movie",
-            "release_date": "2013-12-25"
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Fuze",
+          "tmdb": {
+            "id": 1242265,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
           }
         },
         {
           "rank": 10,
-          "title": "Passenger",
+          "title": "Dune: Part Two",
           "tmdb": {
-            "id": 1368314,
+            "id": 693134,
             "media_type": "movie",
-            "release_date": "2026-05-20"
+            "release_date": "2024-02-27"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Google in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1403,10 +1403,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Hungary on August 9, 2026",
+      "heading": "TOP Movies on Rakuten TV in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1456,20 +1456,20 @@
         },
         {
           "rank": 6,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
             "media_type": "movie",
             "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Mortal Kombat II",
+          "tmdb": {
+            "id": 931285,
+            "media_type": "movie",
+            "release_date": "2026-05-06"
           }
         },
         {
@@ -1492,21 +1492,21 @@
         },
         {
           "rank": 10,
-          "title": "The Housemaid",
+          "title": "Passenger",
           "tmdb": {
-            "id": 1368166,
+            "id": 1368314,
             "media_type": "movie",
-            "release_date": "2025-12-18"
+            "release_date": "2026-05-20"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Hungary on August 9, 2026",
+      "heading": "TOP Movies on SkyShowtime in Hungary on August 10, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1547,11 +1547,11 @@
         },
         {
           "rank": 5,
-          "title": "Back to the Future Part III",
+          "title": "Back to the Future",
           "tmdb": {
-            "id": 196,
+            "id": 105,
             "media_type": "movie",
-            "release_date": "1990-05-25"
+            "release_date": "1985-07-03"
           }
         },
         {
@@ -1565,6 +1565,24 @@
         },
         {
           "rank": 7,
+          "title": "Five Nights at Freddy's 2",
+          "tmdb": {
+            "id": 1228246,
+            "media_type": "movie",
+            "release_date": "2025-12-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Back to the Future Part III",
+          "tmdb": {
+            "id": 196,
+            "media_type": "movie",
+            "release_date": "1990-05-25"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -1573,40 +1591,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Back to the Future",
-          "tmdb": {
-            "id": 105,
-            "media_type": "movie",
-            "release_date": "1985-07-03"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "The Chronicles of Riddick",
           "tmdb": {
             "id": 2789,
             "media_type": "movie",
             "release_date": "2004-06-11"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Five Nights at Freddy's 2",
-          "tmdb": {
-            "id": 1228246,
-            "media_type": "movie",
-            "release_date": "2025-12-03"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Hungary on August 9, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Hungary on August 10, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "August 9, 2026",
+      "date": "August 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1647,20 +1647,20 @@
         },
         {
           "rank": 5,
-          "title": "Allegiance",
-          "tmdb": {
-            "id": 61703,
-            "media_type": "tv",
-            "release_date": "2015-02-05"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Surviving Earth",
           "tmdb": {
             "id": 205002,
             "media_type": "tv",
             "release_date": "2026-06-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Allegiance",
+          "tmdb": {
+            "id": 61703,
+            "media_type": "tv",
+            "release_date": "2015-02-05"
           }
         },
         {
