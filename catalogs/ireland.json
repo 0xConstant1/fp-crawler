@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/ireland/",
-  "page_title": "TOP 10 on Streaming in Ireland on August 22, 2026",
+  "page_title": "TOP 10 on Streaming in Ireland on August 23, 2026",
   "region": "ireland",
-  "date": "August 22, 2026",
-  "scraped_at_utc": "2026-08-22T15:50:56.171310+00:00",
+  "date": "August 23, 2026",
+  "scraped_at_utc": "2026-08-23T15:51:42.285947+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Netflix in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Heat",
+          "tmdb": {
+            "id": 136795,
+            "media_type": "movie",
+            "release_date": "2013-06-27"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Freefall: A Reckoning for Boeing",
           "tmdb": {
             "id": 1688804,
@@ -23,25 +32,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Don't Say Good Luck",
-          "tmdb": {
-            "id": 1504358,
-            "media_type": "movie",
-            "release_date": "2026-08-13"
-          }
-        },
-        {
           "rank": 3,
-          "title": "The Wild Robot",
-          "tmdb": {
-            "id": 1184918,
-            "media_type": "movie",
-            "release_date": "2024-09-12"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Facing El Chapo",
           "tmdb": {
             "id": 1621552,
@@ -50,7 +41,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Don't Say Good Luck",
+          "tmdb": {
+            "id": 1504358,
+            "media_type": "movie",
+            "release_date": "2026-08-13"
+          }
+        },
+        {
           "rank": 5,
+          "title": "The Wild Robot",
+          "tmdb": {
+            "id": 1184918,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Breaking In",
           "tmdb": {
             "id": 497814,
@@ -59,7 +68,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Gladiator II",
           "tmdb": {
             "id": 558449,
@@ -68,30 +77,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "After the Sunset",
-          "tmdb": {
-            "id": 10589,
-            "media_type": "movie",
-            "release_date": "2004-11-12"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Chompoo: Lost​ &​ Forgotten​",
-          "tmdb": {
-            "id": 1741201,
-            "media_type": "movie",
-            "release_date": "2026-08-20"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Last House",
           "tmdb": {
             "id": 1284041,
             "media_type": "movie",
             "release_date": "2026-08-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "After the Sunset",
+          "tmdb": {
+            "id": 10589,
+            "media_type": "movie",
+            "release_date": "2004-11-12"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Ireland on August 22, 2026",
+      "heading": "TOP TV Shows on Netflix in Ireland on August 23, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,6 +142,11 @@
         },
         {
           "rank": 4,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
           "title": "My Brilliant Career",
           "tmdb": {
             "id": 309798,
@@ -150,7 +155,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "MOURINHO",
           "tmdb": {
             "id": 329274,
@@ -159,7 +164,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "My Life with the Walter Boys",
           "tmdb": {
             "id": 199001,
@@ -168,7 +173,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "The Bombing of Pan Am 103",
+          "tmdb": {
+            "id": 248226,
+            "media_type": "tv",
+            "release_date": "2025-05-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Conversations with a Killer: The Charles Manson Tapes",
           "tmdb": {
             "id": 330320,
@@ -177,53 +191,226 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Annika",
           "tmdb": {
             "id": 130273,
             "media_type": "tv",
             "release_date": "2021-08-17"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Ireland on August 23, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "August 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "The Wild Robot",
+          "tmdb": {
+            "id": 1184918,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Shrek",
+          "tmdb": {
+            "id": 808,
+            "media_type": "movie",
+            "release_date": "2001-05-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Cat in the Hat",
+          "tmdb": {
+            "id": 10588,
+            "media_type": "movie",
+            "release_date": "2003-11-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Boss Baby",
+          "tmdb": {
+            "id": 295693,
+            "media_type": "movie",
+            "release_date": "2017-03-23"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Stitch Head",
+          "tmdb": {
+            "id": 1214130,
+            "media_type": "movie",
+            "release_date": "2025-10-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Shrek 2",
+          "tmdb": {
+            "id": 809,
+            "media_type": "movie",
+            "release_date": "2004-05-19"
+          }
         },
         {
           "rank": 9,
-          "title": "Salish & Jordan Matter",
+          "title": "Trolls",
           "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
+            "id": 136799,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
           }
         },
         {
           "rank": 10,
-          "title": "The Bombing of Pan Am 103",
+          "title": "Minions & More Volume 2",
           "tmdb": {
-            "id": 248226,
+            "id": 1045644,
+            "media_type": "movie",
+            "release_date": "2022-11-08"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Ireland on August 23, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "August 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
             "media_type": "tv",
-            "release_date": "2025-05-18"
+            "release_date": "2025-01-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Steve & Maggie",
+          "tmdb": {
+            "id": 217869,
+            "media_type": "tv",
+            "release_date": null
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Melon Patch",
+          "tmdb": {
+            "id": 330350,
+            "media_type": "tv",
+            "release_date": null
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Camp CrunchLabs",
+          "tmdb": {
+            "id": 328629,
+            "media_type": "tv",
+            "release_date": "2026-06-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Paw Patrol",
+          "tmdb": {
+            "id": 57532,
+            "media_type": "tv",
+            "release_date": "2013-08-12"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Ireland on August 22, 2026",
+      "heading": "TOP Overall on Disney+ in Ireland on August 23, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Sing",
-          "tmdb": {
-            "id": 335797,
-            "media_type": "movie",
-            "release_date": "2016-11-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -232,12 +419,21 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Camp Rock 3",
           "tmdb": {
             "id": 1493400,
             "media_type": "movie",
             "release_date": "2026-08-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Once a Princess, Always a Princess",
+          "tmdb": {
+            "id": 1751466,
+            "media_type": "movie",
+            "release_date": "2026-08-17"
           }
         },
         {
@@ -251,6 +447,24 @@
         },
         {
           "rank": 5,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "LEGO Disney Princess: Magical Mayhem",
+          "tmdb": {
+            "id": 1732625,
+            "media_type": "movie",
+            "release_date": "2026-08-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Shards",
           "tmdb": {
             "id": 298168,
@@ -259,30 +473,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Once a Princess, Always a Princess",
-          "tmdb": {
-            "id": 1751466,
-            "media_type": "movie",
-            "release_date": "2026-08-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Sing 2",
-          "tmdb": {
-            "id": 438695,
-            "media_type": "movie",
-            "release_date": "2021-12-01"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Madagascar: Escape 2 Africa",
+          "title": "The Girls: A Khloé Kardashian Project",
           "tmdb": {
-            "id": 10527,
-            "media_type": "movie",
-            "release_date": "2008-10-30"
+            "id": 330438,
+            "media_type": "tv",
+            "release_date": "2026-08-21"
           }
         },
         {
@@ -296,34 +492,25 @@
         },
         {
           "rank": 10,
-          "title": "Madagascar",
+          "title": "Sing 2",
           "tmdb": {
-            "id": 953,
+            "id": 438695,
             "media_type": "movie",
-            "release_date": "2005-05-25"
+            "release_date": "2021-12-01"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Disney+ in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Sing",
-          "tmdb": {
-            "id": 335797,
-            "media_type": "movie",
-            "release_date": "2016-11-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -332,7 +519,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Camp Rock 3",
           "tmdb": {
             "id": 1493400,
@@ -341,7 +528,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Once a Princess, Always a Princess",
           "tmdb": {
             "id": 1751466,
@@ -350,25 +537,25 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Sing 2",
+          "rank": 4,
+          "title": "Sing",
           "tmdb": {
-            "id": 438695,
+            "id": 335797,
             "media_type": "movie",
-            "release_date": "2021-12-01"
+            "release_date": "2016-11-23"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "LEGO Disney Princess: Magical Mayhem",
+          "tmdb": {
+            "id": 1732625,
+            "media_type": "movie",
+            "release_date": "2026-08-21"
           }
         },
         {
           "rank": 6,
-          "title": "Madagascar: Escape 2 Africa",
-          "tmdb": {
-            "id": 10527,
-            "media_type": "movie",
-            "release_date": "2008-10-30"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
@@ -377,16 +564,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Madagascar",
+          "rank": 7,
+          "title": "Sing 2",
           "tmdb": {
-            "id": 953,
+            "id": 438695,
             "media_type": "movie",
-            "release_date": "2005-05-25"
+            "release_date": "2021-12-01"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -395,22 +582,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Avengers",
           "tmdb": {
             "id": 24428,
             "media_type": "movie",
             "release_date": "2012-04-25"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Ireland on August 22, 2026",
+      "heading": "TOP TV Shows on Disney+ in Ireland on August 23, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,11 +629,11 @@
         },
         {
           "rank": 3,
-          "title": "Stick to Football",
+          "title": "The Girls: A Khloé Kardashian Project",
           "tmdb": {
-            "id": 237241,
+            "id": 330438,
             "media_type": "tv",
-            "release_date": "2023-09-27"
+            "release_date": "2026-08-21"
           }
         },
         {
@@ -451,15 +647,6 @@
         },
         {
           "rank": 5,
-          "title": "House of Stassi",
-          "tmdb": {
-            "id": 321954,
-            "media_type": "tv",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Bluey Tunes",
           "tmdb": {
             "id": 331634,
@@ -468,12 +655,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Loki",
+          "rank": 6,
+          "title": "House of Stassi",
           "tmdb": {
-            "id": 84958,
+            "id": 321954,
             "media_type": "tv",
-            "release_date": "2021-06-09"
+            "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Stick to Football",
+          "tmdb": {
+            "id": 237241,
+            "media_type": "tv",
+            "release_date": "2023-09-27"
           }
         },
         {
@@ -487,26 +683,26 @@
         },
         {
           "rank": 9,
-          "title": "20/20 Britain's Most Notorious Crimes",
-          "tmdb": null
+          "title": "Loki",
+          "tmdb": {
+            "id": 84958,
+            "media_type": "tv",
+            "release_date": "2021-06-09"
+          }
         },
         {
           "rank": 10,
-          "title": "Pompeii: Out of Time with Tom Hiddleston",
-          "tmdb": {
-            "id": 277640,
-            "media_type": "tv",
-            "release_date": "2026-07-22"
-          }
+          "title": "20/20 Britain's Most Notorious Crimes",
+          "tmdb": null
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Ireland on August 22, 2026",
+      "heading": "TOP Overall on Amazon Prime in Ireland on August 23, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -556,20 +752,20 @@
         },
         {
           "rank": 6,
-          "title": "Clarkson's Farm",
-          "tmdb": {
-            "id": 117648,
-            "media_type": "tv",
-            "release_date": "2021-06-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
             "media_type": "tv",
             "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Clarkson's Farm",
+          "tmdb": {
+            "id": 117648,
+            "media_type": "tv",
+            "release_date": "2021-06-11"
           }
         },
         {
@@ -592,21 +788,21 @@
         },
         {
           "rank": 10,
-          "title": "Solace",
+          "title": "Twisters",
           "tmdb": {
-            "id": 339527,
+            "id": 718821,
             "media_type": "movie",
-            "release_date": "2015-09-03"
+            "release_date": "2024-07-10"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Amazon Prime in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,20 +834,20 @@
         },
         {
           "rank": 4,
-          "title": "Solace",
-          "tmdb": {
-            "id": 339527,
-            "media_type": "movie",
-            "release_date": "2015-09-03"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Twisters",
           "tmdb": {
             "id": 718821,
             "media_type": "movie",
             "release_date": "2024-07-10"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Solace",
+          "tmdb": {
+            "id": 339527,
+            "media_type": "movie",
+            "release_date": "2015-09-03"
           }
         },
         {
@@ -665,6 +861,15 @@
         },
         {
           "rank": 7,
+          "title": "Kissing Is the Easy Part",
+          "tmdb": {
+            "id": 1515615,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Grown Ups",
           "tmdb": {
             "id": 38365,
@@ -673,7 +878,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Good Boy",
           "tmdb": {
             "id": 981484,
@@ -682,31 +887,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Return to Silent Hill",
           "tmdb": {
             "id": 680493,
             "media_type": "movie",
             "release_date": "2026-01-21"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Kissing Is the Easy Part",
-          "tmdb": {
-            "id": 1515615,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Ireland on August 22, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Ireland on August 23, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -747,20 +943,20 @@
         },
         {
           "rank": 5,
-          "title": "Clarkson's Farm",
-          "tmdb": {
-            "id": 117648,
-            "media_type": "tv",
-            "release_date": "2021-06-11"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
             "media_type": "tv",
             "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Clarkson's Farm",
+          "tmdb": {
+            "id": 117648,
+            "media_type": "tv",
+            "release_date": "2021-06-11"
           }
         },
         {
@@ -803,28 +999,28 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Paramount+ in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "One Mile: Chapter One",
-          "tmdb": {
-            "id": 1327688,
-            "media_type": "movie",
-            "release_date": "2026-02-20"
-          }
-        },
-        {
-          "rank": 2,
           "title": "One Mile: Chapter Two",
           "tmdb": {
             "id": 1327690,
             "media_type": "movie",
             "release_date": "2026-02-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "One Mile: Chapter One",
+          "tmdb": {
+            "id": 1327688,
+            "media_type": "movie",
+            "release_date": "2026-02-20"
           }
         },
         {
@@ -838,15 +1034,6 @@
         },
         {
           "rank": 4,
-          "title": "First Blood",
-          "tmdb": {
-            "id": 1368,
-            "media_type": "movie",
-            "release_date": "1982-10-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -855,16 +1042,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Rambo: First Blood Part II",
+          "rank": 5,
+          "title": "First Blood",
           "tmdb": {
-            "id": 1369,
+            "id": 1368,
             "media_type": "movie",
-            "release_date": "1985-05-21"
+            "release_date": "1982-10-22"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Highest Stakes",
           "tmdb": {
             "id": 1444249,
@@ -873,12 +1060,21 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Girl Who Survived: The Alina Thompson Story",
           "tmdb": {
             "id": 1529279,
             "media_type": "movie",
             "release_date": "2025-09-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Rambo: First Blood Part II",
+          "tmdb": {
+            "id": 1369,
+            "media_type": "movie",
+            "release_date": "1985-05-21"
           }
         },
         {
@@ -892,21 +1088,21 @@
         },
         {
           "rank": 10,
-          "title": "Primate",
+          "title": "In the Lost Lands",
           "tmdb": {
-            "id": 1315303,
+            "id": 324544,
             "media_type": "movie",
-            "release_date": "2026-01-01"
+            "release_date": "2025-02-27"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Ireland on August 22, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Ireland on August 23, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -938,15 +1134,6 @@
         },
         {
           "rank": 4,
-          "title": "Star Trek: Strange New Worlds",
-          "tmdb": {
-            "id": 103516,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -955,12 +1142,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
             "media_type": "tv",
             "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb": {
+            "id": 103516,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
           }
         },
         {
@@ -974,20 +1170,20 @@
         },
         {
           "rank": 8,
-          "title": "The Agency",
-          "tmdb": {
-            "id": 219971,
-            "media_type": "tv",
-            "release_date": "2024-12-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Crow Girl",
           "tmdb": {
             "id": 248698,
             "media_type": "tv",
             "release_date": "2025-01-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Agency",
+          "tmdb": {
+            "id": 219971,
+            "media_type": "tv",
+            "release_date": "2024-12-01"
           }
         },
         {
@@ -1003,10 +1199,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Apple TV in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1065,24 +1261,6 @@
         },
         {
           "rank": 7,
-          "title": "Catch Me If You Can",
-          "tmdb": {
-            "id": 640,
-            "media_type": "movie",
-            "release_date": "2002-12-16"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1091,40 +1269,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Sharper",
+          "rank": 8,
+          "title": "Catch Me If You Can",
           "tmdb": {
-            "id": 717980,
+            "id": 640,
             "media_type": "movie",
-            "release_date": "2023-02-10"
+            "release_date": "2002-12-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Family Plan",
+          "tmdb": {
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Rocketman",
+          "tmdb": {
+            "id": 504608,
+            "media_type": "movie",
+            "release_date": "2019-05-17"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Ireland on August 22, 2026",
+      "heading": "TOP TV Shows on Apple TV in Ireland on August 23, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
           }
         },
         {
@@ -1147,20 +1343,20 @@
         },
         {
           "rank": 5,
-          "title": "Trying",
-          "tmdb": {
-            "id": 98177,
-            "media_type": "tv",
-            "release_date": "2020-05-01"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Trying",
+          "tmdb": {
+            "id": 98177,
+            "media_type": "tv",
+            "release_date": "2020-05-01"
           }
         },
         {
@@ -1183,48 +1379,48 @@
         },
         {
           "rank": 9,
-          "title": "Severance",
-          "tmdb": {
-            "id": 95396,
-            "media_type": "tv",
-            "release_date": "2022-02-17"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Cape Fear",
           "tmdb": {
             "id": 277439,
             "media_type": "tv",
             "release_date": "2026-06-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Apple TV Store in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Invite",
-          "tmdb": {
-            "id": 950028,
-            "media_type": "movie",
-            "release_date": "2026-06-25"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Toy Story 5",
           "tmdb": {
             "id": 1084244,
             "media_type": "movie",
             "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Invite",
+          "tmdb": {
+            "id": 950028,
+            "media_type": "movie",
+            "release_date": "2026-06-25"
           }
         },
         {
@@ -1265,24 +1461,6 @@
         },
         {
           "rank": 7,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Spider-Man: Homecoming",
-          "tmdb": {
-            "id": 315635,
-            "media_type": "movie",
-            "release_date": "2017-07-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -1291,22 +1469,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "The Lord of the Rings: The Fellowship of the Ring",
           "tmdb": {
             "id": 120,
             "media_type": "movie",
             "release_date": "2001-12-18"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 1273221,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Hokum",
+          "tmdb": {
+            "id": 1430077,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Google in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1338,15 +1534,6 @@
         },
         {
           "rank": 4,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -1355,7 +1542,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
@@ -1364,21 +1551,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Spider-Man: Far from Home",
+          "rank": 6,
+          "title": "Michael",
           "tmdb": {
-            "id": 429617,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2019-06-28"
+            "release_date": "2026-04-22"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
             "media_type": "movie",
             "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 1273221,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
           }
         },
         {
@@ -1392,21 +1588,21 @@
         },
         {
           "rank": 10,
-          "title": "Scary Movie",
+          "title": "Hokum",
           "tmdb": {
-            "id": 1273221,
+            "id": 1430077,
             "media_type": "movie",
-            "release_date": "2026-06-03"
+            "release_date": "2026-04-29"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Ireland on August 22, 2026",
+      "heading": "TOP Movies on Rakuten TV in Ireland on August 23, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "August 22, 2026",
+      "date": "August 23, 2026",
       "title_count": 10,
       "entries": [
         {
