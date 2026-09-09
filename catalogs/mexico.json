@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/mexico/",
-  "page_title": "TOP 10 on Streaming in Mexico on September 8, 2026",
+  "page_title": "TOP 10 on Streaming in Mexico on September 9, 2026",
   "region": "mexico",
-  "date": "September 8, 2026",
-  "scraped_at_utc": "2026-09-08T18:57:34.918585+00:00",
+  "date": "September 9, 2026",
+  "scraped_at_utc": "2026-09-09T18:51:27.312339+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Netflix in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Gandhari",
+          "tmdb": {
+            "id": 1355228,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Facing El Chapo",
           "tmdb": {
             "id": 1621552,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Whisper Man",
           "tmdb": {
             "id": 860508,
@@ -32,21 +41,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Abigail",
           "tmdb": {
             "id": 1111873,
             "media_type": "movie",
             "release_date": "2024-04-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Blind Side",
-          "tmdb": {
-            "id": 22881,
-            "media_type": "movie",
-            "release_date": "2009-11-20"
           }
         },
         {
@@ -60,6 +60,15 @@
         },
         {
           "rank": 6,
+          "title": "The Blind Side",
+          "tmdb": {
+            "id": 22881,
+            "media_type": "movie",
+            "release_date": "2009-11-20"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Secret Woman",
           "tmdb": {
             "id": 1631807,
@@ -68,21 +77,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Shrek",
           "tmdb": {
             "id": 808,
             "media_type": "movie",
             "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "13 Minutes",
-          "tmdb": {
-            "id": 787723,
-            "media_type": "movie",
-            "release_date": "2021-10-29"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Gandhari",
+          "title": "13 Minutes",
           "tmdb": {
-            "id": 1355228,
+            "id": 787723,
             "media_type": "movie",
-            "release_date": "2026-09-03"
+            "release_date": "2021-10-29"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Netflix in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,20 +124,20 @@
         },
         {
           "rank": 2,
-          "title": "Raw",
-          "tmdb": {
-            "id": 4656,
-            "media_type": "tv",
-            "release_date": "1993-01-11"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Death of the Pastor's Wife",
           "tmdb": {
             "id": 331616,
             "media_type": "tv",
             "release_date": "2026-08-26"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Gentlemen",
+          "tmdb": {
+            "id": 236235,
+            "media_type": "tv",
+            "release_date": "2024-03-07"
           }
         },
         {
@@ -151,29 +151,29 @@
         },
         {
           "rank": 5,
-          "title": "The Gentlemen",
+          "title": "Raw",
           "tmdb": {
-            "id": 236235,
+            "id": 4656,
             "media_type": "tv",
-            "release_date": "2024-03-07"
+            "release_date": "1993-01-11"
           }
         },
         {
           "rank": 6,
-          "title": "Four Hands, Two Sonatas",
-          "tmdb": {
-            "id": 305644,
-            "media_type": "tv",
-            "release_date": "2026-08-29"
-          }
-        },
-        {
-          "rank": 7,
           "title": "My Daughter's Father",
           "tmdb": {
             "id": 329394,
             "media_type": "tv",
             "release_date": "2026-07-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Four Hands, Two Sonatas",
+          "tmdb": {
+            "id": 305644,
+            "media_type": "tv",
+            "release_date": "2026-08-29"
           }
         },
         {
@@ -187,30 +187,30 @@
         },
         {
           "rank": 9,
-          "title": "Instadocs: The Decoy Plane",
-          "tmdb": {
-            "id": 1760262,
-            "media_type": "movie",
-            "release_date": "2026-09-04"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Our Sticky Love",
           "tmdb": {
             "id": 291496,
             "media_type": "tv",
             "release_date": "2026-08-07"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Instadocs: The Decoy Plane",
+          "tmdb": {
+            "id": 1760262,
+            "media_type": "movie",
+            "release_date": "2026-09-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Mexico on September 8, 2026",
+      "heading": "TOP Kids Movies on Netflix in Mexico on September 9, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,33 +233,15 @@
         },
         {
           "rank": 3,
-          "title": "Shrek Forever After",
+          "title": "The Little Rascals",
           "tmdb": {
-            "id": 10192,
+            "id": 10897,
             "media_type": "movie",
-            "release_date": "2010-05-16"
+            "release_date": "1994-08-05"
           }
         },
         {
           "rank": 4,
-          "title": "David",
-          "tmdb": {
-            "id": 1167307,
-            "media_type": "movie",
-            "release_date": "2025-12-14"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Puss in Boots",
-          "tmdb": {
-            "id": 417859,
-            "media_type": "movie",
-            "release_date": "2011-10-27"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Bee Movie",
           "tmdb": {
             "id": 5559,
@@ -268,12 +250,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Little Rascals",
+          "rank": 5,
+          "title": "Shrek Forever After",
           "tmdb": {
-            "id": 10897,
+            "id": 10192,
             "media_type": "movie",
-            "release_date": "1994-08-05"
+            "release_date": "2010-05-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "David",
+          "tmdb": {
+            "id": 1167307,
+            "media_type": "movie",
+            "release_date": "2025-12-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Puss in Boots",
+          "tmdb": {
+            "id": 417859,
+            "media_type": "movie",
+            "release_date": "2011-10-27"
           }
         },
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Mexico on September 8, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Mexico on September 9, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,15 +324,6 @@
         },
         {
           "rank": 2,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -341,16 +332,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Gabby's Dollhouse",
+          "rank": 3,
+          "title": "Salish & Jordan Matter",
           "tmdb": {
-            "id": 111474,
+            "id": 318906,
             "media_type": "tv",
-            "release_date": "2021-01-05"
+            "release_date": "2026-04-11"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Danny Go!",
           "tmdb": {
             "id": 258124,
@@ -359,21 +350,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Peppa Pig",
-          "tmdb": {
-            "id": 12225,
-            "media_type": "tv",
-            "release_date": "2004-05-31"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "title": "Plim Plim, A Hero's heart",
           "tmdb": {
             "id": 59172,
             "media_type": "tv",
             "release_date": "2011-09-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
           }
         },
         {
@@ -403,10 +403,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Mexico on September 8, 2026",
+      "heading": "TOP Movies on HBO Max in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -456,11 +456,11 @@
         },
         {
           "rank": 6,
-          "title": "Anemone",
+          "title": "Sniper: No Nation",
           "tmdb": {
-            "id": 1364608,
+            "id": 1641319,
             "media_type": "movie",
-            "release_date": "2025-10-02"
+            "release_date": "2026-03-13"
           }
         },
         {
@@ -483,30 +483,30 @@
         },
         {
           "rank": 9,
-          "title": "Sniper: No Nation",
+          "title": "Anemone",
           "tmdb": {
-            "id": 1641319,
+            "id": 1364608,
             "media_type": "movie",
-            "release_date": "2026-03-13"
+            "release_date": "2025-10-02"
           }
         },
         {
           "rank": 10,
-          "title": "Scarlet",
+          "title": "Eyes Wide Shut",
           "tmdb": {
-            "id": 1406657,
+            "id": 345,
             "media_type": "movie",
-            "release_date": "2025-11-21"
+            "release_date": "1999-07-16"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on HBO Max in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -520,6 +520,15 @@
         },
         {
           "rank": 2,
+          "title": "Collision",
+          "tmdb": {
+            "id": 331033,
+            "media_type": "tv",
+            "release_date": "2026-09-07"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Stuart Fails to Save the Universe",
           "tmdb": {
             "id": 287620,
@@ -528,7 +537,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "President Curtis",
           "tmdb": {
             "id": 296756,
@@ -537,7 +546,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Far Away",
           "tmdb": {
             "id": 274556,
@@ -546,43 +555,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Kingdom",
-          "tmdb": {
-            "id": 46437,
-            "media_type": "tv",
-            "release_date": "2012-06-04"
-          }
-        },
-        {
           "rank": 6,
-          "title": "House of the Dragon",
-          "tmdb": {
-            "id": 94997,
-            "media_type": "tv",
-            "release_date": "2022-08-21"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "100 Cooks",
-          "tmdb": {
-            "id": 322785,
-            "media_type": "tv",
-            "release_date": "2026-06-07"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Alias J.J.",
-          "tmdb": {
-            "id": 70828,
-            "media_type": "tv",
-            "release_date": "2017-02-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "My 600-lb Life Mexico",
           "tmdb": {
             "id": 255590,
@@ -591,22 +564,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Kingdom",
+          "tmdb": {
+            "id": 46437,
+            "media_type": "tv",
+            "release_date": "2012-06-04"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Kirli Sepeti",
           "tmdb": {
             "id": 233492,
             "media_type": "tv",
             "release_date": "2023-09-24"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Alias J.J.",
+          "tmdb": {
+            "id": 70828,
+            "media_type": "tv",
+            "release_date": "2017-02-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "House of the Dragon",
+          "tmdb": {
+            "id": 94997,
+            "media_type": "tv",
+            "release_date": "2022-08-21"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Mexico on September 8, 2026",
+      "heading": "TOP Overall on Disney+ in Mexico on September 9, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -656,15 +656,6 @@
         },
         {
           "rank": 6,
-          "title": "Avengers: Infinity War",
-          "tmdb": {
-            "id": 299536,
-            "media_type": "movie",
-            "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
@@ -673,40 +664,49 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Avatar: Fire and Ash",
+          "rank": 7,
+          "title": "Avengers: Infinity War",
           "tmdb": {
-            "id": 83533,
+            "id": 299536,
             "media_type": "movie",
-            "release_date": "2025-12-17"
+            "release_date": "2018-04-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Madagascar: Escape 2 Africa",
+          "tmdb": {
+            "id": 10527,
+            "media_type": "movie",
+            "release_date": "2008-10-30"
           }
         },
         {
           "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Bee Movie",
           "tmdb": {
             "id": 5559,
             "media_type": "movie",
             "release_date": "2007-10-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Disney+ in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -756,15 +756,6 @@
         },
         {
           "rank": 6,
-          "title": "Avengers: Infinity War",
-          "tmdb": {
-            "id": 299536,
-            "media_type": "movie",
-            "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Madagascar",
           "tmdb": {
             "id": 953,
@@ -773,40 +764,49 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Avatar: Fire and Ash",
+          "rank": 7,
+          "title": "Avengers: Infinity War",
           "tmdb": {
-            "id": 83533,
+            "id": 299536,
             "media_type": "movie",
-            "release_date": "2025-12-17"
+            "release_date": "2018-04-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Madagascar: Escape 2 Africa",
+          "tmdb": {
+            "id": 10527,
+            "media_type": "movie",
+            "release_date": "2008-10-30"
           }
         },
         {
           "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Bee Movie",
           "tmdb": {
             "id": 5559,
             "media_type": "movie",
             "release_date": "2007-10-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Disney+ in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,15 +829,6 @@
         },
         {
           "rank": 3,
-          "title": "Star Wars: The Mandalorian and Grogu Official Podcast",
-          "tmdb": {
-            "id": 333575,
-            "media_type": "tv",
-            "release_date": "2026-09-02"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Furious",
           "tmdb": {
             "id": 287238,
@@ -846,21 +837,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Loki",
+          "rank": 4,
+          "title": "Star Wars: The Mandalorian and Grogu Official Podcast",
           "tmdb": {
-            "id": 84958,
+            "id": 333575,
             "media_type": "tv",
-            "release_date": "2021-06-09"
+            "release_date": "2026-09-02"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Bluey Compilations",
           "tmdb": {
             "id": 328337,
             "media_type": "tv",
             "release_date": "2026-07-02"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Loki",
+          "tmdb": {
+            "id": 84958,
+            "media_type": "tv",
+            "release_date": "2021-06-09"
           }
         },
         {
@@ -883,30 +883,30 @@
         },
         {
           "rank": 9,
+          "title": "Gravity Falls",
+          "tmdb": {
+            "id": 40075,
+            "media_type": "tv",
+            "release_date": "2012-06-15"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Dug Days",
           "tmdb": {
             "id": 114501,
             "media_type": "tv",
             "release_date": "2021-09-01"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Lion",
-          "tmdb": {
-            "id": 323557,
-            "media_type": "tv",
-            "release_date": "2026-08-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Mexico on September 8, 2026",
+      "heading": "TOP Overall on Amazon Prime in Mexico on September 9, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -920,20 +920,20 @@
         },
         {
           "rank": 2,
-          "title": "The Runner",
-          "tmdb": {
-            "id": 1386315,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Yo soy Betty la fea",
           "tmdb": {
             "id": 16286,
             "media_type": "tv",
             "release_date": "1999-10-25"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Runner",
+          "tmdb": {
+            "id": 1386315,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
           }
         },
         {
@@ -947,15 +947,6 @@
         },
         {
           "rank": 5,
-          "title": "Dracula",
-          "tmdb": {
-            "id": 1246049,
-            "media_type": "movie",
-            "release_date": "2025-07-30"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Reacher",
           "tmdb": {
             "id": 108978,
@@ -964,25 +955,16 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Dracula",
+          "tmdb": {
+            "id": 1246049,
+            "media_type": "movie",
+            "release_date": "2025-07-30"
+          }
+        },
+        {
           "rank": 7,
-          "title": "In the Grey",
-          "tmdb": {
-            "id": 1122573,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Last Sunrise",
-          "tmdb": {
-            "id": 1516698,
-            "media_type": "movie",
-            "release_date": "2026-08-26"
-          }
-        },
-        {
-          "rank": 9,
           "title": "We Bury the Dead",
           "tmdb": {
             "id": 1198984,
@@ -991,22 +973,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Dream Scenario",
+          "rank": 8,
+          "title": "In the Grey",
           "tmdb": {
-            "id": 823482,
+            "id": 1122573,
             "media_type": "movie",
-            "release_date": "2023-11-10"
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Last Sunrise",
+          "tmdb": {
+            "id": 1516698,
+            "media_type": "movie",
+            "release_date": "2026-08-26"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Betty la Fea, the Story Continues",
+          "tmdb": {
+            "id": 230424,
+            "media_type": "tv",
+            "release_date": "2024-07-19"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Amazon Prime in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1038,6 +1038,15 @@
         },
         {
           "rank": 4,
+          "title": "We Bury the Dead",
+          "tmdb": {
+            "id": 1198984,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "In the Grey",
           "tmdb": {
             "id": 1122573,
@@ -1046,21 +1055,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Last Sunrise",
           "tmdb": {
             "id": 1516698,
             "media_type": "movie",
             "release_date": "2026-08-26"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "We Bury the Dead",
-          "tmdb": {
-            "id": 1198984,
-            "media_type": "movie",
-            "release_date": "2026-01-01"
           }
         },
         {
@@ -1074,15 +1074,6 @@
         },
         {
           "rank": 8,
-          "title": "Small Things Like These",
-          "tmdb": {
-            "id": 1102493,
-            "media_type": "movie",
-            "release_date": "2024-11-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Turbulence",
           "tmdb": {
             "id": 1401778,
@@ -1091,22 +1082,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Hokum",
+          "rank": 9,
+          "title": "Me Before You",
           "tmdb": {
-            "id": 1430077,
+            "id": 296096,
             "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "2016-06-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Small Things Like These",
+          "tmdb": {
+            "id": 1102493,
+            "media_type": "movie",
+            "release_date": "2024-11-01"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1138,20 +1138,20 @@
         },
         {
           "rank": 4,
-          "title": "Sterling Point",
-          "tmdb": {
-            "id": 283297,
-            "media_type": "tv",
-            "release_date": "2026-08-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Betty la Fea, the Story Continues",
           "tmdb": {
             "id": 230424,
             "media_type": "tv",
             "release_date": "2024-07-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sterling Point",
+          "tmdb": {
+            "id": 283297,
+            "media_type": "tv",
+            "release_date": "2026-08-05"
           }
         },
         {
@@ -1165,11 +1165,11 @@
         },
         {
           "rank": 7,
-          "title": "La oficina",
+          "title": "Pa Seguirte Queriendo",
           "tmdb": {
-            "id": 275202,
+            "id": 329395,
             "media_type": "tv",
-            "release_date": "2026-03-13"
+            "release_date": "2026-07-20"
           }
         },
         {
@@ -1192,21 +1192,21 @@
         },
         {
           "rank": 10,
-          "title": "Pa Seguirte Queriendo",
+          "title": "La oficina",
           "tmdb": {
-            "id": 329395,
+            "id": 275202,
             "media_type": "tv",
-            "release_date": "2026-07-20"
+            "release_date": "2026-03-13"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Paramount+ in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1247,11 +1247,11 @@
         },
         {
           "rank": 5,
-          "title": "Transformers: Rise of the Beasts",
+          "title": "Tomb Raider",
           "tmdb": {
-            "id": 667538,
+            "id": 338970,
             "media_type": "movie",
-            "release_date": "2023-06-06"
+            "release_date": "2018-03-05"
           }
         },
         {
@@ -1274,39 +1274,39 @@
         },
         {
           "rank": 8,
+          "title": "Transformers: Rise of the Beasts",
+          "tmdb": {
+            "id": 667538,
+            "media_type": "movie",
+            "release_date": "2023-06-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Internship",
+          "tmdb": {
+            "id": 1584215,
+            "media_type": "movie",
+            "release_date": "2026-01-13"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Scream 7",
           "tmdb": {
             "id": 1159559,
             "media_type": "movie",
             "release_date": "2026-02-25"
           }
-        },
-        {
-          "rank": 9,
-          "title": "High Ground",
-          "tmdb": {
-            "id": 522466,
-            "media_type": "movie",
-            "release_date": "2021-01-28"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "RoboCop",
-          "tmdb": {
-            "id": 5548,
-            "media_type": "movie",
-            "release_date": "1987-07-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1338,20 +1338,20 @@
         },
         {
           "rank": 4,
-          "title": "Yellowstone",
-          "tmdb": {
-            "id": 73586,
-            "media_type": "tv",
-            "release_date": "2018-06-20"
-          }
-        },
-        {
-          "rank": 5,
           "title": "SEAL Team",
           "tmdb": {
             "id": 71789,
             "media_type": "tv",
             "release_date": "2017-09-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Yellowstone",
+          "tmdb": {
+            "id": 73586,
+            "media_type": "tv",
+            "release_date": "2018-06-20"
           }
         },
         {
@@ -1374,20 +1374,20 @@
         },
         {
           "rank": 8,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Sabrina, the Teenage Witch",
           "tmdb": {
             "id": 605,
             "media_type": "tv",
             "release_date": "1996-09-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Dutton Ranch",
+          "tmdb": {
+            "id": 299167,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
           }
         },
         {
@@ -1403,10 +1403,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Apple TV in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1483,30 +1483,30 @@
         },
         {
           "rank": 9,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
             "media_type": "movie",
             "release_date": "2025-11-11"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Apple TV in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1547,20 +1547,20 @@
         },
         {
           "rank": 5,
-          "title": "Lucky",
-          "tmdb": {
-            "id": 278624,
-            "media_type": "tv",
-            "release_date": "2026-07-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
             "media_type": "tv",
             "release_date": "2023-11-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
           }
         },
         {
@@ -1574,20 +1574,20 @@
         },
         {
           "rank": 8,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Invasion",
           "tmdb": {
             "id": 127235,
             "media_type": "tv",
             "release_date": "2021-10-21"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
           }
         },
         {
@@ -1603,10 +1603,10 @@
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Amazon in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1629,6 +1629,15 @@
         },
         {
           "rank": 3,
+          "title": "Practical Magic",
+          "tmdb": {
+            "id": 6435,
+            "media_type": "movie",
+            "release_date": "1998-10-16"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
@@ -1637,7 +1646,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
@@ -1646,7 +1655,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
@@ -1655,58 +1664,49 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Jackass: Best and Last",
-          "tmdb": {
-            "id": 1612018,
-            "media_type": "movie",
-            "release_date": "2026-06-25"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Minions & Monsters",
+          "title": "Evil Dead Burn",
           "tmdb": {
-            "id": 1315772,
+            "id": 1212763,
             "media_type": "movie",
-            "release_date": "2026-06-24"
+            "release_date": "2026-07-07"
           }
         },
         {
           "rank": 8,
-          "title": "Practical Magic",
+          "title": "Batman: Knightfall Part 1: Knightfall",
           "tmdb": {
-            "id": 6435,
+            "id": 1560520,
             "media_type": "movie",
-            "release_date": "1998-10-16"
+            "release_date": "2026-06-23"
           }
         },
         {
           "rank": 9,
-          "title": "Mortal Kombat II",
-          "tmdb": {
-            "id": 931285,
-            "media_type": "movie",
-            "release_date": "2026-05-06"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Invite",
           "tmdb": {
             "id": 950028,
             "media_type": "movie",
             "release_date": "2026-06-25"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Minions & Monsters",
+          "tmdb": {
+            "id": 1315772,
+            "media_type": "movie",
+            "release_date": "2026-06-24"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Apple TV Store in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1720,15 +1720,6 @@
         },
         {
           "rank": 2,
-          "title": "Backrooms",
-          "tmdb": {
-            "id": 1083381,
-            "media_type": "movie",
-            "release_date": "2026-05-27"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1737,25 +1728,16 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
           "rank": 4,
-          "title": "The Invite",
-          "tmdb": {
-            "id": 950028,
-            "media_type": "movie",
-            "release_date": "2026-06-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Three Steps Above Heaven",
           "tmdb": {
             "id": 61979,
@@ -1764,25 +1746,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Tuner",
+          "rank": 5,
+          "title": "The Invite",
           "tmdb": {
-            "id": 1340206,
+            "id": 950028,
             "media_type": "movie",
-            "release_date": "2026-05-21"
+            "release_date": "2026-06-25"
           }
         },
         {
-          "rank": 8,
-          "title": "Scary Movie",
-          "tmdb": {
-            "id": 1273221,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "Practical Magic",
           "tmdb": {
             "id": 6435,
@@ -1791,22 +1764,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Evil Dead Burn",
+          "rank": 7,
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 1212763,
+            "id": 1273221,
             "media_type": "movie",
-            "release_date": "2026-07-07"
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Batman: Knightfall Part 1: Knightfall",
+          "tmdb": {
+            "id": 1560520,
+            "media_type": "movie",
+            "release_date": "2026-06-23"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Google in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1903,10 +1903,10 @@
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Mexico on September 8, 2026",
+      "heading": "TOP Movies on Claro Video in Mexico on September 9, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2003,10 +2003,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Mexico on September 8, 2026",
+      "heading": "TOP TV Shows on Claro Video in Mexico on September 9, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "September 8, 2026",
+      "date": "September 9, 2026",
       "title_count": 10,
       "entries": [
         {
