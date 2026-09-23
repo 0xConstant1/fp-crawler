@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/south-africa/",
-  "page_title": "TOP 10 on Streaming in South Africa on September 22, 2026",
+  "page_title": "TOP 10 on Streaming in South Africa on September 23, 2026",
   "region": "south-africa",
-  "date": "September 22, 2026",
-  "scraped_at_utc": "2026-09-22T19:08:01.147039+00:00",
+  "date": "September 23, 2026",
+  "scraped_at_utc": "2026-09-23T19:12:09.167203+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in South Africa on September 22, 2026",
+      "heading": "TOP Movies on Netflix in South Africa on September 23, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "Monster-in-Law",
+          "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
           "tmdb": {
-            "id": 4379,
+            "id": 495764,
             "media_type": "movie",
-            "release_date": "2005-05-13"
+            "release_date": "2020-02-05"
           }
         },
         {
@@ -96,21 +96,21 @@
         },
         {
           "rank": 10,
-          "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+          "title": "Monster-in-Law",
           "tmdb": {
-            "id": 495764,
+            "id": 4379,
             "media_type": "movie",
-            "release_date": "2020-02-05"
+            "release_date": "2005-05-13"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in South Africa on September 22, 2026",
+      "heading": "TOP TV Shows on Netflix in South Africa on September 23, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,20 +142,20 @@
         },
         {
           "rank": 4,
-          "title": "The Gentlemen",
-          "tmdb": {
-            "id": 236235,
-            "media_type": "tv",
-            "release_date": "2024-03-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Four of Us",
           "tmdb": {
             "id": 327273,
             "media_type": "tv",
             "release_date": "2026-06-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Gentlemen",
+          "tmdb": {
+            "id": 236235,
+            "media_type": "tv",
+            "release_date": "2024-03-07"
           }
         },
         {
@@ -196,21 +196,221 @@
         },
         {
           "rank": 10,
-          "title": "Queendom",
+          "title": "Minerva Academy",
           "tmdb": {
-            "id": 91678,
+            "id": 312557,
             "media_type": "tv",
-            "release_date": "2019-08-29"
+            "release_date": "2026-09-22"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in South Africa on September 23, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "September 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "The Breadwinner",
+          "tmdb": {
+            "id": 1440050,
+            "media_type": "movie",
+            "release_date": "2026-05-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Spider-Man: Into the Spider-Verse",
+          "tmdb": {
+            "id": 324857,
+            "media_type": "movie",
+            "release_date": "2018-12-06"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "GOAT",
+          "tmdb": {
+            "id": 1297842,
+            "media_type": "movie",
+            "release_date": "2026-02-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Shrek",
+          "tmdb": {
+            "id": 808,
+            "media_type": "movie",
+            "release_date": "2001-05-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Sonic the Hedgehog 3",
+          "tmdb": {
+            "id": 939243,
+            "media_type": "movie",
+            "release_date": "2024-12-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Cat in the Hat",
+          "tmdb": {
+            "id": 10588,
+            "media_type": "movie",
+            "release_date": "2003-11-21"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bee Movie",
+          "tmdb": {
+            "id": 5559,
+            "media_type": "movie",
+            "release_date": "2007-10-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Little Rascals",
+          "tmdb": {
+            "id": 10897,
+            "media_type": "movie",
+            "release_date": "1994-08-05"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in South Africa on September 23, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "September 23, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Cocomelon",
+          "tmdb": {
+            "id": 114718,
+            "media_type": "tv",
+            "release_date": "2020-05-31"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Middle",
+          "tmdb": {
+            "id": 1422,
+            "media_type": "tv",
+            "release_date": "2009-09-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Detetive Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in South Africa on September 22, 2026",
+      "heading": "TOP Overall on Amazon Prime in South Africa on September 23, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -260,20 +460,20 @@
         },
         {
           "rank": 6,
-          "title": "The Last Sunrise",
-          "tmdb": {
-            "id": 1516698,
-            "media_type": "movie",
-            "release_date": "2026-08-26"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Grand Tour",
           "tmdb": {
             "id": 67557,
             "media_type": "tv",
             "release_date": "2016-11-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Last Sunrise",
+          "tmdb": {
+            "id": 1516698,
+            "media_type": "movie",
+            "release_date": "2026-08-26"
           }
         },
         {
@@ -307,10 +507,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in South Africa on September 22, 2026",
+      "heading": "TOP Movies on Amazon Prime in South Africa on September 23, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -360,15 +560,6 @@
         },
         {
           "rank": 6,
-          "title": "Greenland 2: Migration",
-          "tmdb": {
-            "id": 840464,
-            "media_type": "movie",
-            "release_date": "2026-01-07"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Sinkhole",
           "tmdb": {
             "id": 623135,
@@ -377,7 +568,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Greenland 2: Migration",
+          "tmdb": {
+            "id": 840464,
+            "media_type": "movie",
+            "release_date": "2026-01-07"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Zoo Break Out",
+          "tmdb": {
+            "id": 1719718,
+            "media_type": "movie",
+            "release_date": null
+          }
+        },
+        {
+          "rank": 9,
           "title": "Cold Storage",
           "tmdb": {
             "id": 696393,
@@ -386,31 +595,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "A Working Man",
-          "tmdb": {
-            "id": 1197306,
-            "media_type": "movie",
-            "release_date": "2025-03-26"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Tomb Raider",
+          "title": "Murder on the 13th Floor",
           "tmdb": {
-            "id": 338970,
+            "id": 171375,
             "media_type": "movie",
-            "release_date": "2018-03-05"
+            "release_date": "2012-05-18"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in South Africa on September 22, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in South Africa on September 23, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -478,20 +678,20 @@
         },
         {
           "rank": 8,
-          "title": "A Love Other Than Yours",
-          "tmdb": {
-            "id": 314939,
-            "media_type": "tv",
-            "release_date": "2026-09-12"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Summer I Turned Pretty",
           "tmdb": {
             "id": 194766,
             "media_type": "tv",
             "release_date": "2022-06-16"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "A Love Other Than Yours",
+          "tmdb": {
+            "id": 314939,
+            "media_type": "tv",
+            "release_date": "2026-09-12"
           }
         },
         {
@@ -507,10 +707,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in South Africa on September 22, 2026",
+      "heading": "TOP Movies on Apple TV in South Africa on September 23, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -560,11 +760,11 @@
         },
         {
           "rank": 6,
-          "title": "Charlie's Angels",
+          "title": "The Gorge",
           "tmdb": {
-            "id": 4327,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2000-11-02"
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -578,11 +778,11 @@
         },
         {
           "rank": 8,
-          "title": "The Gorge",
+          "title": "Charlie's Angels",
           "tmdb": {
-            "id": 950396,
+            "id": 4327,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2000-11-02"
           }
         },
         {
@@ -607,10 +807,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in South Africa on September 22, 2026",
+      "heading": "TOP TV Shows on Apple TV in South Africa on September 23, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -669,20 +869,20 @@
         },
         {
           "rank": 7,
-          "title": "Lucky",
-          "tmdb": {
-            "id": 278624,
-            "media_type": "tv",
-            "release_date": "2026-07-14"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
           }
         },
         {
@@ -707,10 +907,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in South Africa on September 22, 2026",
+      "heading": "TOP Movies on Apple TV Store in South Africa on September 23, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "September 22, 2026",
+      "date": "September 23, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -724,11 +924,11 @@
         },
         {
           "rank": 2,
-          "title": "The Death of Robin Hood",
+          "title": "Lucky Strike",
           "tmdb": {
-            "id": 1284465,
+            "id": 1594914,
             "media_type": "movie",
-            "release_date": "2026-06-18"
+            "release_date": "2026-06-26"
           }
         },
         {
@@ -742,20 +942,20 @@
         },
         {
           "rank": 4,
-          "title": "Lucky Strike",
+          "title": "The Death of Robin Hood",
           "tmdb": {
-            "id": 1594914,
+            "id": 1284465,
             "media_type": "movie",
-            "release_date": "2026-06-26"
+            "release_date": "2026-06-18"
           }
         },
         {
           "rank": 5,
-          "title": "Disclosure Day",
+          "title": "Obsession",
           "tmdb": {
-            "id": 1275779,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2026-06-10"
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -769,29 +969,29 @@
         },
         {
           "rank": 7,
-          "title": "Obsession",
+          "title": "Disclosure Day",
           "tmdb": {
-            "id": 1339713,
+            "id": 1275779,
             "media_type": "movie",
-            "release_date": "2026-05-13"
+            "release_date": "2026-06-10"
           }
         },
         {
           "rank": 8,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Supergirl",
           "tmdb": {
             "id": 1081003,
             "media_type": "movie",
             "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
           }
         },
         {
