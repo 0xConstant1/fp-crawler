@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/canada/",
-  "page_title": "TOP 10 on Streaming in Canada on September 26, 2026",
+  "page_title": "TOP 10 on Streaming in Canada on September 27, 2026",
   "region": "canada",
-  "date": "September 26, 2026",
-  "scraped_at_utc": "2026-09-26T18:43:51.590724+00:00",
+  "date": "September 27, 2026",
+  "scraped_at_utc": "2026-09-27T19:13:56.418039+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Canada on September 26, 2026",
+      "heading": "TOP Movies on Netflix in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -42,20 +42,20 @@
         },
         {
           "rank": 4,
+          "title": "Bagman",
+          "tmdb": {
+            "id": 978796,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Best of the Best",
           "tmdb": {
             "id": 1514863,
             "media_type": "movie",
             "release_date": "2026-09-18"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Man in the Iron Mask",
-          "tmdb": {
-            "id": 9313,
-            "media_type": "movie",
-            "release_date": "1998-03-12"
           }
         },
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "Never Let Go",
+          "title": "The Man in the Iron Mask",
           "tmdb": {
-            "id": 814889,
+            "id": 9313,
             "media_type": "movie",
-            "release_date": "2024-09-18"
+            "release_date": "1998-03-12"
           }
         },
         {
@@ -96,30 +96,25 @@
         },
         {
           "rank": 10,
-          "title": "Safe House",
+          "title": "Never Let Go",
           "tmdb": {
-            "id": 1522923,
+            "id": 814889,
             "media_type": "movie",
-            "release_date": "2025-10-30"
+            "release_date": "2024-09-18"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Netflix in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "WWE SmackDown",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
           "title": "Monster: The Lizzie Borden Story",
           "tmdb": {
             "id": 299939,
@@ -128,7 +123,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Wonka's The Golden Ticket",
           "tmdb": {
             "id": 286940,
@@ -137,25 +132,12 @@
           }
         },
         {
+          "rank": 3,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
           "rank": 4,
-          "title": "Shaque: Trust No One",
-          "tmdb": {
-            "id": 285147,
-            "media_type": "tv",
-            "release_date": "2026-09-24"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Not a Stranger",
-          "tmdb": {
-            "id": 320760,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 6,
           "title": "A Different World",
           "tmdb": {
             "id": 305357,
@@ -164,25 +146,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Great Indian Kapil Show",
+          "tmdb": {
+            "id": 247769,
+            "media_type": "tv",
+            "release_date": "2024-03-30"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Shaque: Trust No One",
+          "tmdb": {
+            "id": 285147,
+            "media_type": "tv",
+            "release_date": "2026-09-24"
+          }
+        },
+        {
           "rank": 7,
-          "title": "Crew Girl",
-          "tmdb": {
-            "id": 300507,
-            "media_type": "tv",
-            "release_date": "2026-09-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Gentlemen",
-          "tmdb": {
-            "id": 236235,
-            "media_type": "tv",
-            "release_date": "2024-03-07"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Final Problem",
           "tmdb": {
             "id": 290720,
@@ -191,22 +173,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Dance Moms",
+          "rank": 8,
+          "title": "Not a Stranger",
           "tmdb": {
-            "id": 40026,
+            "id": 320760,
             "media_type": "tv",
-            "release_date": "2011-07-13"
+            "release_date": "2026-09-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Crew Girl",
+          "tmdb": {
+            "id": 300507,
+            "media_type": "tv",
+            "release_date": "2026-09-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Gentlemen",
+          "tmdb": {
+            "id": 236235,
+            "media_type": "tv",
+            "release_date": "2024-03-07"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Canada on September 26, 2026",
+      "heading": "TOP Kids Movies on Netflix in Canada on September 27, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Canada on September 26, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Canada on September 27, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -329,20 +329,20 @@
         },
         {
           "rank": 3,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Danny Go!",
           "tmdb": {
             "id": 258124,
             "media_type": "tv",
             "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
           }
         },
         {
@@ -365,24 +365,6 @@
         },
         {
           "rank": 7,
-          "title": "Sealook",
-          "tmdb": {
-            "id": 329710,
-            "media_type": "tv",
-            "release_date": "2023-11-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Paw Patrol",
-          "tmdb": {
-            "id": 57532,
-            "media_type": "tv",
-            "release_date": "2013-08-12"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Is It Cake? Halloween",
           "tmdb": {
             "id": 300594,
@@ -391,22 +373,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
             "media_type": "tv",
             "release_date": "2026-04-11"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Paw Patrol",
+          "tmdb": {
+            "id": 57532,
+            "media_type": "tv",
+            "release_date": "2013-08-12"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sealook",
+          "tmdb": {
+            "id": 329710,
+            "media_type": "tv",
+            "release_date": "2023-11-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Canada on September 26, 2026",
+      "heading": "TOP Overall on Disney+ in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,111 +420,11 @@
         },
         {
           "rank": 2,
-          "title": "Modern Family",
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
           "tmdb": {
-            "id": 1421,
-            "media_type": "tv",
-            "release_date": "2009-09-23"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Simpsons",
-          "tmdb": {
-            "id": 456,
-            "media_type": "tv",
-            "release_date": "1989-12-17"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Bluey",
-          "tmdb": {
-            "id": 82728,
-            "media_type": "tv",
-            "release_date": "2018-10-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Family Guy",
-          "tmdb": {
-            "id": 1434,
-            "media_type": "tv",
-            "release_date": "1999-01-31"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "American Horror Story",
-          "tmdb": {
-            "id": 1413,
-            "media_type": "tv",
-            "release_date": "2011-10-05"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Dancing with the Stars",
-          "tmdb": {
-            "id": 1508,
-            "media_type": "tv",
-            "release_date": "2005-06-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Secret Lives of Mormon Wives",
-          "tmdb": {
-            "id": 261102,
-            "media_type": "tv",
-            "release_date": "2024-09-06"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Bob's Burgers",
-          "tmdb": {
-            "id": 32726,
-            "media_type": "tv",
-            "release_date": "2011-01-09"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
+            "id": 1750432,
             "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Canada on September 26, 2026",
-      "category": "movies",
-      "platform": "Disney+",
-      "date": "September 26, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toy Story 5",
-          "tmdb": {
-            "id": 1084244,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Toy Story",
-          "tmdb": {
-            "id": 862,
-            "media_type": "movie",
-            "release_date": "1995-11-22"
+            "release_date": "2026-09-24"
           }
         },
         {
@@ -538,11 +438,11 @@
         },
         {
           "rank": 4,
-          "title": "Toy Story 2",
+          "title": "Toy Story",
           "tmdb": {
-            "id": 863,
+            "id": 862,
             "media_type": "movie",
-            "release_date": "1999-10-30"
+            "release_date": "1995-11-22"
           }
         },
         {
@@ -556,6 +456,24 @@
         },
         {
           "rank": 6,
+          "title": "FX's American Horror Story Official Podcast",
+          "tmdb": {
+            "id": 334707,
+            "media_type": "tv",
+            "release_date": "2026-09-24"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -564,7 +482,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -573,21 +491,103 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
             "media_type": "movie",
             "release_date": "2018-04-25"
           }
+        }
+      ]
+    },
+    {
+      "catalog_id": "disney.movies",
+      "heading": "TOP Movies on Disney+ in Canada on September 27, 2026",
+      "category": "movies",
+      "platform": "Disney+",
+      "date": "September 27, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "tmdb": {
+            "id": 1750432,
+            "media_type": "movie",
+            "release_date": "2026-09-24"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Mandalorian and Grogu",
+          "tmdb": {
+            "id": 1228710,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Toy Story",
+          "tmdb": {
+            "id": 862,
+            "media_type": "movie",
+            "release_date": "1995-11-22"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Practical Magic",
+          "tmdb": {
+            "id": 6435,
+            "media_type": "movie",
+            "release_date": "1998-10-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Toy Story 2",
+          "tmdb": {
+            "id": 863,
+            "media_type": "movie",
+            "release_date": "1999-10-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Toy Story 4",
+          "tmdb": {
+            "id": 301528,
+            "media_type": "movie",
+            "release_date": "2019-06-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Toy Story 3",
+          "tmdb": {
+            "id": 10193,
+            "media_type": "movie",
+            "release_date": "2010-06-16"
+          }
         },
         {
           "rank": 9,
-          "title": "Toy Story Back-To-School Lunchbox Disaster!",
+          "title": "Avengers: Infinity War",
           "tmdb": {
-            "id": 1747644,
+            "id": 299536,
             "media_type": "movie",
-            "release_date": "2026-08-10"
+            "release_date": "2018-04-25"
           }
         },
         {
@@ -603,14 +603,23 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Disney+ in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "FX's American Horror Story Official Podcast",
+          "tmdb": {
+            "id": 334707,
+            "media_type": "tv",
+            "release_date": "2026-09-24"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Adults",
           "tmdb": {
             "id": 260458,
@@ -619,7 +628,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Welcome to the Family: The Murder of Dan Markel",
           "tmdb": {
             "id": 333058,
@@ -628,34 +637,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Drop: A Snowfall Saga",
-          "tmdb": {
-            "id": 304842,
-            "media_type": "tv",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
           "rank": 4,
-          "title": "The Secret Lives of Mormon Wives",
-          "tmdb": {
-            "id": 261102,
-            "media_type": "tv",
-            "release_date": "2024-09-06"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "R.J. Decker",
-          "tmdb": {
-            "id": 302074,
-            "media_type": "tv",
-            "release_date": "2026-03-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Furious",
           "tmdb": {
             "id": 287238,
@@ -664,7 +646,34 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Drop: A Snowfall Saga",
+          "tmdb": {
+            "id": 304842,
+            "media_type": "tv",
+            "release_date": "2026-09-08"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Secret Lives of Mormon Wives",
+          "tmdb": {
+            "id": 261102,
+            "media_type": "tv",
+            "release_date": "2024-09-06"
+          }
+        },
+        {
           "rank": 7,
+          "title": "R.J. Decker",
+          "tmdb": {
+            "id": 302074,
+            "media_type": "tv",
+            "release_date": "2026-03-03"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Chad Powers",
           "tmdb": {
             "id": 247168,
@@ -673,7 +682,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "House of Stassi",
           "tmdb": {
             "id": 321954,
@@ -682,31 +691,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dancing with the Stars",
-          "tmdb": {
-            "id": 1508,
-            "media_type": "tv",
-            "release_date": "2005-06-01"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Loki",
+          "title": "American Horror Story",
           "tmdb": {
-            "id": 84958,
+            "id": 1413,
             "media_type": "tv",
-            "release_date": "2021-06-09"
+            "release_date": "2011-10-05"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Canada on September 26, 2026",
+      "heading": "TOP Overall on Amazon Prime in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -747,15 +747,6 @@
         },
         {
           "rank": 5,
-          "title": "The Pendragon Cycle: Rise of the Merlin",
-          "tmdb": {
-            "id": 235685,
-            "media_type": "tv",
-            "release_date": "2026-01-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -764,12 +755,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Sterling Point",
+          "rank": 6,
+          "title": "Drawn Together",
           "tmdb": {
-            "id": 283297,
+            "id": 1440098,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Pendragon Cycle: Rise of the Merlin",
+          "tmdb": {
+            "id": 235685,
             "media_type": "tv",
-            "release_date": "2026-08-05"
+            "release_date": "2026-01-22"
           }
         },
         {
@@ -783,30 +783,30 @@
         },
         {
           "rank": 9,
-          "title": "Drawn Together",
+          "title": "Backrooms",
           "tmdb": {
-            "id": 1440098,
+            "id": 1083381,
             "media_type": "movie",
-            "release_date": "2026-09-09"
+            "release_date": "2026-05-27"
           }
         },
         {
           "rank": 10,
-          "title": "Off Campus",
+          "title": "Sterling Point",
           "tmdb": {
-            "id": 273240,
+            "id": 283297,
             "media_type": "tv",
-            "release_date": "2026-05-13"
+            "release_date": "2026-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Canada on September 26, 2026",
+      "heading": "TOP Movies on Amazon Prime in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -838,15 +838,6 @@
         },
         {
           "rank": 4,
-          "title": "Wildcat",
-          "tmdb": {
-            "id": 1448560,
-            "media_type": "movie",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Drawn Together",
           "tmdb": {
             "id": 1440098,
@@ -855,21 +846,30 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Wildcat",
+          "tmdb": {
+            "id": 1448560,
+            "media_type": "movie",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Last Sunrise",
           "tmdb": {
             "id": 1516698,
             "media_type": "movie",
             "release_date": "2026-08-26"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "You+Me – Against the World",
-          "tmdb": {
-            "id": 1641629,
-            "media_type": "movie",
-            "release_date": "2026-09-18"
           }
         },
         {
@@ -883,30 +883,30 @@
         },
         {
           "rank": 9,
-          "title": "Boulevard",
+          "title": "You+Me – Against the World",
           "tmdb": {
-            "id": 1595852,
+            "id": 1641629,
             "media_type": "movie",
-            "release_date": "2026-04-10"
+            "release_date": "2026-09-18"
           }
         },
         {
           "rank": 10,
-          "title": "Project Hail Mary",
+          "title": "The Get Out",
           "tmdb": {
-            "id": 687163,
+            "id": 1279493,
             "media_type": "movie",
-            "release_date": "2026-03-15"
+            "release_date": "2026-06-18"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -965,6 +965,15 @@
         },
         {
           "rank": 7,
+          "title": "Gray",
+          "tmdb": {
+            "id": 235727,
+            "media_type": "tv",
+            "release_date": "2023-09-22"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Grand Tour",
           "tmdb": {
             "id": 67557,
@@ -973,21 +982,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "World's Most Evil Women",
           "tmdb": {
             "id": 333396,
             "media_type": "tv",
             "release_date": "2026-08-17"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Gray",
-          "tmdb": {
-            "id": 235727,
-            "media_type": "tv",
-            "release_date": "2023-09-22"
           }
         },
         {
@@ -1003,10 +1003,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Canada on September 26, 2026",
+      "heading": "TOP Movies on Paramount+ in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1047,15 +1047,6 @@
         },
         {
           "rank": 5,
-          "title": "One Mile: Chapter One",
-          "tmdb": {
-            "id": 1327688,
-            "media_type": "movie",
-            "release_date": "2026-02-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Hunting Season",
           "tmdb": {
             "id": 1387382,
@@ -1064,21 +1055,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "One Mile: Chapter Two",
-          "tmdb": {
-            "id": 1327690,
-            "media_type": "movie",
-            "release_date": "2026-02-27"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Brothers Under Fire",
           "tmdb": {
             "id": 1414413,
             "media_type": "movie",
             "release_date": "2026-04-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "One Mile: Chapter One",
+          "tmdb": {
+            "id": 1327688,
+            "media_type": "movie",
+            "release_date": "2026-02-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "One Mile: Chapter Two",
+          "tmdb": {
+            "id": 1327690,
+            "media_type": "movie",
+            "release_date": "2026-02-27"
           }
         },
         {
@@ -1103,10 +1103,10 @@
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1156,15 +1156,6 @@
         },
         {
           "rank": 6,
-          "title": "Star Trek: Strange New Worlds",
-          "tmdb": {
-            "id": 103516,
-            "media_type": "tv",
-            "release_date": "2022-05-05"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Criminal Minds",
           "tmdb": {
             "id": 4057,
@@ -1173,16 +1164,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Family Matters",
-          "tmdb": {
-            "id": 2685,
-            "media_type": "tv",
-            "release_date": "1989-09-22"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Survivor",
           "tmdb": {
             "id": 14658,
@@ -1191,22 +1173,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Landman",
           "tmdb": {
             "id": 157741,
             "media_type": "tv",
             "release_date": "2024-11-17"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Family Matters",
+          "tmdb": {
+            "id": 2685,
+            "media_type": "tv",
+            "release_date": "1989-09-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Star Trek: Strange New Worlds",
+          "tmdb": {
+            "id": 103516,
+            "media_type": "tv",
+            "release_date": "2022-05-05"
+          }
         }
       ]
     },
     {
       "catalog_id": "paramount.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1238,15 +1238,6 @@
         },
         {
           "rank": 4,
-          "title": "The Challenge",
-          "tmdb": {
-            "id": 62,
-            "media_type": "tv",
-            "release_date": "1998-04-20"
-          }
-        },
-        {
-          "rank": 5,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1255,25 +1246,16 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Jackass: Best and Last",
+          "tmdb": {
+            "id": 1612018,
+            "media_type": "movie",
+            "release_date": "2026-06-25"
+          }
+        },
+        {
           "rank": 6,
-          "title": "Dutton Ranch",
-          "tmdb": {
-            "id": 299167,
-            "media_type": "tv",
-            "release_date": "2026-05-15"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Alone Australia",
-          "tmdb": {
-            "id": 223418,
-            "media_type": "tv",
-            "release_date": "2023-03-29"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
@@ -1282,12 +1264,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Jackass: Best and Last",
+          "rank": 7,
+          "title": "The Challenge",
           "tmdb": {
-            "id": 1612018,
-            "media_type": "movie",
-            "release_date": "2026-06-25"
+            "id": 62,
+            "media_type": "tv",
+            "release_date": "1998-04-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Dutton Ranch",
+          "tmdb": {
+            "id": 299167,
+            "media_type": "tv",
+            "release_date": "2026-05-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Alone Australia",
+          "tmdb": {
+            "id": 223418,
+            "media_type": "tv",
+            "release_date": "2023-03-29"
           }
         },
         {
@@ -1303,10 +1303,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Canada on September 26, 2026",
+      "heading": "TOP Movies on Apple TV in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1320,20 +1320,20 @@
         },
         {
           "rank": 2,
-          "title": "The Martian",
-          "tmdb": {
-            "id": 286217,
-            "media_type": "movie",
-            "release_date": "2015-09-30"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Dink",
           "tmdb": {
             "id": 1361774,
             "media_type": "movie",
             "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Martian",
+          "tmdb": {
+            "id": 286217,
+            "media_type": "movie",
+            "release_date": "2015-09-30"
           }
         },
         {
@@ -1365,11 +1365,11 @@
         },
         {
           "rank": 7,
-          "title": "Step Brothers",
+          "title": "The Gorge",
           "tmdb": {
-            "id": 12133,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2008-07-25"
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -1383,11 +1383,11 @@
         },
         {
           "rank": 9,
-          "title": "The Gorge",
+          "title": "Step Brothers",
           "tmdb": {
-            "id": 950396,
+            "id": 12133,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2008-07-25"
           }
         },
         {
@@ -1403,10 +1403,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Apple TV in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1438,20 +1438,20 @@
         },
         {
           "rank": 4,
-          "title": "Dark Matter",
-          "tmdb": {
-            "id": 196322,
-            "media_type": "tv",
-            "release_date": "2024-05-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
           }
         },
         {
@@ -1503,10 +1503,10 @@
     },
     {
       "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1529,11 +1529,11 @@
         },
         {
           "rank": 3,
-          "title": "Slow Horses",
+          "title": "Mayday",
           "tmdb": {
-            "id": 95480,
+            "id": 90,
             "media_type": "tv",
-            "release_date": "2022-04-01"
+            "release_date": "2003-09-03"
           }
         },
         {
@@ -1547,15 +1547,6 @@
         },
         {
           "rank": 5,
-          "title": "Mayday",
-          "tmdb": {
-            "id": 1137844,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
@@ -1564,16 +1555,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Last Seen",
+          "rank": 6,
+          "title": "Slow Horses",
           "tmdb": {
-            "id": 258230,
+            "id": 95480,
             "media_type": "tv",
-            "release_date": "2026-09-09"
+            "release_date": "2022-04-01"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
@@ -1582,31 +1573,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
           "rank": 9,
+          "title": "The Family Plan",
+          "tmdb": {
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Fountain of Youth",
           "tmdb": {
             "id": 1098006,
             "media_type": "movie",
             "release_date": "2025-05-19"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Your Friends & Neighbors",
-          "tmdb": {
-            "id": 241609,
-            "media_type": "tv",
-            "release_date": "2025-04-10"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Canada on September 26, 2026",
+      "heading": "TOP Movies on Amazon in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1638,11 +1638,11 @@
         },
         {
           "rank": 4,
-          "title": "Backrooms",
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1083381,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2026-05-27"
+            "release_date": "2026-06-24"
           }
         },
         {
@@ -1674,39 +1674,39 @@
         },
         {
           "rank": 8,
-          "title": "The Death of Robin Hood",
-          "tmdb": {
-            "id": 1284465,
-            "media_type": "movie",
-            "release_date": "2026-06-18"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Evil Dead Burn",
           "tmdb": {
             "id": 1212763,
             "media_type": "movie",
             "release_date": "2026-07-07"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Michael",
+          "tmdb": {
+            "id": 936075,
+            "media_type": "movie",
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Death of Robin Hood",
+          "tmdb": {
+            "id": 1284465,
+            "media_type": "movie",
+            "release_date": "2026-06-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Canada on September 26, 2026",
+      "heading": "TOP Movies on Apple TV Store in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1738,15 +1738,6 @@
         },
         {
           "rank": 4,
-          "title": "Braveheart",
-          "tmdb": {
-            "id": 197,
-            "media_type": "movie",
-            "release_date": "1995-05-24"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Hokum",
           "tmdb": {
             "id": 1430077,
@@ -1755,25 +1746,25 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Backrooms",
+          "rank": 5,
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1083381,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2026-05-27"
+            "release_date": "2026-06-24"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Braveheart",
+          "tmdb": {
+            "id": 197,
+            "media_type": "movie",
+            "release_date": "1995-05-24"
           }
         },
         {
           "rank": 7,
-          "title": "Super Troopers 3",
-          "tmdb": {
-            "id": 675871,
-            "media_type": "movie",
-            "release_date": "2026-08-06"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Tony",
           "tmdb": {
             "id": 1329016,
@@ -1782,7 +1773,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Spa Weekend",
           "tmdb": {
             "id": 1341138,
@@ -1791,22 +1782,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Minions & Monsters",
+          "rank": 9,
+          "title": "Tuner",
           "tmdb": {
-            "id": 1315772,
+            "id": 1340206,
             "media_type": "movie",
-            "release_date": "2026-06-24"
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Magic Faraway Tree",
+          "tmdb": {
+            "id": 1140521,
+            "media_type": "movie",
+            "release_date": "2026-03-26"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in Canada on September 26, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in Canada on September 27, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1820,24 +1820,6 @@
         },
         {
           "rank": 2,
-          "title": "American Horror Story",
-          "tmdb": {
-            "id": 1413,
-            "media_type": "tv",
-            "release_date": "2011-10-05"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Star Trek: The Next Generation",
-          "tmdb": {
-            "id": 655,
-            "media_type": "tv",
-            "release_date": "1987-09-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Over the Garden Wall",
           "tmdb": {
             "id": 61617,
@@ -1846,7 +1828,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "American Horror Story",
+          "tmdb": {
+            "id": 1413,
+            "media_type": "tv",
+            "release_date": "2011-10-05"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Last Kingdom",
           "tmdb": {
             "id": 63333,
@@ -1855,12 +1846,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Rockford Files",
           "tmdb": {
             "id": 954,
             "media_type": "tv",
             "release_date": "1974-09-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Girl in the Basement",
+          "tmdb": {
+            "id": 801335,
+            "media_type": "movie",
+            "release_date": "2021-02-27"
           }
         },
         {
@@ -1874,15 +1874,6 @@
         },
         {
           "rank": 8,
-          "title": "PEN15",
-          "tmdb": {
-            "id": 85702,
-            "media_type": "tv",
-            "release_date": "2019-02-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "MobLand",
           "tmdb": {
             "id": 247718,
@@ -1891,22 +1882,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Las Vegas",
+          "rank": 9,
+          "title": "PEN15",
           "tmdb": {
-            "id": 2389,
+            "id": 85702,
             "media_type": "tv",
-            "release_date": "2003-09-22"
+            "release_date": "2019-02-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Outlander",
+          "tmdb": {
+            "id": 56570,
+            "media_type": "tv",
+            "release_date": "2014-08-09"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Canada on September 26, 2026",
+      "heading": "TOP Movies on Google in Canada on September 27, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2003,10 +2003,10 @@
     },
     {
       "catalog_id": "starz.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Starz in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Starz in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Starz",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2047,6 +2047,24 @@
         },
         {
           "rank": 5,
+          "title": "Corpse Bride",
+          "tmdb": {
+            "id": 3933,
+            "media_type": "movie",
+            "release_date": "2005-09-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Super Mario Bros. Movie",
+          "tmdb": {
+            "id": 502356,
+            "media_type": "movie",
+            "release_date": "2023-04-05"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Grown Ups",
           "tmdb": {
             "id": 38365,
@@ -2055,30 +2073,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Zombieland",
           "tmdb": {
             "id": 19908,
             "media_type": "movie",
             "release_date": "2009-10-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Hobbit: An Unexpected Journey",
-          "tmdb": {
-            "id": 49051,
-            "media_type": "movie",
-            "release_date": "2012-12-12"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Corpse Bride",
-          "tmdb": {
-            "id": 3933,
-            "media_type": "movie",
-            "release_date": "2005-09-12"
           }
         },
         {
@@ -2092,21 +2092,21 @@
         },
         {
           "rank": 10,
-          "title": "Grown Ups 2",
+          "title": "Hotel Transylvania",
           "tmdb": {
-            "id": 109418,
+            "id": 76492,
             "media_type": "movie",
-            "release_date": "2013-07-11"
+            "release_date": "2012-09-20"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2120,15 +2120,6 @@
         },
         {
           "rank": 2,
-          "title": "The Real Housewives of Orange County",
-          "tmdb": {
-            "id": 10222,
-            "media_type": "tv",
-            "release_date": "2006-03-21"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Big Brother",
           "tmdb": {
             "id": 10160,
@@ -2137,7 +2128,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
@@ -2146,16 +2137,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Real Housewives of Salt Lake City",
+          "rank": 4,
+          "title": "The Real Housewives of Orange County",
           "tmdb": {
-            "id": 110381,
+            "id": 10222,
             "media_type": "tv",
-            "release_date": "2020-11-11"
+            "release_date": "2006-03-21"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Star Trek: Strange New Worlds",
           "tmdb": {
             "id": 103516,
@@ -2164,7 +2155,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Real Housewives of Salt Lake City",
+          "tmdb": {
+            "id": 110381,
+            "media_type": "tv",
+            "release_date": "2020-11-11"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Survivor",
           "tmdb": {
             "id": 14658,
@@ -2173,21 +2182,12 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Occupation Double",
-          "tmdb": {
-            "id": 13083,
-            "media_type": "tv",
-            "release_date": "2003-09-18"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Ted Lasso",
+          "title": "Lanterns",
           "tmdb": {
-            "id": 97546,
+            "id": 95350,
             "media_type": "tv",
-            "release_date": "2020-08-14"
+            "release_date": "2026-08-16"
           }
         },
         {
@@ -2203,10 +2203,10 @@
     },
     {
       "catalog_id": "shudder.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Shudder in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Shudder in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Shudder",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2220,15 +2220,6 @@
         },
         {
           "rank": 2,
-          "title": "The Creep Tapes",
-          "tmdb": {
-            "id": 256201,
-            "media_type": "tv",
-            "release_date": "2024-11-15"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Grave Encounters 2",
           "tmdb": {
             "id": 134366,
@@ -2237,7 +2228,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Grave Encounters",
           "tmdb": {
             "id": 50698,
@@ -2246,25 +2237,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "The Creep Tapes",
+          "tmdb": {
+            "id": 256201,
+            "media_type": "tv",
+            "release_date": "2024-11-15"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Vivarium",
-          "tmdb": {
-            "id": 458305,
-            "media_type": "movie",
-            "release_date": "2019-09-07"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Mortuary Assistant",
-          "tmdb": {
-            "id": 1470130,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Halloween 4: The Return of Michael Myers",
           "tmdb": {
             "id": 11357,
@@ -2273,16 +2255,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Son",
+          "rank": 6,
+          "title": "Its Name Was Mormo",
           "tmdb": {
-            "id": 754934,
+            "id": 1243046,
             "media_type": "movie",
-            "release_date": "2021-03-18"
+            "release_date": "2024-11-09"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Faces of Death",
           "tmdb": {
             "id": 855435,
@@ -2291,22 +2273,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Its Name Was Mormo",
+          "rank": 8,
+          "title": "The Mortuary Assistant",
           "tmdb": {
-            "id": 1243046,
+            "id": 1470130,
             "media_type": "movie",
-            "release_date": "2024-11-09"
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Exit 8",
+          "tmdb": {
+            "id": 1408208,
+            "media_type": "movie",
+            "release_date": "2025-08-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Vivarium",
+          "tmdb": {
+            "id": 458305,
+            "media_type": "movie",
+            "release_date": "2019-09-07"
           }
         }
       ]
     },
     {
       "catalog_id": "sony-pictures-core.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Sony Pictures Core in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Sony Pictures Core in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Sony Pictures Core",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2320,15 +2320,6 @@
         },
         {
           "rank": 2,
-          "title": "Zombieland",
-          "tmdb": {
-            "id": 19908,
-            "media_type": "movie",
-            "release_date": "2009-10-02"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Men in Black",
           "tmdb": {
             "id": 607,
@@ -2337,16 +2328,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Grown Ups 2",
-          "tmdb": {
-            "id": 109418,
-            "media_type": "movie",
-            "release_date": "2013-07-11"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "title": "Monster House",
           "tmdb": {
             "id": 9297,
@@ -2355,25 +2337,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Men in Black 3",
+          "rank": 4,
+          "title": "Zombieland",
           "tmdb": {
-            "id": 41154,
+            "id": 19908,
             "media_type": "movie",
-            "release_date": "2012-05-23"
+            "release_date": "2009-10-02"
           }
         },
         {
-          "rank": 7,
-          "title": "Hotel Transylvania",
-          "tmdb": {
-            "id": 76492,
-            "media_type": "movie",
-            "release_date": "2012-09-20"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "Men in Black II",
           "tmdb": {
             "id": 608,
@@ -2382,44 +2355,62 @@
           }
         },
         {
-          "rank": 9,
-          "title": "You Dont Mess With the Zohan",
-          "tmdb": {
-            "id": 10661,
-            "media_type": "movie",
-            "release_date": "2008-06-05"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 6,
           "title": "Matilda",
           "tmdb": {
             "id": 10830,
             "media_type": "movie",
             "release_date": "1996-08-02"
           }
+        },
+        {
+          "rank": 7,
+          "title": "Grown Ups 2",
+          "tmdb": {
+            "id": 109418,
+            "media_type": "movie",
+            "release_date": "2013-07-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Mr. Deeds",
+          "tmdb": {
+            "id": 2022,
+            "media_type": "movie",
+            "release_date": "2002-06-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Hotel Transylvania",
+          "tmdb": {
+            "id": 76492,
+            "media_type": "movie",
+            "release_date": "2012-09-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Grown Ups",
+          "tmdb": {
+            "id": 38365,
+            "media_type": "movie",
+            "release_date": "2010-06-24"
+          }
         }
       ]
     },
     {
       "catalog_id": "lionsgate.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Lionsgate+",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Nashville",
-          "tmdb": {
-            "id": 44549,
-            "media_type": "tv",
-            "release_date": "2012-10-10"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Halloween",
           "tmdb": {
             "id": 948,
@@ -2428,16 +2419,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Hunger Games",
-          "tmdb": {
-            "id": 70160,
-            "media_type": "movie",
-            "release_date": "2012-03-12"
-          }
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Manhunt",
           "tmdb": {
             "id": 72597,
@@ -2446,25 +2428,34 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Nashville",
+          "tmdb": {
+            "id": 44549,
+            "media_type": "tv",
+            "release_date": "2012-10-10"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Hunger Games",
+          "tmdb": {
+            "id": 70160,
+            "media_type": "movie",
+            "release_date": "2012-03-12"
+          }
+        },
+        {
           "rank": 5,
           "title": "Halloween II",
           "tmdb": {
-            "id": 24150,
+            "id": 11281,
             "media_type": "movie",
-            "release_date": "2009-08-28"
+            "release_date": "1981-10-30"
           }
         },
         {
           "rank": 6,
-          "title": "The Hunger Games: Mockingjay - Part 1",
-          "tmdb": {
-            "id": 131631,
-            "media_type": "movie",
-            "release_date": "2014-11-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Hunger Games: Catching Fire",
           "tmdb": {
             "id": 101299,
@@ -2473,16 +2464,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Hunger Games: Mockingjay - Part 2",
-          "tmdb": {
-            "id": 131634,
-            "media_type": "movie",
-            "release_date": "2015-11-18"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Divergent",
           "tmdb": {
             "id": 157350,
@@ -2491,49 +2473,67 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Scream",
           "tmdb": {
             "id": 646385,
             "media_type": "movie",
             "release_date": "2022-01-12"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Twilight",
+          "tmdb": {
+            "id": 8966,
+            "media_type": "movie",
+            "release_date": "2008-11-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "tmdb": {
+            "id": 131631,
+            "media_type": "movie",
+            "release_date": "2014-11-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "crave.overall",
-      "heading": "TOP Overall on Crave in Canada on September 26, 2026",
+      "heading": "TOP Overall on Crave in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Crave",
-      "date": "September 26, 2026",
-      "title_count": 10,
+      "date": "September 27, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
+          "title": "The Traitors",
+          "tmdb": {
+            "id": 215307,
+            "media_type": "tv",
+            "release_date": "2022-11-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Stuart Fails to Save the Universe",
+          "tmdb": {
+            "id": 287620,
+            "media_type": "tv",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Lanterns",
           "tmdb": {
             "id": 95350,
             "media_type": "tv",
             "release_date": "2026-08-16"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Voice",
-          "tmdb": {
-            "id": 37678,
-            "media_type": "tv",
-            "release_date": "2011-04-26"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Slo Pitch",
-          "tmdb": {
-            "id": 310890,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
           }
         },
         {
@@ -2547,6 +2547,33 @@
         },
         {
           "rank": 5,
+          "title": "Slo Pitch",
+          "tmdb": {
+            "id": 310890,
+            "media_type": "tv",
+            "release_date": "2026-09-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Voice",
+          "tmdb": {
+            "id": 37678,
+            "media_type": "tv",
+            "release_date": "2011-04-26"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Hell's Kitchen",
+          "tmdb": {
+            "id": 2370,
+            "media_type": "tv",
+            "release_date": "2005-05-30"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Traitors Canada",
           "tmdb": {
             "id": 234613,
@@ -2555,48 +2582,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Traitors",
-          "tmdb": {
-            "id": 215307,
-            "media_type": "tv",
-            "release_date": "2022-11-29"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Stuart Fails to Save the Universe",
-          "tmdb": {
-            "id": 287620,
-            "media_type": "tv",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Supergirl",
           "tmdb": {
             "id": 62688,
             "media_type": "tv",
             "release_date": "2015-10-26"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Youth",
-          "tmdb": {
-            "id": 285418,
-            "media_type": "tv",
-            "release_date": "2026-09-21"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "MasterChef Canada",
-          "tmdb": {
-            "id": 64958,
-            "media_type": "tv",
-            "release_date": "2014-01-20"
           }
         }
       ]
@@ -2607,23 +2598,14 @@
         "id": "amazon-channels",
         "label": "Amazon Channels"
       },
-      "heading": "TOP Overall (from Amazon Channels) on Crave in Canada on September 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crave in Canada on September 27, 2026",
       "category": "overall",
       "platform": "Crave",
-      "date": "September 26, 2026",
+      "date": "September 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Occupation Double",
-          "tmdb": {
-            "id": 13083,
-            "media_type": "tv",
-            "release_date": "2003-09-18"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Lanterns",
           "tmdb": {
             "id": 95350,
@@ -2632,21 +2614,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Voice",
+          "rank": 2,
+          "title": "The Traitors",
           "tmdb": {
-            "id": 37678,
+            "id": 215307,
             "media_type": "tv",
-            "release_date": "2011-04-26"
+            "release_date": "2022-11-29"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Stuart Fails to Save the Universe",
           "tmdb": {
             "id": 287620,
             "media_type": "tv",
             "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Occupation Double",
+          "tmdb": {
+            "id": 13083,
+            "media_type": "tv",
+            "release_date": "2003-09-18"
           }
         },
         {
@@ -2660,20 +2651,20 @@
         },
         {
           "rank": 6,
-          "title": "The Traitors",
+          "title": "Anna Pigeon",
           "tmdb": {
-            "id": 215307,
+            "id": 291350,
             "media_type": "tv",
-            "release_date": "2022-11-29"
+            "release_date": "2026-08-07"
           }
         },
         {
           "rank": 7,
-          "title": "DOC",
+          "title": "The Voice",
           "tmdb": {
-            "id": 101048,
+            "id": 37678,
             "media_type": "tv",
-            "release_date": "2020-03-26"
+            "release_date": "2011-04-26"
           }
         },
         {
@@ -2687,20 +2678,20 @@
         },
         {
           "rank": 9,
-          "title": "La maison des vilains",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 332146,
-            "media_type": "tv",
-            "release_date": "2026-08-19"
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
           }
         },
         {
           "rank": 10,
-          "title": "The Floor",
+          "title": "The Pitt",
           "tmdb": {
-            "id": 231730,
+            "id": 250307,
             "media_type": "tv",
-            "release_date": "2024-01-02"
+            "release_date": "2025-01-09"
           }
         }
       ]
