@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/czech-republic/",
-  "page_title": "TOP 10 on Streaming in the Czech Republic on September 27, 2026",
+  "page_title": "TOP 10 on Streaming in the Czech Republic on September 28, 2026",
   "region": "czech-republic",
-  "date": "September 27, 2026",
-  "scraped_at_utc": "2026-09-27T19:14:04.895430+00:00",
+  "date": "September 28, 2026",
+  "scraped_at_utc": "2026-09-28T21:24:33.970048+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Netflix in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -42,24 +42,6 @@
         },
         {
           "rank": 4,
-          "title": "Dog Man",
-          "tmdb": {
-            "id": 774370,
-            "media_type": "movie",
-            "release_date": "2025-01-24"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Best of the Best",
-          "tmdb": {
-            "id": 1514863,
-            "media_type": "movie",
-            "release_date": "2026-09-18"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Whisper Man",
           "tmdb": {
             "id": 860508,
@@ -68,12 +50,30 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Ted 2",
           "tmdb": {
             "id": 214756,
             "media_type": "movie",
             "release_date": "2015-06-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Best of the Best",
+          "tmdb": {
+            "id": 1514863,
+            "media_type": "movie",
+            "release_date": "2026-09-18"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Dog Man",
+          "tmdb": {
+            "id": 774370,
+            "media_type": "movie",
+            "release_date": "2025-01-24"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Netflix in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -206,229 +206,29 @@
       ]
     },
     {
-      "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in the Czech Republic on September 27, 2026",
-      "category": "kids movies",
-      "platform": "Netflix",
-      "date": "September 27, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Dog Man",
-          "tmdb": {
-            "id": 774370,
-            "media_type": "movie",
-            "release_date": "2025-01-24"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Shrek",
-          "tmdb": {
-            "id": 808,
-            "media_type": "movie",
-            "release_date": "2001-05-18"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Shrek 2",
-          "tmdb": {
-            "id": 809,
-            "media_type": "movie",
-            "release_date": "2004-05-19"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Sonic the Hedgehog 3",
-          "tmdb": {
-            "id": 939243,
-            "media_type": "movie",
-            "release_date": "2024-12-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "KPop Demon Hunters",
-          "tmdb": {
-            "id": 803796,
-            "media_type": "movie",
-            "release_date": "2025-06-20"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Bob and Bobek in the movie: On the Trail of the Carrot Eater",
-          "tmdb": {
-            "id": 1379264,
-            "media_type": "movie",
-            "release_date": "2024-12-05"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Shrek Forever After",
-          "tmdb": {
-            "id": 10192,
-            "media_type": "movie",
-            "release_date": "2010-05-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Shrek the Third",
-          "tmdb": {
-            "id": 810,
-            "media_type": "movie",
-            "release_date": "2007-05-17"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Back to the Outback",
-          "tmdb": {
-            "id": 770254,
-            "media_type": "movie",
-            "release_date": "2021-12-03"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in the Czech Republic on September 27, 2026",
-      "category": "kids tv shows",
-      "platform": "Netflix",
-      "date": "September 27, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Wonka's The Golden Ticket",
-          "tmdb": {
-            "id": 286940,
-            "media_type": "tv",
-            "release_date": "2026-09-23"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Gabby's Dollhouse",
-          "tmdb": {
-            "id": 111474,
-            "media_type": "tv",
-            "release_date": "2021-01-05"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Unicorn Academy: Secrets Revealed",
-          "tmdb": {
-            "id": 316945,
-            "media_type": "tv",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Stranger Things: Tales from '85",
-          "tmdb": {
-            "id": 224263,
-            "media_type": "tv",
-            "release_date": "2026-04-23"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "SpongeBob SquarePants",
-          "tmdb": {
-            "id": 387,
-            "media_type": "tv",
-            "release_date": "1999-05-01"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Cocomelon",
-          "tmdb": {
-            "id": 114718,
-            "media_type": "tv",
-            "release_date": "2020-05-31"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Creature Cases",
-          "tmdb": {
-            "id": 195407,
-            "media_type": "tv",
-            "release_date": "2022-04-12"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Is It Cake? Halloween",
-          "tmdb": {
-            "id": 300594,
-            "media_type": "tv",
-            "release_date": "2025-10-08"
-          }
-        }
-      ]
-    },
-    {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on HBO Max in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Bikeriders",
-          "tmdb": {
-            "id": 1008409,
-            "media_type": "movie",
-            "release_date": "2024-06-19"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Ice Road: Vengeance",
           "tmdb": {
             "id": 1119878,
             "media_type": "movie",
             "release_date": "2025-06-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Bikeriders",
+          "tmdb": {
+            "id": 1008409,
+            "media_type": "movie",
+            "release_date": "2024-06-19"
           }
         },
         {
@@ -478,39 +278,39 @@
         },
         {
           "rank": 8,
-          "title": "Despicable Me 4",
+          "title": "Winter's Bone",
           "tmdb": {
-            "id": 519182,
+            "id": 39013,
             "media_type": "movie",
-            "release_date": "2024-06-20"
+            "release_date": "2010-06-11"
           }
         },
         {
           "rank": 9,
-          "title": "Snack Shack",
-          "tmdb": {
-            "id": 1037113,
-            "media_type": "movie",
-            "release_date": "2024-03-15"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Clown in a Cornfield",
           "tmdb": {
             "id": 713364,
             "media_type": "movie",
             "release_date": "2025-05-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Despicable Me 4",
+          "tmdb": {
+            "id": 519182,
+            "media_type": "movie",
+            "release_date": "2024-06-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on HBO Max in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -551,9 +351,9 @@
         },
         {
           "rank": 5,
-          "title": "4 Blocks Zero",
+          "title": "Paolo",
           "tmdb": {
-            "id": 310133,
+            "id": 288385,
             "media_type": "tv",
             "release_date": "2026-09-25"
           }
@@ -578,6 +378,15 @@
         },
         {
           "rank": 8,
+          "title": "4 Blocks Zero",
+          "tmdb": {
+            "id": 310133,
+            "media_type": "tv",
+            "release_date": "2026-09-25"
+          }
+        },
+        {
+          "rank": 9,
           "title": "All American",
           "tmdb": {
             "id": 82428,
@@ -586,31 +395,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Paolo",
-          "tmdb": {
-            "id": 288385,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
-          }
-        },
-        {
           "rank": 10,
-          "title": "A Killer Story",
+          "title": "4 Blocks",
           "tmdb": {
-            "id": 332910,
+            "id": 71641,
             "media_type": "tv",
-            "release_date": "2026-09-10"
+            "release_date": "2017-05-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP Overall on Disney+ in the Czech Republic on September 28, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -707,10 +507,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Disney+ in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -807,10 +607,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Disney+ in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -907,10 +707,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in the Czech Republic on September 27, 2026",
+      "heading": "TOP Overall on Amazon Prime in the Czech Republic on September 28, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -933,15 +733,6 @@
         },
         {
           "rank": 3,
-          "title": "Reacher",
-          "tmdb": {
-            "id": 108978,
-            "media_type": "tv",
-            "release_date": "2022-02-03"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Drawn Together",
           "tmdb": {
             "id": 1440098,
@@ -950,21 +741,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Off Campus",
+          "rank": 4,
+          "title": "Reacher",
           "tmdb": {
-            "id": 273240,
+            "id": 108978,
             "media_type": "tv",
-            "release_date": "2026-05-13"
+            "release_date": "2022-02-03"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "You+Me – Against the World",
           "tmdb": {
             "id": 1641629,
             "media_type": "movie",
             "release_date": "2026-09-18"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -987,30 +787,30 @@
         },
         {
           "rank": 9,
-          "title": "The Grand Tour",
-          "tmdb": {
-            "id": 67557,
-            "media_type": "tv",
-            "release_date": "2016-11-17"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Project Hail Mary",
           "tmdb": {
             "id": 687163,
             "media_type": "movie",
             "release_date": "2026-03-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Grand Tour",
+          "tmdb": {
+            "id": 67557,
+            "media_type": "tv",
+            "release_date": "2016-11-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Amazon Prime in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1060,15 +860,6 @@
         },
         {
           "rank": 6,
-          "title": "Your Fault: London",
-          "tmdb": {
-            "id": 1477317,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Runner",
           "tmdb": {
             "id": 1386315,
@@ -1077,7 +868,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "My Fault",
           "tmdb": {
             "id": 1010581,
@@ -1086,31 +877,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Your Fault",
-          "tmdb": {
-            "id": 1156593,
-            "media_type": "movie",
-            "release_date": "2024-12-26"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "Love Me Love Me",
           "tmdb": {
             "id": 1317672,
             "media_type": "movie",
             "release_date": "2026-02-12"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Our Fault",
+          "tmdb": {
+            "id": 1156594,
+            "media_type": "movie",
+            "release_date": "2025-10-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Masters of the Universe",
+          "tmdb": {
+            "id": 454639,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1178,15 +978,6 @@
         },
         {
           "rank": 8,
-          "title": "The Boys",
-          "tmdb": {
-            "id": 76479,
-            "media_type": "tv",
-            "release_date": "2019-07-25"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Maxton Hall - The World Between Us",
           "tmdb": {
             "id": 250670,
@@ -1195,22 +986,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Clarkson's Farm",
           "tmdb": {
             "id": 117648,
             "media_type": "tv",
             "release_date": "2021-06-11"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Boys",
+          "tmdb": {
+            "id": 76479,
+            "media_type": "tv",
+            "release_date": "2019-07-25"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Apple TV in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1242,33 +1042,6 @@
         },
         {
           "rank": 4,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Accountant",
-          "tmdb": {
-            "id": 302946,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
@@ -1277,7 +1050,43 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Napoleon",
+          "tmdb": {
+            "id": 753342,
+            "media_type": "movie",
+            "release_date": "2023-11-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Accountant",
+          "tmdb": {
+            "id": 302946,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Luck",
+          "tmdb": {
+            "id": 585511,
+            "media_type": "movie",
+            "release_date": "2022-08-05"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -1286,31 +1095,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Luck",
-          "tmdb": {
-            "id": 585511,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Apple TV in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1333,20 +1133,20 @@
         },
         {
           "rank": 3,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 250203,
+            "media_type": "tv",
+            "release_date": "2026-09-22"
           }
         },
         {
@@ -1360,6 +1160,15 @@
         },
         {
           "rank": 6,
+          "title": "Knife Edge: Chasing Michelin Stars",
+          "tmdb": {
+            "id": 291361,
+            "media_type": "tv",
+            "release_date": "2025-10-10"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -1368,21 +1177,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Last Seen",
           "tmdb": {
             "id": 258230,
             "media_type": "tv",
             "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Knife Edge: Chasing Michelin Stars",
-          "tmdb": {
-            "id": 291361,
-            "media_type": "tv",
-            "release_date": "2025-10-10"
           }
         },
         {
@@ -1407,10 +1207,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Apple TV Store in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1424,20 +1224,20 @@
         },
         {
           "rank": 2,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
             "media_type": "movie",
             "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Minions & Monsters",
+          "tmdb": {
+            "id": 1315772,
+            "media_type": "movie",
+            "release_date": "2026-06-24"
           }
         },
         {
@@ -1451,15 +1251,6 @@
         },
         {
           "rank": 5,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1468,12 +1259,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
             "media_type": "movie",
             "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -1487,30 +1287,30 @@
         },
         {
           "rank": 9,
-          "title": "Desert Warrior",
-          "tmdb": {
-            "id": 898704,
-            "media_type": "movie",
-            "release_date": "2026-04-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
             "media_type": "movie",
             "release_date": "2026-06-03"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Drama",
+          "tmdb": {
+            "id": 1325734,
+            "media_type": "movie",
+            "release_date": "2026-04-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Google in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1607,10 +1407,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Rakuten TV in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1707,10 +1507,10 @@
     },
     {
       "catalog_id": "canal.movies",
-      "heading": "TOP Movies on Canal+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Canal+ in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Canal+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1807,10 +1607,10 @@
     },
     {
       "catalog_id": "canal.series",
-      "heading": "TOP TV Shows on Canal+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Canal+ in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Canal+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1907,10 +1707,10 @@
     },
     {
       "catalog_id": "oneplay.movies",
-      "heading": "TOP Movies on Oneplay in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on Oneplay in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "Oneplay",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2007,10 +1807,10 @@
     },
     {
       "catalog_id": "oneplay.series",
-      "heading": "TOP TV Shows on Oneplay in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on Oneplay in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "Oneplay",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2107,10 +1907,10 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on SkyShowtime in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2133,6 +1933,15 @@
         },
         {
           "rank": 3,
+          "title": "Shutter Island",
+          "tmdb": {
+            "id": 11324,
+            "media_type": "movie",
+            "release_date": "2010-02-14"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Scary Movie 3",
           "tmdb": {
             "id": 4256,
@@ -2141,21 +1950,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Nobody",
           "tmdb": {
             "id": 615457,
             "media_type": "movie",
             "release_date": "2021-03-18"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Purge",
-          "tmdb": {
-            "id": 158015,
-            "media_type": "movie",
-            "release_date": "2013-05-31"
           }
         },
         {
@@ -2169,6 +1969,15 @@
         },
         {
           "rank": 7,
+          "title": "Beverly Hills Cop",
+          "tmdb": {
+            "id": 90,
+            "media_type": "movie",
+            "release_date": "1984-12-05"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Purge: Anarchy",
           "tmdb": {
             "id": 238636,
@@ -2177,40 +1986,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "EPiC: Elvis Presley in Concert",
+          "rank": 9,
+          "title": "The Addams Family",
           "tmdb": {
-            "id": 1445363,
+            "id": 481084,
             "media_type": "movie",
-            "release_date": "2026-02-18"
+            "release_date": "2019-10-10"
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Avatar Aang: The Last Airbender",
           "tmdb": {
             "id": 980431,
             "media_type": "movie",
             "release_date": "2026-07-24"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Shutter Island",
-          "tmdb": {
-            "id": 11324,
-            "media_type": "movie",
-            "release_date": "2010-02-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2242,20 +2042,20 @@
         },
         {
           "rank": 4,
-          "title": "M.I.A.",
-          "tmdb": {
-            "id": 262388,
-            "media_type": "tv",
-            "release_date": "2026-05-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "La Brea",
           "tmdb": {
             "id": 128839,
             "media_type": "tv",
             "release_date": "2021-09-28"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "M.I.A.",
+          "tmdb": {
+            "id": 262388,
+            "media_type": "tv",
+            "release_date": "2026-05-07"
           }
         },
         {
@@ -2287,30 +2087,30 @@
         },
         {
           "rank": 9,
-          "title": "The Good Place",
-          "tmdb": {
-            "id": 66573,
-            "media_type": "tv",
-            "release_date": "2016-09-19"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Resident Alien",
           "tmdb": {
             "id": 96580,
             "media_type": "tv",
             "release_date": "2021-01-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Good Place",
+          "tmdb": {
+            "id": 66573,
+            "media_type": "tv",
+            "release_date": "2016-09-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "prima.movies",
-      "heading": "TOP Movies on prima+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP Movies on prima+ in the Czech Republic on September 28, 2026",
       "category": "movies",
       "platform": "prima+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2407,10 +2207,10 @@
     },
     {
       "catalog_id": "prima.series",
-      "heading": "TOP TV Shows on prima+ in the Czech Republic on September 27, 2026",
+      "heading": "TOP TV Shows on prima+ in the Czech Republic on September 28, 2026",
       "category": "tv shows",
       "platform": "prima+",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2507,28 +2307,28 @@
     },
     {
       "catalog_id": "ivysilani.overall",
-      "heading": "TOP Overall on iVysilani in the Czech Republic on September 27, 2026",
+      "heading": "TOP Overall on iVysilani in the Czech Republic on September 28, 2026",
       "category": "overall",
       "platform": "iVysilani",
-      "date": "September 27, 2026",
+      "date": "September 28, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Na tělo",
-          "tmdb": {
-            "id": 312979,
-            "media_type": "tv",
-            "release_date": "2026-09-04"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Docent",
           "tmdb": {
             "id": 125049,
             "media_type": "tv",
             "release_date": "2023-02-05"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Na tělo",
+          "tmdb": {
+            "id": 312979,
+            "media_type": "tv",
+            "release_date": "2026-09-04"
           }
         },
         {
@@ -2542,15 +2342,6 @@
         },
         {
           "rank": 4,
-          "title": "Cassandre",
-          "tmdb": {
-            "id": 76700,
-            "media_type": "tv",
-            "release_date": "2015-11-28"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Případy 1. oddělení",
           "tmdb": {
             "id": 64376,
@@ -2559,30 +2350,35 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Všechnopárty",
+          "rank": 5,
+          "title": "Cassandre",
           "tmdb": {
-            "id": 54637,
+            "id": 76700,
             "media_type": "tv",
-            "release_date": "2005-11-24"
+            "release_date": "2015-11-28"
           }
         },
         {
-          "rank": 7,
-          "title": "The Place Beyond the Pines",
-          "tmdb": {
-            "id": 97367,
-            "media_type": "movie",
-            "release_date": "2013-03-20"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Red Dwarf",
           "tmdb": {
             "id": 326,
             "media_type": "tv",
             "release_date": "1988-02-15"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Nedělní debata",
+          "tmdb": null
+        },
+        {
+          "rank": 8,
+          "title": "Final Hours",
+          "tmdb": {
+            "id": 289576,
+            "media_type": "tv",
+            "release_date": "2026-03-29"
           }
         },
         {
