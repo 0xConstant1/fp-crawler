@@ -1,20 +1,38 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/azerbaijan/",
-  "page_title": "TOP 10 on Streaming in Azerbaijan on October 1, 2026",
+  "page_title": "TOP 10 on Streaming in Azerbaijan on October 2, 2026",
   "region": "azerbaijan",
-  "date": "October 1, 2026",
-  "scraped_at_utc": "2026-10-01T20:26:52.620456+00:00",
+  "date": "October 2, 2026",
+  "scraped_at_utc": "2026-10-02T20:09:00.029327+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Azerbaijan on October 1, 2026",
+      "heading": "TOP Movies on Apple TV in Azerbaijan on October 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Ready Player One",
+          "tmdb": {
+            "id": 333339,
+            "media_type": "movie",
+            "release_date": "2018-03-28"
+          }
+        },
+        {
+          "rank": 3,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -23,7 +41,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -32,7 +50,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -41,16 +59,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Accountant",
-          "tmdb": {
-            "id": 302946,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "Sherlock Holmes",
           "tmdb": {
             "id": 10528,
@@ -59,30 +68,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Killers of the Flower Moon",
-          "tmdb": {
-            "id": 466420,
-            "media_type": "movie",
-            "release_date": "2023-10-18"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
             "media_type": "movie",
             "release_date": "2009-06-02"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Accountant",
+          "tmdb": {
+            "id": 302946,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
           }
         },
         {
@@ -96,39 +96,39 @@
         },
         {
           "rank": 10,
-          "title": "Luck",
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 585511,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "2022-08-05"
+            "release_date": "2023-10-18"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Azerbaijan on October 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Azerbaijan on October 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
           }
         },
         {
@@ -142,33 +142,6 @@
         },
         {
           "rank": 4,
-          "title": "Knife Edge: Chasing Michelin Stars",
-          "tmdb": {
-            "id": 291361,
-            "media_type": "tv",
-            "release_date": "2025-10-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Dark Matter",
-          "tmdb": {
-            "id": 196322,
-            "media_type": "tv",
-            "release_date": "2024-05-07"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Tehran",
           "tmdb": {
             "id": 103913,
@@ -177,7 +150,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -186,71 +168,53 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Lucky",
+          "rank": 7,
+          "title": "Brothers",
           "tmdb": {
-            "id": 278624,
+            "id": 250203,
             "media_type": "tv",
-            "release_date": "2026-07-14"
+            "release_date": "2026-09-22"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "See",
           "tmdb": {
             "id": 80752,
             "media_type": "tv",
             "release_date": "2019-11-01"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Knife Edge: Chasing Michelin Stars",
+          "tmdb": {
+            "id": 291361,
+            "media_type": "tv",
+            "release_date": "2025-10-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Lucky",
+          "tmdb": {
+            "id": 278624,
+            "media_type": "tv",
+            "release_date": "2026-07-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Azerbaijan on October 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Azerbaijan on October 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Top Gun: Maverick",
-          "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Michael",
-          "tmdb": {
-            "id": 936075,
-            "media_type": "movie",
-            "release_date": "2026-04-22"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Recep Ivedik 5",
-          "tmdb": {
-            "id": 438703,
-            "media_type": "movie",
-            "release_date": "2017-02-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Recep Ivedik 6",
-          "tmdb": {
-            "id": 625489,
-            "media_type": "movie",
-            "release_date": "2019-11-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
@@ -259,58 +223,94 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Dolittle",
+          "rank": 2,
+          "title": "Recep İvedik 7",
           "tmdb": {
-            "id": 448119,
+            "id": 952062,
             "media_type": "movie",
-            "release_date": "2020-01-02"
+            "release_date": "2022-12-09"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Suicide Squad",
+          "tmdb": {
+            "id": 297761,
+            "media_type": "movie",
+            "release_date": "2016-08-03"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Bridget Jones's Diary",
+          "tmdb": {
+            "id": 634,
+            "media_type": "movie",
+            "release_date": "2001-04-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Other Boleyn Girl",
+          "tmdb": {
+            "id": 12184,
+            "media_type": "movie",
+            "release_date": "2008-02-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Covenant",
+          "tmdb": {
+            "id": 9954,
+            "media_type": "movie",
+            "release_date": "2006-09-07"
           }
         },
         {
           "rank": 7,
-          "title": "Mufasa: The Lion King",
+          "title": "Spider-Man: No Way Home",
           "tmdb": {
-            "id": 762509,
+            "id": 634649,
             "media_type": "movie",
-            "release_date": "2024-12-18"
+            "release_date": "2021-12-15"
           }
         },
         {
           "rank": 8,
-          "title": "1917",
+          "title": "The Pursuit of Happyness",
           "tmdb": {
-            "id": 530915,
+            "id": 1402,
             "media_type": "movie",
-            "release_date": "2019-12-25"
+            "release_date": "2006-12-14"
           }
         },
         {
           "rank": 9,
-          "title": "Fifty Shades of Grey",
+          "title": "The Dark Knight",
           "tmdb": {
-            "id": 216015,
+            "id": 155,
             "media_type": "movie",
-            "release_date": "2015-02-11"
+            "release_date": "2008-07-16"
           }
         },
         {
           "rank": 10,
-          "title": "Out of Africa",
+          "title": "Creed",
           "tmdb": {
-            "id": 606,
+            "id": 312221,
             "media_type": "movie",
-            "release_date": "1985-12-20"
+            "release_date": "2015-11-25"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Azerbaijan on October 1, 2026",
+      "heading": "TOP Movies on Google in Azerbaijan on October 2, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {

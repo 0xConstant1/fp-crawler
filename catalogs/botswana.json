@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/botswana/",
-  "page_title": "TOP 10 on Streaming in Botswana on October 1, 2026",
+  "page_title": "TOP 10 on Streaming in Botswana on October 2, 2026",
   "region": "botswana",
-  "date": "October 1, 2026",
-  "scraped_at_utc": "2026-10-01T20:27:13.090629+00:00",
+  "date": "October 2, 2026",
+  "scraped_at_utc": "2026-10-02T20:09:12.753506+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Botswana on October 1, 2026",
+      "heading": "TOP Movies on Apple TV in Botswana on October 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -23,7 +32,16 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Ready Player One",
+          "tmdb": {
+            "id": 333339,
+            "media_type": "movie",
+            "release_date": "2018-03-28"
+          }
+        },
+        {
+          "rank": 4,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -32,7 +50,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -41,16 +59,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "The Accountant",
           "tmdb": {
             "id": 302946,
@@ -59,7 +68,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
@@ -68,16 +77,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Napoleon",
+          "rank": 8,
+          "title": "The Instigators",
           "tmdb": {
-            "id": 753342,
+            "id": 1059064,
             "media_type": "movie",
-            "release_date": "2023-11-22"
+            "release_date": "2024-08-02"
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
@@ -86,31 +95,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Luck",
           "tmdb": {
             "id": 585511,
             "media_type": "movie",
             "release_date": "2022-08-05"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Sherlock Holmes",
-          "tmdb": {
-            "id": 10528,
-            "media_type": "movie",
-            "release_date": "2009-12-23"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Botswana on October 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Botswana on October 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,33 +142,6 @@
         },
         {
           "rank": 4,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Knife Edge: Chasing Michelin Stars",
-          "tmdb": {
-            "id": 291361,
-            "media_type": "tv",
-            "release_date": "2025-10-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 7,
           "title": "See",
           "tmdb": {
             "id": 80752,
@@ -177,7 +150,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
           "title": "Lucky",
           "tmdb": {
             "id": 278624,
@@ -186,44 +159,62 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Knife Edge: Chasing Michelin Stars",
+          "tmdb": {
+            "id": 291361,
+            "media_type": "tv",
+            "release_date": "2025-10-10"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 250203,
+            "media_type": "tv",
+            "release_date": "2026-09-22"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Hijack",
           "tmdb": {
             "id": 198102,
             "media_type": "tv",
             "release_date": "2023-06-28"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Imperfect Women",
-          "tmdb": {
-            "id": 108181,
-            "media_type": "tv",
-            "release_date": "2026-03-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Botswana on October 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Botswana on October 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Nobody 2",
-          "tmdb": {
-            "id": 1007734,
-            "media_type": "movie",
-            "release_date": "2025-08-13"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Minions & Monsters",
           "tmdb": {
             "id": 1315772,
@@ -232,25 +223,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Hangover Part II",
-          "tmdb": {
-            "id": 45243,
-            "media_type": "movie",
-            "release_date": "2011-05-25"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "title": "Supergirl",
           "tmdb": {
             "id": 1081003,
@@ -259,16 +232,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Hangover Part III",
-          "tmdb": {
-            "id": 109439,
-            "media_type": "movie",
-            "release_date": "2013-05-23"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 3,
           "title": "Mufasa: The Lion King",
           "tmdb": {
             "id": 762509,
@@ -277,16 +241,7 @@
           }
         },
         {
-          "rank": 8,
-          "title": "You, Me & Tuscany",
-          "tmdb": {
-            "id": 1455079,
-            "media_type": "movie",
-            "release_date": "2026-04-09"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "title": "Diary of a Wimpy Kid: Rodrick Rules",
           "tmdb": {
             "id": 60307,
@@ -295,22 +250,67 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Kingsman: The Golden Circle",
+          "rank": 5,
+          "title": "Sherlock Holmes: A Game of Shadows",
           "tmdb": {
-            "id": 343668,
+            "id": 58574,
             "media_type": "movie",
-            "release_date": "2017-09-20"
+            "release_date": "2011-11-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Downton Abbey: The Grand Finale",
+          "tmdb": {
+            "id": 1289936,
+            "media_type": "movie",
+            "release_date": "2025-09-10"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Inside Out 2",
+          "tmdb": {
+            "id": 1022789,
+            "media_type": "movie",
+            "release_date": "2024-06-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Deadpool",
+          "tmdb": {
+            "id": 293660,
+            "media_type": "movie",
+            "release_date": "2016-02-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Boondock Saints",
+          "tmdb": {
+            "id": 8374,
+            "media_type": "movie",
+            "release_date": "1999-01-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Wham! 10 Days in China",
+          "tmdb": {
+            "id": 1715914,
+            "media_type": "movie",
+            "release_date": "2026-07-28"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Botswana on October 1, 2026",
+      "heading": "TOP Movies on Google in Botswana on October 2, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 1, 2026",
+      "date": "October 2, 2026",
       "title_count": 10,
       "entries": [
         {
