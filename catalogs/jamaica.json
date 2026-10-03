@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/jamaica/",
-  "page_title": "TOP 10 on Streaming in Jamaica on October 2, 2026",
+  "page_title": "TOP 10 on Streaming in Jamaica on October 3, 2026",
   "region": "jamaica",
-  "date": "October 2, 2026",
-  "scraped_at_utc": "2026-10-02T20:10:04.056056+00:00",
+  "date": "October 3, 2026",
+  "scraped_at_utc": "2026-10-03T18:49:09.587552+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Jamaica on October 2, 2026",
+      "heading": "TOP Movies on Netflix in Jamaica on October 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Doing Life",
+          "tmdb": {
+            "id": 1458857,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Equalizer 3",
           "tmdb": {
             "id": 926393,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "UNABOMBER",
           "tmdb": {
             "id": 1492640,
             "media_type": "movie",
             "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Black Adam",
-          "tmdb": {
-            "id": 436270,
-            "media_type": "movie",
-            "release_date": "2022-10-19"
           }
         },
         {
@@ -51,11 +51,11 @@
         },
         {
           "rank": 5,
-          "title": "Why Did I Get Married Again?",
+          "title": "Black Adam",
           "tmdb": {
-            "id": 1522689,
+            "id": 436270,
             "media_type": "movie",
-            "release_date": "2026-09-08"
+            "release_date": "2022-10-19"
           }
         },
         {
@@ -69,6 +69,24 @@
         },
         {
           "rank": 7,
+          "title": "Why Did I Get Married Again?",
+          "tmdb": {
+            "id": 1522689,
+            "media_type": "movie",
+            "release_date": "2026-09-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Substance",
+          "tmdb": {
+            "id": 933260,
+            "media_type": "movie",
+            "release_date": "2024-09-07"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Mummy Returns",
           "tmdb": {
             "id": 1734,
@@ -77,80 +95,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Riot",
-          "tmdb": {
-            "id": 360055,
-            "media_type": "movie",
-            "release_date": "2015-09-27"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "The Mummy: Tomb of the Dragon Emperor",
           "tmdb": {
             "id": 1735,
             "media_type": "movie",
             "release_date": "2008-07-01"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Substance",
-          "tmdb": {
-            "id": 933260,
-            "media_type": "movie",
-            "release_date": "2024-09-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Jamaica on October 2, 2026",
+      "heading": "TOP TV Shows on Netflix in Jamaica on October 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
           "title": "A Different World",
           "tmdb": {
-            "id": 305357,
+            "id": 115,
             "media_type": "tv",
-            "release_date": "2026-09-24"
+            "release_date": "1987-09-24"
           }
         },
         {
           "rank": 2,
-          "title": "Blood Legacy",
-          "tmdb": {
-            "id": 270364,
-            "media_type": "tv",
-            "release_date": "2024-09-20"
-          }
+          "title": "WWE SmackDown",
+          "tmdb": null
         },
         {
           "rank": 3,
-          "title": "Minerva Academy",
-          "tmdb": {
-            "id": 312557,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Not a Stranger",
-          "tmdb": {
-            "id": 320760,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 5,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
@@ -159,12 +137,30 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Monster: The Lizzie Borden Story",
+          "rank": 4,
+          "title": "Blood Legacy",
           "tmdb": {
-            "id": 299939,
+            "id": 270364,
             "media_type": "tv",
-            "release_date": "2026-09-17"
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "JoJo's Bizarre Adventure",
+          "tmdb": {
+            "id": 45790,
+            "media_type": "tv",
+            "release_date": "2012-10-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Minerva Academy",
+          "tmdb": {
+            "id": 312557,
+            "media_type": "tv",
+            "release_date": "2026-09-22"
           }
         },
         {
@@ -178,39 +174,39 @@
         },
         {
           "rank": 8,
+          "title": "LEGO ONE PIECE",
+          "tmdb": {
+            "id": 318918,
+            "media_type": "tv",
+            "release_date": "2026-09-29"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Not a Stranger",
+          "tmdb": {
+            "id": 320760,
+            "media_type": "tv",
+            "release_date": "2026-09-17"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Shaque: Trust No One",
           "tmdb": {
             "id": 285147,
             "media_type": "tv",
             "release_date": "2026-09-24"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Beauty in Black",
-          "tmdb": {
-            "id": 246246,
-            "media_type": "tv",
-            "release_date": "2024-10-24"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Wonka's The Golden Ticket",
-          "tmdb": {
-            "id": 286940,
-            "media_type": "tv",
-            "release_date": "2026-09-23"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Jamaica on October 2, 2026",
+      "heading": "TOP Overall on Disney+ in Jamaica on October 3, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,6 +220,15 @@
         },
         {
           "rank": 2,
+          "title": "The Nightmare Before Christmas",
+          "tmdb": {
+            "id": 9479,
+            "media_type": "movie",
+            "release_date": "1993-10-09"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
@@ -232,7 +237,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
@@ -241,7 +246,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -250,7 +255,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "PAW Patrol: The Movie",
+          "tmdb": {
+            "id": 675445,
+            "media_type": "movie",
+            "release_date": "2021-08-09"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -259,7 +273,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -268,49 +282,31 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
+          "title": "Hocus Pocus",
+          "tmdb": {
+            "id": 10439,
+            "media_type": "movie",
+            "release_date": "1993-07-16"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
             "media_type": "movie",
             "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Avengers: Infinity War",
-          "tmdb": {
-            "id": 299536,
-            "media_type": "movie",
-            "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Jamaica on October 2, 2026",
+      "heading": "TOP Movies on Disney+ in Jamaica on October 3, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -324,6 +320,15 @@
         },
         {
           "rank": 2,
+          "title": "The Nightmare Before Christmas",
+          "tmdb": {
+            "id": 9479,
+            "media_type": "movie",
+            "release_date": "1993-10-09"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Toy Story 2",
           "tmdb": {
             "id": 863,
@@ -332,7 +337,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Toy Story",
           "tmdb": {
             "id": 862,
@@ -341,7 +346,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Toy Story 3",
           "tmdb": {
             "id": 10193,
@@ -350,7 +355,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "PAW Patrol: The Movie",
+          "tmdb": {
+            "id": 675445,
+            "media_type": "movie",
+            "release_date": "2021-08-09"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -359,7 +373,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Toy Story 4",
           "tmdb": {
             "id": 301528,
@@ -368,49 +382,31 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
+          "title": "Hocus Pocus",
+          "tmdb": {
+            "id": 10439,
+            "media_type": "movie",
+            "release_date": "1993-07-16"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
             "media_type": "movie",
             "release_date": "2026-04-29"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Avengers: Infinity War",
-          "tmdb": {
-            "id": 299536,
-            "media_type": "movie",
-            "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Jamaica on October 2, 2026",
+      "heading": "TOP TV Shows on Disney+ in Jamaica on October 3, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -451,20 +447,20 @@
         },
         {
           "rank": 5,
-          "title": "The Drop: A Snowfall Saga",
-          "tmdb": {
-            "id": 304842,
-            "media_type": "tv",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
-          "rank": 6,
           "title": "High Potential",
           "tmdb": {
             "id": 226637,
             "media_type": "tv",
             "release_date": "2024-09-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Drop: A Snowfall Saga",
+          "tmdb": {
+            "id": 304842,
+            "media_type": "tv",
+            "release_date": "2026-09-08"
           }
         },
         {
@@ -487,20 +483,20 @@
         },
         {
           "rank": 9,
-          "title": "Chilean Mine Rescue: Race Against Time",
-          "tmdb": {
-            "id": 334569,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Dug Days",
           "tmdb": {
             "id": 114501,
             "media_type": "tv",
             "release_date": "2021-09-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Chilean Mine Rescue: Race Against Time",
+          "tmdb": {
+            "id": 334569,
+            "media_type": "tv",
+            "release_date": "2026-09-25"
           }
         }
       ]

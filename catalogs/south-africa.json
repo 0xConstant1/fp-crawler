@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/south-africa/",
-  "page_title": "TOP 10 on Streaming in South Africa on October 2, 2026",
+  "page_title": "TOP 10 on Streaming in South Africa on October 3, 2026",
   "region": "south-africa",
-  "date": "October 2, 2026",
-  "scraped_at_utc": "2026-10-02T20:10:52.198966+00:00",
+  "date": "October 3, 2026",
+  "scraped_at_utc": "2026-10-03T18:50:43.904555+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in South Africa on October 2, 2026",
+      "heading": "TOP Movies on Netflix in South Africa on October 3, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Doing Life",
+          "tmdb": {
+            "id": 1458857,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 2,
           "title": "UNABOMBER",
           "tmdb": {
             "id": 1492640,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Widower: 'Til Death Do Us Part",
           "tmdb": {
             "id": 1758536,
             "media_type": "movie",
             "release_date": "2026-09-30"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "White Chicks",
-          "tmdb": {
-            "id": 12153,
-            "media_type": "movie",
-            "release_date": "2004-06-23"
           }
         },
         {
@@ -47,33 +47,6 @@
         },
         {
           "rank": 5,
-          "title": "Why Did I Get Married Again?",
-          "tmdb": {
-            "id": 1522689,
-            "media_type": "movie",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "We're the Millers",
-          "tmdb": {
-            "id": 138832,
-            "media_type": "movie",
-            "release_date": "2013-08-07"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Hanging Up",
-          "tmdb": {
-            "id": 10385,
-            "media_type": "movie",
-            "release_date": "2000-02-16"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Joyful Noise",
           "tmdb": {
             "id": 63574,
@@ -82,12 +55,39 @@
           }
         },
         {
-          "rank": 9,
-          "title": "CHiPs",
+          "rank": 6,
+          "title": "Hanging Up",
           "tmdb": {
-            "id": 417644,
+            "id": 10385,
             "media_type": "movie",
-            "release_date": "2017-03-23"
+            "release_date": "2000-02-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "White Chicks",
+          "tmdb": {
+            "id": 12153,
+            "media_type": "movie",
+            "release_date": "2004-06-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "We're the Millers",
+          "tmdb": {
+            "id": 138832,
+            "media_type": "movie",
+            "release_date": "2013-08-07"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Why Did I Get Married Again?",
+          "tmdb": {
+            "id": 1522689,
+            "media_type": "movie",
+            "release_date": "2026-09-08"
           }
         },
         {
@@ -103,19 +103,19 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in South Africa on October 2, 2026",
+      "heading": "TOP TV Shows on Netflix in South Africa on October 3, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
           "title": "A Different World",
           "tmdb": {
-            "id": 305357,
+            "id": 115,
             "media_type": "tv",
-            "release_date": "2026-09-24"
+            "release_date": "1987-09-24"
           }
         },
         {
@@ -129,42 +129,6 @@
         },
         {
           "rank": 3,
-          "title": "The Four of Us",
-          "tmdb": {
-            "id": 327273,
-            "media_type": "tv",
-            "release_date": "2026-06-29"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Ghosts",
-          "tmdb": {
-            "id": 126027,
-            "media_type": "tv",
-            "release_date": "2021-10-07"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Wonka's The Golden Ticket",
-          "tmdb": {
-            "id": 286940,
-            "media_type": "tv",
-            "release_date": "2026-09-23"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Outside",
-          "tmdb": {
-            "id": 333016,
-            "media_type": "tv",
-            "release_date": "2026-09-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
@@ -173,7 +137,52 @@
           }
         },
         {
+          "rank": 4,
+          "title": "The Four of Us",
+          "tmdb": {
+            "id": 327273,
+            "media_type": "tv",
+            "release_date": "2026-06-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ghosts",
+          "tmdb": {
+            "id": 126027,
+            "media_type": "tv",
+            "release_date": "2021-10-07"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Matlock",
+          "tmdb": {
+            "id": 226174,
+            "media_type": "tv",
+            "release_date": "2024-09-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Outside",
+          "tmdb": {
+            "id": 333016,
+            "media_type": "tv",
+            "release_date": "2026-09-28"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Wonka's The Golden Ticket",
+          "tmdb": {
+            "id": 286940,
+            "media_type": "tv",
+            "release_date": "2026-09-23"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Shaque: Trust No One",
           "tmdb": {
             "id": 285147,
@@ -182,49 +191,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Matlock",
-          "tmdb": {
-            "id": 2093,
-            "media_type": "tv",
-            "release_date": "1986-03-03"
-          }
-        },
-        {
           "rank": 10,
-          "title": "LEGO ONE PIECE",
+          "title": "Crew Girl",
           "tmdb": {
-            "id": 318918,
+            "id": 300507,
             "media_type": "tv",
-            "release_date": "2026-09-29"
+            "release_date": "2026-09-10"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in South Africa on October 2, 2026",
+      "heading": "TOP Kids Movies on Netflix in South Africa on October 3, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Space Jam: A New Legacy",
-          "tmdb": {
-            "id": 379686,
-            "media_type": "movie",
-            "release_date": "2021-07-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Breadwinner",
           "tmdb": {
             "id": 1440050,
             "media_type": "movie",
             "release_date": "2026-05-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Space Jam: A New Legacy",
+          "tmdb": {
+            "id": 379686,
+            "media_type": "movie",
+            "release_date": "2021-07-08"
           }
         },
         {
@@ -256,15 +256,6 @@
         },
         {
           "rank": 6,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
@@ -273,21 +264,30 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Swapped",
+          "tmdb": {
+            "id": 1007757,
+            "media_type": "movie",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Shrek",
+          "tmdb": {
+            "id": 808,
+            "media_type": "movie",
+            "release_date": "2001-05-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Spider-Man: Into the Spider-Verse",
           "tmdb": {
             "id": 324857,
             "media_type": "movie",
             "release_date": "2018-12-06"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Corpse Bride",
-          "tmdb": {
-            "id": 3933,
-            "media_type": "movie",
-            "release_date": "2005-09-12"
           }
         },
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in South Africa on October 2, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in South Africa on October 3, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -329,20 +329,20 @@
         },
         {
           "rank": 3,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Cocomelon",
           "tmdb": {
             "id": 114718,
             "media_type": "tv",
             "release_date": "2020-05-31"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
           }
         },
         {
@@ -374,20 +374,20 @@
         },
         {
           "rank": 8,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
             "media_type": "tv",
             "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
           }
         },
         {
@@ -403,10 +403,10 @@
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in South Africa on October 2, 2026",
+      "heading": "TOP Overall on Amazon Prime in South Africa on October 3, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -503,10 +503,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in South Africa on October 2, 2026",
+      "heading": "TOP Movies on Amazon Prime in South Africa on October 3, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -603,10 +603,10 @@
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in South Africa on October 2, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in South Africa on October 3, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -703,10 +703,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in South Africa on October 2, 2026",
+      "heading": "TOP Movies on Apple TV in South Africa on October 3, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,6 +720,15 @@
         },
         {
           "rank": 2,
+          "title": "The Last First: Winter K2",
+          "tmdb": {
+            "id": 1596303,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -728,7 +737,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ready Player One",
           "tmdb": {
             "id": 333339,
@@ -737,7 +746,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
@@ -746,7 +755,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -755,7 +764,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Accountant",
           "tmdb": {
             "id": 302946,
@@ -764,25 +773,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
           "rank": 8,
-          "title": "War of the Worlds",
-          "tmdb": {
-            "id": 755898,
-            "media_type": "movie",
-            "release_date": "2025-07-29"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Sherlock Holmes",
           "tmdb": {
             "id": 10528,
@@ -791,22 +782,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Charlie's Angels",
+          "rank": 9,
+          "title": "The Gorge",
           "tmdb": {
-            "id": 4327,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2000-11-02"
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "War of the Worlds",
+          "tmdb": {
+            "id": 755898,
+            "media_type": "movie",
+            "release_date": "2025-07-29"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in South Africa on October 2, 2026",
+      "heading": "TOP TV Shows on Apple TV in South Africa on October 3, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,15 +829,6 @@
         },
         {
           "rank": 3,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Last Seen",
           "tmdb": {
             "id": 258230,
@@ -846,7 +837,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
+          }
+        },
+        {
           "rank": 5,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 250203,
+            "media_type": "tv",
+            "release_date": "2026-09-22"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
@@ -855,21 +864,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Knife Edge: Chasing Michelin Stars",
           "tmdb": {
             "id": 291361,
             "media_type": "tv",
             "release_date": "2025-10-10"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Dark Matter",
-          "tmdb": {
-            "id": 196322,
-            "media_type": "tv",
-            "release_date": "2024-05-07"
           }
         },
         {
@@ -903,41 +903,14 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in South Africa on October 2, 2026",
+      "heading": "TOP Movies on Apple TV Store in South Africa on October 3, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 2, 2026",
+      "date": "October 3, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Spider-Man: Brand New Day",
-          "tmdb": {
-            "id": 969681,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The End of Oak Street",
-          "tmdb": {
-            "id": 1101383,
-            "media_type": "movie",
-            "release_date": "2026-08-12"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Minions & Monsters",
           "tmdb": {
             "id": 1315772,
@@ -946,16 +919,34 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Tuner",
+          "rank": 2,
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 1340206,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2026-05-21"
+            "release_date": "2026-07-29"
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "title": "The End of Oak Street",
+          "tmdb": {
+            "id": 1101383,
+            "media_type": "movie",
+            "release_date": "2026-08-12"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -964,16 +955,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Michael",
+          "rank": 6,
+          "title": "Lucky Strike",
           "tmdb": {
-            "id": 936075,
+            "id": 1594914,
             "media_type": "movie",
-            "release_date": "2026-04-22"
+            "release_date": "2026-06-26"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -982,21 +973,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Death of Robin Hood",
+          "rank": 8,
+          "title": "Michael",
           "tmdb": {
-            "id": 1284465,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2026-06-18"
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
           }
         },
         {
           "rank": 10,
-          "title": "Backrooms",
+          "title": "Top Gun: Maverick",
           "tmdb": {
-            "id": 1083381,
+            "id": 361743,
             "media_type": "movie",
-            "release_date": "2026-05-27"
+            "release_date": "2022-05-21"
           }
         }
       ]
