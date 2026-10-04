@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/indonesia/",
-  "page_title": "TOP 10 on Streaming in Indonesia on October 3, 2026",
+  "page_title": "TOP 10 on Streaming in Indonesia on October 4, 2026",
   "region": "indonesia",
-  "date": "October 3, 2026",
-  "scraped_at_utc": "2026-10-03T18:49:09.407965+00:00",
+  "date": "October 4, 2026",
+  "scraped_at_utc": "2026-10-04T18:46:09.868901+00:00",
   "charts": [
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Viu in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Netflix in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,8 +142,12 @@
         },
         {
           "rank": 4,
-          "title": "I&#39;ll Hold You Always",
-          "tmdb": null
+          "title": "Tumbal Proyek",
+          "tmdb": {
+            "id": 1469930,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
         },
         {
           "rank": 5,
@@ -156,15 +160,6 @@
         },
         {
           "rank": 6,
-          "title": "Tumbal Proyek",
-          "tmdb": {
-            "id": 1469930,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Ghost in the Cell",
           "tmdb": {
             "id": 1393326,
@@ -173,21 +168,26 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Haunted Universities 4",
-          "tmdb": {
-            "id": 1610936,
-            "media_type": "movie",
-            "release_date": "2026-05-28"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 7,
           "title": "Sengkolo: Petaka Satu Suro",
           "tmdb": {
             "id": 1576953,
             "media_type": "movie",
             "release_date": "2026-01-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "I&#39;ll Hold You Always",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
+          "title": "Haunted Universities 4",
+          "tmdb": {
+            "id": 1610936,
+            "media_type": "movie",
+            "release_date": "2026-05-28"
           }
         },
         {
@@ -203,10 +203,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Netflix in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -252,20 +252,20 @@
         },
         {
           "rank": 6,
-          "title": "The Scandal",
-          "tmdb": {
-            "id": 275102,
-            "media_type": "tv",
-            "release_date": "2026-09-18"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Four Hands, Two Sonatas",
           "tmdb": {
             "id": 305644,
             "media_type": "tv",
             "release_date": "2026-08-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Scandal",
+          "tmdb": {
+            "id": 275102,
+            "media_type": "tv",
+            "release_date": "2026-09-18"
           }
         },
         {
@@ -299,10 +299,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on HBO Max in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -325,15 +325,6 @@
         },
         {
           "rank": 3,
-          "title": "The Exorcist",
-          "tmdb": {
-            "id": 9552,
-            "media_type": "movie",
-            "release_date": "1973-12-26"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Supergirl",
           "tmdb": {
             "id": 1081003,
@@ -342,21 +333,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Hellraiser",
+          "rank": 4,
+          "title": "The Exorcist",
           "tmdb": {
-            "id": 9003,
+            "id": 9552,
             "media_type": "movie",
-            "release_date": "1987-09-11"
+            "release_date": "1973-12-26"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Significant Other",
           "tmdb": {
             "id": 901385,
             "media_type": "movie",
             "release_date": "2022-10-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Hellraiser",
+          "tmdb": {
+            "id": 9003,
+            "media_type": "movie",
+            "release_date": "1987-09-11"
           }
         },
         {
@@ -370,39 +370,39 @@
         },
         {
           "rank": 8,
-          "title": "Doctor Sleep",
+          "title": "Wonder Woman 1984",
           "tmdb": {
-            "id": 501170,
+            "id": 464052,
             "media_type": "movie",
-            "release_date": "2019-10-30"
+            "release_date": "2020-12-16"
           }
         },
         {
           "rank": 9,
-          "title": "Reminders of Him",
-          "tmdb": {
-            "id": 1367642,
-            "media_type": "movie",
-            "release_date": "2026-03-11"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Dracula 2000",
           "tmdb": {
             "id": 10577,
             "media_type": "movie",
             "release_date": "2000-12-22"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Doctor Sleep",
+          "tmdb": {
+            "id": 501170,
+            "media_type": "movie",
+            "release_date": "2019-10-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on HBO Max in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -425,51 +425,6 @@
         },
         {
           "rank": 3,
-          "title": "Lanterns",
-          "tmdb": {
-            "id": 95350,
-            "media_type": "tv",
-            "release_date": "2026-08-16"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Call My Manager",
-          "tmdb": {
-            "id": 155456,
-            "media_type": "tv",
-            "release_date": "2026-08-13"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "MasterChef Asia",
-          "tmdb": {
-            "id": 333025,
-            "media_type": "tv",
-            "release_date": "2015-09-03"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Stuart Fails to Save the Universe",
-          "tmdb": {
-            "id": 287620,
-            "media_type": "tv",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Line of Fire",
-          "tmdb": {
-            "id": 321958,
-            "media_type": "tv",
-            "release_date": "2026-09-21"
-          }
-        },
-        {
-          "rank": 8,
           "title": "War",
           "tmdb": {
             "id": 298852,
@@ -478,31 +433,76 @@
           }
         },
         {
-          "rank": 9,
-          "title": "President Curtis",
+          "rank": 4,
+          "title": "Lanterns",
           "tmdb": {
-            "id": 296756,
+            "id": 95350,
             "media_type": "tv",
-            "release_date": "2026-07-26"
+            "release_date": "2026-08-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Fired Up!",
+          "tmdb": {
+            "id": 10325,
+            "media_type": "tv",
+            "release_date": "1997-04-10"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Strange: Junji Ito's Tales for Sleepless Nights",
+          "tmdb": {
+            "id": 319990,
+            "media_type": "tv",
+            "release_date": "2026-07-04"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "MasterChef Asia",
+          "tmdb": {
+            "id": 333025,
+            "media_type": "tv",
+            "release_date": "2015-09-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Producer",
+          "tmdb": {
+            "id": 201596,
+            "media_type": "tv",
+            "release_date": "2026-08-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Line of Fire",
+          "tmdb": {
+            "id": 321958,
+            "media_type": "tv",
+            "release_date": "2026-09-21"
           }
         },
         {
           "rank": 10,
-          "title": "My Bias, My Boss",
+          "title": "Stuart Fails to Save the Universe",
           "tmdb": {
-            "id": 296140,
+            "id": 287620,
             "media_type": "tv",
-            "release_date": "2026-08-03"
+            "release_date": "2026-07-23"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Indonesia on October 3, 2026",
+      "heading": "TOP Overall on Amazon Prime in Indonesia on October 4, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -570,15 +570,6 @@
         },
         {
           "rank": 8,
-          "title": "See You at Work Tomorrow!",
-          "tmdb": {
-            "id": 289763,
-            "media_type": "tv",
-            "release_date": "2026-06-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Last Sunrise",
           "tmdb": {
             "id": 1516698,
@@ -587,22 +578,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "You+Me – Against the World",
           "tmdb": {
             "id": 1641629,
             "media_type": "movie",
             "release_date": "2026-09-18"
           }
+        },
+        {
+          "rank": 10,
+          "title": "See You at Work Tomorrow!",
+          "tmdb": {
+            "id": 289763,
+            "media_type": "tv",
+            "release_date": "2026-06-22"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Amazon Prime in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -652,20 +652,20 @@
         },
         {
           "rank": 6,
-          "title": "The Runner",
+          "title": "Despicable Me 4",
           "tmdb": {
-            "id": 1386315,
+            "id": 519182,
             "media_type": "movie",
-            "release_date": "2026-09-03"
+            "release_date": "2024-06-20"
           }
         },
         {
           "rank": 7,
-          "title": "Project Hail Mary",
+          "title": "Now You See Me",
           "tmdb": {
-            "id": 687163,
+            "id": 75656,
             "media_type": "movie",
-            "release_date": "2026-03-15"
+            "release_date": "2013-05-29"
           }
         },
         {
@@ -679,30 +679,30 @@
         },
         {
           "rank": 9,
-          "title": "Despicable Me 4",
+          "title": "Project Hail Mary",
           "tmdb": {
-            "id": 519182,
+            "id": 687163,
             "media_type": "movie",
-            "release_date": "2024-06-20"
+            "release_date": "2026-03-15"
           }
         },
         {
           "rank": 10,
-          "title": "Kung Fu Panda 4",
+          "title": "The Runner",
           "tmdb": {
-            "id": 1011985,
+            "id": 1386315,
             "media_type": "movie",
-            "release_date": "2024-03-02"
+            "release_date": "2026-09-03"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -770,11 +770,11 @@
         },
         {
           "rank": 8,
-          "title": "Lioness",
+          "title": "Spring Fever",
           "tmdb": {
-            "id": 113962,
+            "id": 280948,
             "media_type": "tv",
-            "release_date": "2023-07-23"
+            "release_date": "2026-01-05"
           }
         },
         {
@@ -788,25 +788,34 @@
         },
         {
           "rank": 10,
-          "title": "Spring Fever",
+          "title": "Lioness",
           "tmdb": {
-            "id": 280948,
+            "id": 113962,
             "media_type": "tv",
-            "release_date": "2026-01-05"
+            "release_date": "2023-07-23"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Apple TV in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Last First: Winter K2",
+          "tmdb": {
+            "id": 1596303,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -815,21 +824,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "F1",
           "tmdb": {
             "id": 911430,
             "media_type": "movie",
             "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Last First: Winter K2",
-          "tmdb": {
-            "id": 1596303,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
           }
         },
         {
@@ -843,20 +843,20 @@
         },
         {
           "rank": 5,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -870,20 +870,20 @@
         },
         {
           "rank": 8,
-          "title": "Eternity",
-          "tmdb": {
-            "id": 1259102,
-            "media_type": "movie",
-            "release_date": "2025-11-10"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Eternity",
+          "tmdb": {
+            "id": 1259102,
+            "media_type": "movie",
+            "release_date": "2025-11-10"
           }
         },
         {
@@ -899,10 +899,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Apple TV in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -934,20 +934,20 @@
         },
         {
           "rank": 4,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
             "media_type": "tv",
             "release_date": "2024-05-07"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
           }
         },
         {
@@ -999,10 +999,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Apple TV Store in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1025,6 +1025,15 @@
         },
         {
           "rank": 3,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Spider-Man: Homecoming",
           "tmdb": {
             "id": 315635,
@@ -1033,21 +1042,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
             "media_type": "movie",
             "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Spider-Man: Far from Home",
-          "tmdb": {
-            "id": 429617,
-            "media_type": "movie",
-            "release_date": "2019-06-28"
           }
         },
         {
@@ -1070,39 +1070,39 @@
         },
         {
           "rank": 8,
-          "title": "Weapons",
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1078605,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2025-08-04"
+            "release_date": "2026-06-24"
           }
         },
         {
           "rank": 9,
-          "title": "Sex and Zen",
+          "title": "Interstellar",
           "tmdb": {
-            "id": 45491,
+            "id": 157336,
             "media_type": "movie",
-            "release_date": "1991-11-30"
+            "release_date": "2014-11-05"
           }
         },
         {
           "rank": 10,
-          "title": "Jack Reacher: Never Go Back",
+          "title": "Ghost",
           "tmdb": {
-            "id": 343611,
+            "id": 251,
             "media_type": "movie",
-            "release_date": "2016-10-19"
+            "release_date": "1990-07-13"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Google in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1199,10 +1199,10 @@
     },
     {
       "catalog_id": "catchplay.overall",
-      "heading": "TOP Overall on Catchplay in Indonesia on October 3, 2026",
+      "heading": "TOP Overall on Catchplay in Indonesia on October 4, 2026",
       "category": "overall",
       "platform": "Catchplay",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1299,10 +1299,10 @@
     },
     {
       "catalog_id": "catchplay.movies",
-      "heading": "TOP Movies on Catchplay in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Catchplay in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Catchplay",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1399,10 +1399,10 @@
     },
     {
       "catalog_id": "catchplay.series",
-      "heading": "TOP TV Shows on Catchplay in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Catchplay in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Catchplay",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1499,10 +1499,10 @@
     },
     {
       "catalog_id": "catchplay.rental-movies",
-      "heading": "TOP Rental Movies on Catchplay in Indonesia on October 3, 2026",
+      "heading": "TOP Rental Movies on Catchplay in Indonesia on October 4, 2026",
       "category": "rental movies",
       "platform": "Catchplay",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1599,10 +1599,10 @@
     },
     {
       "catalog_id": "vidio.overall",
-      "heading": "TOP Overall on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Overall on Vidio in Indonesia on October 4, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1630,6 +1630,15 @@
         },
         {
           "rank": 4,
+          "title": "Suddenly Satan",
+          "tmdb": {
+            "id": 1525059,
+            "media_type": "movie",
+            "release_date": "2026-04-16"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Last Flight",
           "tmdb": {
             "id": 1560734,
@@ -1638,21 +1647,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Agak Laen",
           "tmdb": {
             "id": 1175161,
             "media_type": "movie",
             "release_date": "2024-02-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Suddenly Satan",
-          "tmdb": {
-            "id": 1525059,
-            "media_type": "movie",
-            "release_date": "2026-04-16"
           }
         },
         {
@@ -1684,12 +1684,8 @@
         },
         {
           "rank": 10,
-          "title": "Setannya Cuan",
-          "tmdb": {
-            "id": 672943,
-            "media_type": "movie",
-            "release_date": "2026-03-05"
-          }
+          "title": "Putri Pewaris",
+          "tmdb": null
         }
       ]
     },
@@ -1699,10 +1695,10 @@
         "id": "ja",
         "label": "Japanese"
       },
-      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Overall (in Japanese) on Vidio in Indonesia on October 4, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1716,15 +1712,6 @@
         },
         {
           "rank": 2,
-          "title": "Tojima Wants to Be a Kamen Rider",
-          "tmdb": {
-            "id": 285788,
-            "media_type": "tv",
-            "release_date": "2025-10-05"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Mushoku Tensei: Jobless Reincarnation",
           "tmdb": {
             "id": 94664,
@@ -1733,21 +1720,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Frieren: Beyond Journey's End",
+          "rank": 3,
+          "title": "Tojima Wants to Be a Kamen Rider",
           "tmdb": {
-            "id": 209867,
+            "id": 285788,
             "media_type": "tv",
-            "release_date": "2023-09-29"
+            "release_date": "2025-10-05"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
           "tmdb": {
             "id": 1311031,
             "media_type": "movie",
             "release_date": "2025-07-18"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Frieren: Beyond Journey's End",
+          "tmdb": {
+            "id": 209867,
+            "media_type": "tv",
+            "release_date": "2023-09-29"
           }
         },
         {
@@ -1803,10 +1799,10 @@
         "id": "ko",
         "label": "Korean"
       },
-      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Overall (in Korean) on Vidio in Indonesia on October 4, 2026",
       "category": "overall",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1820,6 +1816,15 @@
         },
         {
           "rank": 2,
+          "title": "Flex X Cop",
+          "tmdb": {
+            "id": 220074,
+            "media_type": "tv",
+            "release_date": "2024-01-26"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Love on the Menu",
           "tmdb": {
             "id": 310326,
@@ -1828,30 +1833,21 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The World of Love",
           "tmdb": {
-            "id": 93547,
-            "media_type": "tv",
-            "release_date": "2015-02-17"
+            "id": 1317512,
+            "media_type": "movie",
+            "release_date": "2025-10-22"
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "My Daughter is a Zombie",
           "tmdb": {
             "id": 1306816,
             "media_type": "movie",
             "release_date": "2025-07-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Flex X Cop",
-          "tmdb": {
-            "id": 220074,
-            "media_type": "tv",
-            "release_date": "2024-01-26"
           }
         },
         {
@@ -1874,15 +1870,6 @@
         },
         {
           "rank": 8,
-          "title": "Oh! Master",
-          "tmdb": {
-            "id": 119368,
-            "media_type": "tv",
-            "release_date": "2021-03-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Once We Were Us",
           "tmdb": {
             "id": 1264805,
@@ -1891,22 +1878,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Descendants of the Sun",
+          "rank": 9,
+          "title": "Oh! Master",
           "tmdb": {
-            "id": 65143,
+            "id": 119368,
             "media_type": "tv",
-            "release_date": "2016-02-24"
+            "release_date": "2021-03-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Law and The City",
+          "tmdb": {
+            "id": 273418,
+            "media_type": "tv",
+            "release_date": "2025-07-05"
           }
         }
       ]
     },
     {
       "catalog_id": "vidio.movies",
-      "heading": "TOP Movies on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Movies on Vidio in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1920,6 +1916,15 @@
         },
         {
           "rank": 2,
+          "title": "Suddenly Satan",
+          "tmdb": {
+            "id": 1525059,
+            "media_type": "movie",
+            "release_date": "2026-04-16"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Last Flight",
           "tmdb": {
             "id": 1560734,
@@ -1928,21 +1933,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Agak Laen",
           "tmdb": {
             "id": 1175161,
             "media_type": "movie",
             "release_date": "2024-02-01"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Suddenly Satan",
-          "tmdb": {
-            "id": 1525059,
-            "media_type": "movie",
-            "release_date": "2026-04-16"
           }
         },
         {
@@ -1965,6 +1961,15 @@
         },
         {
           "rank": 7,
+          "title": "DOA: Cari Jodoh",
+          "tmdb": {
+            "id": 540809,
+            "media_type": "movie",
+            "release_date": "2018-08-16"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Snake Eyes: G.I. Joe Origins",
           "tmdb": {
             "id": 568620,
@@ -1973,21 +1978,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Fast & Furious Presents: Hobbs & Shaw",
           "tmdb": {
             "id": 384018,
             "media_type": "movie",
             "release_date": "2019-07-31"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "DOA: Cari Jodoh",
-          "tmdb": {
-            "id": 540809,
-            "media_type": "movie",
-            "release_date": "2018-08-16"
           }
         },
         {
@@ -2007,23 +2003,14 @@
         "id": "en",
         "label": "English"
       },
-      "heading": "TOP Movies (in English) on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Movies (in English) on Vidio in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Prey",
-          "tmdb": {
-            "id": 766507,
-            "media_type": "movie",
-            "release_date": "2022-08-05"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
@@ -2032,16 +2019,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Precious Cargo",
+          "rank": 2,
+          "title": "Prey",
           "tmdb": {
-            "id": 384737,
+            "id": 766507,
             "media_type": "movie",
-            "release_date": "2016-07-14"
+            "release_date": "2022-08-05"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Rocky Balboa",
           "tmdb": {
             "id": 1246,
@@ -2050,12 +2037,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Backtrace",
+          "rank": 4,
+          "title": "Precious Cargo",
           "tmdb": {
-            "id": 512412,
+            "id": 384737,
             "media_type": "movie",
-            "release_date": "2018-12-14"
+            "release_date": "2016-07-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Sing 2",
+          "tmdb": {
+            "id": 438695,
+            "media_type": "movie",
+            "release_date": "2021-12-01"
           }
         },
         {
@@ -2069,15 +2065,24 @@
         },
         {
           "rank": 7,
-          "title": "Killerman",
+          "title": "Backtrace",
           "tmdb": {
-            "id": 492449,
+            "id": 512412,
             "media_type": "movie",
-            "release_date": "2019-08-08"
+            "release_date": "2018-12-14"
           }
         },
         {
           "rank": 8,
+          "title": "Creed",
+          "tmdb": {
+            "id": 312221,
+            "media_type": "movie",
+            "release_date": "2015-11-25"
+          }
+        },
+        {
+          "rank": 9,
           "title": "After Ever Happy",
           "tmdb": {
             "id": 744276,
@@ -2086,21 +2091,12 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Fast X",
           "tmdb": {
             "id": 385687,
             "media_type": "movie",
             "release_date": "2023-05-17"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "2012",
-          "tmdb": {
-            "id": 14161,
-            "media_type": "movie",
-            "release_date": "2009-10-10"
           }
         }
       ]
@@ -2111,10 +2107,10 @@
         "id": "id",
         "label": "Indonesian"
       },
-      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP Movies (in Indonesian) on Vidio in Indonesia on October 4, 2026",
       "category": "movies",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2211,10 +2207,10 @@
     },
     {
       "catalog_id": "vidio.series",
-      "heading": "TOP TV Shows on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows on Vidio in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2311,10 +2307,10 @@
         "id": "id",
         "label": "Indonesian"
       },
-      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on October 3, 2026",
+      "heading": "TOP TV Shows (in Indonesian) on Vidio in Indonesia on October 4, 2026",
       "category": "tv shows",
       "platform": "Vidio",
-      "date": "October 3, 2026",
+      "date": "October 4, 2026",
       "title_count": 10,
       "entries": [
         {
