@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/latvia/",
-  "page_title": "TOP 10 on Streaming in Latvia on October 8, 2026",
+  "page_title": "TOP 10 on Streaming in Latvia on October 10, 2026",
   "region": "latvia",
-  "date": "October 8, 2026",
-  "scraped_at_utc": "2026-10-08T20:47:36.111938+00:00",
+  "date": "October 10, 2026",
+  "scraped_at_utc": "2026-10-10T19:30:59.643198+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Netflix in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Animals",
+          "tmdb": {
+            "id": 1236045,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ice Age",
           "tmdb": {
             "id": 425,
             "media_type": "movie",
             "release_date": "2002-03-14"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Ice Age: The Meltdown",
-          "tmdb": {
-            "id": 950,
-            "media_type": "movie",
-            "release_date": "2006-03-29"
           }
         },
         {
@@ -42,20 +42,20 @@
         },
         {
           "rank": 4,
+          "title": "Ice Age: The Meltdown",
+          "tmdb": {
+            "id": 950,
+            "media_type": "movie",
+            "release_date": "2006-03-29"
+          }
+        },
+        {
+          "rank": 5,
           "title": "UNABOMBER",
           "tmdb": {
             "id": 1492640,
             "media_type": "movie",
             "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ice Age: Dawn of the Dinosaurs",
-          "tmdb": {
-            "id": 8355,
-            "media_type": "movie",
-            "release_date": "2009-06-26"
           }
         },
         {
@@ -69,11 +69,11 @@
         },
         {
           "rank": 7,
-          "title": "The Widower: 'Til Death Do Us Part",
+          "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
-            "id": 1758536,
+            "id": 8355,
             "media_type": "movie",
-            "release_date": "2026-09-30"
+            "release_date": "2009-06-26"
           }
         },
         {
@@ -96,25 +96,34 @@
         },
         {
           "rank": 10,
-          "title": "Schumacher '94 - The Birth of a Legend",
+          "title": "The Widower: 'Til Death Do Us Part",
           "tmdb": {
-            "id": 1752355,
+            "id": 1758536,
             "media_type": "movie",
-            "release_date": "2026-10-02"
+            "release_date": "2026-09-30"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Latvia on October 8, 2026",
+      "heading": "TOP TV Shows on Netflix in Latvia on October 10, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Below",
+          "tmdb": {
+            "id": 285322,
+            "media_type": "tv",
+            "release_date": "2026-10-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
@@ -123,21 +132,12 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Monster: The Lizzie Borden Story",
-          "tmdb": {
-            "id": 299939,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
           "rank": 3,
-          "title": "The Gentlemen",
+          "title": "Haunted Hotel",
           "tmdb": {
-            "id": 236235,
+            "id": 255752,
             "media_type": "tv",
-            "release_date": "2024-03-07"
+            "release_date": "2025-09-19"
           }
         },
         {
@@ -151,29 +151,29 @@
         },
         {
           "rank": 5,
-          "title": "Love Is Blind: Netherlands",
+          "title": "The Gentlemen",
           "tmdb": {
-            "id": 290750,
+            "id": 236235,
             "media_type": "tv",
-            "release_date": "2026-09-30"
+            "release_date": "2024-03-07"
           }
         },
         {
           "rank": 6,
-          "title": "Outside",
+          "title": "Monster: The Lizzie Borden Story",
           "tmdb": {
-            "id": 333016,
+            "id": 299939,
             "media_type": "tv",
-            "release_date": "2026-09-28"
+            "release_date": "2026-09-17"
           }
         },
         {
           "rank": 7,
-          "title": "LEGO ONE PIECE",
+          "title": "JoJo's Bizarre Adventure",
           "tmdb": {
-            "id": 318918,
+            "id": 45790,
             "media_type": "tv",
-            "release_date": "2026-09-29"
+            "release_date": "2012-10-06"
           }
         },
         {
@@ -187,30 +187,30 @@
         },
         {
           "rank": 9,
+          "title": "Love Is Blind: Netherlands",
+          "tmdb": {
+            "id": 290750,
+            "media_type": "tv",
+            "release_date": "2026-09-30"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Crew Girl",
           "tmdb": {
             "id": 300507,
             "media_type": "tv",
             "release_date": "2026-09-10"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Wonka's The Golden Ticket",
-          "tmdb": {
-            "id": 286940,
-            "media_type": "tv",
-            "release_date": "2026-09-23"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall on HBO Max in Latvia on October 8, 2026",
+      "heading": "TOP Overall on HBO Max in Latvia on October 10, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,24 +233,15 @@
         },
         {
           "rank": 3,
-          "title": "Get Jiro",
+          "title": "Unmasking a Monster: Aileen Wuornos",
           "tmdb": {
-            "id": 231801,
+            "id": 329524,
             "media_type": "tv",
-            "release_date": "2026-10-04"
+            "release_date": "2026-09-30"
           }
         },
         {
           "rank": 4,
-          "title": "President Curtis",
-          "tmdb": {
-            "id": 296756,
-            "media_type": "tv",
-            "release_date": "2026-07-26"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Stuart Fails to Save the Universe",
           "tmdb": {
             "id": 287620,
@@ -259,16 +250,43 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Unmasking a Monster: Aileen Wuornos",
+          "rank": 5,
+          "title": "Get Jiro",
           "tmdb": {
-            "id": 329524,
+            "id": 231801,
             "media_type": "tv",
-            "release_date": "2026-08-03"
+            "release_date": "2026-10-04"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "President Curtis",
+          "tmdb": {
+            "id": 296756,
+            "media_type": "tv",
+            "release_date": "2026-07-26"
           }
         },
         {
           "rank": 7,
+          "title": "The Uninvited Guests",
+          "tmdb": {
+            "id": 217948,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Serial Killer Connection",
+          "tmdb": {
+            "id": 337700,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Supergirl",
           "tmdb": {
             "id": 62688,
@@ -277,40 +295,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Zmora",
           "tmdb": {
             "id": 279185,
             "media_type": "tv",
             "release_date": "2026-10-02"
           }
-        },
-        {
-          "rank": 9,
-          "title": "90 Day Fiancé",
-          "tmdb": {
-            "id": 61575,
-            "media_type": "tv",
-            "release_date": "2014-01-12"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Undoing",
-          "tmdb": {
-            "id": 83851,
-            "media_type": "tv",
-            "release_date": "2020-10-25"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Latvia on October 8, 2026",
+      "heading": "TOP Overall on Disney+ in Latvia on October 10, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -333,6 +333,15 @@
         },
         {
           "rank": 3,
+          "title": "Soulm8te",
+          "tmdb": {
+            "id": 1307118,
+            "media_type": "movie",
+            "release_date": "2026-07-31"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Coven Academy",
           "tmdb": {
             "id": 298505,
@@ -341,21 +350,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Soulm8te",
-          "tmdb": {
-            "id": 1307118,
-            "media_type": "movie",
-            "release_date": "2026-07-31"
-          }
-        },
-        {
           "rank": 5,
-          "title": "PAW Patrol: The Movie",
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
           "tmdb": {
-            "id": 675445,
+            "id": 1750432,
             "media_type": "movie",
-            "release_date": "2021-08-09"
+            "release_date": "2026-09-24"
           }
         },
         {
@@ -378,15 +378,6 @@
         },
         {
           "rank": 8,
-          "title": "Spidey and the Avengers: Halloween Team-Up!",
-          "tmdb": {
-            "id": 1750432,
-            "media_type": "movie",
-            "release_date": "2026-09-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -395,35 +386,35 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Friday the 13th",
+          "rank": 9,
+          "title": "Scooby-Doo 2: Monsters Unleashed",
           "tmdb": {
-            "id": 13207,
+            "id": 11024,
             "media_type": "movie",
-            "release_date": "2009-02-11"
+            "release_date": "2004-03-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Avengers: Infinity War",
+          "tmdb": {
+            "id": 299536,
+            "media_type": "movie",
+            "release_date": "2018-04-25"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Disney+ in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Family Guy Happy Hell-o-ween",
-          "tmdb": {
-            "id": 1788735,
-            "media_type": "movie",
-            "release_date": "2026-10-05"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Toy Story 5",
           "tmdb": {
             "id": 1084244,
@@ -432,21 +423,30 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Family Guy Happy Hell-o-ween",
+          "tmdb": {
+            "id": 1788735,
+            "media_type": "movie",
+            "release_date": "2026-10-05"
+          }
+        },
+        {
           "rank": 3,
+          "title": "Oasis: Don't Look Back in Anger",
+          "tmdb": {
+            "id": 1447853,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Soulm8te",
           "tmdb": {
             "id": 1307118,
             "media_type": "movie",
             "release_date": "2026-07-31"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "PAW Patrol: The Movie",
-          "tmdb": {
-            "id": 675445,
-            "media_type": "movie",
-            "release_date": "2021-08-09"
           }
         },
         {
@@ -469,15 +469,6 @@
         },
         {
           "rank": 7,
-          "title": "Spidey and the Avengers: Halloween Team-Up!",
-          "tmdb": {
-            "id": 1750432,
-            "media_type": "movie",
-            "release_date": "2026-09-24"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -486,31 +477,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Friday the 13th",
+          "rank": 8,
+          "title": "Hoppers",
           "tmdb": {
-            "id": 13207,
+            "id": 1327819,
             "media_type": "movie",
-            "release_date": "2009-02-11"
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "tmdb": {
+            "id": 1750432,
+            "media_type": "movie",
+            "release_date": "2026-09-24"
           }
         },
         {
           "rank": 10,
-          "title": "Toy Story 3",
+          "title": "Toy Story",
           "tmdb": {
-            "id": 10193,
+            "id": 862,
             "media_type": "movie",
-            "release_date": "2010-06-16"
+            "release_date": "1995-11-22"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Latvia on October 8, 2026",
+      "heading": "TOP TV Shows on Disney+ in Latvia on October 10, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -607,19 +607,19 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Apple TV in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Last First: Winter K2",
+          "title": "Matchbox",
           "tmdb": {
-            "id": 1596303,
+            "id": 946940,
             "media_type": "movie",
-            "release_date": "2026-10-02"
+            "release_date": "2002-02-24"
           }
         },
         {
@@ -633,20 +633,20 @@
         },
         {
           "rank": 3,
-          "title": "Greyhound",
+          "title": "The Last First: Winter K2",
           "tmdb": {
-            "id": 516486,
+            "id": 1596303,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2026-10-02"
           }
         },
         {
           "rank": 4,
-          "title": "F1",
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 911430,
+            "id": 1029575,
             "media_type": "movie",
-            "release_date": "2025-06-25"
+            "release_date": "2023-12-14"
           }
         },
         {
@@ -660,38 +660,38 @@
         },
         {
           "rank": 6,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
             "media_type": "movie",
             "release_date": "2025-11-11"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Fountain of Youth",
-          "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Lost Bus",
-          "tmdb": {
-            "id": 1236470,
-            "media_type": "movie",
-            "release_date": "2025-09-19"
           }
         },
         {
@@ -707,10 +707,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Latvia on October 8, 2026",
+      "heading": "TOP TV Shows on Apple TV in Latvia on October 10, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,33 +733,6 @@
         },
         {
           "rank": 3,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
@@ -768,12 +741,39 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Stick",
+          "rank": 4,
+          "title": "Brothers",
           "tmdb": {
-            "id": 248830,
+            "id": 250203,
             "media_type": "tv",
-            "release_date": "2025-06-03"
+            "release_date": "2026-09-22"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -787,30 +787,30 @@
         },
         {
           "rank": 9,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Severance",
+          "tmdb": {
+            "id": 95396,
+            "media_type": "tv",
+            "release_date": "2022-02-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Apple TV Store in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -824,33 +824,6 @@
         },
         {
           "rank": 2,
-          "title": "Casper",
-          "tmdb": {
-            "id": 8839,
-            "media_type": "movie",
-            "release_date": "1995-05-26"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Good, the Bad and the Ugly",
-          "tmdb": {
-            "id": 429,
-            "media_type": "movie",
-            "release_date": "1966-12-23"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Thanksgiving",
-          "tmdb": {
-            "id": 1071215,
-            "media_type": "movie",
-            "release_date": "2023-11-16"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Coraline",
           "tmdb": {
             "id": 14836,
@@ -859,58 +832,85 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Lee Cronin's The Mummy",
+          "rank": 3,
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1304313,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2026-04-15"
+            "release_date": "2026-06-24"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Twilight",
+          "tmdb": {
+            "id": 8966,
+            "media_type": "movie",
+            "release_date": "2008-11-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Sleepy Hollow",
+          "tmdb": {
+            "id": 2668,
+            "media_type": "movie",
+            "release_date": "1999-11-19"
           }
         },
         {
           "rank": 7,
-          "title": "The Martian",
+          "title": "Mr. Bean's Holiday",
           "tmdb": {
-            "id": 286217,
+            "id": 1268,
             "media_type": "movie",
-            "release_date": "2015-09-30"
+            "release_date": "2007-03-22"
           }
         },
         {
           "rank": 8,
-          "title": "PAW Patrol: The Mighty Movie",
+          "title": "Jurassic World Rebirth",
           "tmdb": {
-            "id": 893723,
+            "id": 1234821,
             "media_type": "movie",
-            "release_date": "2023-09-21"
+            "release_date": "2025-06-23"
           }
         },
         {
           "rank": 9,
-          "title": "Breakfast at Tiffany's",
+          "title": "Argo",
           "tmdb": {
-            "id": 164,
+            "id": 68734,
             "media_type": "movie",
-            "release_date": "1961-10-06"
+            "release_date": "2012-10-11"
           }
         },
         {
           "rank": 10,
-          "title": "Thunderball",
+          "title": "Disclosure Day",
           "tmdb": {
-            "id": 660,
+            "id": 1275779,
             "media_type": "movie",
-            "release_date": "1965-12-11"
+            "release_date": "2026-06-10"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Google in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1007,10 +1007,10 @@
     },
     {
       "catalog_id": "go3.movies",
-      "heading": "TOP Movies on GO3 in Latvia on October 8, 2026",
+      "heading": "TOP Movies on GO3 in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "GO3",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1024,6 +1024,15 @@
         },
         {
           "rank": 2,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
@@ -1032,7 +1041,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
@@ -1041,21 +1050,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Cars",
           "tmdb": {
             "id": 920,
             "media_type": "movie",
             "release_date": "2006-06-08"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Toy Story 5",
-          "tmdb": {
-            "id": 1084244,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
           }
         },
         {
@@ -1078,15 +1078,6 @@
         },
         {
           "rank": 8,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1095,22 +1086,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Frozen II",
+          "rank": 9,
+          "title": "Obsession",
           "tmdb": {
-            "id": 330457,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2019-11-20"
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Coco",
+          "tmdb": {
+            "id": 354912,
+            "media_type": "movie",
+            "release_date": "2017-10-27"
           }
         }
       ]
     },
     {
       "catalog_id": "telia.movies",
-      "heading": "TOP Movies on Telia in Latvia on October 8, 2026",
+      "heading": "TOP Movies on Telia in Latvia on October 10, 2026",
       "category": "movies",
       "platform": "Telia",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1133,6 +1133,33 @@
         },
         {
           "rank": 3,
+          "title": "The Get Out",
+          "tmdb": {
+            "id": 1279493,
+            "media_type": "movie",
+            "release_date": "2026-06-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Colony",
+          "tmdb": {
+            "id": 1375646,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Smile 2",
+          "tmdb": {
+            "id": 1100782,
+            "media_type": "movie",
+            "release_date": "2024-10-16"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Yeti",
           "tmdb": {
             "id": 1418657,
@@ -1141,16 +1168,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Mildas istaba",
-          "tmdb": {
-            "id": 1681654,
-            "media_type": "movie",
-            "release_date": "2026-05-04"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 7,
           "title": "Now You See Me: Now You Don't",
           "tmdb": {
             "id": 425274,
@@ -1159,7 +1177,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "In the Hand of Dante",
           "tmdb": {
             "id": 1020047,
@@ -1168,49 +1186,31 @@
           }
         },
         {
-          "rank": 7,
-          "title": "How to Make a Killing",
+          "rank": 9,
+          "title": "Mildas istaba",
           "tmdb": {
-            "id": 467905,
+            "id": 1681654,
             "media_type": "movie",
-            "release_date": "2026-02-16"
+            "release_date": "2026-05-04"
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Flight Risk",
           "tmdb": {
             "id": 1126166,
             "media_type": "movie",
             "release_date": "2025-01-22"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Monkey",
-          "tmdb": {
-            "id": 1124620,
-            "media_type": "movie",
-            "release_date": "2025-02-10"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Good Fortune",
-          "tmdb": {
-            "id": 1114967,
-            "media_type": "movie",
-            "release_date": "2025-10-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "telia.series",
-      "heading": "TOP TV Shows on Telia in Latvia on October 8, 2026",
+      "heading": "TOP TV Shows on Telia in Latvia on October 10, 2026",
       "category": "tv shows",
       "platform": "Telia",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1220,7 +1220,7 @@
         },
         {
           "rank": 2,
-          "title": "Limuzīns dāvanā",
+          "title": "Bez pēdām. Anna",
           "tmdb": null
         },
         {
@@ -1230,7 +1230,7 @@
         },
         {
           "rank": 4,
-          "title": "Gandrīz ideālas vakariņas",
+          "title": "Limuzīns dāvanā",
           "tmdb": null
         },
         {
@@ -1240,6 +1240,20 @@
         },
         {
           "rank": 6,
+          "title": "Gandrīz ideālas vakariņas",
+          "tmdb": null
+        },
+        {
+          "rank": 7,
+          "title": "Outlander: Blood of My Blood",
+          "tmdb": {
+            "id": 207484,
+            "media_type": "tv",
+            "release_date": "2025-08-08"
+          }
+        },
+        {
+          "rank": 8,
           "title": "American Hostage",
           "tmdb": {
             "id": 239618,
@@ -1248,35 +1262,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Tur tālumā, Grenlandē",
-          "tmdb": {
-            "id": 333656,
-            "media_type": "tv",
-            "release_date": "2026-08-27"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Love Is In The Air",
-          "tmdb": {
-            "id": 104877,
-            "media_type": "tv",
-            "release_date": "2020-07-08"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Četri brāļi. Superšovs",
-          "tmdb": null
+          "title": "Vigil",
+          "tmdb": {
+            "id": 126167,
+            "media_type": "tv",
+            "release_date": "2021-08-29"
+          }
         },
         {
           "rank": 10,
-          "title": "The Uninvited Guests",
+          "title": "The Killings at Parrish Station",
           "tmdb": {
-            "id": 217948,
+            "id": 301284,
             "media_type": "tv",
-            "release_date": "2023-01-26"
+            "release_date": "2026-06-24"
           }
         }
       ]

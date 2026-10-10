@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/bolivia/",
-  "page_title": "TOP 10 on Streaming in Bolivia on October 8, 2026",
+  "page_title": "TOP 10 on Streaming in Bolivia on October 10, 2026",
   "region": "bolivia",
-  "date": "October 8, 2026",
-  "scraped_at_utc": "2026-10-08T20:46:48.820910+00:00",
+  "date": "October 10, 2026",
+  "scraped_at_utc": "2026-10-10T19:29:39.052315+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Bolivia on October 8, 2026",
+      "heading": "TOP Movies on Netflix in Bolivia on October 10, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Animals",
+          "tmdb": {
+            "id": 1236045,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ice Age",
           "tmdb": {
             "id": 425,
@@ -23,25 +32,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Doing Life",
-          "tmdb": {
-            "id": 1458857,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
           "rank": 3,
-          "title": "Ice Age: Dawn of the Dinosaurs",
-          "tmdb": {
-            "id": 8355,
-            "media_type": "movie",
-            "release_date": "2009-06-26"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ice Age: Collision Course",
           "tmdb": {
             "id": 278154,
@@ -50,30 +41,39 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Acid",
+          "rank": 4,
+          "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
-            "id": 852445,
+            "id": 8355,
             "media_type": "movie",
-            "release_date": "2023-09-20"
+            "release_date": "2009-06-26"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Doing Life",
+          "tmdb": {
+            "id": 1458857,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
           }
         },
         {
           "rank": 6,
+          "title": "Anyone But You",
+          "tmdb": {
+            "id": 1072790,
+            "media_type": "movie",
+            "release_date": "2023-12-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Ice Age: The Meltdown",
           "tmdb": {
             "id": 950,
             "media_type": "movie",
             "release_date": "2006-03-29"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "!Qué despadre!",
-          "tmdb": {
-            "id": 937337,
-            "media_type": "movie",
-            "release_date": "2022-02-09"
           }
         },
         {
@@ -87,211 +87,11 @@
         },
         {
           "rank": 9,
-          "title": "The Substance",
+          "title": "Acid",
           "tmdb": {
-            "id": 933260,
+            "id": 852445,
             "media_type": "movie",
-            "release_date": "2024-09-18"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Unhappily Ever After",
-          "tmdb": {
-            "id": 676841,
-            "media_type": "movie",
-            "release_date": "2023-01-26"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Bolivia on October 8, 2026",
-      "category": "tv shows",
-      "platform": "Netflix",
-      "date": "October 8, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Not a Stranger",
-          "tmdb": {
-            "id": 320760,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "East of Eden",
-          "tmdb": {
-            "id": 258165,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Irreplaceable",
-          "tmdb": {
-            "id": 297982,
-            "media_type": "tv",
-            "release_date": "2026-09-28"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Percy Jackson and the Olympians",
-          "tmdb": {
-            "id": 103540,
-            "media_type": "tv",
-            "release_date": "2023-12-19"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Plastic Beauty",
-          "tmdb": {
-            "id": 298008,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Shaque: Trust No One",
-          "tmdb": {
-            "id": 285147,
-            "media_type": "tv",
-            "release_date": "2026-09-24"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Monster: The Lizzie Borden Story",
-          "tmdb": {
-            "id": 299939,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Raw",
-          "tmdb": {
-            "id": 4656,
-            "media_type": "tv",
-            "release_date": "1993-01-11"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Teach You a Lesson",
-          "tmdb": {
-            "id": 276161,
-            "media_type": "tv",
-            "release_date": "2026-06-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Four Hands, Two Sonatas",
-          "tmdb": {
-            "id": 305644,
-            "media_type": "tv",
-            "release_date": "2026-08-29"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Bolivia on October 8, 2026",
-      "category": "movies",
-      "platform": "HBO Max",
-      "date": "October 8, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Never Let Go",
-          "tmdb": {
-            "id": 814889,
-            "media_type": "movie",
-            "release_date": "2024-09-18"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "In the Lost Lands",
-          "tmdb": {
-            "id": 324544,
-            "media_type": "movie",
-            "release_date": "2025-02-27"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-          "tmdb": {
-            "id": 1311031,
-            "media_type": "movie",
-            "release_date": "2025-07-18"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Supergirl",
-          "tmdb": {
-            "id": 1081003,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Crazy Old Lady",
-          "tmdb": {
-            "id": 1255674,
-            "media_type": "movie",
-            "release_date": "2025-10-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "We're the Millers",
-          "tmdb": {
-            "id": 138832,
-            "media_type": "movie",
-            "release_date": "2013-08-07"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Leon: The Professional",
-          "tmdb": {
-            "id": 101,
-            "media_type": "movie",
-            "release_date": "1994-09-14"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Beast of War",
-          "tmdb": {
-            "id": 1244531,
-            "media_type": "movie",
-            "release_date": "2025-08-22"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Burn",
-          "tmdb": {
-            "id": 508138,
-            "media_type": "movie",
-            "release_date": "2019-08-23"
+            "release_date": "2023-09-20"
           }
         },
         {
@@ -306,11 +106,207 @@
       ]
     },
     {
+      "catalog_id": "netflix.series",
+      "heading": "TOP TV Shows on Netflix in Bolivia on October 10, 2026",
+      "category": "tv shows",
+      "platform": "Netflix",
+      "date": "October 10, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Below",
+          "tmdb": {
+            "id": 285322,
+            "media_type": "tv",
+            "release_date": "2026-10-08"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "WWE SmackDown",
+          "tmdb": null
+        },
+        {
+          "rank": 3,
+          "title": "Doctor X: Mafia in White",
+          "tmdb": {
+            "id": 293610,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Take Charge of My Heart",
+          "tmdb": {
+            "id": 289423,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Not a Stranger",
+          "tmdb": {
+            "id": 320760,
+            "media_type": "tv",
+            "release_date": "2026-09-17"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "East of Eden",
+          "tmdb": {
+            "id": 258165,
+            "media_type": "tv",
+            "release_date": "2026-10-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Percy Jackson and the Olympians",
+          "tmdb": {
+            "id": 103540,
+            "media_type": "tv",
+            "release_date": "2023-12-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Haunted Hotel",
+          "tmdb": {
+            "id": 255752,
+            "media_type": "tv",
+            "release_date": "2025-09-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Ramparts of Ice",
+          "tmdb": {
+            "id": 283428,
+            "media_type": "tv",
+            "release_date": "2026-04-02"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Irreplaceable",
+          "tmdb": {
+            "id": 297982,
+            "media_type": "tv",
+            "release_date": "2026-09-28"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "hbo-max.movies",
+      "heading": "TOP Movies on HBO Max in Bolivia on October 10, 2026",
+      "category": "movies",
+      "platform": "HBO Max",
+      "date": "October 10, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Superbad",
+          "tmdb": {
+            "id": 8363,
+            "media_type": "movie",
+            "release_date": "2007-08-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Men in Black",
+          "tmdb": {
+            "id": 607,
+            "media_type": "movie",
+            "release_date": "1997-07-02"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Never Let Go",
+          "tmdb": {
+            "id": 814889,
+            "media_type": "movie",
+            "release_date": "2024-09-18"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "In the Lost Lands",
+          "tmdb": {
+            "id": 324544,
+            "media_type": "movie",
+            "release_date": "2025-02-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Dunkirk",
+          "tmdb": {
+            "id": 374720,
+            "media_type": "movie",
+            "release_date": "2017-07-19"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Paul Blart: Mall Cop 2",
+          "tmdb": {
+            "id": 256961,
+            "media_type": "movie",
+            "release_date": "2015-04-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Ex Machina",
+          "tmdb": {
+            "id": 264660,
+            "media_type": "movie",
+            "release_date": "2015-01-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Great Gatsby",
+          "tmdb": {
+            "id": 64682,
+            "media_type": "movie",
+            "release_date": "2013-05-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "tmdb": {
+            "id": 1311031,
+            "media_type": "movie",
+            "release_date": "2025-07-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Crazy Old Lady",
+          "tmdb": {
+            "id": 1255674,
+            "media_type": "movie",
+            "release_date": "2025-10-10"
+          }
+        }
+      ]
+    },
+    {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Bolivia on October 8, 2026",
+      "heading": "TOP TV Shows on HBO Max in Bolivia on October 10, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,42 +338,6 @@
         },
         {
           "rank": 4,
-          "title": "Adventure Time: Side Quests",
-          "tmdb": {
-            "id": 256694,
-            "media_type": "tv",
-            "release_date": "2026-06-29"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Kirli Sepeti",
-          "tmdb": {
-            "id": 233492,
-            "media_type": "tv",
-            "release_date": "2023-09-24"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "La favorita 1922",
-          "tmdb": {
-            "id": 244432,
-            "media_type": "tv",
-            "release_date": "2025-03-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Kitchen Nightmares",
-          "tmdb": {
-            "id": 11294,
-            "media_type": "tv",
-            "release_date": "2007-09-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "War",
           "tmdb": {
             "id": 298852,
@@ -386,12 +346,48 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Stuart Fails to Save the Universe",
+          "rank": 5,
+          "title": "Adventure Time: Side Quests",
           "tmdb": {
-            "id": 287620,
+            "id": 256694,
             "media_type": "tv",
-            "release_date": "2026-07-23"
+            "release_date": "2026-06-29"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Kitchen Nightmares",
+          "tmdb": {
+            "id": 11294,
+            "media_type": "tv",
+            "release_date": "2007-09-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Kirli Sepeti",
+          "tmdb": {
+            "id": 233492,
+            "media_type": "tv",
+            "release_date": "2023-09-24"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "La favorita 1922",
+          "tmdb": {
+            "id": 244432,
+            "media_type": "tv",
+            "release_date": "2025-03-17"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Naked and Afraid: Shipwrecked",
+          "tmdb": {
+            "id": 330417,
+            "media_type": "tv",
+            "release_date": "2026-08-02"
           }
         },
         {
@@ -407,10 +403,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Bolivia on October 8, 2026",
+      "heading": "TOP Overall on Disney+ in Bolivia on October 10, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,11 +429,11 @@
         },
         {
           "rank": 3,
-          "title": "Coven Academy",
+          "title": "Avengers: Endgame",
           "tmdb": {
-            "id": 298505,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
           }
         },
         {
@@ -451,15 +447,6 @@
         },
         {
           "rank": 5,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Avengers: Infinity War",
           "tmdb": {
             "id": 299536,
@@ -468,16 +455,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Family Guy Happy Hell-o-ween",
-          "tmdb": {
-            "id": 1788735,
-            "media_type": "movie",
-            "release_date": "2026-10-05"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Hoppers",
           "tmdb": {
             "id": 1327819,
@@ -486,31 +464,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Avengers",
-          "tmdb": {
-            "id": 2473,
-            "media_type": "tv",
-            "release_date": "1961-01-07"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "title": "Soulm8te",
           "tmdb": {
             "id": 1307118,
             "media_type": "movie",
             "release_date": "2026-07-31"
           }
+        },
+        {
+          "rank": 8,
+          "title": "The Avengers",
+          "tmdb": {
+            "id": 24428,
+            "media_type": "movie",
+            "release_date": "2012-04-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Devil Wears Prada 2",
+          "tmdb": {
+            "id": 1314481,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Merry Berry Love",
+          "tmdb": {
+            "id": 305551,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Bolivia on October 8, 2026",
+      "heading": "TOP Movies on Disney+ in Bolivia on October 10, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -551,20 +547,20 @@
         },
         {
           "rank": 5,
-          "title": "Family Guy Happy Hell-o-ween",
-          "tmdb": {
-            "id": 1788735,
-            "media_type": "movie",
-            "release_date": "2026-10-05"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Hoppers",
           "tmdb": {
             "id": 1327819,
             "media_type": "movie",
             "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Soulm8te",
+          "tmdb": {
+            "id": 1307118,
+            "media_type": "movie",
+            "release_date": "2026-07-31"
           }
         },
         {
@@ -578,11 +574,11 @@
         },
         {
           "rank": 8,
-          "title": "Soulm8te",
+          "title": "The Devil Wears Prada 2",
           "tmdb": {
-            "id": 1307118,
+            "id": 1314481,
             "media_type": "movie",
-            "release_date": "2026-07-31"
+            "release_date": "2026-04-29"
           }
         },
         {
@@ -596,34 +592,25 @@
         },
         {
           "rank": 10,
-          "title": "The Devil Wears Prada 2",
+          "title": "Deadpool & Wolverine",
           "tmdb": {
-            "id": 1314481,
+            "id": 533535,
             "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "2024-07-24"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Bolivia on October 8, 2026",
+      "heading": "TOP TV Shows on Disney+ in Bolivia on October 10, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Coven Academy",
-          "tmdb": {
-            "id": 298505,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Between Steps",
           "tmdb": {
             "id": 307106,
@@ -632,21 +619,30 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Merry Berry Love",
+          "tmdb": {
+            "id": 305551,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
+          }
+        },
+        {
           "rank": 3,
+          "title": "Coven Academy",
+          "tmdb": {
+            "id": 298505,
+            "media_type": "tv",
+            "release_date": "2026-10-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Loki",
           "tmdb": {
             "id": 84958,
             "media_type": "tv",
             "release_date": "2021-06-09"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "¿Volverías con tu ex?",
-          "tmdb": {
-            "id": 228686,
-            "media_type": "tv",
-            "release_date": "2016-01-19"
           }
         },
         {
@@ -669,6 +665,15 @@
         },
         {
           "rank": 7,
+          "title": "¿Volverías con tu ex?",
+          "tmdb": {
+            "id": 228686,
+            "media_type": "tv",
+            "release_date": "2016-01-19"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Malcolm in the Middle: Life's Still Unfair",
           "tmdb": {
             "id": 279471,
@@ -677,7 +682,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "WandaVision",
           "tmdb": {
             "id": 85271,
@@ -686,44 +691,53 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Drop: A Snowfall Saga",
-          "tmdb": {
-            "id": 304842,
-            "media_type": "tv",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Gravity Falls",
+          "title": "Marvel Zombies",
           "tmdb": {
-            "id": 40075,
+            "id": 138505,
             "media_type": "tv",
-            "release_date": "2012-06-15"
+            "release_date": "2025-09-24"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Bolivia on October 8, 2026",
+      "heading": "TOP Movies on Paramount+ in Bolivia on October 10, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Last Stand of Ellen Cole",
+          "title": "Diablo",
           "tmdb": {
-            "id": 1411773,
+            "id": 1127110,
             "media_type": "movie",
-            "release_date": "2024-10-18"
+            "release_date": "2025-06-13"
           }
         },
         {
           "rank": 2,
+          "title": "Passenger",
+          "tmdb": {
+            "id": 1368314,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Avatar Aang: The Last Airbender",
+          "tmdb": {
+            "id": 980431,
+            "media_type": "movie",
+            "release_date": "2026-07-24"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -732,30 +746,12 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Significant Other",
-          "tmdb": {
-            "id": 901385,
-            "media_type": "movie",
-            "release_date": "2022-10-06"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Night Hunter",
-          "tmdb": {
-            "id": 441282,
-            "media_type": "movie",
-            "release_date": "2019-08-08"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Avatar Aang: The Last Airbender",
+          "title": "The Last Stand of Ellen Cole",
           "tmdb": {
-            "id": 980431,
+            "id": 1411773,
             "media_type": "movie",
-            "release_date": "2026-07-24"
+            "release_date": "2024-10-18"
           }
         },
         {
@@ -778,6 +774,15 @@
         },
         {
           "rank": 8,
+          "title": "Significant Other",
+          "tmdb": {
+            "id": 901385,
+            "media_type": "movie",
+            "release_date": "2022-10-06"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Primate",
           "tmdb": {
             "id": 1315303,
@@ -786,31 +791,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Northman",
-          "tmdb": {
-            "id": 639933,
-            "media_type": "movie",
-            "release_date": "2022-04-07"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Take Cover",
+          "title": "Transformers: Rise of the Beasts",
           "tmdb": {
-            "id": 1094974,
+            "id": 667538,
             "media_type": "movie",
-            "release_date": "2024-10-04"
+            "release_date": "2023-06-06"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Bolivia on October 8, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Bolivia on October 10, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -824,11 +820,11 @@
         },
         {
           "rank": 2,
-          "title": "Marshals",
+          "title": "Avatar: Seven Havens",
           "tmdb": {
-            "id": 290856,
+            "id": 284833,
             "media_type": "tv",
-            "release_date": "2026-03-01"
+            "release_date": "2026-10-09"
           }
         },
         {
@@ -851,11 +847,11 @@
         },
         {
           "rank": 5,
-          "title": "Tulsa King",
+          "title": "Marshals",
           "tmdb": {
-            "id": 153312,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": "2022-11-13"
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -869,6 +865,15 @@
         },
         {
           "rank": 7,
+          "title": "Tulsa King",
+          "tmdb": {
+            "id": 153312,
+            "media_type": "tv",
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Criminal Minds",
           "tmdb": {
             "id": 4057,
@@ -877,7 +882,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
@@ -886,35 +891,35 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Sabrina, the Teenage Witch",
-          "tmdb": {
-            "id": 605,
-            "media_type": "tv",
-            "release_date": "1996-09-27"
-          }
-        },
-        {
           "rank": 10,
-          "title": "SEAL Team",
+          "title": "The Legend of Korra",
           "tmdb": {
-            "id": 71789,
+            "id": 33880,
             "media_type": "tv",
-            "release_date": "2017-09-27"
+            "release_date": "2012-04-14"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Bolivia on October 8, 2026",
+      "heading": "TOP Movies on Apple TV in Bolivia on October 10, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Matchbox",
+          "tmdb": {
+            "id": 946940,
+            "media_type": "movie",
+            "release_date": "2002-02-24"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Spider-Man: Far from Home",
           "tmdb": {
             "id": 429617,
@@ -923,7 +928,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
@@ -932,25 +937,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Ready Player One",
-          "tmdb": {
-            "id": 333339,
-            "media_type": "movie",
-            "release_date": "2018-03-28"
-          }
-        },
-        {
           "rank": 4,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Last First: Winter K2",
           "tmdb": {
             "id": 1596303,
@@ -959,25 +946,25 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Sherlock Holmes",
+          "rank": 5,
+          "title": "Ready Player One",
           "tmdb": {
-            "id": 10528,
+            "id": 333339,
             "media_type": "movie",
-            "release_date": "2009-12-23"
+            "release_date": "2018-03-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
           }
         },
         {
           "rank": 7,
-          "title": "The Accountant",
-          "tmdb": {
-            "id": 302946,
-            "media_type": "movie",
-            "release_date": "2016-10-13"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -986,31 +973,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Tetris",
+          "rank": 8,
+          "title": "Sherlock Holmes",
           "tmdb": {
-            "id": 726759,
+            "id": 10528,
             "media_type": "movie",
-            "release_date": "2023-03-15"
+            "release_date": "2009-12-23"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Accountant",
+          "tmdb": {
+            "id": 302946,
+            "media_type": "movie",
+            "release_date": "2016-10-13"
           }
         },
         {
           "rank": 10,
-          "title": "The Gorge",
+          "title": "Palmer",
           "tmdb": {
-            "id": 950396,
+            "id": 458220,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2021-01-28"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Bolivia on October 8, 2026",
+      "heading": "TOP TV Shows on Apple TV in Bolivia on October 10, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1024,15 +1020,6 @@
         },
         {
           "rank": 2,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
@@ -1041,25 +1028,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
@@ -1068,16 +1037,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Small Prophets",
+          "rank": 4,
+          "title": "Silo",
           "tmdb": {
-            "id": 312693,
+            "id": 125988,
             "media_type": "tv",
-            "release_date": "2026-02-09"
+            "release_date": "2023-05-04"
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1086,121 +1064,139 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Stick",
+          "rank": 7,
+          "title": "Brothers",
           "tmdb": {
-            "id": 248830,
+            "id": 250203,
             "media_type": "tv",
-            "release_date": "2025-06-03"
+            "release_date": "2026-09-22"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Women in Blue",
+          "tmdb": {
+            "id": 253983,
+            "media_type": "tv",
+            "release_date": "2024-07-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Small Prophets",
+          "tmdb": {
+            "id": 312693,
+            "media_type": "tv",
+            "release_date": "2026-02-09"
           }
         },
         {
           "rank": 10,
-          "title": "Lucky",
+          "title": "Widow's Bay",
           "tmdb": {
-            "id": 278624,
+            "id": 270476,
             "media_type": "tv",
-            "release_date": "2026-07-14"
+            "release_date": "2026-04-28"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Bolivia on October 8, 2026",
+      "heading": "TOP Movies on Apple TV Store in Bolivia on October 10, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 8, 2026",
+      "date": "October 10, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Coraline",
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 14836,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2009-02-05"
+            "release_date": "2026-07-29"
           }
         },
         {
           "rank": 2,
-          "title": "The Others",
+          "title": "Spider-Man: Far from Home",
           "tmdb": {
-            "id": 1933,
+            "id": 429617,
             "media_type": "movie",
-            "release_date": "2001-08-02"
+            "release_date": "2019-06-28"
           }
         },
         {
           "rank": 3,
-          "title": "Sicario",
+          "title": "Across the Universe",
           "tmdb": {
-            "id": 273481,
+            "id": 4688,
             "media_type": "movie",
-            "release_date": "2015-09-17"
+            "release_date": "2007-09-14"
           }
         },
         {
           "rank": 4,
-          "title": "Pressure",
+          "title": "Orphan",
           "tmdb": {
-            "id": 1318413,
+            "id": 21208,
             "media_type": "movie",
-            "release_date": "2026-05-28"
+            "release_date": "2009-07-24"
           }
         },
         {
           "rank": 5,
-          "title": "The Invite",
+          "title": "Interstellar",
           "tmdb": {
-            "id": 950028,
+            "id": 157336,
             "media_type": "movie",
-            "release_date": "2026-06-25"
+            "release_date": "2014-11-04"
           }
         },
         {
           "rank": 6,
-          "title": "Disclosure Day",
+          "title": "Contagion",
           "tmdb": {
-            "id": 1275779,
+            "id": 39538,
             "media_type": "movie",
-            "release_date": "2026-06-10"
+            "release_date": "2011-09-08"
           }
         },
         {
           "rank": 7,
-          "title": "The Hunger Games: Catching Fire",
-          "tmdb": {
-            "id": 101299,
-            "media_type": "movie",
-            "release_date": "2013-11-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Challengers",
-          "tmdb": {
-            "id": 937287,
-            "media_type": "movie",
-            "release_date": "2024-04-18"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Dollhouse",
-          "tmdb": {
-            "id": 1404791,
-            "media_type": "movie",
-            "release_date": "2025-06-13"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Zack Snyder's Justice League",
           "tmdb": {
             "id": 791373,
             "media_type": "movie",
             "release_date": "2021-03-18"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Spider-Man: No Way Home",
+          "tmdb": {
+            "id": 634649,
+            "media_type": "movie",
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Oppenheimer",
+          "tmdb": {
+            "id": 872585,
+            "media_type": "movie",
+            "release_date": "2023-07-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Joker",
+          "tmdb": {
+            "id": 475557,
+            "media_type": "movie",
+            "release_date": "2019-10-01"
           }
         }
       ]
