@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/chile/",
-  "page_title": "TOP 10 on Streaming in Chile on October 11, 2026",
+  "page_title": "TOP 10 on Streaming in Chile on October 13, 2026",
   "region": "chile",
-  "date": "October 11, 2026",
-  "scraped_at_utc": "2026-10-11T19:40:27.154837+00:00",
+  "date": "October 13, 2026",
+  "scraped_at_utc": "2026-10-13T20:47:49.077842+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Chile on October 11, 2026",
+      "heading": "TOP Movies on Netflix in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,6 +33,15 @@
         },
         {
           "rank": 3,
+          "title": "Corpse Bride",
+          "tmdb": {
+            "id": 3933,
+            "media_type": "movie",
+            "release_date": "2005-09-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Acid",
           "tmdb": {
             "id": 852445,
@@ -41,21 +50,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Doing Life",
           "tmdb": {
             "id": 1458857,
             "media_type": "movie",
             "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ice Age",
-          "tmdb": {
-            "id": 425,
-            "media_type": "movie",
-            "release_date": "2002-03-14"
           }
         },
         {
@@ -69,15 +69,6 @@
         },
         {
           "rank": 7,
-          "title": "Corpse Bride",
-          "tmdb": {
-            "id": 3933,
-            "media_type": "movie",
-            "release_date": "2005-09-12"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
             "id": 8355,
@@ -86,31 +77,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Ice Age: The Meltdown",
+          "rank": 8,
+          "title": "Ice Age",
           "tmdb": {
-            "id": 950,
+            "id": 425,
             "media_type": "movie",
-            "release_date": "2006-03-29"
+            "release_date": "2002-03-14"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Ice Age: Continental Drift",
           "tmdb": {
             "id": 57800,
             "media_type": "movie",
             "release_date": "2012-06-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Ice Age: The Meltdown",
+          "tmdb": {
+            "id": 950,
+            "media_type": "movie",
+            "release_date": "2006-03-29"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Netflix in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,11 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "WWE Money in the Bank",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
           "title": "Take Charge of My Heart",
           "tmdb": {
             "id": 289423,
@@ -137,52 +132,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "East of Eden",
-          "tmdb": {
-            "id": 258165,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Doctor X: Mafia in White",
-          "tmdb": {
-            "id": 293610,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Not a Stranger",
-          "tmdb": {
-            "id": 320760,
-            "media_type": "tv",
-            "release_date": "2026-09-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Inside The Circle",
-          "tmdb": {
-            "id": 290233,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "100 Days of Deception",
-          "tmdb": {
-            "id": 293607,
-            "media_type": "tv",
-            "release_date": "2026-10-10"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 3,
           "title": "A Day Like No Other",
           "tmdb": {
             "id": 295684,
@@ -191,22 +141,76 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Ranma ½",
+          "rank": 4,
+          "title": "Doctor X: Mafia in White",
           "tmdb": {
-            "id": 57706,
+            "id": 293610,
             "media_type": "tv",
-            "release_date": "1989-04-15"
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "East of Eden",
+          "tmdb": {
+            "id": 258165,
+            "media_type": "tv",
+            "release_date": "2026-10-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Raw",
+          "tmdb": {
+            "id": 4656,
+            "media_type": "tv",
+            "release_date": "1993-01-11"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Not a Stranger",
+          "tmdb": {
+            "id": 320760,
+            "media_type": "tv",
+            "release_date": "2026-09-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Instadocs: AI Gone Wild",
+          "tmdb": {
+            "id": 1790935,
+            "media_type": "movie",
+            "release_date": "2026-10-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Inside The Circle",
+          "tmdb": {
+            "id": 290233,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "100 Days of Deception",
+          "tmdb": {
+            "id": 293607,
+            "media_type": "tv",
+            "release_date": "2026-10-10"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Chile on October 11, 2026",
+      "heading": "TOP Kids Movies on Netflix in Chile on October 13, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -220,6 +224,15 @@
         },
         {
           "rank": 2,
+          "title": "Corpse Bride",
+          "tmdb": {
+            "id": 3933,
+            "media_type": "movie",
+            "release_date": "2005-09-12"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Ice Age: Collision Course",
           "tmdb": {
             "id": 278154,
@@ -228,7 +241,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
             "id": 8355,
@@ -237,21 +250,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ice Age: The Meltdown",
           "tmdb": {
             "id": 950,
             "media_type": "movie",
             "release_date": "2006-03-29"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Corpse Bride",
-          "tmdb": {
-            "id": 3933,
-            "media_type": "movie",
-            "release_date": "2005-09-12"
           }
         },
         {
@@ -265,15 +269,6 @@
         },
         {
           "rank": 7,
-          "title": "The Cat in the Hat",
-          "tmdb": {
-            "id": 10588,
-            "media_type": "movie",
-            "release_date": "2003-11-21"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Shrek",
           "tmdb": {
             "id": 808,
@@ -282,7 +277,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Shrek 2",
           "tmdb": {
             "id": 809,
@@ -291,22 +286,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "KPop Demon Hunters",
+          "rank": 9,
+          "title": "The Cat in the Hat",
           "tmdb": {
-            "id": 803796,
+            "id": 10588,
             "media_type": "movie",
-            "release_date": "2025-06-20"
+            "release_date": "2003-11-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Charlie and the Chocolate Factory",
+          "tmdb": {
+            "id": 118,
+            "media_type": "movie",
+            "release_date": "2005-07-13"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Chile on October 11, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Chile on October 13, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -320,33 +324,6 @@
         },
         {
           "rank": 2,
-          "title": "LEGO ONE PIECE",
-          "tmdb": {
-            "id": 318918,
-            "media_type": "tv",
-            "release_date": "2026-09-29"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Unicorn Academy: Secrets Revealed",
-          "tmdb": {
-            "id": 316945,
-            "media_type": "tv",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Gabby's Dollhouse",
-          "tmdb": {
-            "id": 111474,
-            "media_type": "tv",
-            "release_date": "2021-01-05"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Is It Cake? Halloween",
           "tmdb": {
             "id": 300594,
@@ -355,16 +332,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Danny Go!",
+          "rank": 3,
+          "title": "Gabby's Dollhouse",
           "tmdb": {
-            "id": 258124,
+            "id": 111474,
             "media_type": "tv",
-            "release_date": "2019-08-21"
+            "release_date": "2021-01-05"
           }
         },
         {
-          "rank": 7,
+          "rank": 4,
           "title": "Wonka's The Golden Ticket",
           "tmdb": {
             "id": 286940,
@@ -373,16 +350,34 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Detetive Labrador",
+          "rank": 5,
+          "title": "LEGO ONE PIECE",
           "tmdb": {
-            "id": 219799,
+            "id": 318918,
             "media_type": "tv",
-            "release_date": "2022-10-20"
+            "release_date": "2026-09-29"
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
+          "title": "Unicorn Academy: Secrets Revealed",
+          "tmdb": {
+            "id": 316945,
+            "media_type": "tv",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Danny Go!",
+          "tmdb": {
+            "id": 258124,
+            "media_type": "tv",
+            "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
@@ -391,22 +386,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Peppa Pig",
+          "rank": 9,
+          "title": "Detetive Labrador",
           "tmdb": {
-            "id": 12225,
+            "id": 219799,
             "media_type": "tv",
-            "release_date": "2004-05-31"
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Chile on October 11, 2026",
+      "heading": "TOP Movies on HBO Max in Chile on October 13, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -429,6 +433,15 @@
         },
         {
           "rank": 3,
+          "title": "Hunter Hunter",
+          "tmdb": {
+            "id": 759902,
+            "media_type": "movie",
+            "release_date": "2020-12-18"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Men in Black",
           "tmdb": {
             "id": 607,
@@ -437,7 +450,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Never Let Go",
           "tmdb": {
             "id": 814889,
@@ -446,34 +459,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Dunkirk",
-          "tmdb": {
-            "id": 374720,
-            "media_type": "movie",
-            "release_date": "2017-07-19"
-          }
-        },
-        {
           "rank": 6,
-          "title": "The Great Gatsby",
-          "tmdb": {
-            "id": 64682,
-            "media_type": "movie",
-            "release_date": "2013-05-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Corpse Bride",
-          "tmdb": {
-            "id": 3933,
-            "media_type": "movie",
-            "release_date": "2005-09-12"
-          }
-        },
-        {
-          "rank": 8,
           "title": "In the Lost Lands",
           "tmdb": {
             "id": 324544,
@@ -482,49 +468,67 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "rank": 7,
+          "title": "Dunkirk",
           "tmdb": {
-            "id": 1311031,
+            "id": 374720,
             "media_type": "movie",
-            "release_date": "2025-07-18"
+            "release_date": "2017-07-19"
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "The Great Gatsby",
+          "tmdb": {
+            "id": 64682,
+            "media_type": "movie",
+            "release_date": "2013-05-09"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Ex Machina",
           "tmdb": {
             "id": 264660,
             "media_type": "movie",
             "release_date": "2015-01-21"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Evil Dead Rise",
+          "tmdb": {
+            "id": 713704,
+            "media_type": "movie",
+            "release_date": "2023-04-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on HBO Max in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Captive",
+          "tmdb": {
+            "id": 333631,
+            "media_type": "tv",
+            "release_date": "2026-09-18"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Lanterns",
           "tmdb": {
             "id": 95350,
             "media_type": "tv",
             "release_date": "2026-08-16"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Collision",
-          "tmdb": {
-            "id": 331033,
-            "media_type": "tv",
-            "release_date": "2026-09-07"
           }
         },
         {
@@ -538,11 +542,11 @@
         },
         {
           "rank": 4,
-          "title": "Captive",
+          "title": "Collision",
           "tmdb": {
-            "id": 333631,
+            "id": 331033,
             "media_type": "tv",
-            "release_date": "2026-09-18"
+            "release_date": "2026-09-07"
           }
         },
         {
@@ -556,6 +560,24 @@
         },
         {
           "rank": 6,
+          "title": "Get Jiro",
+          "tmdb": {
+            "id": 231801,
+            "media_type": "tv",
+            "release_date": "2026-10-04"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Alejandro Sanz: When No One Sees Me",
+          "tmdb": {
+            "id": 312439,
+            "media_type": "tv",
+            "release_date": "2026-01-27"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Adventure Time: Side Quests",
           "tmdb": {
             "id": 256694,
@@ -564,49 +586,31 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
+          "title": "MasterChef Chile",
+          "tmdb": {
+            "id": 236720,
+            "media_type": "tv",
+            "release_date": "2014-10-26"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Kirli Sepeti",
           "tmdb": {
             "id": 233492,
             "media_type": "tv",
             "release_date": "2023-09-24"
           }
-        },
-        {
-          "rank": 8,
-          "title": "Kitchen Nightmares",
-          "tmdb": {
-            "id": 11294,
-            "media_type": "tv",
-            "release_date": "2007-09-19"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Gachiakuta",
-          "tmdb": {
-            "id": 256721,
-            "media_type": "tv",
-            "release_date": "2025-07-06"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Naked and Afraid: Shipwrecked",
-          "tmdb": {
-            "id": 330417,
-            "media_type": "tv",
-            "release_date": "2026-08-02"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Chile on October 11, 2026",
+      "heading": "TOP Overall on Disney+ in Chile on October 13, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -629,6 +633,24 @@
         },
         {
           "rank": 3,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Devil Wears Prada 2",
+          "tmdb": {
+            "id": 1314481,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Nightmare Before Christmas",
           "tmdb": {
             "id": 9479,
@@ -637,30 +659,12 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Oasis: Don't Look Back in Anger",
-          "tmdb": {
-            "id": 1447853,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 6,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
             "media_type": "movie",
             "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
           }
         },
         {
@@ -674,152 +678,143 @@
         },
         {
           "rank": 8,
-          "title": "Hoppers",
+          "title": "Soulm8te",
           "tmdb": {
-            "id": 1327819,
+            "id": 1307118,
             "media_type": "movie",
-            "release_date": "2026-03-04"
+            "release_date": "2026-07-31"
           }
         },
         {
           "rank": 9,
-          "title": "Between Steps",
-          "tmdb": {
-            "id": 307106,
-            "media_type": "tv",
-            "release_date": "2026-10-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Coven Academy",
-          "tmdb": {
-            "id": 298505,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Chile on October 11, 2026",
-      "category": "movies",
-      "platform": "Disney+",
-      "date": "October 11, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Toy Story 5",
-          "tmdb": {
-            "id": 1084244,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "PAW Patrol: The Movie",
-          "tmdb": {
-            "id": 675445,
-            "media_type": "movie",
-            "release_date": "2021-08-09"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Oasis: Don't Look Back in Anger",
-          "tmdb": {
-            "id": 1447853,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Avengers: Endgame",
-          "tmdb": {
-            "id": 299534,
-            "media_type": "movie",
-            "release_date": "2019-04-24"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Avengers: Infinity War",
-          "tmdb": {
-            "id": 299536,
-            "media_type": "movie",
-            "release_date": "2018-04-25"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Hoppers",
-          "tmdb": {
-            "id": 1327819,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Avengers",
-          "tmdb": {
-            "id": 24428,
-            "media_type": "movie",
-            "release_date": "2012-04-25"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Avatar: Fire and Ash",
           "tmdb": {
             "id": 83533,
             "media_type": "movie",
             "release_date": "2025-12-17"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Oasis: Don't Look Back in Anger",
+          "tmdb": {
+            "id": 1447853,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "disney.movies",
+      "heading": "TOP Movies on Disney+ in Chile on October 13, 2026",
+      "category": "movies",
+      "platform": "Disney+",
+      "date": "October 13, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "PAW Patrol: The Movie",
+          "tmdb": {
+            "id": 675445,
+            "media_type": "movie",
+            "release_date": "2021-08-09"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Hoppers",
+          "tmdb": {
+            "id": 1327819,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Devil Wears Prada 2",
+          "tmdb": {
+            "id": 1314481,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Nightmare Before Christmas",
+          "tmdb": {
+            "id": 9479,
+            "media_type": "movie",
+            "release_date": "1993-10-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Avengers: Infinity War",
+          "tmdb": {
+            "id": 299536,
+            "media_type": "movie",
+            "release_date": "2018-04-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Soulm8te",
+          "tmdb": {
+            "id": 1307118,
+            "media_type": "movie",
+            "release_date": "2026-07-31"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Avatar: Fire and Ash",
+          "tmdb": {
+            "id": 83533,
+            "media_type": "movie",
+            "release_date": "2025-12-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Oasis: Don't Look Back in Anger",
+          "tmdb": {
+            "id": 1447853,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Disney+ in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Between Steps",
-          "tmdb": {
-            "id": 307106,
-            "media_type": "tv",
-            "release_date": "2026-10-05"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Coven Academy",
           "tmdb": {
             "id": 298505,
@@ -828,12 +823,21 @@
           }
         },
         {
-          "rank": 3,
-          "title": "¿Volverías con tu ex?",
+          "rank": 2,
+          "title": "Between Steps",
           "tmdb": {
-            "id": 228686,
+            "id": 307106,
             "media_type": "tv",
-            "release_date": "2016-01-19"
+            "release_date": "2026-10-05"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Loki",
+          "tmdb": {
+            "id": 84958,
+            "media_type": "tv",
+            "release_date": "2021-06-09"
           }
         },
         {
@@ -847,20 +851,20 @@
         },
         {
           "rank": 5,
+          "title": "Outlander: Blood of My Blood",
+          "tmdb": {
+            "id": 207484,
+            "media_type": "tv",
+            "release_date": "2025-08-08"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Chilean Mine Rescue: Race Against Time",
           "tmdb": {
             "id": 334569,
             "media_type": "tv",
             "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Loki",
-          "tmdb": {
-            "id": 84958,
-            "media_type": "tv",
-            "release_date": "2021-06-09"
           }
         },
         {
@@ -883,45 +887,45 @@
         },
         {
           "rank": 9,
-          "title": "Bluey Compilations",
-          "tmdb": {
-            "id": 328337,
-            "media_type": "tv",
-            "release_date": "2026-07-02"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Malcolm in the Middle",
           "tmdb": {
             "id": 2004,
             "media_type": "tv",
             "release_date": "2000-01-09"
           }
+        },
+        {
+          "rank": 10,
+          "title": "High Potential",
+          "tmdb": {
+            "id": 226637,
+            "media_type": "tv",
+            "release_date": "2024-09-17"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Chile on October 11, 2026",
+      "heading": "TOP Movies on Amazon Prime in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "13 Days, 13 Nights: In the Hell of Kabul",
+          "tmdb": null
+        },
+        {
+          "rank": 2,
           "title": "The Love Hypothesis",
           "tmdb": {
             "id": 1032863,
             "media_type": "movie",
             "release_date": "2026-09-23"
           }
-        },
-        {
-          "rank": 2,
-          "title": "13 Days, 13 Nights: In the Hell of Kabul",
-          "tmdb": null
         },
         {
           "rank": 3,
@@ -943,11 +947,11 @@
         },
         {
           "rank": 5,
-          "title": "1992",
+          "title": "Drawn Together",
           "tmdb": {
-            "id": 413846,
+            "id": 1440098,
             "media_type": "movie",
-            "release_date": "2024-08-29"
+            "release_date": "2026-09-09"
           }
         },
         {
@@ -961,11 +965,11 @@
         },
         {
           "rank": 7,
-          "title": "Drawn Together",
+          "title": "1992",
           "tmdb": {
-            "id": 1440098,
+            "id": 413846,
             "media_type": "movie",
-            "release_date": "2026-09-09"
+            "release_date": "2024-08-29"
           }
         },
         {
@@ -988,39 +992,39 @@
         },
         {
           "rank": 10,
-          "title": "Carrie",
+          "title": "Wardriver",
           "tmdb": {
-            "id": 7340,
+            "id": 938150,
             "media_type": "movie",
-            "release_date": "1976-11-03"
+            "release_date": "2026-03-04"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Carrie",
-          "tmdb": {
-            "id": 288673,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Prohibida Obsesión",
           "tmdb": {
             "id": 337721,
             "media_type": "tv",
             "release_date": "2026-09-28"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Carrie",
+          "tmdb": {
+            "id": 288673,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
           }
         },
         {
@@ -1052,6 +1056,15 @@
         },
         {
           "rank": 6,
+          "title": "A Love Other Than Yours",
+          "tmdb": {
+            "id": 314939,
+            "media_type": "tv",
+            "release_date": "2026-09-12"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Machos",
           "tmdb": {
             "id": 76649,
@@ -1060,7 +1073,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Pa' Quererte",
           "tmdb": {
             "id": 136228,
@@ -1069,7 +1082,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Neagley",
           "tmdb": {
             "id": 273207,
@@ -1078,49 +1091,40 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Trial",
           "tmdb": {
-            "id": 260249,
+            "id": 228718,
             "media_type": "tv",
-            "release_date": "2026-09-11"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Avenida Brasil",
-          "tmdb": {
-            "id": 327107,
-            "media_type": "tv",
-            "release_date": "2027-01-25"
+            "release_date": "2023-07-14"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Chile on October 11, 2026",
+      "heading": "TOP Movies on Paramount+ in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Passenger",
-          "tmdb": {
-            "id": 1368314,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Diablo",
           "tmdb": {
             "id": 1127110,
             "media_type": "movie",
             "release_date": "2025-06-13"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Passenger",
+          "tmdb": {
+            "id": 1368314,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
           }
         },
         {
@@ -1134,6 +1138,15 @@
         },
         {
           "rank": 4,
+          "title": "Significant Other",
+          "tmdb": {
+            "id": 901385,
+            "media_type": "movie",
+            "release_date": "2022-10-06"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Top Gun: Maverick",
           "tmdb": {
             "id": 361743,
@@ -1142,21 +1155,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Last Stand of Ellen Cole",
           "tmdb": {
             "id": 1411773,
             "media_type": "movie",
             "release_date": "2024-10-18"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Significant Other",
-          "tmdb": {
-            "id": 901385,
-            "media_type": "movie",
-            "release_date": "2022-10-06"
           }
         },
         {
@@ -1170,15 +1174,6 @@
         },
         {
           "rank": 8,
-          "title": "Primate",
-          "tmdb": {
-            "id": 1315303,
-            "media_type": "movie",
-            "release_date": "2026-01-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "World War Z",
           "tmdb": {
             "id": 72190,
@@ -1187,28 +1182,41 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Night Hunter",
+          "rank": 9,
+          "title": "The Northman",
           "tmdb": {
-            "id": 441282,
+            "id": 639933,
             "media_type": "movie",
-            "release_date": "2019-08-08"
+            "release_date": "2022-04-07"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Primate",
+          "tmdb": {
+            "id": 1315303,
+            "media_type": "movie",
+            "release_date": "2026-01-01"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "UFC Fight Night",
-          "tmdb": null
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
         },
         {
           "rank": 2,
@@ -1221,15 +1229,6 @@
         },
         {
           "rank": 3,
-          "title": "Avatar: Seven Havens",
-          "tmdb": {
-            "id": 284833,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
@@ -1238,7 +1237,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1247,16 +1246,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -1265,7 +1255,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
@@ -1274,7 +1264,16 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Avatar: Seven Havens",
+          "tmdb": {
+            "id": 284833,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Legend of Korra",
           "tmdb": {
             "id": 33880,
@@ -1283,22 +1282,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Dutton Ranch",
           "tmdb": {
             "id": 299167,
             "media_type": "tv",
             "release_date": "2026-05-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Criminal Minds",
+          "tmdb": {
+            "id": 4057,
+            "media_type": "tv",
+            "release_date": "2005-09-22"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Chile on October 11, 2026",
+      "heading": "TOP Movies on Apple TV in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1312,20 +1320,20 @@
         },
         {
           "rank": 2,
-          "title": "The Last First: Winter K2",
-          "tmdb": {
-            "id": 1596303,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
             "media_type": "movie",
             "release_date": "2026-09-03"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Last First: Winter K2",
+          "tmdb": {
+            "id": 1596303,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
           }
         },
         {
@@ -1339,24 +1347,6 @@
         },
         {
           "rank": 5,
-          "title": "Spider-Man: Far from Home",
-          "tmdb": {
-            "id": 429617,
-            "media_type": "movie",
-            "release_date": "2019-06-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ready Player One",
-          "tmdb": {
-            "id": 333339,
-            "media_type": "movie",
-            "release_date": "2018-03-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Tetris",
           "tmdb": {
             "id": 726759,
@@ -1365,7 +1355,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Ready Player One",
+          "tmdb": {
+            "id": 333339,
+            "media_type": "movie",
+            "release_date": "2018-03-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
@@ -1374,31 +1391,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Apple TV in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1412,6 +1420,15 @@
         },
         {
           "rank": 2,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
@@ -1420,21 +1437,12 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
             "media_type": "tv",
             "release_date": "2024-05-07"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
           }
         },
         {
@@ -1448,20 +1456,20 @@
         },
         {
           "rank": 6,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Last Seen",
+          "tmdb": {
+            "id": 258230,
+            "media_type": "tv",
+            "release_date": "2026-09-09"
           }
         },
         {
@@ -1495,10 +1503,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Chile on October 11, 2026",
+      "heading": "TOP Movies on Apple TV Store in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1566,11 +1574,11 @@
         },
         {
           "rank": 8,
-          "title": "PAW Patrol: The Dino Movie",
+          "title": "Backrooms",
           "tmdb": {
-            "id": 1185806,
+            "id": 1083381,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "2026-05-27"
           }
         },
         {
@@ -1584,30 +1592,30 @@
         },
         {
           "rank": 10,
-          "title": "Three Steps Above Heaven",
+          "title": "PAW Patrol: The Dino Movie",
           "tmdb": {
-            "id": 61979,
+            "id": 1185806,
             "media_type": "movie",
-            "release_date": "2010-12-03"
+            "release_date": "2026-07-23"
           }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Chile on October 11, 2026",
+      "heading": "TOP Movies on Claro Video in Chile on October 13, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
           "title": "Leap",
           "tmdb": {
-            "id": 352044,
+            "id": 531182,
             "media_type": "movie",
-            "release_date": "2010-01-22"
+            "release_date": "2017-01-01"
           }
         },
         {
@@ -1695,10 +1703,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Chile on October 11, 2026",
+      "heading": "TOP TV Shows on Claro Video in Chile on October 13, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "October 11, 2026",
+      "date": "October 13, 2026",
       "title_count": 10,
       "entries": [
         {
