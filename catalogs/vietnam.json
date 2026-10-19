@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/vietnam/",
-  "page_title": "TOP 10 on Streaming in Vietnam on October 15, 2026",
+  "page_title": "TOP 10 on Streaming in Vietnam on October 18, 2026",
   "region": "vietnam",
-  "date": "October 15, 2026",
-  "scraped_at_utc": "2026-10-15T19:21:56.537602+00:00",
+  "date": "October 18, 2026",
+  "scraped_at_utc": "2026-10-19T02:21:14.969214+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Vietnam on October 15, 2026",
+      "heading": "TOP Movies on Netflix in Vietnam on October 18, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 15, 2026",
+      "date": "October 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Evil Dead Burn",
+          "tmdb": {
+            "id": 1212763,
+            "media_type": "movie",
+            "release_date": "2026-07-07"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Animals",
           "tmdb": {
             "id": 1236045,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Tomb Raider",
           "tmdb": {
             "id": 338970,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Bunny!!",
           "tmdb": {
             "id": 861756,
@@ -41,7 +50,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Fish, Fists and Ambergris",
           "tmdb": {
             "id": 1569555,
@@ -50,7 +59,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "A Minecraft Movie",
+          "tmdb": {
+            "id": 950387,
+            "media_type": "movie",
+            "release_date": "2025-03-31"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Kong: Skull Island",
           "tmdb": {
             "id": 293167,
@@ -59,34 +77,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Ben-Hur",
-          "tmdb": {
-            "id": 665,
-            "media_type": "movie",
-            "release_date": "1959-11-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Silence of the Lambs",
-          "tmdb": {
-            "id": 274,
-            "media_type": "movie",
-            "release_date": "1991-02-14"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Godzilla vs. Kong",
-          "tmdb": {
-            "id": 399566,
-            "media_type": "movie",
-            "release_date": "2021-03-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Mai",
           "tmdb": {
             "id": 1210973,
@@ -95,22 +86,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Crazy Rich Asians",
           "tmdb": {
             "id": 455207,
             "media_type": "movie",
             "release_date": "2018-08-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Ben-Hur",
+          "tmdb": {
+            "id": 665,
+            "media_type": "movie",
+            "release_date": "1959-11-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Vietnam on October 15, 2026",
+      "heading": "TOP TV Shows on Netflix in Vietnam on October 18, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 15, 2026",
+      "date": "October 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,6 +124,15 @@
         },
         {
           "rank": 2,
+          "title": "Where the Mask Ends",
+          "tmdb": {
+            "id": 300146,
+            "media_type": "tv",
+            "release_date": "2026-10-16"
+          }
+        },
+        {
+          "rank": 3,
           "title": "100 Days of Deception",
           "tmdb": {
             "id": 293607,
@@ -132,7 +141,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Take Charge of My Heart",
           "tmdb": {
             "id": 289423,
@@ -141,25 +150,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Below",
-          "tmdb": {
-            "id": 285322,
-            "media_type": "tv",
-            "release_date": "2026-10-08"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Irreplaceable",
-          "tmdb": {
-            "id": 297982,
-            "media_type": "tv",
-            "release_date": "2026-09-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Apothecary Diaries",
           "tmdb": {
             "id": 220542,
@@ -168,7 +159,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Firefly Wedding",
+          "tmdb": {
+            "id": 320909,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Below",
+          "tmdb": {
+            "id": 285322,
+            "media_type": "tv",
+            "release_date": "2026-10-08"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Irreplaceable",
+          "tmdb": {
+            "id": 297982,
+            "media_type": "tv",
+            "release_date": "2026-09-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Early Spring",
           "tmdb": {
             "id": 299952,
@@ -177,40 +195,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Doctor-X: Surgeon Michiko Daimon",
           "tmdb": {
             "id": 46052,
             "media_type": "tv",
             "release_date": "2012-10-18"
           }
-        },
-        {
-          "rank": 9,
-          "title": "East of Eden",
-          "tmdb": {
-            "id": 258165,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Trauma Code: Heroes on Call",
-          "tmdb": {
-            "id": 217553,
-            "media_type": "tv",
-            "release_date": "2025-01-24"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Vietnam on October 15, 2026",
+      "heading": "TOP Movies on Apple TV in Vietnam on October 18, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 15, 2026",
+      "date": "October 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,6 +224,15 @@
         },
         {
           "rank": 2,
+          "title": "Tenzing",
+          "tmdb": {
+            "id": 1288069,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 3,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -232,30 +241,21 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "title": "It's the Great Pumpkin, Charlie Brown",
+          "tmdb": {
+            "id": 13353,
+            "media_type": "movie",
+            "release_date": "1966-10-27"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
             "media_type": "movie",
             "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Last First: Winter K2",
-          "tmdb": {
-            "id": 1596303,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
           }
         },
         {
@@ -269,48 +269,48 @@
         },
         {
           "rank": 7,
-          "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+          "title": "Napoleon",
           "tmdb": {
-            "id": 1698575,
+            "id": 753342,
             "media_type": "movie",
-            "release_date": "2026-07-30"
+            "release_date": "2023-11-22"
           }
         },
         {
           "rank": 8,
-          "title": "The Gorge",
+          "title": "Argylle",
           "tmdb": {
-            "id": 950396,
+            "id": 848538,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2024-01-31"
           }
         },
         {
           "rank": 9,
-          "title": "Wolfs",
+          "title": "The Last First: Winter K2",
           "tmdb": {
-            "id": 877817,
+            "id": 1596303,
             "media_type": "movie",
-            "release_date": "2024-09-20"
+            "release_date": "2026-10-02"
           }
         },
         {
           "rank": 10,
-          "title": "It's the Great Pumpkin, Charlie Brown",
+          "title": "Killers of the Flower Moon",
           "tmdb": {
-            "id": 13353,
+            "id": 466420,
             "media_type": "movie",
-            "release_date": "1966-10-27"
+            "release_date": "2023-10-18"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Vietnam on October 15, 2026",
+      "heading": "TOP TV Shows on Apple TV in Vietnam on October 18, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 15, 2026",
+      "date": "October 18, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -360,24 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Severance",
-          "tmdb": {
-            "id": 95396,
-            "media_type": "tv",
-            "release_date": "2022-02-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 250203,
-            "media_type": "tv",
-            "release_date": "2026-09-22"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -386,71 +368,80 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Severance",
+          "tmdb": {
+            "id": 95396,
+            "media_type": "tv",
+            "release_date": "2022-02-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 250203,
+            "media_type": "tv",
+            "release_date": "2026-09-22"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Invasion",
+          "tmdb": {
+            "id": 127235,
+            "media_type": "tv",
+            "release_date": "2021-10-21"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Lucky",
           "tmdb": {
             "id": 278624,
             "media_type": "tv",
             "release_date": "2026-07-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Vietnam on October 15, 2026",
+      "heading": "TOP Movies on Apple TV Store in Vietnam on October 18, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 15, 2026",
+      "date": "October 18, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Obsession",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 1339713,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2026-05-13"
+            "release_date": "2001-11-16"
           }
         },
         {
           "rank": 2,
-          "title": "Harry Potter and the Half-Blood Prince",
+          "title": "The Godfather",
           "tmdb": {
-            "id": 767,
+            "id": 238,
             "media_type": "movie",
-            "release_date": "2009-07-15"
+            "release_date": "1972-03-14"
           }
         },
         {
           "rank": 3,
-          "title": "Despicable Me",
+          "title": "Speak No Evil",
           "tmdb": {
-            "id": 20352,
+            "id": 1114513,
             "media_type": "movie",
-            "release_date": "2010-07-08"
+            "release_date": "2024-09-11"
           }
         },
         {
           "rank": 4,
-          "title": "Twinless",
-          "tmdb": {
-            "id": 1245347,
-            "media_type": "movie",
-            "release_date": "2025-09-04"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Interstellar",
           "tmdb": {
             "id": 157336,
@@ -459,48 +450,57 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Lover",
+          "rank": 5,
+          "title": "Project Hail Mary",
           "tmdb": {
-            "id": 10995,
+            "id": 687163,
             "media_type": "movie",
-            "release_date": "1992-01-22"
+            "release_date": "2026-03-15"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Dune",
+          "tmdb": {
+            "id": 438631,
+            "media_type": "movie",
+            "release_date": "2021-09-15"
           }
         },
         {
           "rank": 7,
-          "title": "Spider-Man: No Way Home",
+          "title": "Obsession",
           "tmdb": {
-            "id": 634649,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2021-12-15"
+            "release_date": "2026-05-13"
           }
         },
         {
           "rank": 8,
-          "title": "Twilight",
+          "title": "Harry Potter and the Chamber of Secrets",
           "tmdb": {
-            "id": 8966,
+            "id": 672,
             "media_type": "movie",
-            "release_date": "2008-11-20"
+            "release_date": "2002-11-13"
           }
         },
         {
           "rank": 9,
-          "title": "The Social Network",
+          "title": "Corpse Bride",
           "tmdb": {
-            "id": 37799,
+            "id": 3933,
             "media_type": "movie",
-            "release_date": "2010-10-01"
+            "release_date": "2005-09-12"
           }
         },
         {
           "rank": 10,
-          "title": "The Godfather",
+          "title": "Harry Potter and the Prisoner of Azkaban",
           "tmdb": {
-            "id": 238,
+            "id": 673,
             "media_type": "movie",
-            "release_date": "1972-03-14"
+            "release_date": "2004-05-31"
           }
         }
       ]
