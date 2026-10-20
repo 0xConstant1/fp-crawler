@@ -16,11 +16,27 @@ def main() -> int:
     summary = [
         f"Catalog freshness for {report['target_date']} ({report['transport']})",
         "",
-        f"Snapshot validated: {published}. Regions still pending: {len(pending)}.",
+        (
+            f"Snapshot validated: {published}. Regions updated: {len(report.get('published_regions', []))}. "
+            f"Regions still pending: {len(pending)}."
+        ),
         "",
-        "| Region | Status | Chart date |",
-        "| --- | --- | --- |",
+        f"Active transport: {report.get('active_transport', report['transport'])}.",
+        "",
     ]
+    if report.get("stop_reason"):
+        summary.extend([f"Crawler stopped: {report['stop_reason']}", ""])
+    errors = [
+        (region, item["error"])
+        for region, item in report["regions"].items()
+        if item.get("error")
+        and (item["status"] != "deferred" or item.get("duration_seconds", 0) > 0)
+    ]
+    if errors:
+        summary.extend(["Fetch failures:", ""])
+        summary.extend(f"- {region}: {error}" for region, error in errors[:8])
+        summary.append("")
+    summary.extend(["| Region | Status | Chart date |", "| --- | --- | --- |"])
     for region, item in sorted(report["regions"].items()):
         summary.append(
             f"| {region} | {item['status']} | {item['chart_date'] or 'missing'} |"

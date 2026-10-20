@@ -198,9 +198,9 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--transport",
-        choices=("http", "browser"),
+        choices=("auto", "http", "browser"),
         default=os.getenv("FLIXPATROL_TRANSPORT", "http"),
-        help="HTTP with clearance transfer, or a persistent browser session.",
+        help="Automatic browser fallback, HTTP with clearance transfer, or a persistent browser.",
     )
     parser.add_argument("--max-recoveries", type=int, default=2)
     parser.add_argument("--requests-per-second", type=float, default=0.5)
