@@ -74,8 +74,6 @@ def publish_catalogs(
     output_dir: Path, candidates: dict[str, dict], build_index
 ) -> None:
     """Validate the complete snapshot before changing any published file."""
-    if not candidates:
-        return
     output_dir.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(
         prefix="catalog-publish-", dir=output_dir.parent
@@ -92,7 +90,19 @@ def publish_catalogs(
         )
         for path in paths:
             read_catalog(path, path.stem)
-        atomic_write_json(staging / "availability.json", build_index(paths))
+        index = build_index(paths)
+        if not candidates:
+            try:
+                previous_index = json.loads(
+                    (staging / "availability.json").read_text(encoding="utf-8")
+                )
+            except (OSError, ValueError):
+                previous_index = None
+            if isinstance(previous_index, dict) and {
+                key: value for key, value in previous_index.items() if key != "generated_at"
+            } == {key: value for key, value in index.items() if key != "generated_at"}:
+                return
+        atomic_write_json(staging / "availability.json", index)
 
         output_dir.mkdir(parents=True, exist_ok=True)
         names = [f"{target}.json" for target in sorted(candidates)] + [

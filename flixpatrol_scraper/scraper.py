@@ -263,8 +263,7 @@ class FlixPatrolScraper:
         self.solve_headless = solve_headless
         self.solve_deadline_seconds = solve_deadline_seconds
         self._challenge_solver = challenge_solver
-        self._challenge_lock = threading.Lock()
-        self._network_lock = threading.RLock()
+        self._challenge_lock = threading.RLock()
         self._stop_reason: str | None = None
         self._consecutive_blocks = 0
         self._clearance_rejected = False
@@ -365,13 +364,12 @@ class FlixPatrolScraper:
             self._browser.close()
 
     def _fetch(self, url: str) -> Response | BrowserResponse:
-        # Keep recovery and validation together so other workers cannot use unverified clearance.
-        with self._network_lock:
-            if self._stop_reason:
-                raise RecoveryOpenError(self._stop_reason)
-            if self._browser is not None:
+        if self._browser is not None:
+            with self._challenge_lock:
+                if self._stop_reason:
+                    raise RecoveryOpenError(self._stop_reason)
                 return self._fetch_browser(url)
-            return self._fetch_http(url)
+        return self._fetch_http(url)
 
     def _fetch_browser(self, url: str) -> BrowserResponse:
         self._before_request()
@@ -391,31 +389,38 @@ class FlixPatrolScraper:
 
     def _fetch_http(self, url: str) -> Response:
         response, generation = self._request(url)
-        if not _is_cf_challenge(response):
+        # Publish refreshed credentials only after their validation request finishes.
+        with self._challenge_lock:
+            if self._stop_reason:
+                raise RecoveryOpenError(self._stop_reason)
+            if not _is_cf_challenge(response):
+                if response.status_code in (403, 429):
+                    self._record_access_block(response, url)
+                self._raise_for_bad_response(response, url)
+                self._consecutive_blocks = 0
+                return response
+
+            self.metrics["challenges"] += 1
+            if generation == self._credentials_generation and (
+                self._clearance_rejected
+                or not self.solve_cf
+                or self.metrics["recoveries"] >= self.max_recoveries
+            ):
+                self._record_access_block(response, url)
+            if not self._refresh_challenge_credentials(generation, url):
+                self._raise_for_bad_response(response, url)
+                return response
+
+            response, _ = self._request(url)
+            if _is_cf_challenge(response):
+                self.metrics["challenges"] += 1
+                self._clearance_rejected = True
+                self._record_access_block(response, url)
             if response.status_code in (403, 429):
                 self._record_access_block(response, url)
             self._raise_for_bad_response(response, url)
             self._consecutive_blocks = 0
             return response
-
-        self.metrics["challenges"] += 1
-        if (self._clearance_rejected or not self.solve_cf
-                or self.metrics["recoveries"] >= self.max_recoveries):
-            self._record_access_block(response, url)
-        if not self._refresh_challenge_credentials(generation, url):
-            self._raise_for_bad_response(response, url)
-            return response
-
-        response, _ = self._request(url)
-        if _is_cf_challenge(response):
-            self.metrics["challenges"] += 1
-            self._clearance_rejected = True
-            self._record_access_block(response, url)
-        if response.status_code in (403, 429):
-            self._record_access_block(response, url)
-        self._raise_for_bad_response(response, url)
-        self._consecutive_blocks = 0
-        return response
 
     def _record_access_block(self, response: Response | BrowserResponse, url: str) -> None:
         self._consecutive_blocks += 1
@@ -429,15 +434,21 @@ class FlixPatrolScraper:
 
     def _before_request(self) -> None:
         self._sleep_request_jitter()
-        self._rate_limiter.acquire()
-        self.metrics["requests"] += 1
+        with self._challenge_lock:
+            if self._stop_reason:
+                raise RecoveryOpenError(self._stop_reason)
+            self._rate_limiter.acquire()
+            self.metrics["requests"] += 1
 
     def _request(self, url: str) -> tuple[Response, int]:
-        generation = self._credentials_generation
-        session = self._get_session()
-        cookies = (
-            {CF_CLEARANCE_COOKIE: self.cf_clearance} if self.cf_clearance else None
-        )
+        with self._challenge_lock:
+            if self._stop_reason:
+                raise RecoveryOpenError(self._stop_reason)
+            generation = self._credentials_generation
+            session = self._get_session()
+            cookies = (
+                {CF_CLEARANCE_COOKIE: self.cf_clearance} if self.cf_clearance else None
+            )
         try:
             response = get_with_retries(
                 session,
