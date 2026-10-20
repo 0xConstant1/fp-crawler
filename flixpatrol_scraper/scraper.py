@@ -1,31 +1,35 @@
 from __future__ import annotations
 
+import json
+import logging
+import math
+import random
+import re
+import threading
+import time
 from collections import defaultdict
 from collections.abc import Callable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import UTC, datetime
-import json
-import logging
-import random
-import re
 from pathlib import Path
-import threading
-import time
 from typing import Any
 
 from bs4 import BeautifulSoup, Tag
 from curl_cffi.requests import Response, Session
 from curl_cffi.requests.exceptions import HTTPError, RequestException
 
+from .browser import BrowserClient, BrowserError, BrowserResponse
 from .cf import (
     CF_CLEARANCE_COOKIE,
     DEFAULT_SOLVE_DEADLINE_SECONDS,
     ChallengeSolution,
+    ChallengeSolverError,
     solve_challenge,
 )
 from .http_client import format_response_diagnostics, get_with_retries
 from .rate_limit import RateLimiter
+from .storage import atomic_write_text
 from .tmdb import TMDBMatch, TMDBResolver, normalize_title
 
 DEFAULT_TOP10_URL = "https://flixpatrol.com/top10/"
@@ -103,7 +107,7 @@ def split_catalog_id(chart: dict[str, Any]) -> tuple[str, str, str | None]:
     if variant is None:
         return service, rest, None
     suffix = f"-{variant['id']}"
-    category = rest[: -len(suffix)] if rest.endswith(suffix) else rest
+    category = rest.removesuffix(suffix)
     return service, category, variant["id"]
 
 
@@ -121,6 +125,10 @@ class CFChallengeError(ScraperError):
     Distinct from a plain 403 because the remedy is different: a challenge needs
     fresh clearance, not a retry or a different rate limit.
     """
+
+
+class RecoveryOpenError(CFChallengeError):
+    """The shared recovery budget is exhausted; leave remaining work pending."""
 
 
 @dataclass(frozen=True, slots=True)
@@ -243,6 +251,8 @@ class FlixPatrolScraper:
         solve_headless: bool = True,
         solve_deadline_seconds: float = DEFAULT_SOLVE_DEADLINE_SECONDS,
         challenge_solver: Callable[..., ChallengeSolution] = solve_challenge,
+        transport: str = "http",
+        max_recoveries: int = 2,
     ) -> None:
         self._shared_session = session
         self._thread_local = threading.local()
@@ -254,6 +264,22 @@ class FlixPatrolScraper:
         self.solve_deadline_seconds = solve_deadline_seconds
         self._challenge_solver = challenge_solver
         self._challenge_lock = threading.Lock()
+        self._network_lock = threading.RLock()
+        self._stop_reason: str | None = None
+        self._consecutive_blocks = 0
+        self._clearance_rejected = False
+        if transport not in {"http", "browser"}:
+            raise ValueError(f"Unknown transport: {transport!r}")
+        if not math.isfinite(solve_deadline_seconds) or solve_deadline_seconds <= 0 or max_recoveries < 0:
+            raise ValueError("Solver deadline must be positive and recovery budget nonnegative.")
+        if not math.isfinite(max_requests_per_second) or max_requests_per_second <= 0 or timeout_seconds <= 0:
+            raise ValueError("Request rate and HTTP timeout must be positive and finite.")
+        self.transport = transport
+        self.max_recoveries = max_recoveries
+        self.metrics = {"requests": 0, "challenges": 0, "recoveries": 0}
+        self._browser = BrowserClient(
+            headless=solve_headless, timeout_ms=timeout_seconds * 1000, proxy=self.proxy
+        ) if transport == "browser" else None
         self._credentials_generation = 0
         self.timeout_seconds = timeout_seconds
         self.max_titles_per_chart = max_titles_per_chart
@@ -285,7 +311,7 @@ class FlixPatrolScraper:
             self._thread_local.generation = self._credentials_generation
         return session
 
-    def _refresh_challenge_credentials(self, seen_generation: int) -> bool:
+    def _refresh_challenge_credentials(self, seen_generation: int, url: str) -> bool:
         """Solve the challenge once and adopt the credentials.
 
         ``seen_generation`` is the generation the caller held when it was
@@ -299,11 +325,20 @@ class FlixPatrolScraper:
             if self._credentials_generation != seen_generation:
                 return True
 
-            solution = self._challenge_solver(
-                proxy=self.proxy,
-                headless=self.solve_headless,
-                deadline_seconds=self.solve_deadline_seconds,
-            )
+            if self.metrics["recoveries"] >= self.max_recoveries:
+                self._stop_reason = "Challenge recovery budget exhausted"
+                raise RecoveryOpenError(self._stop_reason)
+            self.metrics["recoveries"] += 1
+            try:
+                solution = self._challenge_solver(
+                    url,
+                    proxy=self.proxy,
+                    headless=self.solve_headless,
+                    deadline_seconds=self.solve_deadline_seconds,
+                )
+            except ChallengeSolverError as exc:
+                self._stop_reason = f"Challenge recovery failed: {exc}"
+                raise RecoveryOpenError(self._stop_reason) from exc
             self.cf_clearance = solution.cf_clearance
             self.user_agent = solution.user_agent
             self._credentials_generation += 1
@@ -321,28 +356,83 @@ class FlixPatrolScraper:
         response = self._fetch(url)
         return self.parse_html(response.text, source=response.url)
 
-    def _fetch(self, url: str) -> Response:
-        """Fetch ``url``, solving a challenge once if one is served.
+    @property
+    def recovery_open(self) -> bool:
+        return self._stop_reason is not None
 
-        Clearance expires after a few hours, so a long ``--all-regions`` run can
-        be challenged part-way through; refreshing mid-run keeps it going.
-        """
+    def close(self) -> None:
+        if self._browser is not None:
+            self._browser.close()
+
+    def _fetch(self, url: str) -> Response | BrowserResponse:
+        # Keep recovery and validation together so other workers cannot use unverified clearance.
+        with self._network_lock:
+            if self._stop_reason:
+                raise RecoveryOpenError(self._stop_reason)
+            if self._browser is not None:
+                return self._fetch_browser(url)
+            return self._fetch_http(url)
+
+    def _fetch_browser(self, url: str) -> BrowserResponse:
+        self._before_request()
+        try:
+            response = self._browser.fetch(url, deadline_seconds=self.solve_deadline_seconds)
+        except BrowserError as exc:
+            self._stop_reason = f"Browser fetch failed: {exc}"
+            raise RecoveryOpenError(self._stop_reason) from exc
+        if _is_cf_challenge(response):
+            self.metrics["challenges"] += 1
+            self._record_access_block(response, url)
+        if response.status_code in (403, 429):
+            self._record_access_block(response, url)
+        self._raise_for_bad_response(response, url)
+        self._consecutive_blocks = 0
+        return response
+
+    def _fetch_http(self, url: str) -> Response:
         response, generation = self._request(url)
         if not _is_cf_challenge(response):
+            if response.status_code in (403, 429):
+                self._record_access_block(response, url)
             self._raise_for_bad_response(response, url)
+            self._consecutive_blocks = 0
             return response
 
-        if not self._refresh_challenge_credentials(generation):
+        self.metrics["challenges"] += 1
+        if (self._clearance_rejected or not self.solve_cf
+                or self.metrics["recoveries"] >= self.max_recoveries):
+            self._record_access_block(response, url)
+        if not self._refresh_challenge_credentials(generation, url):
             self._raise_for_bad_response(response, url)
             return response
 
         response, _ = self._request(url)
+        if _is_cf_challenge(response):
+            self.metrics["challenges"] += 1
+            self._clearance_rejected = True
+            self._record_access_block(response, url)
+        if response.status_code in (403, 429):
+            self._record_access_block(response, url)
         self._raise_for_bad_response(response, url)
+        self._consecutive_blocks = 0
         return response
 
-    def _request(self, url: str) -> tuple[Response, int]:
+    def _record_access_block(self, response: Response | BrowserResponse, url: str) -> None:
+        self._consecutive_blocks += 1
+        if self._consecutive_blocks >= 3:
+            self._stop_reason = (
+                f"Stopped after three consecutive access blocks; last URL {url!r}: "
+                f"{format_response_diagnostics(response)}"
+            )
+            raise RecoveryOpenError(self._stop_reason)
+        self._raise_for_bad_response(response, url)
+
+    def _before_request(self) -> None:
         self._sleep_request_jitter()
         self._rate_limiter.acquire()
+        self.metrics["requests"] += 1
+
+    def _request(self, url: str) -> tuple[Response, int]:
         generation = self._credentials_generation
         session = self._get_session()
         cookies = (
@@ -354,6 +444,8 @@ class FlixPatrolScraper:
                 url,
                 timeout_seconds=self.timeout_seconds,
                 cookies=cookies,
+                before_attempt=self._before_request,
+                stop_retry=_is_cf_challenge,
             )
         except RequestException as exc:
             raise ScraperError(f"Failed to fetch {url!r}: {exc}") from exc
@@ -384,14 +476,12 @@ class FlixPatrolScraper:
 
     @staticmethod
     def _raise_for_bad_response(response: Response, url: str) -> None:
+        diagnostics = format_response_diagnostics(response)
+        if _is_cf_challenge(response):
+            raise CFChallengeError(f"Failed to fetch {url!r}: {diagnostics}, challenged")
         try:
             response.raise_for_status()
         except HTTPError as exc:
-            diagnostics = format_response_diagnostics(response)
-            if _is_cf_challenge(response):
-                raise CFChallengeError(
-                    f"Failed to fetch {url!r}: {diagnostics}, challenged"
-                ) from exc
             raise ScraperError(f"Failed to fetch {url!r}: {diagnostics}") from exc
 
     @staticmethod
@@ -807,8 +897,5 @@ def write_result(
     output_region: str | None = None,
 ) -> Path:
     output = Path(output_path)
-    output.write_text(
-        result.to_json(output_region=output_region) + "\n",
-        encoding="utf-8",
-    )
+    atomic_write_text(output, result.to_json(output_region=output_region) + "\n")
     return output

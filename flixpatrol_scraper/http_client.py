@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import random
 import time
-from collections.abc import Iterable
+from collections.abc import Callable, Iterable
 from email.utils import parsedate_to_datetime
 from typing import Any
 
@@ -20,12 +20,16 @@ def get_with_retries(
     total_retries: int = 4,
     backoff_factor: float = 1.0,
     status_forcelist: Iterable[int] = DEFAULT_RETRY_STATUS_CODES,
+    before_attempt: Callable[[], None] | None = None,
+    stop_retry: Callable[[Response], bool] | None = None,
     **kwargs: Any,
 ) -> Response:
     retry_statuses = frozenset(status_forcelist)
     last_response: Response | None = None
 
     for attempt in range(total_retries + 1):
+        if before_attempt is not None:
+            before_attempt()
         try:
             response = session.get(url, timeout=timeout_seconds, **kwargs)
         except RequestException:
@@ -34,7 +38,9 @@ def get_with_retries(
             _sleep_before_retry(None, attempt, backoff_factor)
             continue
 
-        if response.status_code not in retry_statuses:
+        if (
+            stop_retry is not None and stop_retry(response)
+        ) or response.status_code not in retry_statuses:
             return response
 
         last_response = response
