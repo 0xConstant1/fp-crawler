@@ -1,15 +1,11 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-import logging
-import threading
 
 DEFAULT_SOLVE_URL = "https://flixpatrol.com/top10/"
 DEFAULT_SOLVE_TIMEOUT_MS = 120_000
-DEFAULT_SOLVE_DEADLINE_SECONDS = 600.0
+DEFAULT_SOLVE_DEADLINE_SECONDS = 180.0
 CF_CLEARANCE_COOKIE = "cf_clearance"
-
-logger = logging.getLogger(__name__)
 
 
 class ChallengeSolverError(RuntimeError):
@@ -21,12 +17,7 @@ class ChallengeSolverUnavailableError(ChallengeSolverError):
 
 
 class ChallengeSolverTimeoutError(ChallengeSolverError):
-    """Raised when the solver exceeds its wall-clock deadline.
-
-    The upstream solver retries by unbounded recursion, so a challenge that
-    never clears - typically a datacenter egress IP - would otherwise hang the
-    caller indefinitely rather than failing.
-    """
+    """Raised when the browser solve exceeds its wall-clock deadline."""
 
 
 @dataclass(frozen=True, slots=True)
@@ -45,85 +36,25 @@ def solve_challenge(
     proxy: str | None = None,
     deadline_seconds: float = DEFAULT_SOLVE_DEADLINE_SECONDS,
 ) -> ChallengeSolution:
-    """Drive a browser through the challenge and return fresh credentials.
+    """Solve in a disposable process so a deadline also stops the browser."""
+    from .browser import BrowserClient, BrowserError, BrowserTimeoutError
 
-    Bounded by ``deadline_seconds`` because the upstream solver retries forever.
-    The worker is a daemon thread, so a solver stuck in that loop cannot keep
-    the interpreter alive once the caller gives up.
-    """
-    solved: list[ChallengeSolution] = []
-    failed: list[BaseException] = []
-
-    def run() -> None:
-        try:
-            solved.append(
-                _solve(url, headless=headless, timeout_ms=timeout_ms, proxy=proxy)
-            )
-        except BaseException as exc:  # noqa: BLE001
-            failed.append(exc)
-
-    worker = threading.Thread(target=run, daemon=True, name="cf-challenge-solver")
-    worker.start()
-    worker.join(deadline_seconds)
-
-    if worker.is_alive():
-        raise ChallengeSolverTimeoutError(
-            f"Challenge solver did not finish within {deadline_seconds:.0f}s for "
-            f"{url!r}. Each retry costs 10-20s and a slow or heavily scored "
-            "egress can need many of them, so raise --solve-timeout before "
-            "concluding the egress is unusable."
-        )
-    if failed:
-        raise failed[0]
-    return solved[0]
-
-
-def _solve(
-    url: str,
-    *,
-    headless: bool,
-    timeout_ms: int,
-    proxy: str | None,
-) -> ChallengeSolution:
-    fetcher = _load_stealthy_fetcher()
-
-    logger.info("Solving challenge at %s", url)
+    client = BrowserClient(headless=headless, timeout_ms=timeout_ms, proxy=proxy)
     try:
-        page = fetcher.fetch(
-            url,
-            headless=headless,
-            solve_cloudflare=True,
-            timeout=timeout_ms,
-            google_search=False,
-            **({"proxy": proxy} if proxy else {}),
+        status, clearance, user_agent = client.fetch(
+            url, deadline_seconds=deadline_seconds, credentials_only=True
         )
-    except Exception as exc:  # noqa: BLE001
-        raise ChallengeSolverError(
-            f"Challenge solver failed for {url!r}: {exc}"
-        ) from exc
-
-    status = getattr(page, "status", None)
-    if status != 200:
-        raise ChallengeSolverError(
-            f"Challenge solver returned HTTP {status} for {url!r}."
-        )
-
-    clearance = extract_cf_clearance(page)
-    if clearance is None:
-        raise ChallengeSolverError(
-            f"Challenge solver got HTTP 200 for {url!r} but no "
-            f"{CF_CLEARANCE_COOKIE} cookie."
-        )
-
-    user_agent = extract_user_agent(page)
-    if user_agent is None:
-        raise ChallengeSolverError(
-            "Challenge solver did not report the browser User-Agent, which "
-            f"{CF_CLEARANCE_COOKIE} is bound to."
-        )
-
-    logger.info("Solved challenge; clearance is %d chars", len(clearance))
-    return ChallengeSolution(cf_clearance=clearance, user_agent=user_agent)
+        if status != 200 or not clearance or not user_agent:
+            raise ChallengeSolverError(
+                f"Challenge solver did not return valid clearance for {url!r} (HTTP {status})."
+            )
+        return ChallengeSolution(cf_clearance=clearance, user_agent=user_agent)
+    except BrowserTimeoutError as exc:
+        raise ChallengeSolverTimeoutError(str(exc)) from exc
+    except BrowserError as exc:
+        raise ChallengeSolverError(str(exc)) from exc
+    finally:
+        client.close()
 
 
 def extract_cf_clearance(page: object) -> str | None:
@@ -152,15 +83,3 @@ def extract_user_agent(page: object) -> str | None:
         if str(name).lower() == "user-agent" and value:
             return str(value)
     return None
-
-
-def _load_stealthy_fetcher():
-    try:
-        from scrapling.fetchers import StealthyFetcher
-    except ImportError as exc:
-        raise ChallengeSolverUnavailableError(
-            "Solving the challenge requires Scrapling. Install it with "
-            "'pip install flixpatrol-scraper[solver]' followed by "
-            "'scrapling install' to download the browser runtime."
-        ) from exc
-    return StealthyFetcher

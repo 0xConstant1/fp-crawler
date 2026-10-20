@@ -1,13 +1,13 @@
 from __future__ import annotations
 
 import argparse
-from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
-from pathlib import Path
 import sys
+from pathlib import Path
 
-from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
+from .batch import build_region_url, iter_region_results
 from .cf import DEFAULT_SOLVE_DEADLINE_SECONDS
+from .regions import SLIM_REGION_SLUGS, SUPPORTED_REGION_SET, SUPPORTED_REGION_SLUGS
 from .scraper import (
     DEFAULT_OUTPUT_PATH,
     DEFAULT_TOP10_URL,
@@ -15,7 +15,6 @@ from .scraper import (
     FlixPatrolScraper,
     NoChartsFoundError,
     ScraperError,
-    ScrapeResult,
     write_result,
 )
 from .tmdb import TMDB_DEFAULT_LANGUAGE, TMDBResolver, TMDBResolverError
@@ -86,12 +85,6 @@ def parse_region_targets(
     return targets
 
 
-def build_region_url(region: str) -> str:
-    if region == "global":
-        return DEFAULT_TOP10_URL
-    return f"https://flixpatrol.com/top10/streaming/{region}/"
-
-
 def resolve_multi_output_directory(output_path: Path) -> Path:
     if output_path.exists() and output_path.is_dir():
         return output_path
@@ -112,10 +105,6 @@ def resolve_single_output_path(output_path: Path, target: str) -> Path:
     return output_path
 
 
-def _raise_region_failure(target: str, exc: Exception) -> None:
-    raise exc.__class__(f"Failed while scraping region {target!r}: {exc}") from exc
-
-
 def scrape_region_targets(
     *,
     scraper: FlixPatrolScraper,
@@ -125,35 +114,28 @@ def scrape_region_targets(
     skipped_targets: list[str] = []
     written_count = 0
     total_targets = len(region_targets)
-    completed_count = 0
 
     output_dir.mkdir(parents=True, exist_ok=True)
     print(
         f"Processing {total_targets} regions with up to "
         f"{min(FLIXPATROL_MAX_WORKERS, total_targets)} workers"
     )
-    with ThreadPoolExecutor(
-        max_workers=min(FLIXPATROL_MAX_WORKERS, total_targets)
-    ) as executor:
-        future_to_target = {
-            executor.submit(scraper.scrape_url, build_region_url(target)): target
-            for target in region_targets
-        }
-        for future in as_completed(future_to_target):
-            target = future_to_target[future]
-            completed_count += 1
-            try:
-                result: ScrapeResult = future.result()
-            except NoChartsFoundError:
-                skipped_targets.append(target)
-                print(
-                    f"[{completed_count}/{total_targets}] "
-                    f"Skipped {target}: no TOP 10 charts available"
-                )
-                continue
-            except (ScraperError, TMDBResolverError) as exc:
-                _raise_region_failure(target, exc)
-
+    failures = []
+    for completed_count, (target, result, _) in enumerate(
+        iter_region_results(scraper, region_targets), 1
+    ):
+        if isinstance(result, NoChartsFoundError):
+            skipped_targets.append(target)
+            print(
+                f"[{completed_count}/{total_targets}] Skipped {target}: no TOP 10 charts available"
+            )
+        elif isinstance(result, Exception):
+            failures.append((target, result))
+            print(
+                f"[{completed_count}/{total_targets}] Failed {target}: {result}",
+                file=sys.stderr,
+            )
+        else:
             output_path = build_output_path_for_target(output_dir, target)
             write_result(result, output_path, output_region=target)
             print(
@@ -161,7 +143,12 @@ def scrape_region_targets(
                 f"Wrote {len(result.charts)} charts to {output_path}"
             )
             written_count += 1
-
+    if failures:
+        target, error = failures[0]
+        raise ScraperError(
+            f"{len(failures)} regions failed; {written_count} successful files retained. "
+            f"First failure ({target}): {error}"
+        ) from error
     return written_count, skipped_targets
 
 
@@ -209,6 +196,14 @@ def build_parser() -> argparse.ArgumentParser:
         default=30,
         help="HTTP timeout in seconds for live requests.",
     )
+    parser.add_argument(
+        "--transport",
+        choices=("http", "browser"),
+        default=os.getenv("FLIXPATROL_TRANSPORT", "http"),
+        help="HTTP with clearance transfer, or a persistent browser session.",
+    )
+    parser.add_argument("--max-recoveries", type=int, default=2)
+    parser.add_argument("--requests-per-second", type=float, default=0.5)
     parser.add_argument(
         "--cf-clearance",
         help=(
@@ -360,10 +355,11 @@ def main(argv: list[str] | None = None) -> int:
         user_agent=args.user_agent or os.getenv("FLIXPATROL_USER_AGENT"),
         solve_cf=args.solve_cf or _env_flag("FLIXPATROL_SOLVE_CF"),
         proxy=args.proxy or os.getenv("FLIXPATROL_PROXY"),
-        solve_headless=not (
-            args.solve_headed or _env_flag("FLIXPATROL_SOLVE_HEADED")
-        ),
+        solve_headless=not (args.solve_headed or _env_flag("FLIXPATROL_SOLVE_HEADED")),
         solve_deadline_seconds=_solve_deadline(args.solve_timeout),
+        transport=args.transport,
+        max_recoveries=args.max_recoveries,
+        max_requests_per_second=args.requests_per_second,
     )
 
     try:
@@ -395,6 +391,8 @@ def main(argv: list[str] | None = None) -> int:
         output_path = write_result(result, args.output)
     except (OSError, ScraperError, TMDBResolverError) as exc:
         parser.exit(status=1, message=f"Error: {exc}\n")
+    finally:
+        scraper.close()
 
     print(f"Wrote {len(result.charts)} charts to {output_path}")
     return 0
