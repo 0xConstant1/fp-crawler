@@ -39,8 +39,8 @@ def main(argv: list[str] | None = None) -> int:
     )
     parser.add_argument(
         "--transport",
-        choices=("http", "browser"),
-        default=os.getenv("FLIXPATROL_TRANSPORT", "http"),
+        choices=("auto", "http", "browser"),
+        default=os.getenv("FLIXPATROL_TRANSPORT", "auto"),
     )
     parser.add_argument("--solve-timeout", type=float)
     parser.add_argument("--max-recoveries", type=int, default=2)
@@ -90,7 +90,8 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Update could not publish: {exc}", file=sys.stderr)
         return 1
     print(
-        f"Published snapshot: {report['counts']}; {len(report['pending_regions'])} regions pending"
+        f"Snapshot complete: {report['counts']}; {len(report['published_regions'])} regions updated; "
+        f"{len(report['pending_regions'])} regions pending"
     )
     return 0
 

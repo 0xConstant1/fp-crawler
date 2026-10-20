@@ -99,7 +99,9 @@ def publish_catalogs(
             except (OSError, ValueError):
                 previous_index = None
             if isinstance(previous_index, dict) and {
-                key: value for key, value in previous_index.items() if key != "generated_at"
+                key: value
+                for key, value in previous_index.items()
+                if key != "generated_at"
             } == {key: value for key, value in index.items() if key != "generated_at"}:
                 return
         atomic_write_json(staging / "availability.json", index)
@@ -162,6 +164,14 @@ def update_catalogs(
             not in {"fresh", "updated", "resumed"}
         ]
         report["metrics"] = dict(scraper.metrics)
+        report["active_transport"] = getattr(
+            scraper, "active_transport", scraper.transport
+        )
+        report["stop_reason"] = getattr(scraper, "stop_reason", None)
+        if report["stop_reason"] and scraper.proxy:
+            report["stop_reason"] = report["stop_reason"].replace(
+                scraper.proxy, "[proxy]"
+            )
         report["duration_seconds"] = round(time.monotonic() - started, 3)
         atomic_write_json(report_path, report)
 
@@ -245,6 +255,8 @@ def update_catalogs(
             except (OSError, ValueError, ScraperError) as exc:
                 item.update(status="failed", error=str(exc))
         print(f"{target}: {item['status']} ({duration:.1f}s)", flush=True)
+        if item.get("error") and (item["status"] != "deferred" or duration > 0):
+            print(f"  {item['error']}", flush=True)
         save_report()
 
     publish_catalogs(output_dir, candidates, build_index)

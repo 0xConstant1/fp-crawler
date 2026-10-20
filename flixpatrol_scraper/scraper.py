@@ -267,7 +267,7 @@ class FlixPatrolScraper:
         self._stop_reason: str | None = None
         self._consecutive_blocks = 0
         self._clearance_rejected = False
-        if transport not in {"http", "browser"}:
+        if transport not in {"auto", "http", "browser"}:
             raise ValueError(f"Unknown transport: {transport!r}")
         if not math.isfinite(solve_deadline_seconds) or solve_deadline_seconds <= 0 or max_recoveries < 0:
             raise ValueError("Solver deadline must be positive and recovery budget nonnegative.")
@@ -359,6 +359,14 @@ class FlixPatrolScraper:
     def recovery_open(self) -> bool:
         return self._stop_reason is not None
 
+    @property
+    def active_transport(self) -> str:
+        return "browser" if self._browser is not None else "http"
+
+    @property
+    def stop_reason(self) -> str | None:
+        return self._stop_reason
+
     def close(self) -> None:
         if self._browser is not None:
             self._browser.close()
@@ -369,7 +377,33 @@ class FlixPatrolScraper:
                 if self._stop_reason:
                     raise RecoveryOpenError(self._stop_reason)
                 return self._fetch_browser(url)
+        if self.transport == "auto":
+            return self._fetch_auto(url)
         return self._fetch_http(url)
+
+    def _fetch_auto(self, url: str) -> Response | BrowserResponse:
+        response, _ = self._request(url)
+        with self._challenge_lock:
+            if self._stop_reason:
+                raise RecoveryOpenError(self._stop_reason)
+            if _is_cf_challenge(response):
+                self.metrics["challenges"] += 1
+                if self._browser is None:
+                    if self.metrics["recoveries"] >= self.max_recoveries:
+                        self._record_access_block(response, url)
+                    self.metrics["recoveries"] += 1
+                    self._browser = BrowserClient(
+                        headless=self.solve_headless,
+                        timeout_ms=self.timeout_seconds * 1000,
+                        proxy=self.proxy,
+                    )
+                    logger.warning("HTTP challenge at %s; switching to a persistent browser", url)
+                return self._fetch_browser(url)
+            if response.status_code in (403, 429):
+                self._record_access_block(response, url)
+            self._raise_for_bad_response(response, url)
+            self._consecutive_blocks = 0
+            return response
 
     def _fetch_browser(self, url: str) -> BrowserResponse:
         self._before_request()

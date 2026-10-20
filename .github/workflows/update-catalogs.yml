@@ -11,8 +11,8 @@ on:
       transport:
         description: Transport for catalog updates
         type: choice
-        options: [http, browser]
-        default: http
+        options: [auto, http, browser]
+        default: auto
       regions:
         description: Optional comma-separated region slugs (comparison defaults to three sample regions)
         type: string
@@ -37,7 +37,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     env:
       PYTHONUTF8: "1"
@@ -48,7 +48,7 @@ jobs:
       FLIXPATROL_SOLVE_HEADED: "1"
       FLIXPATROL_PROXY: ${{ secrets.FLIXPATROL_PROXY }}
       RUN_MODE: ${{ inputs.mode || 'update' }}
-      FLIXPATROL_TRANSPORT: ${{ inputs.transport || 'http' }}
+      FLIXPATROL_TRANSPORT: ${{ inputs.transport || 'auto' }}
       INPUT_REGIONS: ${{ inputs.regions }}
       INPUT_FORCE: ${{ inputs.force }}
       COMPARISON_ORDER: ${{ inputs.comparison_order || 'http-first' }}
@@ -70,6 +70,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xvfb
           scrapling install --force
+          python -m patchright install chromium
+
+      - name: Verify headed browser startup
+        timeout-minutes: 2
+        run: xvfb-run -a python scripts/check_browser.py
 
       - name: Restore region checkpoints
         if: env.RUN_MODE == 'update'
@@ -105,7 +110,7 @@ jobs:
           xvfb-run -a python scripts/compare_fetching.py "${args[@]}"
 
       - name: Save region checkpoints
-        if: always() && env.RUN_MODE == 'update'
+        if: always() && env.RUN_MODE == 'update' && hashFiles('.catalog-state/candidates/*.json') != ''
         continue-on-error: true
         uses: actions/cache/save@v4
         with:
@@ -143,5 +148,5 @@ jobs:
       - name: Require current catalogs
         if: success() && env.RUN_MODE == 'update' && steps.freshness.outputs.pending != '0'
         run: |
-          echo "Valid region updates were published; remaining regions need recovery. See the freshness report."
+          echo "Catalogs remain stale. Existing catalogs were retained and any valid updates were published. See the freshness report for fetch errors."
           exit 1
