@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/luxembourg/",
-  "page_title": "TOP 10 on Streaming in Luxembourg on October 23, 2026",
+  "page_title": "TOP 10 on Streaming in Luxembourg on October 24, 2026",
   "region": "luxembourg",
-  "date": "October 23, 2026",
-  "scraped_at_utc": "2026-10-23T19:44:08.004437+00:00",
+  "date": "October 24, 2026",
+  "scraped_at_utc": "2026-10-24T18:25:45.784276+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Luxembourg on October 23, 2026",
+      "heading": "TOP Movies on Netflix in Luxembourg on October 24, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Surviving Hurricane Otis",
+          "tmdb": {
+            "id": 1780005,
+            "media_type": "movie",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 2,
           "title": "A Minecraft Movie",
           "tmdb": {
             "id": 950387,
@@ -23,7 +32,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Hot Wheels Let's Race: Attack of the T-Rex",
           "tmdb": {
             "id": 1802674,
@@ -32,7 +41,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Animals",
           "tmdb": {
             "id": 1236045,
@@ -41,43 +50,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Center Stage : Turn It Up",
-          "tmdb": {
-            "id": 16346,
-            "media_type": "movie",
-            "release_date": "2008-10-30"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Gail Daughtry and the Celebrity Sex Pass",
+          "title": "Gajab Raat",
           "tmdb": {
-            "id": 1476682,
+            "id": 1453407,
             "media_type": "movie",
-            "release_date": "2026-07-09"
+            "release_date": "2026-10-23"
           }
         },
         {
           "rank": 6,
-          "title": "UNABOMBER",
-          "tmdb": {
-            "id": 1492640,
-            "media_type": "movie",
-            "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Doing Life",
-          "tmdb": {
-            "id": 1458857,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Armored",
           "tmdb": {
             "id": 4597,
@@ -86,49 +68,67 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Center Stage : Turn It Up",
+          "tmdb": {
+            "id": 16346,
+            "media_type": "movie",
+            "release_date": "2008-10-30"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "UNABOMBER",
+          "tmdb": {
+            "id": 1492640,
+            "media_type": "movie",
+            "release_date": "2026-09-25"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Gail Daughtry and the Celebrity Sex Pass",
+          "tmdb": {
+            "id": 1476682,
+            "media_type": "movie",
+            "release_date": "2026-07-09"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Therapy Done Right",
           "tmdb": {
             "id": 1487317,
             "media_type": "movie",
             "release_date": "2026-10-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Storm",
-          "tmdb": {
-            "id": 1623256,
-            "media_type": "movie",
-            "release_date": "2026-10-15"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Luxembourg on October 23, 2026",
+      "heading": "TOP TV Shows on Netflix in Luxembourg on October 24, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Lupin",
+          "tmdb": {
+            "id": 96677,
+            "media_type": "tv",
+            "release_date": "2021-01-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Nobody Wants This",
           "tmdb": {
             "id": 250923,
             "media_type": "tv",
             "release_date": "2024-09-26"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Djadel Show",
-          "tmdb": {
-            "id": 339290,
-            "media_type": "tv",
-            "release_date": "2025-11-27"
           }
         },
         {
@@ -142,11 +142,11 @@
         },
         {
           "rank": 4,
-          "title": "The Trap",
+          "title": "Djadel Show",
           "tmdb": {
-            "id": 283371,
+            "id": 339290,
             "media_type": "tv",
-            "release_date": "2026-10-13"
+            "release_date": "2025-11-27"
           }
         },
         {
@@ -160,6 +160,15 @@
         },
         {
           "rank": 6,
+          "title": "The Trap",
+          "tmdb": {
+            "id": 283371,
+            "media_type": "tv",
+            "release_date": "2026-10-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "TYSON",
           "tmdb": {
             "id": 335536,
@@ -168,25 +177,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Cyberpunk: Edgerunners",
-          "tmdb": {
-            "id": 105248,
-            "media_type": "tv",
-            "release_date": "2022-09-13"
-          }
-        },
-        {
           "rank": 8,
-          "title": "East of Eden",
-          "tmdb": {
-            "id": 258165,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The New Stanford Prison Experiment",
           "tmdb": {
             "id": 335319,
@@ -195,22 +186,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Ghosts",
+          "rank": 9,
+          "title": "East of Eden",
           "tmdb": {
-            "id": 126027,
+            "id": 258165,
             "media_type": "tv",
-            "release_date": "2021-10-07"
+            "release_date": "2026-10-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Cyberpunk: Edgerunners",
+          "tmdb": {
+            "id": 105248,
+            "media_type": "tv",
+            "release_date": "2022-09-13"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Luxembourg on October 23, 2026",
+      "heading": "TOP Overall on Disney+ in Luxembourg on October 24, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -307,10 +307,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Luxembourg on October 23, 2026",
+      "heading": "TOP Movies on Disney+ in Luxembourg on October 24, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,24 +342,6 @@
         },
         {
           "rank": 4,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "PAW Patrol: The Movie",
-          "tmdb": {
-            "id": 675445,
-            "media_type": "movie",
-            "release_date": "2021-08-09"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
@@ -368,7 +350,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -377,7 +359,16 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "The Nightmare Before Christmas",
+          "tmdb": {
+            "id": 9479,
+            "media_type": "movie",
+            "release_date": "1993-10-09"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -386,31 +377,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Scooby-Doo",
+          "rank": 8,
+          "title": "PAW Patrol: The Movie",
           "tmdb": {
-            "id": 9637,
+            "id": 675445,
             "media_type": "movie",
-            "release_date": "2002-06-14"
+            "release_date": "2021-08-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "10 Things I Hate About You",
+          "tmdb": {
+            "id": 4951,
+            "media_type": "movie",
+            "release_date": "1999-03-30"
           }
         },
         {
           "rank": 10,
-          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "title": "Coco",
           "tmdb": {
-            "id": 1750432,
+            "id": 354912,
             "media_type": "movie",
-            "release_date": "2026-09-24"
+            "release_date": "2017-10-27"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Luxembourg on October 23, 2026",
+      "heading": "TOP TV Shows on Disney+ in Luxembourg on October 24, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,11 +442,11 @@
         },
         {
           "rank": 4,
-          "title": "Phony",
+          "title": "Swipe Right on the Devil",
           "tmdb": {
-            "id": 275139,
+            "id": 337609,
             "media_type": "tv",
-            "release_date": "2026-10-20"
+            "release_date": "2026-10-22"
           }
         },
         {
@@ -469,24 +469,15 @@
         },
         {
           "rank": 7,
-          "title": "WandaVision",
+          "title": "Phony",
           "tmdb": {
-            "id": 85271,
+            "id": 275139,
             "media_type": "tv",
-            "release_date": "2021-01-15"
+            "release_date": "2026-10-20"
           }
         },
         {
           "rank": 8,
-          "title": "Desperate Housewives",
-          "tmdb": {
-            "id": 693,
-            "media_type": "tv",
-            "release_date": "2004-10-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Bluey Compilations",
           "tmdb": {
             "id": 328337,
@@ -495,22 +486,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Loki",
+          "rank": 9,
+          "title": "WandaVision",
           "tmdb": {
-            "id": 84958,
+            "id": 85271,
             "media_type": "tv",
-            "release_date": "2021-06-09"
+            "release_date": "2021-01-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Mickey and Minnie's Holiday Songs: Halloween",
+          "tmdb": {
+            "id": 302768,
+            "media_type": "tv",
+            "release_date": "2025-09-29"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Luxembourg on October 23, 2026",
+      "heading": "TOP Movies on Apple TV in Luxembourg on October 24, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -560,20 +560,20 @@
         },
         {
           "rank": 6,
-          "title": "The Gorge",
+          "title": "The Family Plan 2",
           "tmdb": {
-            "id": 950396,
+            "id": 1363123,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2025-11-11"
           }
         },
         {
           "rank": 7,
-          "title": "Greyhound",
+          "title": "Argylle",
           "tmdb": {
-            "id": 516486,
+            "id": 848538,
             "media_type": "movie",
-            "release_date": "2020-07-09"
+            "release_date": "2024-01-31"
           }
         },
         {
@@ -587,30 +587,30 @@
         },
         {
           "rank": 9,
+          "title": "Greyhound",
+          "tmdb": {
+            "id": 516486,
+            "media_type": "movie",
+            "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Family Plan",
           "tmdb": {
             "id": 1029575,
             "media_type": "movie",
             "release_date": "2023-12-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Argylle",
-          "tmdb": {
-            "id": 848538,
-            "media_type": "movie",
-            "release_date": "2024-01-31"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Luxembourg on October 23, 2026",
+      "heading": "TOP TV Shows on Apple TV in Luxembourg on October 24, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,20 +633,20 @@
         },
         {
           "rank": 3,
-          "title": "Silo",
-          "tmdb": {
-            "id": 125988,
-            "media_type": "tv",
-            "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
             "media_type": "tv",
             "release_date": "2024-05-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Silo",
+          "tmdb": {
+            "id": 125988,
+            "media_type": "tv",
+            "release_date": "2023-05-04"
           }
         },
         {
@@ -660,6 +660,15 @@
         },
         {
           "rank": 6,
+          "title": "Knife Edge: Chasing Michelin Stars",
+          "tmdb": {
+            "id": 291361,
+            "media_type": "tv",
+            "release_date": "2025-10-10"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Small Prophets",
           "tmdb": {
             "id": 312693,
@@ -668,25 +677,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Where's Wanda?",
-          "tmdb": {
-            "id": 234310,
-            "media_type": "tv",
-            "release_date": "2024-10-02"
-          }
-        },
-        {
           "rank": 8,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -695,22 +686,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Where's Wanda?",
+          "tmdb": {
+            "id": 234310,
+            "media_type": "tv",
+            "release_date": "2024-10-02"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Luxembourg on October 23, 2026",
+      "heading": "TOP Movies on Apple TV Store in Luxembourg on October 24, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -724,6 +724,15 @@
         },
         {
           "rank": 2,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Odyssey",
           "tmdb": {
             "id": 1368337,
@@ -732,85 +741,76 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Dark Knight",
-          "tmdb": {
-            "id": 155,
-            "media_type": "movie",
-            "release_date": "2008-07-16"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Batman",
+          "title": "Coraline",
           "tmdb": {
-            "id": 268,
+            "id": 14836,
             "media_type": "movie",
-            "release_date": "1989-06-21"
+            "release_date": "2009-02-05"
           }
         },
         {
           "rank": 5,
-          "title": "Harry Potter and the Prisoner of Azkaban",
+          "title": "Tuner",
           "tmdb": {
-            "id": 673,
+            "id": 1340206,
             "media_type": "movie",
-            "release_date": "2004-05-31"
+            "release_date": "2026-05-21"
           }
         },
         {
           "rank": 6,
-          "title": "Good Boy",
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1422096,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2025-10-01"
+            "release_date": "2026-06-24"
           }
         },
         {
           "rank": 7,
-          "title": "PAW Patrol: The Dino Movie",
+          "title": "The Invite",
           "tmdb": {
-            "id": 1185806,
+            "id": 950028,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "2026-06-25"
           }
         },
         {
           "rank": 8,
-          "title": "Eyes Wide Shut",
+          "title": "The Matrix",
           "tmdb": {
-            "id": 345,
+            "id": 603,
             "media_type": "movie",
-            "release_date": "1999-07-16"
+            "release_date": "1999-03-31"
           }
         },
         {
           "rank": 9,
-          "title": "System Crasher",
+          "title": "Obsession",
           "tmdb": {
-            "id": 567410,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2019-09-19"
+            "release_date": "2026-05-13"
           }
         },
         {
           "rank": 10,
-          "title": "Gladiator",
+          "title": "Michael",
           "tmdb": {
-            "id": 98,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2000-05-04"
+            "release_date": "2026-04-22"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Luxembourg on October 23, 2026",
+      "heading": "TOP Movies on Rakuten TV in Luxembourg on October 24, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "October 23, 2026",
+      "date": "October 24, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -824,24 +824,6 @@
         },
         {
           "rank": 2,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Passenger",
-          "tmdb": {
-            "id": 1368314,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Avatar Aang: The Last Airbender",
           "tmdb": {
             "id": 980431,
@@ -850,7 +832,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "The Mandalorian and Grogu",
           "tmdb": {
             "id": 1228710,
@@ -859,7 +841,16 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Spider-Man: Brand New Day",
+          "tmdb": {
+            "id": 969681,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Hanging by a Wire",
           "tmdb": {
             "id": 1480856,
@@ -868,16 +859,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Toy Story 5",
+          "rank": 6,
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 1084244,
+            "id": 1273221,
             "media_type": "movie",
-            "release_date": "2026-06-17"
+            "release_date": "2026-06-03"
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "One Last Shot",
           "tmdb": {
             "id": 1607127,
@@ -886,21 +877,30 @@
           }
         },
         {
-          "rank": 9,
-          "title": "De Gaulle: Tilting Iron",
+          "rank": 8,
+          "title": "Jackass: Best and Last",
           "tmdb": {
-            "id": 1165366,
+            "id": 1612018,
             "media_type": "movie",
-            "release_date": "2026-06-03"
+            "release_date": "2026-06-25"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "A Great Awakening",
+          "tmdb": {
+            "id": 1341137,
+            "media_type": "movie",
+            "release_date": "2026-04-03"
           }
         },
         {
           "rank": 10,
-          "title": "Tom Clancy's Jack Ryan: Ghost War",
+          "title": "Batman: Knightfall Part 1: Knightfall",
           "tmdb": {
-            "id": 1380291,
+            "id": 1560520,
             "media_type": "movie",
-            "release_date": "2026-05-20"
+            "release_date": "2026-06-23"
           }
         }
       ]
