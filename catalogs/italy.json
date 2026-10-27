@@ -1,43 +1,43 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/italy/",
-  "page_title": "TOP 10 on Streaming in Italy on October 26, 2026",
+  "page_title": "TOP 10 on Streaming in Italy on October 27, 2026",
   "region": "italy",
-  "date": "October 26, 2026",
-  "scraped_at_utc": "2026-10-26T20:47:05.107926+00:00",
+  "date": "October 27, 2026",
+  "scraped_at_utc": "2026-10-27T20:19:59.187392+00:00",
   "charts": [
     {
       "catalog_id": "hayu.overall",
-      "heading": "TOP Overall (from Amazon Channels) on hayu in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on hayu in Italy on October 27, 2026",
       "category": "overall",
       "platform": "hayu",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Real Housewives of London",
+          "tmdb": {
+            "id": 275387,
+            "media_type": "tv",
+            "release_date": "2025-08-18"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Real Housewives of Potomac",
+          "tmdb": {
+            "id": 65300,
+            "media_type": "tv",
+            "release_date": "2016-01-17"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Real Housewives of Salt Lake City",
           "tmdb": {
             "id": 110381,
             "media_type": "tv",
             "release_date": "2020-11-11"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Real Housewives of New York City",
-          "tmdb": {
-            "id": 14808,
-            "media_type": "tv",
-            "release_date": "2008-03-04"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Vanderpump Rules: Lisa Las Vegas",
-          "tmdb": {
-            "id": 332204,
-            "media_type": "tv",
-            "release_date": "2026-10-20"
           }
         },
         {
@@ -51,11 +51,11 @@
         },
         {
           "rank": 5,
-          "title": "The Real Housewives of London",
+          "title": "Vanderpump Rules: Lisa Las Vegas",
           "tmdb": {
-            "id": 275387,
+            "id": 332204,
             "media_type": "tv",
-            "release_date": "2025-08-18"
+            "release_date": "2026-10-20"
           }
         },
         {
@@ -69,24 +69,15 @@
         },
         {
           "rank": 7,
-          "title": "Below Deck Mediterranean",
+          "title": "The Real Housewives of New York City",
           "tmdb": {
-            "id": 66902,
+            "id": 14808,
             "media_type": "tv",
-            "release_date": "2016-05-03"
+            "release_date": "2008-03-04"
           }
         },
         {
           "rank": 8,
-          "title": "The Real Housewives of Beverly Hills",
-          "tmdb": {
-            "id": 32390,
-            "media_type": "tv",
-            "release_date": "2010-10-14"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Real Housewives of NYC After Show",
           "tmdb": {
             "id": 339246,
@@ -95,23 +86,32 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Keeping Up with the Kardashians",
+          "rank": 9,
+          "title": "Below Deck Mediterranean",
           "tmdb": {
-            "id": 14814,
+            "id": 66902,
             "media_type": "tv",
-            "release_date": "2007-10-14"
+            "release_date": "2016-05-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Real Housewives of Beverly Hills",
+          "tmdb": {
+            "id": 32390,
+            "media_type": "tv",
+            "release_date": "2010-10-14"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Italy on October 26, 2026",
+      "heading": "TOP Movies on Netflix in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 26, 2026",
-      "title_count": 9,
+      "date": "October 27, 2026",
+      "title_count": 10,
       "entries": [
         {
           "rank": 1,
@@ -151,20 +151,20 @@
         },
         {
           "rank": 5,
-          "title": "Clown in a Cornfield",
-          "tmdb": {
-            "id": 713364,
-            "media_type": "movie",
-            "release_date": "2025-05-02"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Blackout",
           "tmdb": {
             "id": 1428008,
             "media_type": "movie",
             "release_date": "2025-03-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Clown in a Cornfield",
+          "tmdb": {
+            "id": 713364,
+            "media_type": "movie",
+            "release_date": "2025-05-02"
           }
         },
         {
@@ -178,11 +178,11 @@
         },
         {
           "rank": 8,
-          "title": "Therapy Done Right",
+          "title": "Money Train",
           "tmdb": {
-            "id": 1487317,
+            "id": 11517,
             "media_type": "movie",
-            "release_date": "2026-10-08"
+            "release_date": "1995-11-21"
           }
         },
         {
@@ -193,15 +193,24 @@
             "media_type": "movie",
             "release_date": "2026-10-20"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Therapy Done Right",
+          "tmdb": {
+            "id": 1487317,
+            "media_type": "movie",
+            "release_date": "2026-10-08"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on Netflix in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -251,15 +260,6 @@
         },
         {
           "rank": 6,
-          "title": "The Trap",
-          "tmdb": {
-            "id": 283371,
-            "media_type": "tv",
-            "release_date": "2026-10-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Minerva Academy",
           "tmdb": {
             "id": 312557,
@@ -268,7 +268,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Diplomat",
           "tmdb": {
             "id": 203857,
@@ -277,31 +277,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dragon Ball Super: Beerus",
+          "rank": 8,
+          "title": "The Trap",
           "tmdb": {
-            "id": 312359,
+            "id": 283371,
             "media_type": "tv",
-            "release_date": "2026-10-11"
+            "release_date": "2026-10-13"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Cyberpunk: Edgerunners",
           "tmdb": {
             "id": 105248,
             "media_type": "tv",
             "release_date": "2022-09-13"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Fading Grandeur",
+          "tmdb": {
+            "id": 335535,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Italy on October 26, 2026",
+      "heading": "TOP Kids Movies on Netflix in Italy on October 27, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -315,6 +324,15 @@
         },
         {
           "rank": 2,
+          "title": "Ice Age: Dawn of the Dinosaurs",
+          "tmdb": {
+            "id": 8355,
+            "media_type": "movie",
+            "release_date": "2009-06-26"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Me contro Te: Il film - Missione giungla",
           "tmdb": {
             "id": 955659,
@@ -323,7 +341,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ice Age: Collision Course",
           "tmdb": {
             "id": 278154,
@@ -332,21 +350,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ice Age",
           "tmdb": {
             "id": 425,
             "media_type": "movie",
             "release_date": "2002-03-14"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ice Age: Dawn of the Dinosaurs",
-          "tmdb": {
-            "id": 8355,
-            "media_type": "movie",
-            "release_date": "2009-06-26"
           }
         },
         {
@@ -387,21 +396,21 @@
         },
         {
           "rank": 10,
-          "title": "Charlie and the Chocolate Factory",
+          "title": "Aliens in the Attic",
           "tmdb": {
-            "id": 118,
+            "id": 20856,
             "media_type": "movie",
-            "release_date": "2005-07-13"
+            "release_date": "2009-07-30"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Italy on October 26, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Italy on October 27, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,11 +442,11 @@
         },
         {
           "rank": 4,
-          "title": "Spike",
+          "title": "Masha and the Bear",
           "tmdb": {
-            "id": 168708,
-            "media_type": "movie",
-            "release_date": "2009-10-07"
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
           }
         },
         {
@@ -451,24 +460,15 @@
         },
         {
           "rank": 6,
-          "title": "Masha and the Bear",
+          "title": "Spike",
           "tmdb": {
-            "id": 46080,
-            "media_type": "tv",
-            "release_date": "2009-01-07"
+            "id": 168708,
+            "media_type": "movie",
+            "release_date": "2009-10-07"
           }
         },
         {
           "rank": 7,
-          "title": "Mermaid Magic",
-          "tmdb": {
-            "id": 231725,
-            "media_type": "tv",
-            "release_date": "2024-08-22"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Sheriff Labrador",
           "tmdb": {
             "id": 219799,
@@ -477,31 +477,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Wonka's The Golden Ticket",
+          "rank": 8,
+          "title": "Mermaid Magic",
           "tmdb": {
-            "id": 286940,
+            "id": 231725,
             "media_type": "tv",
-            "release_date": "2026-09-23"
+            "release_date": "2024-08-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bing",
+          "tmdb": {
+            "id": 69501,
+            "media_type": "tv",
+            "release_date": "2014-06-09"
           }
         },
         {
           "rank": 10,
-          "title": "Salish & Jordan Matter",
+          "title": "La Pimpa",
           "tmdb": {
-            "id": 318906,
+            "id": 86349,
             "media_type": "tv",
-            "release_date": "2026-04-11"
+            "release_date": "1983-10-24"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Italy on October 26, 2026",
+      "heading": "TOP Movies on HBO Max in Italy on October 27, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -524,6 +533,15 @@
         },
         {
           "rank": 3,
+          "title": "Anyone But You",
+          "tmdb": {
+            "id": 1072790,
+            "media_type": "movie",
+            "release_date": "2023-12-21"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Corpse Bride",
           "tmdb": {
             "id": 3933,
@@ -532,7 +550,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Blade II",
           "tmdb": {
             "id": 36586,
@@ -541,34 +559,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Interview with the Vampire",
-          "tmdb": {
-            "id": 628,
-            "media_type": "movie",
-            "release_date": "1994-11-11"
-          }
-        },
-        {
           "rank": 6,
-          "title": "The Last Voyage of the Demeter",
-          "tmdb": {
-            "id": 635910,
-            "media_type": "movie",
-            "release_date": "2023-08-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Prestige",
-          "tmdb": {
-            "id": 1124,
-            "media_type": "movie",
-            "release_date": "2006-10-19"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Blade: Trinity",
           "tmdb": {
             "id": 36648,
@@ -577,31 +568,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dark Shadows",
+          "rank": 7,
+          "title": "Interview with the Vampire",
           "tmdb": {
-            "id": 62213,
+            "id": 628,
             "media_type": "movie",
-            "release_date": "2012-05-09"
+            "release_date": "1994-11-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Prestige",
+          "tmdb": {
+            "id": 1124,
+            "media_type": "movie",
+            "release_date": "2006-10-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Am I OK?",
+          "tmdb": {
+            "id": 641934,
+            "media_type": "movie",
+            "release_date": "2024-06-06"
           }
         },
         {
           "rank": 10,
-          "title": "The Shining",
+          "title": "The Last Voyage of the Demeter",
           "tmdb": {
-            "id": 694,
+            "id": 635910,
             "media_type": "movie",
-            "release_date": "1980-05-23"
+            "release_date": "2023-08-09"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on HBO Max in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,11 +642,11 @@
         },
         {
           "rank": 4,
-          "title": "Lanterns",
+          "title": "Youth",
           "tmdb": {
-            "id": 95350,
+            "id": 285418,
             "media_type": "tv",
-            "release_date": "2026-08-16"
+            "release_date": "2026-09-21"
           }
         },
         {
@@ -651,6 +660,15 @@
         },
         {
           "rank": 6,
+          "title": "Lanterns",
+          "tmdb": {
+            "id": 95350,
+            "media_type": "tv",
+            "release_date": "2026-08-16"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Paolo",
           "tmdb": {
             "id": 288385,
@@ -659,7 +677,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Get Jiro",
           "tmdb": {
             "id": 231801,
@@ -668,21 +686,112 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Courage the Cowardly Dog",
+          "rank": 9,
+          "title": "The Pet Cemetery Murders: A Ghost Story",
           "tmdb": {
-            "id": 2085,
+            "id": 336418,
             "media_type": "tv",
-            "release_date": "1999-11-12"
+            "release_date": "2026-10-11"
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Zmora",
           "tmdb": {
             "id": 279185,
             "media_type": "tv",
             "release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "hbo-max.overall",
+      "heading": "TOP Overall (from Amazon Channels) on HBO Max in Italy on October 27, 2026",
+      "category": "overall",
+      "platform": "HBO Max",
+      "date": "October 27, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Crystal Lake",
+          "tmdb": {
+            "id": 213562,
+            "media_type": "tv",
+            "release_date": "2026-10-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Peccato",
+          "tmdb": {
+            "id": 330200,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "YAGA",
+          "tmdb": {
+            "id": 314360,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Lanterns",
+          "tmdb": {
+            "id": 95350,
+            "media_type": "tv",
+            "release_date": "2026-08-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Game of Thrones",
+          "tmdb": {
+            "id": 1399,
+            "media_type": "tv",
+            "release_date": "2011-04-17"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "tmdb": {
+            "id": 673,
+            "media_type": "movie",
+            "release_date": "2004-05-31"
           }
         },
         {
@@ -697,111 +806,11 @@
       ]
     },
     {
-      "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall (from Amazon Channels) on HBO Max in Italy on October 26, 2026",
-      "category": "overall",
-      "platform": "HBO Max",
-      "date": "October 26, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Crystal Lake",
-          "tmdb": {
-            "id": 213562,
-            "media_type": "tv",
-            "release_date": "2026-10-15"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Peccato",
-          "tmdb": {
-            "id": 330200,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "YAGA",
-          "tmdb": {
-            "id": 314360,
-            "media_type": "tv",
-            "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Backrooms",
-          "tmdb": {
-            "id": 1083381,
-            "media_type": "movie",
-            "release_date": "2026-05-27"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Chamber of Secrets",
-          "tmdb": {
-            "id": 672,
-            "media_type": "movie",
-            "release_date": "2002-11-13"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Lanterns",
-          "tmdb": {
-            "id": 95350,
-            "media_type": "tv",
-            "release_date": "2026-08-16"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Harry Potter and the Prisoner of Azkaban",
-          "tmdb": {
-            "id": 673,
-            "media_type": "movie",
-            "release_date": "2004-05-31"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Harry Potter and the Goblet of Fire",
-          "tmdb": {
-            "id": 674,
-            "media_type": "movie",
-            "release_date": "2005-11-16"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "House of the Dragon",
-          "tmdb": {
-            "id": 94997,
-            "media_type": "tv",
-            "release_date": "2022-08-21"
-          }
-        }
-      ]
-    },
-    {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Italy on October 26, 2026",
+      "heading": "TOP Overall on Disney+ in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -898,10 +907,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Italy on October 26, 2026",
+      "heading": "TOP Movies on Disney+ in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -942,20 +951,20 @@
         },
         {
           "rank": 5,
-          "title": "Coco",
-          "tmdb": {
-            "id": 354912,
-            "media_type": "movie",
-            "release_date": "2017-10-27"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
             "media_type": "movie",
             "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ratatouille",
+          "tmdb": {
+            "id": 2062,
+            "media_type": "movie",
+            "release_date": "2007-06-28"
           }
         },
         {
@@ -969,11 +978,11 @@
         },
         {
           "rank": 8,
-          "title": "Ratatouille",
+          "title": "Coco",
           "tmdb": {
-            "id": 2062,
+            "id": 354912,
             "media_type": "movie",
-            "release_date": "2007-06-28"
+            "release_date": "2017-10-27"
           }
         },
         {
@@ -998,10 +1007,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on Disney+ in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1098,14 +1107,23 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Italy on October 26, 2026",
+      "heading": "TOP Movies on Amazon Prime in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Fuze",
+          "tmdb": {
+            "id": 1242265,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Love of Your Life",
           "tmdb": {
             "id": 1381078,
@@ -1114,25 +1132,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Masterplan",
-          "tmdb": {
-            "id": 1561726,
-            "media_type": "movie",
-            "release_date": "2026-10-16"
-          }
-        },
-        {
           "rank": 3,
-          "title": "Wardriver",
-          "tmdb": {
-            "id": 938150,
-            "media_type": "movie",
-            "release_date": "2026-03-04"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Angelo Pintus in Nabana",
           "tmdb": {
             "id": 1798852,
@@ -1141,34 +1141,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Masterplan",
+          "tmdb": {
+            "id": 1561726,
+            "media_type": "movie",
+            "release_date": "2026-10-16"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Return to Silent Hill",
-          "tmdb": {
-            "id": 680493,
-            "media_type": "movie",
-            "release_date": "2026-01-21"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Kraken",
-          "tmdb": {
-            "id": 1110034,
-            "media_type": "movie",
-            "release_date": "2026-02-06"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Longlegs",
-          "tmdb": {
-            "id": 1226578,
-            "media_type": "movie",
-            "release_date": "2024-07-10"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Love Hypothesis",
           "tmdb": {
             "id": 1032863,
@@ -1177,31 +1159,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Longlegs",
+          "tmdb": {
+            "id": 1226578,
+            "media_type": "movie",
+            "release_date": "2024-07-10"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Wardriver",
+          "tmdb": {
+            "id": 938150,
+            "media_type": "movie",
+            "release_date": "2026-03-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Return to Silent Hill",
+          "tmdb": {
+            "id": 680493,
+            "media_type": "movie",
+            "release_date": "2026-01-21"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Kraken",
+          "tmdb": {
+            "id": 1110034,
+            "media_type": "movie",
+            "release_date": "2026-02-06"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Sniper: The White Raven",
           "tmdb": {
             "id": 966220,
             "media_type": "movie",
             "release_date": "2022-05-03"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Drawn Together",
-          "tmdb": {
-            "id": 1440098,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1242,20 +1251,20 @@
         },
         {
           "rank": 5,
-          "title": "R.I.P. - Roast-in-Peace",
-          "tmdb": {
-            "id": 302590,
-            "media_type": "tv",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Friends Sex and Games",
           "tmdb": {
             "id": 298550,
             "media_type": "tv",
             "release_date": "2026-10-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "R.I.P. - Roast-in-Peace",
+          "tmdb": {
+            "id": 302590,
+            "media_type": "tv",
+            "release_date": "2025-10-09"
           }
         },
         {
@@ -1298,10 +1307,10 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Italy on October 26, 2026",
+      "heading": "TOP Movies on Paramount+ in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1351,33 +1360,6 @@
         },
         {
           "rank": 6,
-          "title": "Scuola di seduzione",
-          "tmdb": {
-            "id": 1523067,
-            "media_type": "movie",
-            "release_date": "2026-04-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Dedalus",
-          "tmdb": {
-            "id": 568922,
-            "media_type": "movie",
-            "release_date": "2018-10-28"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Do Not Enter",
-          "tmdb": {
-            "id": 999136,
-            "media_type": "movie",
-            "release_date": "2026-03-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Fanum",
           "tmdb": {
             "id": 1121694,
@@ -1386,22 +1368,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Top Gun",
+          "rank": 7,
+          "title": "Scuola di seduzione",
           "tmdb": {
-            "id": 744,
+            "id": 1523067,
             "media_type": "movie",
-            "release_date": "1986-05-16"
+            "release_date": "2026-04-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Dedalus",
+          "tmdb": {
+            "id": 568922,
+            "media_type": "movie",
+            "release_date": "2018-10-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Do Not Enter",
+          "tmdb": {
+            "id": 999136,
+            "media_type": "movie",
+            "release_date": "2026-03-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Internship",
+          "tmdb": {
+            "id": 1584215,
+            "media_type": "movie",
+            "release_date": "2026-01-13"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1424,6 +1433,15 @@
         },
         {
           "rank": 3,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 4,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1432,21 +1450,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
             "media_type": "tv",
             "release_date": "2023-07-23"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
           }
         },
         {
@@ -1460,15 +1469,6 @@
         },
         {
           "rank": 7,
-          "title": "Dexter",
-          "tmdb": {
-            "id": 1405,
-            "media_type": "tv",
-            "release_date": "2006-10-01"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Blue Bloods",
           "tmdb": {
             "id": 32692,
@@ -1477,7 +1477,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Criminal Minds",
           "tmdb": {
             "id": 4057,
@@ -1486,22 +1486,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Italia Shore",
+          "rank": 9,
+          "title": "Dexter",
           "tmdb": {
-            "id": 236102,
+            "id": 1405,
             "media_type": "tv",
-            "release_date": "2024-03-03"
+            "release_date": "2006-10-01"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1515,15 +1524,6 @@
         },
         {
           "rank": 2,
-          "title": "Tulsa King",
-          "tmdb": {
-            "id": 153312,
-            "media_type": "tv",
-            "release_date": "2022-11-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1532,21 +1532,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Madison",
+          "rank": 3,
+          "title": "Tulsa King",
           "tmdb": {
-            "id": 225891,
+            "id": 153312,
             "media_type": "tv",
-            "release_date": "2026-03-14"
+            "release_date": "2022-11-13"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
             "media_type": "tv",
             "release_date": "2023-07-23"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Italia Shore",
+          "tmdb": {
+            "id": 236102,
+            "media_type": "tv",
+            "release_date": "2024-03-03"
           }
         },
         {
@@ -1560,24 +1569,15 @@
         },
         {
           "rank": 7,
-          "title": "Avatar: Seven Havens",
+          "title": "The Madison",
           "tmdb": {
-            "id": 284833,
+            "id": 225891,
             "media_type": "tv",
-            "release_date": "2026-10-09"
+            "release_date": "2026-03-14"
           }
         },
         {
           "rank": 8,
-          "title": "Italia Shore",
-          "tmdb": {
-            "id": 236102,
-            "media_type": "tv",
-            "release_date": "2024-03-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1586,22 +1586,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Top Gun: Maverick",
+          "rank": 9,
+          "title": "Avatar: Seven Havens",
           "tmdb": {
-            "id": 361743,
-            "media_type": "movie",
-            "release_date": "2022-05-21"
+            "id": 284833,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Italy on October 26, 2026",
+      "heading": "TOP Movies on Apple TV in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1651,20 +1660,20 @@
         },
         {
           "rank": 6,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Proposal",
           "tmdb": {
             "id": 18240,
             "media_type": "movie",
             "release_date": "2009-06-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Palmer",
-          "tmdb": {
-            "id": 458220,
-            "media_type": "movie",
-            "release_date": "2021-01-28"
           }
         },
         {
@@ -1687,21 +1696,21 @@
         },
         {
           "rank": 10,
-          "title": "Napoleon",
+          "title": "Palmer",
           "tmdb": {
-            "id": 753342,
+            "id": 458220,
             "media_type": "movie",
-            "release_date": "2023-11-22"
+            "release_date": "2021-01-28"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on Apple TV in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1751,15 +1760,6 @@
         },
         {
           "rank": 6,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 66515,
-            "media_type": "tv",
-            "release_date": "2015-09-28"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -1768,7 +1768,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Severance",
           "tmdb": {
             "id": 95396,
@@ -1777,7 +1777,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Shrinking",
           "tmdb": {
             "id": 136311,
@@ -1786,22 +1786,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Small Prophets",
+          "rank": 9,
+          "title": "Brothers",
           "tmdb": {
-            "id": 312693,
+            "id": 66515,
             "media_type": "tv",
-            "release_date": "2026-02-09"
+            "release_date": "2015-09-28"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Your Friends & Neighbors",
+          "tmdb": {
+            "id": 241609,
+            "media_type": "tv",
+            "release_date": "2025-04-10"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1824,15 +1833,6 @@
         },
         {
           "rank": 3,
-          "title": "Tenzing",
-          "tmdb": {
-            "id": 1288069,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1841,16 +1841,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Matchbox",
+          "rank": 4,
+          "title": "Tenzing",
           "tmdb": {
-            "id": 1631887,
+            "id": 1288069,
             "media_type": "movie",
-            "release_date": "2026-02-13"
+            "release_date": "2026-10-09"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
@@ -1859,12 +1859,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Mayday",
+          "rank": 6,
+          "title": "Matchbox",
           "tmdb": {
-            "id": 90,
+            "id": 1631887,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Widow's Bay",
+          "tmdb": {
+            "id": 270476,
             "media_type": "tv",
-            "release_date": "2003-09-03"
+            "release_date": "2026-04-28"
           }
         },
         {
@@ -1878,30 +1887,30 @@
         },
         {
           "rank": 9,
-          "title": "Widow's Bay",
+          "title": "The Family Plan",
           "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
+            "id": 1029575,
+            "media_type": "movie",
+            "release_date": "2023-12-14"
           }
         },
         {
           "rank": 10,
-          "title": "Ghosted",
+          "title": "Mayday",
           "tmdb": {
-            "id": 71739,
+            "id": 90,
             "media_type": "tv",
-            "release_date": "2017-10-01"
+            "release_date": "2003-09-03"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in Italy on October 26, 2026",
+      "heading": "TOP Movies on Amazon in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1924,15 +1933,6 @@
         },
         {
           "rank": 3,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Coraline",
           "tmdb": {
             "id": 14836,
@@ -1941,7 +1941,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Minions & Monsters",
+          "tmdb": {
+            "id": 1315772,
+            "media_type": "movie",
+            "release_date": "2026-06-24"
+          }
+        },
+        {
           "rank": 5,
+          "title": "The Gambler",
+          "tmdb": {
+            "id": 284536,
+            "media_type": "movie",
+            "release_date": "2014-12-25"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1950,7 +1968,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -1959,7 +1977,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Devil Wears Prada 2",
           "tmdb": {
             "id": 1314481,
@@ -1968,21 +1986,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
             "media_type": "movie",
             "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Gambler",
-          "tmdb": {
-            "id": 284536,
-            "media_type": "movie",
-            "release_date": "2014-12-25"
           }
         },
         {
@@ -1998,10 +2007,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Italy on October 26, 2026",
+      "heading": "TOP Movies on Apple TV Store in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2033,11 +2042,11 @@
         },
         {
           "rank": 4,
-          "title": "Coraline",
+          "title": "The Gambler",
           "tmdb": {
-            "id": 14836,
+            "id": 284536,
             "media_type": "movie",
-            "release_date": "2009-02-05"
+            "release_date": "2014-12-25"
           }
         },
         {
@@ -2051,15 +2060,33 @@
         },
         {
           "rank": 6,
-          "title": "The Gambler",
+          "title": "Coraline",
           "tmdb": {
-            "id": 284536,
+            "id": 14836,
             "media_type": "movie",
-            "release_date": "2014-12-25"
+            "release_date": "2009-02-05"
           }
         },
         {
           "rank": 7,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Practical Magic 2",
           "tmdb": {
             "id": 1302904,
@@ -2068,40 +2095,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Tuner",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 1340206,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2026-05-21"
+            "release_date": "2001-11-16"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Italy on October 26, 2026",
+      "heading": "TOP Movies on Google in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2124,24 +2133,6 @@
         },
         {
           "rank": 3,
-          "title": "The End of Oak Street",
-          "tmdb": {
-            "id": 1101383,
-            "media_type": "movie",
-            "release_date": "2026-08-12"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Insidious: Out of the Further",
-          "tmdb": {
-            "id": 1291595,
-            "media_type": "movie",
-            "release_date": "2026-08-19"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -2150,25 +2141,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "rank": 4,
+          "title": "The End of Oak Street",
           "tmdb": {
-            "id": 671,
+            "id": 1101383,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2026-08-12"
           }
         },
         {
-          "rank": 7,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "Practical Magic 2",
           "tmdb": {
             "id": 1302904,
@@ -2177,7 +2159,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 6,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
@@ -2186,22 +2168,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
           "title": "Trainspotting",
           "tmdb": {
             "id": 627,
             "media_type": "movie",
             "release_date": "1996-02-23"
           }
+        },
+        {
+          "rank": 8,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Coco",
+          "tmdb": {
+            "id": 354912,
+            "media_type": "movie",
+            "release_date": "2017-10-27"
+          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Italy on October 26, 2026",
+      "heading": "TOP Movies on Rakuten TV in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2215,15 +2224,6 @@
         },
         {
           "rank": 2,
-          "title": "Practical Magic 2",
-          "tmdb": {
-            "id": 1302904,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Insidious: Out of the Further",
           "tmdb": {
             "id": 1291595,
@@ -2232,21 +2232,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "title": "The End of Oak Street",
           "tmdb": {
             "id": 1101383,
             "media_type": "movie",
             "release_date": "2026-08-12"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Practical Magic 2",
+          "tmdb": {
+            "id": 1302904,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -2260,6 +2269,15 @@
         },
         {
           "rank": 7,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -2268,21 +2286,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "How to Make a Killing",
           "tmdb": {
             "id": 467905,
             "media_type": "movie",
             "release_date": "2026-02-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Backrooms",
-          "tmdb": {
-            "id": 1083381,
-            "media_type": "movie",
-            "release_date": "2026-05-27"
           }
         },
         {
@@ -2298,23 +2307,32 @@
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in Italy on October 26, 2026",
+      "heading": "TOP Movies on Chili in Italy on October 27, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Hamnet",
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 858024,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2025-11-26"
+            "release_date": "2026-06-24"
           }
         },
         {
           "rank": 2,
+          "title": "Dracula",
+          "tmdb": {
+            "id": 1246049,
+            "media_type": "movie",
+            "release_date": "2025-07-30"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The Drama",
           "tmdb": {
             "id": 1325734,
@@ -2323,16 +2341,25 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Dinner",
+          "rank": 4,
+          "title": "Wuthering Heights",
           "tmdb": {
-            "id": 401546,
+            "id": 1316092,
             "media_type": "movie",
-            "release_date": "2017-05-05"
+            "release_date": "2026-02-11"
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Hamnet",
+          "tmdb": {
+            "id": 858024,
+            "media_type": "movie",
+            "release_date": "2025-11-26"
+          }
+        },
+        {
+          "rank": 6,
           "title": "What Will People Say",
           "tmdb": {
             "id": 892922,
@@ -2341,7 +2368,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Les Indésirables",
           "tmdb": {
             "id": 978035,
@@ -2350,7 +2377,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -2359,53 +2386,44 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Les Misérables",
-          "tmdb": {
-            "id": 82695,
-            "media_type": "movie",
-            "release_date": "2012-12-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Sentimental Value",
-          "tmdb": {
-            "id": 1124566,
-            "media_type": "movie",
-            "release_date": "2025-08-20"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
             "media_type": "movie",
             "release_date": "2026-04-22"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "now.movies",
-      "heading": "TOP Movies on NOW in Italy on October 26, 2026",
+      "heading": "TOP Movies on NOW in Italy on October 27, 2026",
       "category": "movies",
       "platform": "NOW",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Fuze",
+          "tmdb": {
+            "id": 1242265,
+            "media_type": "movie",
+            "release_date": "2026-03-23"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Tuner",
           "tmdb": {
             "id": 1340206,
@@ -2414,7 +2432,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Anniversary",
           "tmdb": {
             "id": 1126336,
@@ -2423,7 +2441,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Smart Working",
           "tmdb": {
             "id": 1224440,
@@ -2432,7 +2450,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Play Dirty",
           "tmdb": {
             "id": 941109,
@@ -2441,34 +2459,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Afterburn",
-          "tmdb": {
-            "id": 507244,
-            "media_type": "movie",
-            "release_date": "2025-08-20"
-          }
-        },
-        {
           "rank": 6,
-          "title": "The Last Viking",
-          "tmdb": {
-            "id": 1295400,
-            "media_type": "movie",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Masquerade",
-          "tmdb": {
-            "id": 133200,
-            "media_type": "movie",
-            "release_date": "2012-09-13"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Poet and the Spy",
           "tmdb": {
             "id": 1549120,
@@ -2477,7 +2468,16 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Afterburn",
+          "tmdb": {
+            "id": 507244,
+            "media_type": "movie",
+            "release_date": "2025-08-20"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Hitler: The Rise of Evil",
           "tmdb": {
             "id": 46976,
@@ -2486,22 +2486,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Americana",
+          "rank": 9,
+          "title": "The Last Viking",
           "tmdb": {
-            "id": 934456,
+            "id": 1295400,
             "media_type": "movie",
-            "release_date": "2025-08-15"
+            "release_date": "2025-10-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Masquerade",
+          "tmdb": {
+            "id": 133200,
+            "media_type": "movie",
+            "release_date": "2012-09-13"
           }
         }
       ]
     },
     {
       "catalog_id": "now.series",
-      "heading": "TOP TV Shows on NOW in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on NOW in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "NOW",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2524,33 +2533,6 @@
         },
         {
           "rank": 3,
-          "title": "Bruno Barbieri - 4 hotel",
-          "tmdb": {
-            "id": 96172,
-            "media_type": "tv",
-            "release_date": "2018-03-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "X Factor",
-          "tmdb": {
-            "id": 16322,
-            "media_type": "tv",
-            "release_date": "2008-03-10"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Vigil",
-          "tmdb": {
-            "id": 126167,
-            "media_type": "tv",
-            "release_date": "2021-08-29"
-          }
-        },
-        {
-          "rank": 6,
           "title": "X Factor Daily",
           "tmdb": {
             "id": 330949,
@@ -2559,21 +2541,48 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Foodish",
+          "rank": 4,
+          "title": "Bruno Barbieri - 4 hotel",
           "tmdb": {
-            "id": 287309,
+            "id": 96172,
             "media_type": "tv",
-            "release_date": "2025-04-07"
+            "release_date": "2018-03-27"
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "X Factor",
+          "tmdb": {
+            "id": 16322,
+            "media_type": "tv",
+            "release_date": "2008-03-10"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Vigil",
+          "tmdb": {
+            "id": 126167,
+            "media_type": "tv",
+            "release_date": "2021-08-29"
+          }
+        },
+        {
+          "rank": 7,
           "title": "GialappaShow",
           "tmdb": {
             "id": 226680,
             "media_type": "tv",
             "release_date": "2023-05-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Foodish",
+          "tmdb": {
+            "id": 287309,
+            "media_type": "tv",
+            "release_date": "2025-04-07"
           }
         },
         {
@@ -2598,33 +2607,19 @@
     },
     {
       "catalog_id": "rai.overall",
-      "heading": "TOP Overall on RAI in Italy on October 26, 2026",
+      "heading": "TOP Overall on RAI in Italy on October 27, 2026",
       "category": "overall",
       "platform": "RAI",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Doc – Nelle tue mani",
-          "tmdb": {
-            "id": 101048,
-            "media_type": "tv",
-            "release_date": "2020-03-26"
-          }
+          "title": "Serie A",
+          "tmdb": null
         },
         {
           "rank": 2,
-          "title": "Fiori sopra l'inferno - I casi di Teresa Battaglia",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
-          "title": "Radio2 Radio Show",
-          "tmdb": null
-        },
-        {
-          "rank": 4,
           "title": "Ballando con le Stelle",
           "tmdb": {
             "id": 46376,
@@ -2633,35 +2628,49 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Doc – Nelle tue mani",
+          "tmdb": {
+            "id": 101048,
+            "media_type": "tv",
+            "release_date": "2020-03-26"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Libera",
+          "tmdb": {
+            "id": 277461,
+            "media_type": "tv",
+            "release_date": "2024-11-19"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Festa del Cinema di Roma",
+          "title": "Fiori sopra l'inferno - I casi di Teresa Battaglia",
           "tmdb": null
         },
         {
           "rank": 6,
-          "title": "Tale e Quale Show",
-          "tmdb": {
-            "id": 71399,
-            "media_type": "tv",
-            "release_date": "2012-04-20"
-          }
+          "title": "Radio2 Radio Show",
+          "tmdb": null
         },
         {
           "rank": 7,
-          "title": "Tutto l'amore che resta",
+          "title": "Memoriæ",
           "tmdb": {
-            "id": 336908,
+            "id": 338874,
             "media_type": "tv",
-            "release_date": "2026-09-29"
+            "release_date": "2026-10-23"
           }
         },
         {
           "rank": 8,
-          "title": "About Luis",
+          "title": "The Voice Senior",
           "tmdb": {
-            "id": 1356664,
-            "media_type": "movie",
-            "release_date": "2025-01-23"
+            "id": 129603,
+            "media_type": "tv",
+            "release_date": "2018-08-24"
           }
         },
         {
@@ -2675,25 +2684,43 @@
         },
         {
           "rank": 10,
-          "title": "Scuola di danza - I ragazzi dell'Opera",
+          "title": "The Rookie",
           "tmdb": {
-            "id": 339864,
+            "id": 79744,
             "media_type": "tv",
-            "release_date": "2022-04-21"
+            "release_date": "2018-10-16"
           }
         }
       ]
     },
     {
       "catalog_id": "rai.movies",
-      "heading": "TOP Movies on RAI in Italy on October 26, 2026",
+      "heading": "TOP Movies on RAI in Italy on October 27, 2026",
       "category": "movies",
       "platform": "RAI",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Old Guy",
+          "tmdb": {
+            "id": 1077782,
+            "media_type": "movie",
+            "release_date": "2024-12-13"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Players",
+          "tmdb": {
+            "id": 89899,
+            "media_type": "movie",
+            "release_date": "2012-02-29"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Force of Nature: The Dry 2",
           "tmdb": {
             "id": 832262,
@@ -2702,7 +2729,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "The Substance",
           "tmdb": {
             "id": 933260,
@@ -2711,34 +2738,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Madly",
-          "tmdb": {
-            "id": 390329,
-            "media_type": "movie",
-            "release_date": "2016-04-14"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "About Luis",
-          "tmdb": {
-            "id": 1356664,
-            "media_type": "movie",
-            "release_date": "2025-01-23"
-          }
-        },
-        {
           "rank": 5,
-          "title": "The Other Way Around",
-          "tmdb": {
-            "id": 1214118,
-            "media_type": "movie",
-            "release_date": "2024-08-28"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Moonfall",
           "tmdb": {
             "id": 406759,
@@ -2747,7 +2747,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Madly",
+          "tmdb": {
+            "id": 390329,
+            "media_type": "movie",
+            "release_date": "2016-04-14"
+          }
+        },
+        {
           "rank": 7,
+          "title": "About Luis",
+          "tmdb": {
+            "id": 1356664,
+            "media_type": "movie",
+            "release_date": "2025-01-23"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Other Way Around",
+          "tmdb": {
+            "id": 1214118,
+            "media_type": "movie",
+            "release_date": "2024-08-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Raqqa: Spy vs. Spy",
           "tmdb": {
             "id": 1239481,
@@ -2756,40 +2783,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Holland",
-          "tmdb": {
-            "id": 257094,
-            "media_type": "movie",
-            "release_date": "2025-03-09"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Hit Man",
-          "tmdb": {
-            "id": 974635,
-            "media_type": "movie",
-            "release_date": "2024-05-16"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Perfect Days",
+          "title": "Once Upon a Time in America",
           "tmdb": {
-            "id": 976893,
+            "id": 311,
             "media_type": "movie",
-            "release_date": "2023-11-10"
+            "release_date": "1984-05-23"
           }
         }
       ]
     },
     {
       "catalog_id": "rai.series",
-      "heading": "TOP TV Shows on RAI in Italy on October 26, 2026",
+      "heading": "TOP TV Shows on RAI in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "RAI",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2857,11 +2866,11 @@
         },
         {
           "rank": 8,
-          "title": "La Ley del Corazón",
+          "title": "Alarm for Cobra 11: The Motorway Police",
           "tmdb": {
-            "id": 92369,
+            "id": 1338,
             "media_type": "tv",
-            "release_date": "2016-11-28"
+            "release_date": "1996-03-12"
           }
         },
         {
@@ -2875,11 +2884,11 @@
         },
         {
           "rank": 10,
-          "title": "Alarm for Cobra 11: The Motorway Police",
+          "title": "La Ley del Corazón",
           "tmdb": {
-            "id": 1338,
+            "id": 92369,
             "media_type": "tv",
-            "release_date": "1996-03-12"
+            "release_date": "2016-11-28"
           }
         }
       ]
@@ -2890,10 +2899,10 @@
         "id": "it",
         "label": "Italian"
       },
-      "heading": "TOP TV Shows (in Italian) on RAI in Italy on October 26, 2026",
+      "heading": "TOP TV Shows (in Italian) on RAI in Italy on October 27, 2026",
       "category": "tv shows",
       "platform": "RAI",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2916,25 +2925,25 @@
         },
         {
           "rank": 3,
-          "title": "Fiori sopra l'inferno - I casi di Teresa Battaglia",
-          "tmdb": null
-        },
-        {
-          "rank": 4,
-          "title": "Estranei",
-          "tmdb": {
-            "id": 337757,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Ladies' Paradise",
           "tmdb": {
             "id": 73362,
             "media_type": "tv",
             "release_date": "2015-12-08"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Fiori sopra l'inferno - I casi di Teresa Battaglia",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
+          "title": "Estranei",
+          "tmdb": {
+            "id": 337757,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
           }
         },
         {
@@ -2948,20 +2957,20 @@
         },
         {
           "rank": 7,
-          "title": "Tutto l'amore che resta",
-          "tmdb": {
-            "id": 336908,
-            "media_type": "tv",
-            "release_date": "2026-09-29"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Un Posto Al Sole",
           "tmdb": {
             "id": 105845,
             "media_type": "tv",
             "release_date": "1996-10-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Tutto l'amore che resta",
+          "tmdb": {
+            "id": 336908,
+            "media_type": "tv",
+            "release_date": "2026-09-29"
           }
         },
         {
@@ -2986,10 +2995,10 @@
     },
     {
       "catalog_id": "discovery-plus.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Discovery Plus in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Discovery Plus in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Discovery Plus",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3030,20 +3039,20 @@
         },
         {
           "rank": 5,
-          "title": "90 Day Fiancé",
-          "tmdb": {
-            "id": 61575,
-            "media_type": "tv",
-            "release_date": "2014-01-12"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Fratelli di Crozza",
           "tmdb": {
             "id": 70624,
             "media_type": "tv",
             "release_date": "2017-03-03"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "90 Day Fiancé",
+          "tmdb": {
+            "id": 61575,
+            "media_type": "tv",
+            "release_date": "2014-01-12"
           }
         },
         {
@@ -3066,30 +3075,30 @@
         },
         {
           "rank": 9,
+          "title": "Avamposti: La radiomobile",
+          "tmdb": {
+            "id": 321491,
+            "media_type": "tv",
+            "release_date": "2026-05-01"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Caruso presents: The Good Italian I - The Farmhouse of Wonders",
           "tmdb": {
             "id": 697646,
             "media_type": "movie",
             "release_date": "2015-06-20"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Primo appuntamento",
-          "tmdb": {
-            "id": 124484,
-            "media_type": "tv",
-            "release_date": "2017-03-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "mgm.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MGM in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MGM in Italy on October 27, 2026",
       "category": "overall",
       "platform": "MGM",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3121,20 +3130,20 @@
         },
         {
           "rank": 4,
-          "title": "Me Before You",
+          "title": "Teen Wolf",
           "tmdb": {
-            "id": 296096,
-            "media_type": "movie",
-            "release_date": "2016-06-01"
+            "id": 34524,
+            "media_type": "tv",
+            "release_date": "2011-06-05"
           }
         },
         {
           "rank": 5,
-          "title": "A Tale of Two Cities",
+          "title": "Spartacus: House of Ashur",
           "tmdb": {
-            "id": 301626,
+            "id": 240459,
             "media_type": "tv",
-            "release_date": "2026-09-06"
+            "release_date": "2025-12-05"
           }
         },
         {
@@ -3148,48 +3157,48 @@
         },
         {
           "rank": 7,
-          "title": "Teen Wolf",
+          "title": "A Tale of Two Cities",
           "tmdb": {
-            "id": 34524,
+            "id": 301626,
             "media_type": "tv",
-            "release_date": "2011-06-05"
+            "release_date": "2026-09-06"
           }
         },
         {
           "rank": 8,
-          "title": "Spartacus: House of Ashur",
+          "title": "Me Before You",
           "tmdb": {
-            "id": 240459,
-            "media_type": "tv",
-            "release_date": "2025-12-05"
+            "id": 296096,
+            "media_type": "movie",
+            "release_date": "2016-06-01"
           }
         },
         {
           "rank": 9,
-          "title": "Project Hail Mary",
-          "tmdb": {
-            "id": 687163,
-            "media_type": "movie",
-            "release_date": "2026-03-15"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Forever My Girl",
           "tmdb": {
             "id": 417261,
             "media_type": "movie",
             "release_date": "2018-01-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Project Hail Mary",
+          "tmdb": {
+            "id": 687163,
+            "media_type": "movie",
+            "release_date": "2026-03-15"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3221,15 +3230,24 @@
         },
         {
           "rank": 4,
-          "title": "Black Clover",
+          "title": "Overgeared",
           "tmdb": {
-            "id": 73223,
+            "id": 324502,
             "media_type": "tv",
-            "release_date": "2017-10-03"
+            "release_date": "2026-10-02"
           }
         },
         {
           "rank": 5,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Crystal Lake",
           "tmdb": {
             "id": 213562,
@@ -3238,7 +3256,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Peccato",
           "tmdb": {
             "id": 330200,
@@ -3247,53 +3265,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Overgeared",
-          "tmdb": {
-            "id": 324502,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
           "rank": 8,
-          "title": "YAGA",
-          "tmdb": {
-            "id": 314360,
-            "media_type": "tv",
-            "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Apothecary Diaries",
-          "tmdb": {
-            "id": 220542,
-            "media_type": "tv",
-            "release_date": "2023-10-22"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Bake Off Italia - Dolci in forno",
-          "tmdb": {
-            "id": 96229,
-            "media_type": "tv",
-            "release_date": "2013-11-29"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "crunchyroll.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in Italy on October 26, 2026",
-      "category": "overall",
-      "platform": "Crunchyroll",
-      "date": "October 26, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
           "title": "Black Clover",
           "tmdb": {
             "id": 73223,
@@ -3302,7 +3274,35 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 9,
+          "title": "YAGA",
+          "tmdb": {
+            "id": 314360,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Dragon Ball Super: Beerus",
+          "tmdb": {
+            "id": 312359,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "crunchyroll.overall",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in Italy on October 27, 2026",
+      "category": "overall",
+      "platform": "Crunchyroll",
+      "date": "October 27, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
           "title": "Overgeared",
           "tmdb": {
             "id": 324502,
@@ -3311,7 +3311,34 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Black Clover",
+          "tmdb": {
+            "id": 73223,
+            "media_type": "tv",
+            "release_date": "2017-10-03"
+          }
+        },
+        {
           "rank": 3,
+          "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+          "tmdb": {
+            "id": 313068,
+            "media_type": "tv",
+            "release_date": "2026-10-05"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Dragon Ball Super: Beerus",
+          "tmdb": {
+            "id": 312359,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Apothecary Diaries",
           "tmdb": {
             "id": 220542,
@@ -3320,7 +3347,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Full Clearing Another World Under a Goddess with Zero Believers",
           "tmdb": {
             "id": 288588,
@@ -3329,30 +3356,12 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
-          "tmdb": {
-            "id": 333622,
-            "media_type": "tv",
-            "release_date": "2026-10-04"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Firefly Wedding",
-          "tmdb": {
-            "id": 320909,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Dragon Ball Super: Beerus",
+          "title": "So What's Wrong with Getting Reborn as a Goblin?",
           "tmdb": {
-            "id": 312359,
+            "id": 316694,
             "media_type": "tv",
-            "release_date": "2026-10-11"
+            "release_date": "2026-10-05"
           }
         },
         {
@@ -3366,34 +3375,43 @@
         },
         {
           "rank": 9,
-          "title": "Aoashi",
+          "title": "Attack on Titan",
           "tmdb": {
-            "id": 126437,
+            "id": 1429,
             "media_type": "tv",
-            "release_date": "2022-04-09"
+            "release_date": "2013-04-07"
           }
         },
         {
           "rank": 10,
-          "title": "Magical Explorer",
+          "title": "Firefly Wedding",
           "tmdb": {
-            "id": 335194,
+            "id": 320909,
             "media_type": "tv",
-            "release_date": "2026-10-04"
+            "release_date": "2026-10-09"
           }
         }
       ]
     },
     {
       "catalog_id": "mubi.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MUBI in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MUBI in Italy on October 27, 2026",
       "category": "overall",
       "platform": "MUBI",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Twin Peaks",
+          "tmdb": {
+            "id": 1920,
+            "media_type": "tv",
+            "release_date": "1990-04-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Thing",
           "tmdb": {
             "id": 1091,
@@ -3402,7 +3420,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Teenage Sex and Death at Camp Miasma",
           "tmdb": {
             "id": 1240889,
@@ -3411,34 +3429,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Twin Peaks",
-          "tmdb": {
-            "id": 1920,
-            "media_type": "tv",
-            "release_date": "1990-04-08"
-          }
-        },
-        {
           "rank": 4,
-          "title": "They Live",
-          "tmdb": {
-            "id": 8337,
-            "media_type": "movie",
-            "release_date": "1988-11-04"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Last One for the Road",
-          "tmdb": {
-            "id": 1462322,
-            "media_type": "movie",
-            "release_date": "2025-09-25"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Videodrome",
           "tmdb": {
             "id": 837,
@@ -3447,16 +3438,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Die My Love",
+          "rank": 5,
+          "title": "They Live",
           "tmdb": {
-            "id": 1033148,
+            "id": 8337,
             "media_type": "movie",
-            "release_date": "2025-10-06"
+            "release_date": "1988-11-04"
           }
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "title": "The Last One for the Road",
+          "tmdb": {
+            "id": 1462322,
+            "media_type": "movie",
+            "release_date": "2025-09-25"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Twin Peaks",
           "tmdb": {
             "id": 1920,
@@ -3465,62 +3465,53 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Sirāt",
+          "rank": 8,
+          "title": "Die My Love",
           "tmdb": {
-            "id": 1151272,
+            "id": 1033148,
             "media_type": "movie",
-            "release_date": "2025-06-06"
+            "release_date": "2025-10-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Aftersun",
+          "tmdb": {
+            "id": 965150,
+            "media_type": "movie",
+            "release_date": "2022-10-21"
           }
         },
         {
           "rank": 10,
-          "title": "Phenomena",
+          "title": "Attenberg",
           "tmdb": {
-            "id": 29161,
+            "id": 62321,
             "media_type": "movie",
-            "release_date": "1985-01-25"
+            "release_date": "2010-12-09"
           }
         }
       ]
     },
     {
       "catalog_id": "lionsgate.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Lionsgate+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Halloween",
+          "title": "Blue Mountain State",
           "tmdb": {
-            "id": 948,
-            "media_type": "movie",
-            "release_date": "1978-10-25"
+            "id": 31941,
+            "media_type": "tv",
+            "release_date": "2010-01-11"
           }
         },
         {
           "rank": 2,
-          "title": "Saw",
-          "tmdb": {
-            "id": 176,
-            "media_type": "movie",
-            "release_date": "2004-10-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Saw II",
-          "tmdb": {
-            "id": 215,
-            "media_type": "movie",
-            "release_date": "2005-10-28"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Saw III",
           "tmdb": {
             "id": 214,
@@ -3529,7 +3520,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "The Spanish Princess",
+          "tmdb": {
+            "id": 86428,
+            "media_type": "tv",
+            "release_date": "2019-05-05"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The White Queen",
           "tmdb": {
             "id": 57092,
@@ -3538,12 +3538,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Spanish Princess",
+          "rank": 5,
+          "title": "Saw II",
           "tmdb": {
-            "id": 86428,
-            "media_type": "tv",
-            "release_date": "2019-05-05"
+            "id": 215,
+            "media_type": "movie",
+            "release_date": "2005-10-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "American Psycho",
+          "tmdb": {
+            "id": 1359,
+            "media_type": "movie",
+            "release_date": "2000-04-13"
           }
         },
         {
@@ -3557,39 +3566,39 @@
         },
         {
           "rank": 8,
-          "title": "Requiem for a Dream",
+          "title": "Halloween",
           "tmdb": {
-            "id": 641,
+            "id": 948,
             "media_type": "movie",
-            "release_date": "2000-10-06"
+            "release_date": "1978-10-25"
           }
         },
         {
           "rank": 9,
-          "title": "Blue Mountain State",
+          "title": "Saw",
           "tmdb": {
-            "id": 31941,
-            "media_type": "tv",
-            "release_date": "2010-01-11"
+            "id": 176,
+            "media_type": "movie",
+            "release_date": "2004-10-01"
           }
         },
         {
           "rank": 10,
-          "title": "American Psycho",
+          "title": "Saw IV",
           "tmdb": {
-            "id": 1359,
+            "id": 663,
             "media_type": "movie",
-            "release_date": "2000-04-13"
+            "release_date": "2007-10-25"
           }
         }
       ]
     },
     {
       "catalog_id": "infinity.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Infinity+ in Italy on October 26, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Infinity+ in Italy on October 27, 2026",
       "category": "overall",
       "platform": "Infinity+",
-      "date": "October 26, 2026",
+      "date": "October 27, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3603,20 +3612,20 @@
         },
         {
           "rank": 2,
-          "title": "Io vi trovero",
-          "tmdb": {
-            "id": 8681,
-            "media_type": "movie",
-            "release_date": "2008-02-18"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Se7en",
           "tmdb": {
             "id": 807,
             "media_type": "movie",
             "release_date": "1995-09-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Io vi trovero",
+          "tmdb": {
+            "id": 8681,
+            "media_type": "movie",
+            "release_date": "2008-02-18"
           }
         },
         {
@@ -3630,20 +3639,20 @@
         },
         {
           "rank": 5,
+          "title": "In Time",
+          "tmdb": {
+            "id": 49530,
+            "media_type": "movie",
+            "release_date": "2011-10-27"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Shazam! Fury of the Gods",
           "tmdb": {
             "id": 594767,
             "media_type": "movie",
             "release_date": "2023-03-15"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Sonic the Hedgehog 2",
-          "tmdb": {
-            "id": 675353,
-            "media_type": "movie",
-            "release_date": "2022-03-30"
           }
         },
         {
@@ -3657,29 +3666,29 @@
         },
         {
           "rank": 8,
-          "title": "Taken 2",
+          "title": "Cado dalle nubi",
           "tmdb": {
-            "id": 82675,
+            "id": 35554,
             "media_type": "movie",
-            "release_date": "2012-09-27"
+            "release_date": "2009-11-27"
           }
         },
         {
           "rank": 9,
-          "title": "Shooter",
+          "title": "Dawson's Creek",
           "tmdb": {
-            "id": 66857,
+            "id": 2327,
             "media_type": "tv",
-            "release_date": "2016-11-15"
+            "release_date": "1998-01-20"
           }
         },
         {
           "rank": 10,
-          "title": "Transformers: Revenge of the Fallen",
+          "title": "The Godfather: Part II",
           "tmdb": {
-            "id": 8373,
+            "id": 240,
             "media_type": "movie",
-            "release_date": "2009-06-19"
+            "release_date": "1974-12-20"
           }
         }
       ]
