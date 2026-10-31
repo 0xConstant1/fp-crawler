@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/new-zealand/",
-  "page_title": "TOP 10 on Streaming in New Zealand on October 30, 2026",
+  "page_title": "TOP 10 on Streaming in New Zealand on October 31, 2026",
   "region": "new-zealand",
-  "date": "October 30, 2026",
-  "scraped_at_utc": "2026-10-30T20:10:47.812965+00:00",
+  "date": "October 31, 2026",
+  "scraped_at_utc": "2026-10-31T19:35:54.117451+00:00",
   "charts": [
     {
       "catalog_id": "hayu.overall",
-      "heading": "TOP Overall (from Amazon Channels) on hayu in New Zealand on October 30, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on hayu in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "hayu",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Real Housewives of Orange County",
+          "tmdb": {
+            "id": 10222,
+            "media_type": "tv",
+            "release_date": "2006-03-21"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Real Housewives of Salt Lake City",
           "tmdb": {
             "id": 110381,
             "media_type": "tv",
             "release_date": "2020-11-11"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Below Deck",
-          "tmdb": {
-            "id": 50042,
-            "media_type": "tv",
-            "release_date": "2013-07-01"
           }
         },
         {
@@ -42,6 +42,15 @@
         },
         {
           "rank": 4,
+          "title": "Below Deck",
+          "tmdb": {
+            "id": 50042,
+            "media_type": "tv",
+            "release_date": "2013-07-01"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Golden Life",
           "tmdb": {
             "id": 313137,
@@ -50,7 +59,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Real Housewives of New York City",
           "tmdb": {
             "id": 14808,
@@ -59,21 +68,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Real Housewives of London",
           "tmdb": {
             "id": 275387,
             "media_type": "tv",
             "release_date": "2025-08-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Made in Chelsea",
-          "tmdb": {
-            "id": 39148,
-            "media_type": "tv",
-            "release_date": "2011-05-09"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
-          "title": "Law & Order: Special Victims Unit",
-          "tmdb": {
-            "id": 2734,
-            "media_type": "tv",
-            "release_date": "1999-09-20"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Five Star Weekend",
           "tmdb": {
             "id": 283151,
             "media_type": "tv",
             "release_date": "2026-07-09"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Law & Order: Special Victims Unit",
+          "tmdb": {
+            "id": 2734,
+            "media_type": "tv",
+            "release_date": "1999-09-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Netflix in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Nowhere to Run",
-          "tmdb": {
-            "id": 10413,
-            "media_type": "movie",
-            "release_date": "1993-01-15"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Far and Away",
-          "tmdb": {
-            "id": 11259,
-            "media_type": "movie",
-            "release_date": "1992-05-22"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Addams Family",
           "tmdb": {
             "id": 2907,
@@ -150,16 +132,25 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Addams Family 2",
+          "rank": 3,
+          "title": "Nowhere to Run",
           "tmdb": {
-            "id": 639721,
+            "id": 10413,
             "media_type": "movie",
-            "release_date": "2021-10-01"
+            "release_date": "1993-01-15"
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Far and Away",
+          "tmdb": {
+            "id": 11259,
+            "media_type": "movie",
+            "release_date": "1992-05-22"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Glenrothan",
           "tmdb": {
             "id": 1335666,
@@ -168,21 +159,30 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Addams Family 2",
+          "tmdb": {
+            "id": 639721,
+            "media_type": "movie",
+            "release_date": "2021-10-01"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Star Trek",
+          "tmdb": {
+            "id": 13475,
+            "media_type": "movie",
+            "release_date": "2009-05-06"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Surviving Hurricane Otis",
           "tmdb": {
             "id": 1780005,
             "media_type": "movie",
             "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Novocaine",
-          "tmdb": {
-            "id": 1195506,
-            "media_type": "movie",
-            "release_date": "2025-03-03"
           }
         },
         {
@@ -196,21 +196,21 @@
         },
         {
           "rank": 10,
-          "title": "Gajab Raat",
+          "title": "Novocaine",
           "tmdb": {
-            "id": 1453407,
+            "id": 1195506,
             "media_type": "movie",
-            "release_date": "2026-10-23"
+            "release_date": "2025-03-03"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in New Zealand on October 30, 2026",
+      "heading": "TOP TV Shows on Netflix in New Zealand on October 31, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,6 +233,15 @@
         },
         {
           "rank": 3,
+          "title": "The Fall of El Mayo",
+          "tmdb": {
+            "id": 338689,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Diplomat",
           "tmdb": {
             "id": 203857,
@@ -241,7 +250,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Lupin",
           "tmdb": {
             "id": 96677,
@@ -250,7 +259,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Minimum Wage",
           "tmdb": {
             "id": 321221,
@@ -259,7 +268,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
@@ -268,7 +277,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Instadocs: Jane Doe v. Cornell",
+          "tmdb": null
+        },
+        {
+          "rank": 9,
           "title": "Below",
           "tmdb": {
             "id": 285322,
@@ -277,40 +291,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Unforgettable",
           "tmdb": {
             "id": 39276,
             "media_type": "tv",
             "release_date": "2011-09-20"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Love Is Blind",
-          "tmdb": {
-            "id": 99353,
-            "media_type": "tv",
-            "release_date": "2020-02-13"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The New Stanford Prison Experiment",
-          "tmdb": {
-            "id": 335319,
-            "media_type": "tv",
-            "release_date": "2026-10-21"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in New Zealand on October 30, 2026",
+      "heading": "TOP Kids Movies on Netflix in New Zealand on October 31, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -351,20 +347,20 @@
         },
         {
           "rank": 5,
-          "title": "Ice Age: Collision Course",
-          "tmdb": {
-            "id": 278154,
-            "media_type": "movie",
-            "release_date": "2016-06-23"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
             "id": 8355,
             "media_type": "movie",
             "release_date": "2009-06-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ice Age: Collision Course",
+          "tmdb": {
+            "id": 278154,
+            "media_type": "movie",
+            "release_date": "2016-06-23"
           }
         },
         {
@@ -378,6 +374,15 @@
         },
         {
           "rank": 8,
+          "title": "Ice Age",
+          "tmdb": {
+            "id": 425,
+            "media_type": "movie",
+            "release_date": "2002-03-14"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Shrek",
           "tmdb": {
             "id": 808,
@@ -386,31 +391,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Swapped",
-          "tmdb": {
-            "id": 1007757,
-            "media_type": "movie",
-            "release_date": "2026-05-01"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Ice Age",
+          "title": "Ice Age: The Meltdown",
           "tmdb": {
-            "id": 425,
+            "id": 950,
             "media_type": "movie",
-            "release_date": "2002-03-14"
+            "release_date": "2006-03-29"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in New Zealand on October 30, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in New Zealand on October 31, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,15 +429,6 @@
         },
         {
           "rank": 3,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Spike",
           "tmdb": {
             "id": 168708,
@@ -450,21 +437,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Percy Jackson and the Olympians",
+          "rank": 4,
+          "title": "Ms. Rachel",
           "tmdb": {
-            "id": 103540,
+            "id": 282238,
             "media_type": "tv",
-            "release_date": "2023-12-19"
+            "release_date": "2025-01-27"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Gabby's Dollhouse",
           "tmdb": {
             "id": 111474,
             "media_type": "tv",
             "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Percy Jackson and the Olympians",
+          "tmdb": {
+            "id": 103540,
+            "media_type": "tv",
+            "release_date": "2023-12-19"
           }
         },
         {
@@ -478,6 +474,15 @@
         },
         {
           "rank": 8,
+          "title": "Is It Cake? Halloween",
+          "tmdb": {
+            "id": 300594,
+            "media_type": "tv",
+            "release_date": "2025-10-08"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Mecha Builders",
           "tmdb": {
             "id": 194703,
@@ -486,31 +491,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
             "media_type": "tv",
             "release_date": "2004-05-31"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Wonka's The Golden Ticket",
-          "tmdb": {
-            "id": 286940,
-            "media_type": "tv",
-            "release_date": "2026-09-23"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in New Zealand on October 30, 2026",
+      "heading": "TOP Overall on Disney+ in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -551,15 +547,6 @@
         },
         {
           "rank": 5,
-          "title": "Phony",
-          "tmdb": {
-            "id": 275139,
-            "media_type": "tv",
-            "release_date": "2026-10-20"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Moana 2",
           "tmdb": {
             "id": 1241982,
@@ -568,16 +555,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Drop: A Snowfall Saga",
-          "tmdb": {
-            "id": 304842,
-            "media_type": "tv",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "The Nightmare Before Christmas",
           "tmdb": {
             "id": 9479,
@@ -586,27 +564,49 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Hocus Pocus",
+          "tmdb": {
+            "id": 10439,
+            "media_type": "movie",
+            "release_date": "1993-07-16"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Phony",
+          "tmdb": {
+            "id": 275139,
+            "media_type": "tv",
+            "release_date": "2026-10-20"
+          }
+        },
+        {
           "rank": 9,
-          "title": "NBA News: Kawhi Leonard Out For Multiple Weeks",
-          "tmdb": null
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
         },
         {
           "rank": 10,
-          "title": "Avengers: Age of Ultron",
+          "title": "Scooby-Doo",
           "tmdb": {
-            "id": 99861,
+            "id": 9637,
             "media_type": "movie",
-            "release_date": "2015-04-22"
+            "release_date": "2002-06-14"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Disney+ in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,24 +638,6 @@
         },
         {
           "rank": 4,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Lilo & Stitch",
-          "tmdb": {
-            "id": 552524,
-            "media_type": "movie",
-            "release_date": "2025-05-17"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Nightmare Before Christmas",
           "tmdb": {
             "id": 9479,
@@ -664,12 +646,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Finding Nemo",
+          "rank": 5,
+          "title": "Moana 2",
           "tmdb": {
-            "id": 12,
+            "id": 1241982,
             "media_type": "movie",
-            "release_date": "2003-05-30"
+            "release_date": "2024-11-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Lilo & Stitch",
+          "tmdb": {
+            "id": 552524,
+            "media_type": "movie",
+            "release_date": "2025-05-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Hocus Pocus",
+          "tmdb": {
+            "id": 10439,
+            "media_type": "movie",
+            "release_date": "1993-07-16"
           }
         },
         {
@@ -683,30 +683,30 @@
         },
         {
           "rank": 9,
+          "title": "Finding Nemo",
+          "tmdb": {
+            "id": 12,
+            "media_type": "movie",
+            "release_date": "2003-05-30"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Encanto",
           "tmdb": {
             "id": 568124,
             "media_type": "movie",
             "release_date": "2021-11-24"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Zootopia",
-          "tmdb": {
-            "id": 269149,
-            "media_type": "movie",
-            "release_date": "2016-02-11"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in New Zealand on October 30, 2026",
+      "heading": "TOP TV Shows on Disney+ in New Zealand on October 31, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -720,33 +720,6 @@
         },
         {
           "rank": 2,
-          "title": "VisionQuest",
-          "tmdb": {
-            "id": 213375,
-            "media_type": "tv",
-            "release_date": "2026-10-13"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Drop: A Snowfall Saga",
-          "tmdb": {
-            "id": 304842,
-            "media_type": "tv",
-            "release_date": "2026-09-08"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Swipe Right on the Devil",
-          "tmdb": {
-            "id": 337609,
-            "media_type": "tv",
-            "release_date": "2026-10-22"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Grey's Anatomy",
           "tmdb": {
             "id": 1416,
@@ -755,7 +728,52 @@
           }
         },
         {
+          "rank": 3,
+          "title": "VisionQuest",
+          "tmdb": {
+            "id": 213375,
+            "media_type": "tv",
+            "release_date": "2026-10-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "American Horror Story",
+          "tmdb": {
+            "id": 1413,
+            "media_type": "tv",
+            "release_date": "2011-10-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "9-1-1: Nashville",
+          "tmdb": {
+            "id": 284838,
+            "media_type": "tv",
+            "release_date": "2025-10-09"
+          }
+        },
+        {
           "rank": 6,
+          "title": "Swipe Right on the Devil",
+          "tmdb": {
+            "id": 337609,
+            "media_type": "tv",
+            "release_date": "2026-10-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Drop: A Snowfall Saga",
+          "tmdb": {
+            "id": 304842,
+            "media_type": "tv",
+            "release_date": "2026-09-08"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Scrubs",
           "tmdb": {
             "id": 4556,
@@ -764,7 +782,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Phony",
           "tmdb": {
             "id": 275139,
@@ -773,40 +791,22 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "The Simpsons",
           "tmdb": {
             "id": 456,
             "media_type": "tv",
             "release_date": "1989-12-17"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Walking Dead",
-          "tmdb": {
-            "id": 1402,
-            "media_type": "tv",
-            "release_date": "2010-10-31"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Merry Berry Love",
-          "tmdb": {
-            "id": 305551,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Amazon Prime in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -829,15 +829,6 @@
         },
         {
           "rank": 3,
-          "title": "Love of Your Life",
-          "tmdb": {
-            "id": 1381078,
-            "media_type": "movie",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Drive - The Pretenders",
           "tmdb": {
             "id": 1596275,
@@ -846,16 +837,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "rank": 4,
+          "title": "Love of Your Life",
           "tmdb": {
-            "id": 671,
+            "id": 1381078,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2026-10-07"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Masterplan",
           "tmdb": {
             "id": 1561726,
@@ -864,21 +855,30 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Apocalypse Z: New World",
+          "tmdb": {
+            "id": 1507696,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 8,
           "title": "GOAT",
           "tmdb": {
             "id": 1297842,
             "media_type": "movie",
             "release_date": "2026-02-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Tony",
-          "tmdb": {
-            "id": 1329016,
-            "media_type": "movie",
-            "release_date": "2026-08-07"
           }
         },
         {
@@ -892,39 +892,39 @@
         },
         {
           "rank": 10,
-          "title": "The Love Hypothesis",
+          "title": "Tony",
           "tmdb": {
-            "id": 1032863,
+            "id": 1329016,
             "media_type": "movie",
-            "release_date": "2026-09-23"
+            "release_date": "2026-08-07"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in New Zealand on October 30, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in New Zealand on October 31, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Terminal List",
-          "tmdb": {
-            "id": 120911,
-            "media_type": "tv",
-            "release_date": "2022-06-30"
-          }
-        },
-        {
-          "rank": 2,
           "title": "MobLand",
           "tmdb": {
             "id": 247718,
             "media_type": "tv",
             "release_date": "2025-03-30"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Terminal List",
+          "tmdb": {
+            "id": 120911,
+            "media_type": "tv",
+            "release_date": "2022-06-30"
           }
         },
         {
@@ -938,24 +938,6 @@
         },
         {
           "rank": 4,
-          "title": "Neagley",
-          "tmdb": {
-            "id": 273207,
-            "media_type": "tv",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Reacher",
-          "tmdb": {
-            "id": 108978,
-            "media_type": "tv",
-            "release_date": "2022-02-03"
-          }
-        },
-        {
-          "rank": 6,
           "title": "LOL: Last One Laughing Halloween UK",
           "tmdb": {
             "id": 339754,
@@ -964,12 +946,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Helluva Boss",
+          "rank": 5,
+          "title": "Neagley",
           "tmdb": {
-            "id": 289892,
+            "id": 273207,
             "media_type": "tv",
-            "release_date": "2020-10-31"
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Reacher",
+          "tmdb": {
+            "id": 108978,
+            "media_type": "tv",
+            "release_date": "2022-02-03"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Off Campus",
+          "tmdb": {
+            "id": 273240,
+            "media_type": "tv",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -983,30 +983,30 @@
         },
         {
           "rank": 9,
-          "title": "Off Campus",
-          "tmdb": {
-            "id": 273240,
-            "media_type": "tv",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Terminal List: Dark Wolf",
           "tmdb": {
             "id": 219760,
             "media_type": "tv",
             "release_date": "2025-08-27"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Clarkson's Farm",
+          "tmdb": {
+            "id": 117648,
+            "media_type": "tv",
+            "release_date": "2021-06-11"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Apple TV in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1056,11 +1056,11 @@
         },
         {
           "rank": 6,
-          "title": "The Town",
+          "title": "Inception",
           "tmdb": {
-            "id": 23168,
+            "id": 27205,
             "media_type": "movie",
-            "release_date": "2010-09-15"
+            "release_date": "2010-07-15"
           }
         },
         {
@@ -1074,43 +1074,52 @@
         },
         {
           "rank": 8,
-          "title": "Inception",
+          "title": "The Town",
           "tmdb": {
-            "id": 27205,
+            "id": 23168,
             "media_type": "movie",
-            "release_date": "2010-07-15"
+            "release_date": "2010-09-15"
           }
         },
         {
           "rank": 9,
-          "title": "War of the Worlds",
-          "tmdb": {
-            "id": 755898,
-            "media_type": "movie",
-            "release_date": "2025-07-29"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Martian",
           "tmdb": {
             "id": 286217,
             "media_type": "movie",
             "release_date": "2015-09-30"
           }
+        },
+        {
+          "rank": 10,
+          "title": "War of the Worlds",
+          "tmdb": {
+            "id": 755898,
+            "media_type": "movie",
+            "release_date": "2025-07-29"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in New Zealand on October 30, 2026",
+      "heading": "TOP TV Shows on Apple TV in New Zealand on October 31, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Nocturne",
+          "tmdb": {
+            "id": 292741,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
@@ -1119,21 +1128,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
           }
         },
         {
@@ -1147,11 +1147,11 @@
         },
         {
           "rank": 5,
-          "title": "Brothers",
+          "title": "Small Prophets",
           "tmdb": {
-            "id": 66515,
+            "id": 312693,
             "media_type": "tv",
-            "release_date": "2015-09-28"
+            "release_date": "2026-02-09"
           }
         },
         {
@@ -1165,61 +1165,6 @@
         },
         {
           "rank": 7,
-          "title": "Widow's Bay",
-          "tmdb": {
-            "id": 270476,
-            "media_type": "tv",
-            "release_date": "2026-04-28"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Shrinking",
-          "tmdb": {
-            "id": 136311,
-            "media_type": "tv",
-            "release_date": "2023-01-26"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Last Seen",
-          "tmdb": {
-            "id": 258230,
-            "media_type": "tv",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Knife Edge: Chasing Michelin Stars",
-          "tmdb": {
-            "id": 291361,
-            "media_type": "tv",
-            "release_date": "2025-10-10"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in New Zealand on October 30, 2026",
-      "category": "overall",
-      "platform": "Apple TV",
-      "date": "October 30, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Brothers",
           "tmdb": {
             "id": 66515,
@@ -1228,61 +1173,53 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Tenzing",
-          "tmdb": {
-            "id": 1288069,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Matchbox",
-          "tmdb": {
-            "id": 1631887,
-            "media_type": "movie",
-            "release_date": "2026-02-13"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Mayday",
-          "tmdb": {
-            "id": 90,
-            "media_type": "tv",
-            "release_date": "2003-09-03"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Fountain of Youth",
+          "title": "Widow's Bay",
           "tmdb": {
-            "id": 1098006,
-            "media_type": "movie",
-            "release_date": "2025-05-19"
+            "id": 270476,
+            "media_type": "tv",
+            "release_date": "2026-04-28"
           }
         },
         {
           "rank": 9,
+          "title": "Knife Edge: Chasing Michelin Stars",
+          "tmdb": {
+            "id": 291361,
+            "media_type": "tv",
+            "release_date": "2025-10-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Shrinking",
+          "tmdb": {
+            "id": 136311,
+            "media_type": "tv",
+            "release_date": "2023-01-26"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "apple-tv.overall",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in New Zealand on October 31, 2026",
+      "category": "overall",
+      "platform": "Apple TV",
+      "date": "October 31, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Nocturne",
+          "tmdb": {
+            "id": 292741,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
@@ -1291,44 +1228,89 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Gorge",
+          "rank": 3,
+          "title": "Slow Horses",
           "tmdb": {
-            "id": 950396,
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 66515,
+            "media_type": "tv",
+            "release_date": "2015-09-28"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Tenzing",
+          "tmdb": {
+            "id": 1288069,
             "media_type": "movie",
-            "release_date": "2025-02-13"
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Small Prophets",
+          "tmdb": {
+            "id": 312693,
+            "media_type": "tv",
+            "release_date": "2026-02-09"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Matchbox",
+          "tmdb": {
+            "id": 1631887,
+            "media_type": "movie",
+            "release_date": "2026-02-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mayday",
+          "tmdb": {
+            "id": 1137844,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Fountain of Youth",
+          "tmdb": {
+            "id": 1098006,
+            "media_type": "movie",
+            "release_date": "2025-05-19"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Apple TV Store in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Dog Stars",
-          "tmdb": {
-            "id": 1384216,
-            "media_type": "movie",
-            "release_date": "2026-08-26"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "PAW Patrol: The Dino Movie",
-          "tmdb": {
-            "id": 1185806,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Runner",
           "tmdb": {
             "id": 1377237,
@@ -1337,7 +1319,16 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "The Dog Stars",
+          "tmdb": {
+            "id": 1384216,
+            "media_type": "movie",
+            "release_date": "2026-08-26"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Spider-Man: Brand New Day",
           "tmdb": {
             "id": 969681,
@@ -1346,34 +1337,16 @@
           }
         },
         {
+          "rank": 4,
+          "title": "PAW Patrol: The Dino Movie",
+          "tmdb": {
+            "id": 1185806,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
           "rank": 5,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Weight",
-          "tmdb": {
-            "id": 1433583,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Coraline",
           "tmdb": {
             "id": 14836,
@@ -1382,31 +1355,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "By Any Means",
+          "rank": 6,
+          "title": "Obsession",
           "tmdb": {
-            "id": 1380417,
+            "id": 1339713,
             "media_type": "movie",
-            "release_date": "2026-09-02"
+            "release_date": "2026-05-13"
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Invite",
           "tmdb": {
             "id": 950028,
             "media_type": "movie",
             "release_date": "2026-06-25"
           }
+        },
+        {
+          "rank": 9,
+          "title": "The Weight",
+          "tmdb": {
+            "id": 1433583,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Practical Magic 2",
+          "tmdb": {
+            "id": 1302904,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in New Zealand on October 30, 2026",
+      "heading": "TOP Movies on Google in New Zealand on October 31, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1438,24 +1438,6 @@
         },
         {
           "rank": 4,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 6,
           "title": "By Any Means",
           "tmdb": {
             "id": 1380417,
@@ -1464,7 +1446,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 6,
           "title": "PAW Patrol: The Dino Movie",
           "tmdb": {
             "id": 1185806,
@@ -1473,16 +1464,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Mutiny",
+          "rank": 7,
+          "title": "Disclosure Day",
           "tmdb": {
-            "id": 1288445,
+            "id": 1275779,
             "media_type": "movie",
-            "release_date": "2026-08-19"
+            "release_date": "2026-06-10"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Fall 2: Deadpoint",
           "tmdb": {
             "id": 1101412,
@@ -1491,22 +1482,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Insidious: Out of the Further",
+          "rank": 9,
+          "title": "Mutiny",
           "tmdb": {
-            "id": 1291595,
+            "id": 1288445,
             "media_type": "movie",
             "release_date": "2026-08-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         }
       ]
     },
     {
       "catalog_id": "mgm.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MGM in New Zealand on October 30, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MGM in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "MGM",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1520,15 +1520,6 @@
         },
         {
           "rank": 2,
-          "title": "Me Before You",
-          "tmdb": {
-            "id": 296096,
-            "media_type": "movie",
-            "release_date": "2016-06-01"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Stargate SG-1",
           "tmdb": {
             "id": 4629,
@@ -1537,7 +1528,25 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Legally Blonde",
+          "tmdb": {
+            "id": 8835,
+            "media_type": "movie",
+            "release_date": "2001-07-13"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Legally Blonde 2: Red, White & Blonde",
+          "tmdb": {
+            "id": 10327,
+            "media_type": "movie",
+            "release_date": "2003-07-02"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Condor",
           "tmdb": {
             "id": 71146,
@@ -1546,30 +1555,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Hansel & Gretel: Witch Hunters",
-          "tmdb": {
-            "id": 60304,
-            "media_type": "movie",
-            "release_date": "2013-01-17"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Stargate Atlantis",
+          "title": "Me Before You",
           "tmdb": {
-            "id": 2290,
-            "media_type": "tv",
-            "release_date": "2004-07-15"
+            "id": 296096,
+            "media_type": "movie",
+            "release_date": "2016-06-01"
           }
         },
         {
           "rank": 7,
-          "title": "A Bridge Too Far",
+          "title": "A Fish Called Wanda",
           "tmdb": {
-            "id": 5902,
+            "id": 623,
             "media_type": "movie",
-            "release_date": "1977-06-15"
+            "release_date": "1988-07-15"
           }
         },
         {
@@ -1583,34 +1583,61 @@
         },
         {
           "rank": 9,
-          "title": "Legally Blonde",
+          "title": "Hansel & Gretel: Witch Hunters",
           "tmdb": {
-            "id": 8835,
+            "id": 60304,
             "media_type": "movie",
-            "release_date": "2001-07-13"
+            "release_date": "2013-01-17"
           }
         },
         {
           "rank": 10,
-          "title": "22 Jump Street",
+          "title": "Harley Davidson and the Marlboro Man",
           "tmdb": {
-            "id": 187017,
+            "id": 2453,
             "media_type": "movie",
-            "release_date": "2014-06-05"
+            "release_date": "1991-08-23"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in New Zealand on October 30, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Nocturne",
+          "tmdb": {
+            "id": 292741,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Real Housewives of Orange County",
+          "tmdb": {
+            "id": 10222,
+            "media_type": "tv",
+            "release_date": "2006-03-21"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Gold Rush",
+          "tmdb": {
+            "id": 34634,
+            "media_type": "tv",
+            "release_date": "2010-12-03"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Real Housewives of Salt Lake City",
           "tmdb": {
             "id": 110381,
@@ -1619,16 +1646,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Below Deck",
-          "tmdb": {
-            "id": 50042,
-            "media_type": "tv",
-            "release_date": "2013-07-01"
-          }
-        },
-        {
-          "rank": 3,
+          "rank": 5,
           "title": "War",
           "tmdb": {
             "id": 298852,
@@ -1637,7 +1655,25 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "title": "Below Deck",
+          "tmdb": {
+            "id": 50042,
+            "media_type": "tv",
+            "release_date": "2013-07-01"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Slow Horses",
           "tmdb": {
             "id": 95480,
@@ -1646,7 +1682,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Brothers",
           "tmdb": {
             "id": 66515,
@@ -1655,85 +1691,49 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 10,
           "title": "Tenzing",
           "tmdb": {
             "id": 1288069,
             "media_type": "movie",
             "release_date": "2026-10-09"
           }
-        },
-        {
-          "rank": 8,
-          "title": "The Golden Life",
-          "tmdb": {
-            "id": 313137,
-            "media_type": "tv",
-            "release_date": "2026-10-20"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Real Housewives of New York City",
-          "tmdb": {
-            "id": 14808,
-            "media_type": "tv",
-            "release_date": "2008-03-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "crunchyroll.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in New Zealand on October 30, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "Crunchyroll",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Overgeared",
-          "tmdb": {
-            "id": 324502,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "A Returner's Magic Should Be Special",
-          "tmdb": {
-            "id": 230050,
-            "media_type": "tv",
-            "release_date": "2023-10-08"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Exiled Heavy Knight Knows How to Game the System",
           "tmdb": {
             "id": 270603,
             "media_type": "tv",
             "release_date": "2026-07-03"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Apothecary Diaries",
+          "tmdb": {
+            "id": 220542,
+            "media_type": "tv",
+            "release_date": "2023-10-22"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Overgeared",
+          "tmdb": {
+            "id": 324502,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
           }
         },
         {
@@ -1747,6 +1747,15 @@
         },
         {
           "rank": 5,
+          "title": "Full Clearing Another World Under a Goddess with Zero Believers",
+          "tmdb": {
+            "id": 288588,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The World's Strongest Witch",
           "tmdb": {
             "id": 321518,
@@ -1755,7 +1764,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Black Clover",
           "tmdb": {
             "id": 73223,
@@ -1764,49 +1773,40 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Apothecary Diaries",
+          "rank": 8,
+          "title": "Firefly Wedding",
           "tmdb": {
-            "id": 220542,
+            "id": 320909,
             "media_type": "tv",
-            "release_date": "2023-10-22"
+            "release_date": "2026-10-09"
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "The Iceblade Sorcerer Shall Rule the World",
+          "tmdb": {
+            "id": 200777,
+            "media_type": "tv",
+            "release_date": "2023-01-06"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Attack on Titan",
           "tmdb": {
             "id": 1429,
             "media_type": "tv",
             "release_date": "2013-04-07"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Dragon Ball Super: Beerus",
-          "tmdb": {
-            "id": 312359,
-            "media_type": "tv",
-            "release_date": "2026-10-11"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Demon Slayer: Kimetsu no Yaiba",
-          "tmdb": {
-            "id": 85937,
-            "media_type": "tv",
-            "release_date": "2019-04-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "neon-tv.overall",
-      "heading": "TOP Overall on Neon TV in New Zealand on October 30, 2026",
+      "heading": "TOP Overall on Neon TV in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "Neon TV",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1820,6 +1820,15 @@
         },
         {
           "rank": 2,
+          "title": "Michael Palin in the Philippines",
+          "tmdb": {
+            "id": 328264,
+            "media_type": "tv",
+            "release_date": "2026-09-28"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Erebus: Operation Overdue",
           "tmdb": {
             "id": 282996,
@@ -1828,7 +1837,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Dark",
           "tmdb": {
             "id": 298939,
@@ -1837,7 +1846,16 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "The Price of Everything",
+          "tmdb": {
+            "id": 489987,
+            "media_type": "movie",
+            "release_date": "2018-11-16"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1846,7 +1864,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "FBI",
           "tmdb": {
             "id": 80748,
@@ -1855,7 +1873,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "CIA",
           "tmdb": {
             "id": 289560,
@@ -1864,16 +1882,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Pretty Baby: Brooke Shields",
-          "tmdb": {
-            "id": 223768,
-            "media_type": "tv",
-            "release_date": "2023-04-03"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "South Park",
           "tmdb": {
             "id": 2190,
@@ -1882,31 +1891,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "American Hostage",
-          "tmdb": {
-            "id": 239618,
-            "media_type": "tv",
-            "release_date": "2026-09-20"
-          }
-        },
-        {
           "rank": 10,
-          "title": "The Terror",
+          "title": "The Fall",
           "tmdb": {
-            "id": 75191,
+            "id": 49010,
             "media_type": "tv",
-            "release_date": "2018-03-26"
+            "release_date": "2013-05-12"
           }
         }
       ]
     },
     {
       "catalog_id": "lionsgate.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in New Zealand on October 30, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Lionsgate+ in New Zealand on October 31, 2026",
       "category": "overall",
       "platform": "Lionsgate+",
-      "date": "October 30, 2026",
+      "date": "October 31, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1920,24 +1920,6 @@
         },
         {
           "rank": 2,
-          "title": "Burden of Truth",
-          "tmdb": {
-            "id": 72743,
-            "media_type": "tv",
-            "release_date": "2018-01-10"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Deputy",
-          "tmdb": {
-            "id": 89498,
-            "media_type": "tv",
-            "release_date": "2020-01-02"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Madea's Witness Protection",
           "tmdb": {
             "id": 103370,
@@ -1946,7 +1928,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Billionaire Murders",
           "tmdb": {
             "id": 228869,
@@ -1955,34 +1937,34 @@
           }
         },
         {
-          "rank": 6,
-          "title": "One Ranger",
+          "rank": 4,
+          "title": "Deputy",
           "tmdb": {
-            "id": 1093994,
+            "id": 89498,
+            "media_type": "tv",
+            "release_date": "2020-01-02"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Dirty Angels",
+          "tmdb": {
+            "id": 1043905,
             "media_type": "movie",
-            "release_date": "2023-05-05"
+            "release_date": "2024-12-11"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Burden of Truth",
+          "tmdb": {
+            "id": 72743,
+            "media_type": "tv",
+            "release_date": "2018-01-10"
           }
         },
         {
           "rank": 7,
-          "title": "Power Book II: Ghost",
-          "tmdb": {
-            "id": 97890,
-            "media_type": "tv",
-            "release_date": "2020-09-06"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Acrimony",
-          "tmdb": {
-            "id": 464502,
-            "media_type": "movie",
-            "release_date": "2018-03-30"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Divergent",
           "tmdb": {
             "id": 157350,
@@ -1991,12 +1973,30 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "Power Book II: Ghost",
+          "tmdb": {
+            "id": 97890,
+            "media_type": "tv",
+            "release_date": "2020-09-06"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Last Witch Hunter",
           "tmdb": {
             "id": 274854,
             "media_type": "movie",
             "release_date": "2015-10-21"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Alice, Darling",
+          "tmdb": {
+            "id": 850028,
+            "media_type": "movie",
+            "release_date": "2022-12-30"
           }
         }
       ]
