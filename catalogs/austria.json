@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/austria/",
-  "page_title": "TOP 10 on Streaming in Austria on October 31, 2026",
+  "page_title": "TOP 10 on Streaming in Austria on November 1, 2026",
   "region": "austria",
-  "date": "October 31, 2026",
-  "scraped_at_utc": "2026-10-31T19:28:52.984104+00:00",
+  "date": "November 1, 2026",
+  "scraped_at_utc": "2026-11-01T19:53:44.220021+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Austria on October 31, 2026",
+      "heading": "TOP Movies on Netflix in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,11 +33,11 @@
         },
         {
           "rank": 3,
-          "title": "Surviving Hurricane Otis",
+          "title": "Halloween",
           "tmdb": {
-            "id": 1780005,
+            "id": 948,
             "media_type": "movie",
-            "release_date": "2026-10-23"
+            "release_date": "1978-10-25"
           }
         },
         {
@@ -51,15 +51,33 @@
         },
         {
           "rank": 5,
-          "title": "Das perfekte Geheimnis",
+          "title": "Evil Dead Burn",
           "tmdb": {
-            "id": 620881,
+            "id": 1212763,
             "media_type": "movie",
-            "release_date": "2019-10-31"
+            "release_date": "2026-07-07"
           }
         },
         {
           "rank": 6,
+          "title": "Hubie Halloween",
+          "tmdb": {
+            "id": 617505,
+            "media_type": "movie",
+            "release_date": "2020-10-07"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Surviving Hurricane Otis",
+          "tmdb": {
+            "id": 1780005,
+            "media_type": "movie",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Animals",
           "tmdb": {
             "id": 1236045,
@@ -68,62 +86,35 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Far and Away",
-          "tmdb": {
-            "id": 11259,
-            "media_type": "movie",
-            "release_date": "1992-05-22"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Extrawurst",
-          "tmdb": {
-            "id": 1427838,
-            "media_type": "movie",
-            "release_date": "2026-01-15"
-          }
-        },
-        {
           "rank": 9,
-          "title": "You, Me, Us",
+          "title": "Scary Movie",
           "tmdb": {
-            "id": 1541477,
+            "id": 1273221,
             "media_type": "movie",
-            "release_date": "2026-10-29"
+            "release_date": "2026-06-03"
           }
         },
         {
           "rank": 10,
-          "title": "Evil Dead Burn",
+          "title": "Das perfekte Geheimnis",
           "tmdb": {
-            "id": 1212763,
+            "id": 620881,
             "media_type": "movie",
-            "release_date": "2026-07-07"
+            "release_date": "2019-10-31"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Austria on October 31, 2026",
+      "heading": "TOP TV Shows on Netflix in Austria on November 1, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Lupin",
-          "tmdb": {
-            "id": 96677,
-            "media_type": "tv",
-            "release_date": "2021-01-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "A Couple of Lies",
           "tmdb": {
             "id": 336240,
@@ -132,16 +123,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Nobody Wants This",
+          "rank": 2,
+          "title": "Lupin",
           "tmdb": {
-            "id": 250923,
+            "id": 96677,
             "media_type": "tv",
-            "release_date": "2024-09-26"
+            "release_date": "2021-01-08"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The One About Matthew Perry",
           "tmdb": {
             "id": 333533,
@@ -150,16 +141,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Fall of El Mayo",
-          "tmdb": {
-            "id": 338689,
-            "media_type": "tv",
-            "release_date": "2026-10-29"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "Dead-End Job",
           "tmdb": {
             "id": 289517,
@@ -168,12 +150,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Beat Luke Littler",
+          "rank": 5,
+          "title": "Nobody Wants This",
           "tmdb": {
-            "id": 1784360,
-            "media_type": "movie",
-            "release_date": "2026-10-30"
+            "id": 250923,
+            "media_type": "tv",
+            "release_date": "2024-09-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Fall of El Mayo",
+          "tmdb": {
+            "id": 338689,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Gift of Deceit",
+          "tmdb": {
+            "id": 334700,
+            "media_type": "tv",
+            "release_date": "2026-10-28"
           }
         },
         {
@@ -187,11 +187,11 @@
         },
         {
           "rank": 9,
-          "title": "The Gift of Deceit",
+          "title": "The Trap",
           "tmdb": {
-            "id": 334700,
+            "id": 283371,
             "media_type": "tv",
-            "release_date": "2026-10-28"
+            "release_date": "2026-10-13"
           }
         },
         {
@@ -207,41 +207,14 @@
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Austria on October 31, 2026",
+      "heading": "TOP Kids Movies on Netflix in Austria on November 1, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ice Age: Dawn of the Dinosaurs",
-          "tmdb": {
-            "id": 8355,
-            "media_type": "movie",
-            "release_date": "2009-06-26"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Ice Age",
-          "tmdb": {
-            "id": 425,
-            "media_type": "movie",
-            "release_date": "2002-03-14"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Aliens in the Attic",
-          "tmdb": {
-            "id": 20856,
-            "media_type": "movie",
-            "release_date": "2009-07-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Hotel Transylvania",
           "tmdb": {
             "id": 76492,
@@ -250,25 +223,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Ice Age: Collision Course",
-          "tmdb": {
-            "id": 278154,
-            "media_type": "movie",
-            "release_date": "2016-06-23"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Ice Age: Continental Drift",
-          "tmdb": {
-            "id": 57800,
-            "media_type": "movie",
-            "release_date": "2012-06-27"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 2,
           "title": "Hotel Transylvania 2",
           "tmdb": {
             "id": 159824,
@@ -277,7 +232,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 3,
           "title": "Hotel Transylvania 3: Summer Vacation",
           "tmdb": {
             "id": 400155,
@@ -286,31 +241,76 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Ice Age: The Meltdown",
+          "rank": 4,
+          "title": "Ice Age",
           "tmdb": {
-            "id": 950,
+            "id": 425,
             "media_type": "movie",
-            "release_date": "2006-03-29"
+            "release_date": "2002-03-14"
           }
         },
         {
-          "rank": 10,
+          "rank": 5,
+          "title": "Aliens in the Attic",
+          "tmdb": {
+            "id": 20856,
+            "media_type": "movie",
+            "release_date": "2009-07-30"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Roald Dahl's The Witches",
           "tmdb": {
             "id": 531219,
             "media_type": "movie",
             "release_date": "2020-10-26"
           }
+        },
+        {
+          "rank": 7,
+          "title": "Ice Age: Dawn of the Dinosaurs",
+          "tmdb": {
+            "id": 8355,
+            "media_type": "movie",
+            "release_date": "2009-06-26"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ice Age: Continental Drift",
+          "tmdb": {
+            "id": 57800,
+            "media_type": "movie",
+            "release_date": "2012-06-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Ice Age: Collision Course",
+          "tmdb": {
+            "id": 278154,
+            "media_type": "movie",
+            "release_date": "2016-06-23"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Ice Age: The Meltdown",
+          "tmdb": {
+            "id": 950,
+            "media_type": "movie",
+            "release_date": "2006-03-29"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Austria on October 31, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Austria on November 1, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -369,24 +369,15 @@
         },
         {
           "rank": 7,
-          "title": "Hollywood Arts",
+          "title": "Is It Cake? Halloween",
           "tmdb": {
-            "id": 286183,
+            "id": 300594,
             "media_type": "tv",
-            "release_date": "2026-10-15"
+            "release_date": "2025-10-08"
           }
         },
         {
           "rank": 8,
-          "title": "Salish & Jordan Matter",
-          "tmdb": {
-            "id": 318906,
-            "media_type": "tv",
-            "release_date": "2026-04-11"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
@@ -395,22 +386,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Is It Cake? Halloween",
+          "rank": 9,
+          "title": "Salish & Jordan Matter",
           "tmdb": {
-            "id": 300594,
+            "id": 318906,
             "media_type": "tv",
-            "release_date": "2025-10-08"
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Hollywood Arts",
+          "tmdb": {
+            "id": 286183,
+            "media_type": "tv",
+            "release_date": "2026-10-15"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Austria on October 31, 2026",
+      "heading": "TOP Overall on Disney+ in Austria on November 1, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -424,6 +424,42 @@
         },
         {
           "rank": 2,
+          "title": "Hocus Pocus",
+          "tmdb": {
+            "id": 10439,
+            "media_type": "movie",
+            "release_date": "1993-07-16"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Nightmare Before Christmas",
+          "tmdb": {
+            "id": 9479,
+            "media_type": "movie",
+            "release_date": "1993-10-09"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Coco",
+          "tmdb": {
+            "id": 354912,
+            "media_type": "movie",
+            "release_date": "2017-10-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Hocus Pocus 2",
+          "tmdb": {
+            "id": 642885,
+            "media_type": "movie",
+            "release_date": "2022-09-27"
+          }
+        },
+        {
+          "rank": 6,
           "title": "VisionQuest",
           "tmdb": {
             "id": 213375,
@@ -432,16 +468,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Coco",
+          "rank": 7,
+          "title": "Halloweentown",
           "tmdb": {
-            "id": 354912,
+            "id": 27850,
             "media_type": "movie",
-            "release_date": "2017-10-27"
+            "release_date": "1998-11-10"
           }
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "Toy Story 5",
           "tmdb": {
             "id": 1084244,
@@ -450,67 +486,31 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Coven Academy",
-          "tmdb": {
-            "id": 298505,
-            "media_type": "tv",
-            "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Hocus Pocus",
-          "tmdb": {
-            "id": 10439,
-            "media_type": "movie",
-            "release_date": "1993-07-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Lilo & Stitch",
+          "title": "Halloweentown II: Kalabar's Revenge",
           "tmdb": {
-            "id": 552524,
+            "id": 34205,
             "media_type": "movie",
-            "release_date": "2025-05-17"
+            "release_date": "2001-10-12"
           }
         },
         {
           "rank": 10,
-          "title": "The Devil Wears Prada 2",
+          "title": "Edward Scissorhands",
           "tmdb": {
-            "id": 1314481,
+            "id": 162,
             "media_type": "movie",
-            "release_date": "2026-04-29"
+            "release_date": "1990-12-07"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Austria on October 31, 2026",
+      "heading": "TOP Movies on Disney+ in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -533,33 +533,6 @@
         },
         {
           "rank": 3,
-          "title": "Home Alone",
-          "tmdb": {
-            "id": 1394614,
-            "media_type": "movie",
-            "release_date": null
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Spider-Man: No Way Home",
-          "tmdb": {
-            "id": 634649,
-            "media_type": "movie",
-            "release_date": "2021-12-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "PAW Patrol: The Movie",
-          "tmdb": {
-            "id": 675445,
-            "media_type": "movie",
-            "release_date": "2021-08-09"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Hocus Pocus",
           "tmdb": {
             "id": 10439,
@@ -568,25 +541,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Toy Story 5",
-          "tmdb": {
-            "id": 1084244,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Moana 2",
-          "tmdb": {
-            "id": 1241982,
-            "media_type": "movie",
-            "release_date": "2024-11-21"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "title": "The Nightmare Before Christmas",
           "tmdb": {
             "id": 9479,
@@ -595,22 +550,67 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Lilo & Stitch",
+          "rank": 5,
+          "title": "Home Alone",
           "tmdb": {
-            "id": 552524,
+            "id": 1394614,
             "media_type": "movie",
-            "release_date": "2025-05-17"
+            "release_date": null
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Toy Story 5",
+          "tmdb": {
+            "id": 1084244,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Hocus Pocus 2",
+          "tmdb": {
+            "id": 642885,
+            "media_type": "movie",
+            "release_date": "2022-09-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Spider-Man: No Way Home",
+          "tmdb": {
+            "id": 634649,
+            "media_type": "movie",
+            "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "PAW Patrol: The Movie",
+          "tmdb": {
+            "id": 675445,
+            "media_type": "movie",
+            "release_date": "2021-08-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Moana 2",
+          "tmdb": {
+            "id": 1241982,
+            "media_type": "movie",
+            "release_date": "2024-11-21"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Austria on October 31, 2026",
+      "heading": "TOP TV Shows on Disney+ in Austria on November 1, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -642,20 +642,20 @@
         },
         {
           "rank": 4,
+          "title": "Tokyo Revengers",
+          "tmdb": {
+            "id": 105009,
+            "media_type": "tv",
+            "release_date": "2021-04-11"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Coven Academy",
           "tmdb": {
             "id": 298505,
             "media_type": "tv",
             "release_date": "2026-10-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Rookie: Feds",
-          "tmdb": {
-            "id": 201992,
-            "media_type": "tv",
-            "release_date": "2022-09-27"
           }
         },
         {
@@ -678,15 +678,6 @@
         },
         {
           "rank": 8,
-          "title": "Bleach",
-          "tmdb": {
-            "id": 30984,
-            "media_type": "tv",
-            "release_date": "2004-10-05"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Swipe Right on the Devil",
           "tmdb": {
             "id": 337609,
@@ -695,22 +686,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "WandaVision",
           "tmdb": {
             "id": 85271,
             "media_type": "tv",
             "release_date": "2021-01-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "A Discovery of Witches",
+          "tmdb": {
+            "id": 77236,
+            "media_type": "tv",
+            "release_date": "2018-09-14"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Austria on October 31, 2026",
+      "heading": "TOP Overall on Amazon Prime in Austria on November 1, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,6 +733,15 @@
         },
         {
           "rank": 3,
+          "title": "7 vs. Wild",
+          "tmdb": {
+            "id": 139434,
+            "media_type": "tv",
+            "release_date": "2021-11-06"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Ali G: Who Iz I?",
           "tmdb": {
             "id": 1727734,
@@ -741,7 +750,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Carrie",
           "tmdb": {
             "id": 288673,
@@ -750,7 +759,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Love of Your Life",
           "tmdb": {
             "id": 1381078,
@@ -759,21 +768,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Masterplan",
           "tmdb": {
             "id": 1561726,
             "media_type": "movie",
             "release_date": "2026-10-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "7 vs. Wild",
-          "tmdb": {
-            "id": 139434,
-            "media_type": "tv",
-            "release_date": "2021-11-06"
           }
         },
         {
@@ -787,30 +787,30 @@
         },
         {
           "rank": 9,
+          "title": "Apocalypse Z: New World",
+          "tmdb": {
+            "id": 1507696,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
             "media_type": "tv",
             "release_date": "2026-05-13"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Friends Sex and Games",
-          "tmdb": {
-            "id": 298550,
-            "media_type": "tv",
-            "release_date": "2026-10-16"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Austria on October 31, 2026",
+      "heading": "TOP Movies on Amazon Prime in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -860,6 +860,15 @@
         },
         {
           "rank": 6,
+          "title": "Apocalypse Z: New World",
+          "tmdb": {
+            "id": 1507696,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Daughter of the Wolf",
           "tmdb": {
             "id": 525657,
@@ -868,25 +877,7 @@
           }
         },
         {
-          "rank": 7,
-          "title": "The Love Hypothesis",
-          "tmdb": {
-            "id": 1032863,
-            "media_type": "movie",
-            "release_date": "2026-09-23"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Furiosa: A Mad Max Saga",
-          "tmdb": {
-            "id": 786892,
-            "media_type": "movie",
-            "release_date": "2024-05-22"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
@@ -895,22 +886,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Snowman",
+          "rank": 9,
+          "title": "The Love Hypothesis",
           "tmdb": {
-            "id": 372343,
+            "id": 1032863,
             "media_type": "movie",
-            "release_date": "2017-08-24"
+            "release_date": "2026-09-23"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Furiosa: A Mad Max Saga",
+          "tmdb": {
+            "id": 786892,
+            "media_type": "movie",
+            "release_date": "2024-05-22"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Austria on October 31, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Austria on November 1, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -924,20 +924,20 @@
         },
         {
           "rank": 2,
-          "title": "Carrie",
-          "tmdb": {
-            "id": 288673,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 3,
           "title": "7 vs. Wild",
           "tmdb": {
             "id": 139434,
             "media_type": "tv",
             "release_date": "2021-11-06"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Carrie",
+          "tmdb": {
+            "id": 288673,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
           }
         },
         {
@@ -978,20 +978,20 @@
         },
         {
           "rank": 8,
+          "title": "The Terminal List: Dark Wolf",
+          "tmdb": {
+            "id": 219760,
+            "media_type": "tv",
+            "release_date": "2025-08-27"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Sterling Point",
           "tmdb": {
             "id": 283297,
             "media_type": "tv",
             "release_date": "2026-08-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Helluva Boss",
-          "tmdb": {
-            "id": 289892,
-            "media_type": "tv",
-            "release_date": "2020-10-31"
           }
         },
         {
@@ -1007,23 +1007,14 @@
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Austria on October 31, 2026",
+      "heading": "TOP Movies on Paramount+ in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Witchboard",
-          "tmdb": {
-            "id": 17994,
-            "media_type": "movie",
-            "release_date": "1986-12-31"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Scream 7",
           "tmdb": {
             "id": 1159559,
@@ -1032,25 +1023,25 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Star Trek: First Contact",
+          "rank": 2,
+          "title": "Witchboard",
           "tmdb": {
-            "id": 199,
+            "id": 17994,
             "media_type": "movie",
-            "release_date": "1996-11-22"
+            "release_date": "1986-12-31"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Terrifier 3",
+          "tmdb": {
+            "id": 1034541,
+            "media_type": "movie",
+            "release_date": "2024-10-09"
           }
         },
         {
           "rank": 4,
-          "title": "Star Trek: Generations",
-          "tmdb": {
-            "id": 193,
-            "media_type": "movie",
-            "release_date": "1994-11-18"
-          }
-        },
-        {
-          "rank": 5,
           "title": "One Mile: Chapter Two",
           "tmdb": {
             "id": 1327690,
@@ -1059,25 +1050,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Avatar Aang: The Last Airbender",
-          "tmdb": {
-            "id": 980431,
-            "media_type": "movie",
-            "release_date": "2026-07-24"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "One Mile: Chapter One",
-          "tmdb": {
-            "id": 1327688,
-            "media_type": "movie",
-            "release_date": "2026-02-20"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "Other",
           "tmdb": {
             "id": 1314452,
@@ -1086,31 +1059,58 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Star Trek: Insurrection",
+          "rank": 6,
+          "title": "One Mile: Chapter One",
           "tmdb": {
-            "id": 200,
+            "id": 1327688,
             "media_type": "movie",
-            "release_date": "1998-12-11"
+            "release_date": "2026-02-20"
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Star Trek: First Contact",
+          "tmdb": {
+            "id": 199,
+            "media_type": "movie",
+            "release_date": "1996-11-22"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Scary Movie 4",
           "tmdb": {
             "id": 4257,
             "media_type": "movie",
             "release_date": "2006-04-12"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Avatar Aang: The Last Airbender",
+          "tmdb": {
+            "id": 980431,
+            "media_type": "movie",
+            "release_date": "2026-07-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Scary Movie",
+          "tmdb": {
+            "id": 1273221,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Austria on October 31, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Austria on November 1, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1142,20 +1142,20 @@
         },
         {
           "rank": 4,
-          "title": "Avatar: Seven Havens",
-          "tmdb": {
-            "id": 284833,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Dexter: Resurrection",
           "tmdb": {
             "id": 259909,
             "media_type": "tv",
             "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Avatar: Seven Havens",
+          "tmdb": {
+            "id": 284833,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
           }
         },
         {
@@ -1178,11 +1178,11 @@
         },
         {
           "rank": 8,
-          "title": "Married... with Children",
+          "title": "Yellowstone",
           "tmdb": {
-            "id": 4239,
+            "id": 73586,
             "media_type": "tv",
-            "release_date": "1987-04-05"
+            "release_date": "2018-06-20"
           }
         },
         {
@@ -1196,21 +1196,21 @@
         },
         {
           "rank": 10,
-          "title": "Mike Judge's Beavis and Butt-Head",
+          "title": "Married... with Children",
           "tmdb": {
-            "id": 203489,
+            "id": 4239,
             "media_type": "tv",
-            "release_date": "2022-08-04"
+            "release_date": "1987-04-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Austria on October 31, 2026",
+      "heading": "TOP Movies on Apple TV in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1242,24 +1242,6 @@
         },
         {
           "rank": 4,
-          "title": "Spider-Man: Far from Home",
-          "tmdb": {
-            "id": 429617,
-            "media_type": "movie",
-            "release_date": "2019-06-28"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Last First: Winter K2",
           "tmdb": {
             "id": 1596303,
@@ -1268,7 +1250,43 @@
           }
         },
         {
+          "rank": 5,
+          "title": "Spider-Man: Far from Home",
+          "tmdb": {
+            "id": 429617,
+            "media_type": "movie",
+            "release_date": "2019-06-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "It's the Great Pumpkin, Charlie Brown",
+          "tmdb": {
+            "id": 13353,
+            "media_type": "movie",
+            "release_date": "1966-10-27"
+          }
+        },
+        {
           "rank": 7,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Gorge",
+          "tmdb": {
+            "id": 950396,
+            "media_type": "movie",
+            "release_date": "2025-02-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Ready Player One",
           "tmdb": {
             "id": 333339,
@@ -1277,53 +1295,26 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Sherlock Holmes",
           "tmdb": {
             "id": 10528,
             "media_type": "movie",
             "release_date": "2009-12-23"
           }
-        },
-        {
-          "rank": 9,
-          "title": "The Proposal",
-          "tmdb": {
-            "id": 18240,
-            "media_type": "movie",
-            "release_date": "2009-06-02"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Austria on October 31, 2026",
+      "heading": "TOP TV Shows on Apple TV in Austria on November 1, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Nocturne",
           "tmdb": {
             "id": 292741,
@@ -1332,21 +1323,30 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Dark Matter",
+          "rank": 2,
+          "title": "Slow Horses",
           "tmdb": {
-            "id": 196322,
+            "id": 95480,
             "media_type": "tv",
-            "release_date": "2024-05-07"
+            "release_date": "2022-04-01"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
           }
         },
         {
@@ -1360,20 +1360,20 @@
         },
         {
           "rank": 6,
-          "title": "Where's Wanda?",
-          "tmdb": {
-            "id": 234310,
-            "media_type": "tv",
-            "release_date": "2024-10-02"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Brothers",
           "tmdb": {
             "id": 66515,
             "media_type": "tv",
             "release_date": "2015-09-28"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Where's Wanda?",
+          "tmdb": {
+            "id": 234310,
+            "media_type": "tv",
+            "release_date": "2024-10-02"
           }
         },
         {
@@ -1387,30 +1387,30 @@
         },
         {
           "rank": 9,
-          "title": "Knife Edge: Chasing Michelin Stars",
+          "title": "Widow's Bay",
           "tmdb": {
-            "id": 291361,
+            "id": 270476,
             "media_type": "tv",
-            "release_date": "2025-10-10"
+            "release_date": "2026-04-28"
           }
         },
         {
           "rank": 10,
-          "title": "For All Mankind",
+          "title": "Shrinking",
           "tmdb": {
-            "id": 87917,
+            "id": 136311,
             "media_type": "tv",
-            "release_date": "2019-11-01"
+            "release_date": "2023-01-26"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Austria on October 31, 2026",
+      "heading": "TOP Movies on Apple TV Store in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1433,15 +1433,6 @@
         },
         {
           "rank": 3,
-          "title": "Practical Magic 2",
-          "tmdb": {
-            "id": 1302904,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Invite",
           "tmdb": {
             "id": 950028,
@@ -1450,16 +1441,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Tuner",
-          "tmdb": {
-            "id": 1340206,
-            "media_type": "movie",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -1468,25 +1450,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Terminator 3: Rise of the Machines",
+          "rank": 5,
+          "title": "Practical Magic 2",
           "tmdb": {
-            "id": 296,
+            "id": 1302904,
             "media_type": "movie",
-            "release_date": "2003-07-02"
+            "release_date": "2026-09-09"
           }
         },
         {
-          "rank": 8,
-          "title": "The Odyssey",
-          "tmdb": {
-            "id": 1368337,
-            "media_type": "movie",
-            "release_date": "2026-07-15"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 6,
           "title": "Coraline",
           "tmdb": {
             "id": 14836,
@@ -1495,89 +1468,25 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Citizen Vigilante",
           "tmdb": {
             "id": 1413976,
             "media_type": "movie",
             "release_date": "2026-06-19"
           }
-        }
-      ]
-    },
-    {
-      "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Austria on October 31, 2026",
-      "category": "movies",
-      "platform": "Google",
-      "date": "October 31, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Eismayer",
-          "tmdb": {
-            "id": 936362,
-            "media_type": "movie",
-            "release_date": "2022-10-28"
-          }
         },
         {
-          "rank": 2,
-          "title": "PAW Patrol: The Dino Movie",
-          "tmdb": {
-            "id": 1185806,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Iron Lung",
-          "tmdb": {
-            "id": 1116201,
-            "media_type": "movie",
-            "release_date": "2026-01-30"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Rocca Changes the World",
-          "tmdb": {
-            "id": 577122,
-            "media_type": "movie",
-            "release_date": "2019-03-21"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "The End of Oak Street",
           "tmdb": {
             "id": 1101383,
@@ -1586,7 +1495,71 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "google.movies",
+      "heading": "TOP Movies on Google in Austria on November 1, 2026",
+      "category": "movies",
+      "platform": "Google",
+      "date": "November 1, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Spider-Man: Brand New Day",
+          "tmdb": {
+            "id": 969681,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The End of Oak Street",
+          "tmdb": {
+            "id": 1101383,
+            "media_type": "movie",
+            "release_date": "2026-08-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Eismayer",
+          "tmdb": {
+            "id": 936362,
+            "media_type": "movie",
+            "release_date": "2022-10-28"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "PAW Patrol: The Dino Movie",
+          "tmdb": {
+            "id": 1185806,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Nuremberg",
           "tmdb": {
             "id": 1214931,
@@ -1595,22 +1568,49 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Practical Magic 2",
+          "rank": 7,
+          "title": "Kraken",
           "tmdb": {
-            "id": 1302904,
+            "id": 1110034,
             "media_type": "movie",
-            "release_date": "2026-09-09"
+            "release_date": "2026-02-06"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Iron Lung",
+          "tmdb": {
+            "id": 1116201,
+            "media_type": "movie",
+            "release_date": "2026-01-30"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Home Alone",
+          "tmdb": {
+            "id": 1394614,
+            "media_type": "movie",
+            "release_date": null
+          }
+        },
+        {
+          "rank": 10,
+          "title": "One Night Only",
+          "tmdb": {
+            "id": 1433367,
+            "media_type": "movie",
+            "release_date": "2026-08-06"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Austria on October 31, 2026",
+      "heading": "TOP Movies on Rakuten TV in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1624,11 +1624,11 @@
         },
         {
           "rank": 2,
-          "title": "Spider-Man: Brand New Day",
+          "title": "Kraken",
           "tmdb": {
-            "id": 969681,
+            "id": 1110034,
             "media_type": "movie",
-            "release_date": "2026-07-29"
+            "release_date": "2026-02-06"
           }
         },
         {
@@ -1642,33 +1642,15 @@
         },
         {
           "rank": 4,
-          "title": "Kraken",
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 1110034,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2026-02-06"
+            "release_date": "2026-07-29"
           }
         },
         {
           "rank": 5,
-          "title": "The End of Oak Street",
-          "tmdb": {
-            "id": 1101383,
-            "media_type": "movie",
-            "release_date": "2026-08-12"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "PAW Patrol: The Dino Movie",
-          "tmdb": {
-            "id": 1185806,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Practical Magic 2",
           "tmdb": {
             "id": 1302904,
@@ -1677,16 +1659,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Minions & Monsters",
+          "rank": 6,
+          "title": "The End of Oak Street",
           "tmdb": {
-            "id": 1315772,
+            "id": 1101383,
             "media_type": "movie",
-            "release_date": "2026-06-24"
+            "release_date": "2026-08-12"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Insidious: Out of the Further",
           "tmdb": {
             "id": 1291595,
@@ -1695,22 +1677,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
+          "title": "PAW Patrol: The Dino Movie",
+          "tmdb": {
+            "id": 1185806,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Shelter",
           "tmdb": {
             "id": 1290821,
             "media_type": "movie",
             "release_date": "2026-01-28"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Backrooms",
+          "tmdb": {
+            "id": 1083381,
+            "media_type": "movie",
+            "release_date": "2026-05-27"
+          }
         }
       ]
     },
     {
       "catalog_id": "chili.movies",
-      "heading": "TOP Movies on Chili in Austria on October 31, 2026",
+      "heading": "TOP Movies on Chili in Austria on November 1, 2026",
       "category": "movies",
       "platform": "Chili",
-      "date": "October 31, 2026",
+      "date": "November 1, 2026",
       "title_count": 10,
       "entries": [
         {
