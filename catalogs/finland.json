@@ -1,25 +1,25 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/finland/",
-  "page_title": "TOP 10 on Streaming in Finland on November 1, 2026",
+  "page_title": "TOP 10 on Streaming in Finland on November 2, 2026",
   "region": "finland",
-  "date": "November 1, 2026",
-  "scraped_at_utc": "2026-11-01T19:56:24.202500+00:00",
+  "date": "November 2, 2026",
+  "scraped_at_utc": "2026-11-02T23:16:49.910667+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Finland on November 1, 2026",
+      "heading": "TOP Movies on Netflix in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Weapons",
+          "title": "Heist",
           "tmdb": {
-            "id": 1078605,
+            "id": 11088,
             "media_type": "movie",
-            "release_date": "2025-08-04"
+            "release_date": "2001-11-09"
           }
         },
         {
@@ -33,6 +33,15 @@
         },
         {
           "rank": 3,
+          "title": "Weapons",
+          "tmdb": {
+            "id": 1078605,
+            "media_type": "movie",
+            "release_date": "2025-08-04"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Drop",
           "tmdb": {
             "id": 1249213,
@@ -41,16 +50,43 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Halloween",
+          "rank": 5,
+          "title": "Gail Daughtry and the Celebrity Sex Pass",
           "tmdb": {
-            "id": 948,
+            "id": 1476682,
             "media_type": "movie",
-            "release_date": "1978-10-25"
+            "release_date": "2026-07-09"
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "title": "Barbie in the Nutcracker",
+          "tmdb": {
+            "id": 15167,
+            "media_type": "movie",
+            "release_date": "2001-09-30"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Blonde Ambition",
+          "tmdb": {
+            "id": 15017,
+            "media_type": "movie",
+            "release_date": "2007-12-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Crush",
+          "tmdb": {
+            "id": 33408,
+            "media_type": "movie",
+            "release_date": "1993-04-02"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Far and Away",
           "tmdb": {
             "id": 11259,
@@ -59,58 +95,22 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Conjuring: The Devil Made Me Do It",
-          "tmdb": {
-            "id": 423108,
-            "media_type": "movie",
-            "release_date": "2021-05-25"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Animals",
-          "tmdb": {
-            "id": 1236045,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 10,
           "title": "Nowhere to Run",
           "tmdb": {
             "id": 10413,
             "media_type": "movie",
             "release_date": "1993-01-15"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Halloween Kills",
-          "tmdb": {
-            "id": 610253,
-            "media_type": "movie",
-            "release_date": "2021-10-14"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "It",
-          "tmdb": {
-            "id": 346364,
-            "media_type": "movie",
-            "release_date": "2017-09-06"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on Netflix in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -160,11 +160,11 @@
         },
         {
           "rank": 6,
-          "title": "Ghosts",
+          "title": "The Rainmaker",
           "tmdb": {
-            "id": 126027,
+            "id": 256711,
             "media_type": "tv",
-            "release_date": "2021-10-07"
+            "release_date": "2025-08-15"
           }
         },
         {
@@ -178,39 +178,61 @@
         },
         {
           "rank": 8,
-          "title": "The Diplomat",
+          "title": "Ghosts",
           "tmdb": {
-            "id": 203857,
+            "id": 126027,
             "media_type": "tv",
-            "release_date": "2023-04-20"
+            "release_date": "2021-10-07"
           }
         },
         {
           "rank": 9,
-          "title": "Instadocs: Jane Doe v. Cornell",
-          "tmdb": null
-        },
-        {
-          "rank": 10,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
             "media_type": "tv",
             "release_date": "2026-10-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Diplomat",
+          "tmdb": {
+            "id": 203857,
+            "media_type": "tv",
+            "release_date": "2023-04-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Finland on November 1, 2026",
+      "heading": "TOP Kids Movies on Netflix in Finland on November 2, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Barbie in the Nutcracker",
+          "tmdb": {
+            "id": 15167,
+            "media_type": "movie",
+            "release_date": "2001-09-30"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Ice Age",
+          "tmdb": {
+            "id": 425,
+            "media_type": "movie",
+            "release_date": "2002-03-14"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Wonder Park",
           "tmdb": {
             "id": 400157,
@@ -219,16 +241,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Hotel Transylvania",
-          "tmdb": {
-            "id": 76492,
-            "media_type": "movie",
-            "release_date": "2012-09-20"
-          }
-        },
-        {
-          "rank": 3,
+          "rank": 4,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
@@ -237,21 +250,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Cat in the Hat",
           "tmdb": {
             "id": 10588,
             "media_type": "movie",
             "release_date": "2003-11-21"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ice Age",
-          "tmdb": {
-            "id": 425,
-            "media_type": "movie",
-            "release_date": "2002-03-14"
           }
         },
         {
@@ -265,15 +269,6 @@
         },
         {
           "rank": 7,
-          "title": "Hotel Transylvania 3: Summer Vacation",
-          "tmdb": {
-            "id": 400155,
-            "media_type": "movie",
-            "release_date": "2018-06-28"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Ice Age: Dawn of the Dinosaurs",
           "tmdb": {
             "id": 8355,
@@ -282,31 +277,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Hotel Transylvania 2",
+          "rank": 8,
+          "title": "Sing 2",
           "tmdb": {
-            "id": 159824,
+            "id": 438695,
             "media_type": "movie",
-            "release_date": "2015-09-21"
+            "release_date": "2021-12-01"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
           }
         },
         {
           "rank": 10,
-          "title": "Ice Age: Collision Course",
+          "title": "Hotel Transylvania 3: Summer Vacation",
           "tmdb": {
-            "id": 278154,
+            "id": 400155,
             "media_type": "movie",
-            "release_date": "2016-06-23"
+            "release_date": "2018-06-28"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Finland on November 1, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Finland on November 2, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -356,15 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Masha and the Bear",
           "tmdb": {
             "id": 46080,
@@ -373,16 +368,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Booba",
+          "rank": 7,
+          "title": "Mark Rober's CrunchLabs",
           "tmdb": {
-            "id": 81700,
+            "id": 306074,
             "media_type": "tv",
-            "release_date": "2014-11-10"
+            "release_date": "2025-11-19"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Unicorn Academy: Secrets Revealed",
           "tmdb": {
             "id": 316945,
@@ -391,31 +386,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "LEGO ONE PIECE",
+          "rank": 9,
+          "title": "Booba",
           "tmdb": {
-            "id": 318918,
+            "id": 81700,
             "media_type": "tv",
-            "release_date": "2026-09-29"
+            "release_date": "2014-11-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Barbie: Life in the Dreamhouse",
+          "tmdb": {
+            "id": 61838,
+            "media_type": "tv",
+            "release_date": "2012-05-11"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Finland on November 1, 2026",
+      "heading": "TOP Movies on HBO Max in Finland on November 2, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 1, 2026",
-      "title_count": 10,
+      "date": "November 2, 2026",
+      "title_count": 9,
       "entries": [
         {
           "rank": 1,
-          "title": "Beetlejuice Beetlejuice",
+          "title": "Deep Water",
           "tmdb": {
-            "id": 917496,
+            "id": 619979,
             "media_type": "movie",
-            "release_date": "2024-09-04"
+            "release_date": "2022-03-17"
           }
         },
         {
@@ -429,15 +433,24 @@
         },
         {
           "rank": 3,
-          "title": "Friday the 13th",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 4488,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "1980-05-09"
+            "release_date": "2001-11-16"
           }
         },
         {
           "rank": 4,
+          "title": "Beetlejuice Beetlejuice",
+          "tmdb": {
+            "id": 917496,
+            "media_type": "movie",
+            "release_date": "2024-09-04"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Leave",
           "tmdb": {
             "id": 135678,
@@ -446,16 +459,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Beetlejuice",
+          "rank": 6,
+          "title": "Friday the 13th",
           "tmdb": {
-            "id": 4011,
+            "id": 4488,
             "media_type": "movie",
-            "release_date": "1988-03-30"
+            "release_date": "1980-05-09"
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "A Royal Montana Christmas",
           "tmdb": {
             "id": 1535223,
@@ -464,49 +477,31 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Freddy vs. Jason",
-          "tmdb": {
-            "id": 6466,
-            "media_type": "movie",
-            "release_date": "2003-08-15"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Die My Love",
+          "title": "Single on the 25th",
           "tmdb": {
-            "id": 1033148,
+            "id": 1545997,
             "media_type": "movie",
-            "release_date": "2025-10-06"
+            "release_date": "2025-12-07"
           }
         },
         {
           "rank": 9,
-          "title": "A Suite Holiday Romance",
+          "title": "Beetlejuice",
           "tmdb": {
-            "id": 1547925,
+            "id": 4011,
             "media_type": "movie",
-            "release_date": "2025-12-13"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Inventor: Out for Blood in Silicon Valley",
-          "tmdb": {
-            "id": 566228,
-            "media_type": "movie",
-            "release_date": "2019-01-24"
+            "release_date": "1988-03-30"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on HBO Max in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -520,11 +515,6 @@
         },
         {
           "rank": 2,
-          "title": "The Kaulanen Family",
-          "tmdb": null
-        },
-        {
-          "rank": 3,
           "title": "Crystal Lake",
           "tmdb": {
             "id": 213562,
@@ -533,7 +523,21 @@
           }
         },
         {
+          "rank": 3,
+          "title": "90 Day: The Last Resort",
+          "tmdb": {
+            "id": 230272,
+            "media_type": "tv",
+            "release_date": "2023-08-14"
+          }
+        },
+        {
           "rank": 4,
+          "title": "The Kaulanen Family",
+          "tmdb": null
+        },
+        {
+          "rank": 5,
           "title": "YAGA",
           "tmdb": {
             "id": 314360,
@@ -542,7 +546,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
@@ -551,7 +555,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Youth",
           "tmdb": {
             "id": 285418,
@@ -560,7 +564,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Gold Rush",
           "tmdb": {
             "id": 34634,
@@ -569,40 +573,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "The Gilded Age",
+          "tmdb": {
+            "id": 81723,
+            "media_type": "tv",
+            "release_date": "2022-01-24"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Sister Wives",
           "tmdb": {
             "id": 34045,
             "media_type": "tv",
             "release_date": "2010-09-26"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Wahlgrens Värld",
-          "tmdb": {
-            "id": 68757,
-            "media_type": "tv",
-            "release_date": "2016-10-06"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "90 Day: The Last Resort",
-          "tmdb": {
-            "id": 230272,
-            "media_type": "tv",
-            "release_date": "2023-08-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Finland on November 1, 2026",
+      "heading": "TOP Overall on Disney+ in Finland on November 2, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -616,15 +611,6 @@
         },
         {
           "rank": 2,
-          "title": "VisionQuest",
-          "tmdb": {
-            "id": 213375,
-            "media_type": "tv",
-            "release_date": "2026-10-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Nightmare Before Christmas",
           "tmdb": {
             "id": 9479,
@@ -633,21 +619,30 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Coco",
-          "tmdb": {
-            "id": 354912,
-            "media_type": "movie",
-            "release_date": "2017-10-27"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "title": "Hocus Pocus",
           "tmdb": {
             "id": 10439,
             "media_type": "movie",
             "release_date": "1993-07-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "VisionQuest",
+          "tmdb": {
+            "id": 213375,
+            "media_type": "tv",
+            "release_date": "2026-10-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Coco",
+          "tmdb": {
+            "id": 354912,
+            "media_type": "movie",
+            "release_date": "2017-10-27"
           }
         },
         {
@@ -661,11 +656,11 @@
         },
         {
           "rank": 7,
-          "title": "Swipe Right on the Devil",
+          "title": "Hocus Pocus 2",
           "tmdb": {
-            "id": 337609,
-            "media_type": "tv",
-            "release_date": "2026-10-22"
+            "id": 642885,
+            "media_type": "movie",
+            "release_date": "2022-09-27"
           }
         },
         {
@@ -688,34 +683,25 @@
         },
         {
           "rank": 10,
-          "title": "The Mandalorian and Grogu",
+          "title": "Friday the 13th",
           "tmdb": {
-            "id": 1228710,
+            "id": 4488,
             "media_type": "movie",
-            "release_date": "2026-05-20"
+            "release_date": "1980-05-09"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Finland on November 1, 2026",
+      "heading": "TOP Movies on Disney+ in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Nightmare Before Christmas",
-          "tmdb": {
-            "id": 9479,
-            "media_type": "movie",
-            "release_date": "1993-10-09"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -724,16 +710,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Hocus Pocus",
+          "rank": 2,
+          "title": "The Nightmare Before Christmas",
           "tmdb": {
-            "id": 10439,
+            "id": 9479,
             "media_type": "movie",
-            "release_date": "1993-07-16"
+            "release_date": "1993-10-09"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Coco",
           "tmdb": {
             "id": 354912,
@@ -742,16 +728,34 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Hocus Pocus 2",
+          "rank": 4,
+          "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
           "tmdb": {
-            "id": 642885,
+            "id": 308531,
             "media_type": "movie",
-            "release_date": "2022-09-27"
+            "release_date": "2016-05-30"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Home Alone",
+          "tmdb": {
+            "id": 1394614,
+            "media_type": "movie",
+            "release_date": null
           }
         },
         {
           "rank": 6,
+          "title": "A Cinderella Story",
+          "tmdb": {
+            "id": 11247,
+            "media_type": "movie",
+            "release_date": "2004-07-16"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Toy Story 5",
           "tmdb": {
             "id": 1084244,
@@ -760,49 +764,40 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Edward Scissorhands",
-          "tmdb": {
-            "id": 162,
-            "media_type": "movie",
-            "release_date": "1990-12-07"
-          }
-        },
-        {
           "rank": 8,
-          "title": "The Mandalorian and Grogu",
+          "title": "Hocus Pocus",
           "tmdb": {
-            "id": 1228710,
+            "id": 10439,
             "media_type": "movie",
-            "release_date": "2026-05-20"
+            "release_date": "1993-07-16"
           }
         },
         {
           "rank": 9,
-          "title": "Friday the 13th",
+          "title": "Tropic Thunder",
           "tmdb": {
-            "id": 4488,
+            "id": 7446,
             "media_type": "movie",
-            "release_date": "1980-05-09"
+            "release_date": "2008-08-09"
           }
         },
         {
           "rank": 10,
-          "title": "Frozen",
+          "title": "The Grinch",
           "tmdb": {
-            "id": 109445,
+            "id": 360920,
             "media_type": "movie",
-            "release_date": "2013-11-20"
+            "release_date": "2018-11-08"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on Disney+ in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -852,20 +847,20 @@
         },
         {
           "rank": 6,
-          "title": "Grey's Anatomy",
-          "tmdb": {
-            "id": 1416,
-            "media_type": "tv",
-            "release_date": "2005-03-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Swipe Right on the Devil",
           "tmdb": {
             "id": 337609,
             "media_type": "tv",
             "release_date": "2026-10-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Grey's Anatomy",
+          "tmdb": {
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
           }
         },
         {
@@ -895,10 +890,10 @@
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Finland on November 1, 2026",
+      "heading": "TOP Movies on Amazon Prime in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -912,20 +907,20 @@
         },
         {
           "rank": 2,
-          "title": "Drive - The Pretenders",
-          "tmdb": {
-            "id": 1596275,
-            "media_type": "movie",
-            "release_date": "2026-10-27"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Apocalypse Z: New World",
           "tmdb": {
             "id": 1507696,
             "media_type": "movie",
             "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Drive - The Pretenders",
+          "tmdb": {
+            "id": 1596275,
+            "media_type": "movie",
+            "release_date": "2026-10-27"
           }
         },
         {
@@ -939,20 +934,20 @@
         },
         {
           "rank": 5,
-          "title": "Masterplan",
-          "tmdb": {
-            "id": 1561726,
-            "media_type": "movie",
-            "release_date": "2026-10-16"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Love of Your Life",
           "tmdb": {
             "id": 1381078,
             "media_type": "movie",
             "release_date": "2026-10-07"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Masterplan",
+          "tmdb": {
+            "id": 1561726,
+            "media_type": "movie",
+            "release_date": "2026-10-16"
           }
         },
         {
@@ -975,30 +970,30 @@
         },
         {
           "rank": 9,
-          "title": "Savage",
-          "tmdb": {
-            "id": 1588878,
-            "media_type": "movie",
-            "release_date": "2026-01-12"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Housemaid",
           "tmdb": {
             "id": 1368166,
             "media_type": "movie",
             "release_date": "2025-12-18"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Savage",
+          "tmdb": {
+            "id": 1588878,
+            "media_type": "movie",
+            "release_date": "2026-01-12"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1048,20 +1043,20 @@
         },
         {
           "rank": 6,
-          "title": "LOL: Last One Laughing Halloween UK",
+          "title": "MobLand",
           "tmdb": {
-            "id": 339754,
+            "id": 247718,
             "media_type": "tv",
-            "release_date": "2026-10-23"
+            "release_date": "2025-03-30"
           }
         },
         {
           "rank": 7,
-          "title": "Helluva Boss",
+          "title": "Blue Mountain State",
           "tmdb": {
-            "id": 289892,
+            "id": 31941,
             "media_type": "tv",
-            "release_date": "2020-10-31"
+            "release_date": "2010-01-11"
           }
         },
         {
@@ -1075,30 +1070,30 @@
         },
         {
           "rank": 9,
-          "title": "Blue Mountain State",
+          "title": "Helluva Boss",
           "tmdb": {
-            "id": 31941,
+            "id": 289892,
             "media_type": "tv",
-            "release_date": "2010-01-11"
+            "release_date": "2020-10-31"
           }
         },
         {
           "rank": 10,
-          "title": "MobLand",
+          "title": "Clarkson's Farm",
           "tmdb": {
-            "id": 247718,
+            "id": 117648,
             "media_type": "tv",
-            "release_date": "2025-03-30"
+            "release_date": "2021-06-11"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Finland on November 1, 2026",
+      "heading": "TOP Movies on Apple TV in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1130,6 +1125,15 @@
         },
         {
           "rank": 4,
+          "title": "Sunshine",
+          "tmdb": {
+            "id": 1272,
+            "media_type": "movie",
+            "release_date": "2007-04-05"
+          }
+        },
+        {
+          "rank": 5,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -1138,34 +1142,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Proposal",
-          "tmdb": {
-            "id": 18240,
-            "media_type": "movie",
-            "release_date": "2009-06-02"
-          }
-        },
-        {
           "rank": 6,
-          "title": "The Last First: Winter K2",
-          "tmdb": {
-            "id": 1596303,
-            "media_type": "movie",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "It's the Great Pumpkin, Charlie Brown",
-          "tmdb": {
-            "id": 13353,
-            "media_type": "movie",
-            "release_date": "1966-10-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -1174,12 +1151,30 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "The Last First: Winter K2",
+          "tmdb": {
+            "id": 1596303,
+            "media_type": "movie",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Ready Player One",
           "tmdb": {
             "id": 333339,
             "media_type": "movie",
             "release_date": "2018-03-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Proposal",
+          "tmdb": {
+            "id": 18240,
+            "media_type": "movie",
+            "release_date": "2009-06-02"
           }
         },
         {
@@ -1195,10 +1190,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on Apple TV in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1257,15 +1252,6 @@
         },
         {
           "rank": 7,
-          "title": "Brothers",
-          "tmdb": {
-            "id": 66515,
-            "media_type": "tv",
-            "release_date": "2015-09-28"
-          }
-        },
-        {
-          "rank": 8,
           "title": "For All Mankind",
           "tmdb": {
             "id": 87917,
@@ -1274,12 +1260,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
             "media_type": "tv",
             "release_date": "2026-04-28"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Brothers",
+          "tmdb": {
+            "id": 66515,
+            "media_type": "tv",
+            "release_date": "2015-09-28"
           }
         },
         {
@@ -1295,28 +1290,28 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Finland on November 1, 2026",
+      "heading": "TOP Movies on Apple TV Store in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Backrooms",
           "tmdb": {
             "id": 1083381,
             "media_type": "movie",
             "release_date": "2026-05-27"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -1339,11 +1334,11 @@
         },
         {
           "rank": 5,
-          "title": "Halloween",
+          "title": "Lucky Strike",
           "tmdb": {
-            "id": 948,
+            "id": 1594914,
             "media_type": "movie",
-            "release_date": "1978-10-25"
+            "release_date": "2026-06-26"
           }
         },
         {
@@ -1357,29 +1352,29 @@
         },
         {
           "rank": 7,
-          "title": "Lucky Strike",
-          "tmdb": {
-            "id": 1594914,
-            "media_type": "movie",
-            "release_date": "2026-06-26"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Insidious: Out of the Further",
-          "tmdb": {
-            "id": 1291595,
-            "media_type": "movie",
-            "release_date": "2026-08-19"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Spider-Man: Brand New Day",
           "tmdb": {
             "id": 969681,
             "media_type": "movie",
             "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Insidious: Out of the Further",
+          "tmdb": {
+            "id": 1291595,
+            "media_type": "movie",
+            "release_date": "2026-08-19"
           }
         },
         {
@@ -1395,10 +1390,10 @@
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Finland on November 1, 2026",
+      "heading": "TOP Movies on Google in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1495,10 +1490,10 @@
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Finland on November 1, 2026",
+      "heading": "TOP Movies on Rakuten TV in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1512,20 +1507,20 @@
         },
         {
           "rank": 2,
+          "title": "Insidious: Out of the Further",
+          "tmdb": {
+            "id": 1291595,
+            "media_type": "movie",
+            "release_date": "2026-08-19"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Hokum",
           "tmdb": {
             "id": 1430077,
             "media_type": "movie",
             "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Spider-Man: Brand New Day",
-          "tmdb": {
-            "id": 969681,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
           }
         },
         {
@@ -1539,42 +1534,15 @@
         },
         {
           "rank": 5,
-          "title": "Insidious: Out of the Further",
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 1291595,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2026-08-19"
+            "release_date": "2026-07-29"
           }
         },
         {
           "rank": 6,
-          "title": "Tuner",
-          "tmdb": {
-            "id": 1340206,
-            "media_type": "movie",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "PAW Patrol: The Dino Movie",
-          "tmdb": {
-            "id": 1185806,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -1583,22 +1551,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "title": "Tuner",
+          "tmdb": {
+            "id": 1340206,
+            "media_type": "movie",
+            "release_date": "2026-05-21"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Lucky Strike",
           "tmdb": {
             "id": 1594914,
             "media_type": "movie",
             "release_date": "2026-06-26"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Minions & Monsters",
+          "tmdb": {
+            "id": 1315772,
+            "media_type": "movie",
+            "release_date": "2026-06-24"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "PAW Patrol: The Dino Movie",
+          "tmdb": {
+            "id": 1185806,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
+          }
         }
       ]
     },
     {
       "catalog_id": "viaplay.movies",
-      "heading": "TOP Movies on Viaplay in Finland on November 1, 2026",
+      "heading": "TOP Movies on Viaplay in Finland on November 2, 2026",
       "category": "movies",
       "platform": "Viaplay",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1612,24 +1607,6 @@
         },
         {
           "rank": 2,
-          "title": "The Amateur",
-          "tmdb": {
-            "id": 1087891,
-            "media_type": "movie",
-            "release_date": "2025-04-09"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Locked",
-          "tmdb": {
-            "id": 1083968,
-            "media_type": "movie",
-            "release_date": "2025-03-19"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Sisu: Road to Revenge",
           "tmdb": {
             "id": 1223601,
@@ -1638,16 +1615,25 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Fackham Hall",
+          "rank": 3,
+          "title": "The Amateur",
           "tmdb": {
-            "id": 1175174,
+            "id": 1087891,
             "media_type": "movie",
-            "release_date": "2025-12-05"
+            "release_date": "2025-04-09"
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
+          "title": "Locked",
+          "tmdb": {
+            "id": 1083968,
+            "media_type": "movie",
+            "release_date": "2025-03-19"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Dead of Winter",
           "tmdb": {
             "id": 1235746,
@@ -1656,7 +1642,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Fackham Hall",
+          "tmdb": {
+            "id": 1175174,
+            "media_type": "movie",
+            "release_date": "2025-12-05"
+          }
+        },
+        {
           "rank": 7,
+          "title": "28 Years Later: The Bone Temple",
+          "tmdb": {
+            "id": 1272837,
+            "media_type": "movie",
+            "release_date": "2026-01-14"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Kikka!",
           "tmdb": {
             "id": 717139,
@@ -1665,40 +1669,31 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Halloween",
+          "tmdb": {
+            "id": 948,
+            "media_type": "movie",
+            "release_date": "1978-10-25"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Plane",
           "tmdb": {
             "id": 646389,
             "media_type": "movie",
             "release_date": "2023-01-11"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Spy",
-          "tmdb": {
-            "id": 238713,
-            "media_type": "movie",
-            "release_date": "2015-05-06"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Hunting Season",
-          "tmdb": {
-            "id": 1387382,
-            "media_type": "movie",
-            "release_date": "2025-12-05"
-          }
         }
       ]
     },
     {
       "catalog_id": "viaplay.series",
-      "heading": "TOP TV Shows on Viaplay in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on Viaplay in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "Viaplay",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1757,15 +1752,6 @@
         },
         {
           "rank": 7,
-          "title": "Person of Interest",
-          "tmdb": {
-            "id": 1411,
-            "media_type": "tv",
-            "release_date": "2011-09-22"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Broadchurch",
           "tmdb": {
             "id": 1427,
@@ -1774,31 +1760,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Memory of a Killer",
+          "rank": 8,
+          "title": "Person of Interest",
           "tmdb": {
-            "id": 291339,
+            "id": 1411,
             "media_type": "tv",
-            "release_date": "2026-01-25"
+            "release_date": "2011-09-22"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "The Mentalist",
           "tmdb": {
             "id": 5920,
             "media_type": "tv",
             "release_date": "2008-09-23"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Memory of a Killer",
+          "tmdb": {
+            "id": 291339,
+            "media_type": "tv",
+            "release_date": "2026-01-25"
+          }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Finland on November 1, 2026",
+      "heading": "TOP Movies on SkyShowtime in Finland on November 2, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1821,6 +1816,24 @@
         },
         {
           "rank": 3,
+          "title": "From Dusk Till Dawn 2: Texas Blood Money",
+          "tmdb": {
+            "id": 12095,
+            "media_type": "movie",
+            "release_date": "1999-03-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Top Secret!",
+          "tmdb": {
+            "id": 8764,
+            "media_type": "movie",
+            "release_date": "1984-06-22"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Visitor",
           "tmdb": {
             "id": 1786170,
@@ -1829,39 +1842,21 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Hard Target 2",
-          "tmdb": {
-            "id": 402331,
-            "media_type": "movie",
-            "release_date": "2016-07-14"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The Thing",
-          "tmdb": {
-            "id": 1091,
-            "media_type": "movie",
-            "release_date": "1982-06-25"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Smile",
+          "title": "The Oath",
           "tmdb": {
-            "id": 882598,
+            "id": 520596,
             "media_type": "movie",
-            "release_date": "2022-09-23"
+            "release_date": "2018-10-12"
           }
         },
         {
           "rank": 7,
-          "title": "Page Eight",
+          "title": "The Great Raid",
           "tmdb": {
-            "id": 73358,
+            "id": 13922,
             "media_type": "movie",
-            "release_date": "2011-08-28"
+            "release_date": "2005-08-12"
           }
         },
         {
@@ -1875,48 +1870,48 @@
         },
         {
           "rank": 9,
-          "title": "Scream 7",
+          "title": "Hard Target 2",
           "tmdb": {
-            "id": 1159559,
+            "id": 402331,
             "media_type": "movie",
-            "release_date": "2026-02-25"
+            "release_date": "2016-07-14"
           }
         },
         {
           "rank": 10,
-          "title": "The Skeleton Key",
+          "title": "From Dusk Till Dawn 3: The Hangman's Daughter",
           "tmdb": {
-            "id": 9913,
+            "id": 10213,
             "media_type": "movie",
-            "release_date": "2005-07-29"
+            "release_date": "2000-01-18"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Finland on November 1, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Finland on November 2, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "November 1, 2026",
+      "date": "November 2, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Dexter: Resurrection",
-          "tmdb": {
-            "id": 259909,
-            "media_type": "tv",
-            "release_date": "2025-07-13"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
             "media_type": "tv",
             "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Dexter: Resurrection",
+          "tmdb": {
+            "id": 259909,
+            "media_type": "tv",
+            "release_date": "2025-07-13"
           }
         },
         {
