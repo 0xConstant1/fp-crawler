@@ -1,34 +1,34 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/united-states/",
-  "page_title": "TOP 10 on Streaming in the United States on November 8, 2026",
+  "page_title": "TOP 10 on Streaming in the United States on November 9, 2026",
   "region": "united-states",
-  "date": "November 8, 2026",
-  "scraped_at_utc": "2026-11-08T20:05:01.826777+00:00",
+  "date": "November 9, 2026",
+  "scraped_at_utc": "2026-11-10T00:03:43.661670+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in the United States on November 8, 2026",
+      "heading": "TOP Movies on Netflix in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Day After Tomorrow",
-          "tmdb": {
-            "id": 435,
-            "media_type": "movie",
-            "release_date": "2004-05-26"
-          }
-        },
-        {
-          "rank": 2,
           "title": "A Dog's Perfect Christmas",
           "tmdb": {
             "id": 1570488,
             "media_type": "movie",
             "release_date": "2026-11-04"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "The Day After Tomorrow",
+          "tmdb": {
+            "id": 435,
+            "media_type": "movie",
+            "release_date": "2004-05-26"
           }
         },
         {
@@ -69,11 +69,11 @@
         },
         {
           "rank": 7,
-          "title": "Collision Course",
+          "title": "The Mummy",
           "tmdb": {
-            "id": 1571955,
+            "id": 564,
             "media_type": "movie",
-            "release_date": "2026-10-30"
+            "release_date": "1999-04-16"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
-          "title": "The Mummy",
+          "title": "Collision Course",
           "tmdb": {
-            "id": 564,
+            "id": 1571955,
             "media_type": "movie",
-            "release_date": "1999-04-16"
+            "release_date": "2026-10-30"
           }
         },
         {
           "rank": 10,
-          "title": "My Best Friend",
+          "title": "10,000 BC",
           "tmdb": {
-            "id": 1257147,
+            "id": 7840,
             "media_type": "movie",
-            "release_date": "2026-09-03"
+            "release_date": "2008-03-04"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Netflix in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,6 @@
         },
         {
           "rank": 2,
-          "title": "Nobody Wants This",
-          "tmdb": {
-            "id": 250923,
-            "media_type": "tv",
-            "release_date": "2024-09-26"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Black Doves",
           "tmdb": {
             "id": 225385,
@@ -150,34 +132,7 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The One About Matthew Perry",
-          "tmdb": {
-            "id": 333533,
-            "media_type": "tv",
-            "release_date": "2026-10-27"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Mistletoe Murders",
-          "tmdb": {
-            "id": 261317,
-            "media_type": "tv",
-            "release_date": "2024-10-31"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Neighborhood",
-          "tmdb": {
-            "id": 81144,
-            "media_type": "tv",
-            "release_date": "2018-10-01"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 3,
           "title": "Love Is Blind",
           "tmdb": {
             "id": 99353,
@@ -186,31 +141,76 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Great British Bake Off",
+          "rank": 4,
+          "title": "From",
           "tmdb": {
-            "id": 87012,
+            "id": 124364,
             "media_type": "tv",
-            "release_date": "2017-08-29"
+            "release_date": "2022-02-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Nobody Wants This",
+          "tmdb": {
+            "id": 250923,
+            "media_type": "tv",
+            "release_date": "2024-09-26"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The One About Matthew Perry",
+          "tmdb": {
+            "id": 333533,
+            "media_type": "tv",
+            "release_date": "2026-10-27"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Mistletoe Murders",
+          "tmdb": {
+            "id": 261317,
+            "media_type": "tv",
+            "release_date": "2024-10-31"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Neighborhood",
+          "tmdb": {
+            "id": 81144,
+            "media_type": "tv",
+            "release_date": "2018-10-01"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "North of North",
+          "tmdb": {
+            "id": 249023,
+            "media_type": "tv",
+            "release_date": "2025-01-07"
           }
         },
         {
           "rank": 10,
-          "title": "Will Trent",
+          "title": "Rectify",
           "tmdb": {
-            "id": 208569,
+            "id": 46619,
             "media_type": "tv",
-            "release_date": "2023-01-03"
+            "release_date": "2013-04-22"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in the United States on November 8, 2026",
+      "heading": "TOP Kids Movies on Netflix in the United States on November 9, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -260,24 +260,6 @@
         },
         {
           "rank": 6,
-          "title": "The Breadwinner",
-          "tmdb": {
-            "id": 1440050,
-            "media_type": "movie",
-            "release_date": "2026-05-29"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Ice Age: Continental Drift",
-          "tmdb": {
-            "id": 57800,
-            "media_type": "movie",
-            "release_date": "2012-06-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Christmas Chronicles",
           "tmdb": {
             "id": 527435,
@@ -286,49 +268,67 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Puss in Boots: The Last Wish",
+          "rank": 7,
+          "title": "The Breadwinner",
           "tmdb": {
-            "id": 315162,
+            "id": 1440050,
             "media_type": "movie",
-            "release_date": "2022-12-07"
+            "release_date": "2026-05-29"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ice Age: Continental Drift",
+          "tmdb": {
+            "id": 57800,
+            "media_type": "movie",
+            "release_date": "2012-06-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Best Christmas Pageant Ever",
+          "tmdb": {
+            "id": 1206617,
+            "media_type": "movie",
+            "release_date": "2024-11-07"
           }
         },
         {
           "rank": 10,
-          "title": "Spider-Man: Into the Spider-Verse",
+          "title": "Ice Age: Collision Course",
           "tmdb": {
-            "id": 324857,
+            "id": 278154,
             "media_type": "movie",
-            "release_date": "2018-12-06"
+            "release_date": "2016-06-23"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in the United States on November 8, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in the United States on November 9, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Danny Go!",
           "tmdb": {
             "id": 258124,
             "media_type": "tv",
             "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
           }
         },
         {
@@ -360,33 +360,6 @@
         },
         {
           "rank": 6,
-          "title": "Paw Patrol",
-          "tmdb": {
-            "id": 57532,
-            "media_type": "tv",
-            "release_date": "2013-08-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Hollywood Arts",
-          "tmdb": {
-            "id": 286183,
-            "media_type": "tv",
-            "release_date": "2026-10-15"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Masha and the Bear",
-          "tmdb": {
-            "id": 46080,
-            "media_type": "tv",
-            "release_date": "2009-01-07"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
@@ -395,22 +368,49 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 7,
           "title": "Mark Rober's CrunchLabs",
           "tmdb": {
             "id": 306074,
             "media_type": "tv",
             "release_date": "2025-11-19"
           }
+        },
+        {
+          "rank": 8,
+          "title": "Wonka's The Golden Ticket",
+          "tmdb": {
+            "id": 286940,
+            "media_type": "tv",
+            "release_date": "2026-09-23"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Hollywood Arts",
+          "tmdb": {
+            "id": 286183,
+            "media_type": "tv",
+            "release_date": "2026-10-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Masha and the Bear",
+          "tmdb": {
+            "id": 46080,
+            "media_type": "tv",
+            "release_date": "2009-01-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in the United States on November 8, 2026",
+      "heading": "TOP Movies on HBO Max in the United States on November 9, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -460,11 +460,11 @@
         },
         {
           "rank": 6,
-          "title": "Red Sparrow",
+          "title": "National Lampoon's Christmas Vacation",
           "tmdb": {
-            "id": 401981,
+            "id": 5825,
             "media_type": "movie",
-            "release_date": "2018-02-28"
+            "release_date": "1989-11-30"
           }
         },
         {
@@ -478,20 +478,20 @@
         },
         {
           "rank": 8,
+          "title": "Red Sparrow",
+          "tmdb": {
+            "id": 401981,
+            "media_type": "movie",
+            "release_date": "2018-02-28"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Project X",
           "tmdb": {
             "id": 57214,
             "media_type": "movie",
             "release_date": "2012-03-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "National Lampoon's Christmas Vacation",
-          "tmdb": {
-            "id": 5825,
-            "media_type": "movie",
-            "release_date": "1989-11-30"
           }
         },
         {
@@ -507,28 +507,28 @@
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on HBO Max in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "War",
-          "tmdb": {
-            "id": 298852,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Gilded Age",
           "tmdb": {
             "id": 81723,
             "media_type": "tv",
             "release_date": "2022-01-24"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "War",
+          "tmdb": {
+            "id": 298852,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
           }
         },
         {
@@ -542,11 +542,11 @@
         },
         {
           "rank": 4,
-          "title": "1000-lb Sisters",
+          "title": "Gold Rush",
           "tmdb": {
-            "id": 98410,
+            "id": 34634,
             "media_type": "tv",
-            "release_date": "2020-01-01"
+            "release_date": "2010-12-03"
           }
         },
         {
@@ -569,6 +569,15 @@
         },
         {
           "rank": 7,
+          "title": "1000-lb Sisters",
+          "tmdb": {
+            "id": 98410,
+            "media_type": "tv",
+            "release_date": "2020-01-01"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Youth",
           "tmdb": {
             "id": 285418,
@@ -577,7 +586,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Last Week Tonight with John Oliver",
           "tmdb": {
             "id": 60694,
@@ -586,53 +595,26 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "90 Day Fiancé: The Other Way",
           "tmdb": {
             "id": 90046,
             "media_type": "tv",
             "release_date": "2019-06-03"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Ghost Adventures",
-          "tmdb": {
-            "id": 17937,
-            "media_type": "tv",
-            "release_date": "2008-10-17"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall (from Amazon Channels) on HBO Max in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on HBO Max in the United States on November 9, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "War",
-          "tmdb": {
-            "id": 298852,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Gilded Age",
-          "tmdb": {
-            "id": 81723,
-            "media_type": "tv",
-            "release_date": "2022-01-24"
-          }
-        },
-        {
-          "rank": 3,
           "title": "A Story of Derry",
           "tmdb": {
             "id": 1813355,
@@ -641,16 +623,25 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Invite",
+          "rank": 2,
+          "title": "War",
           "tmdb": {
-            "id": 950028,
-            "media_type": "movie",
-            "release_date": "2026-06-25"
+            "id": 298852,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "The Gilded Age",
+          "tmdb": {
+            "id": 81723,
+            "media_type": "tv",
+            "release_date": "2022-01-24"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Christmas with the Kranks",
           "tmdb": {
             "id": 13673,
@@ -659,34 +650,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Death of Robin Hood",
-          "tmdb": {
-            "id": 1284465,
-            "media_type": "movie",
-            "release_date": "2026-06-18"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Dr. Seuss The Cat in the Hat",
-          "tmdb": {
-            "id": 1102491,
-            "media_type": "movie",
-            "release_date": "2002-07-31"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 5,
           "title": "Real Time with Bill Maher",
           "tmdb": {
             "id": 4419,
@@ -695,22 +659,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "IT: Welcome to Derry",
+          "rank": 6,
+          "title": "The Invite",
           "tmdb": {
-            "id": 200875,
+            "id": 950028,
+            "media_type": "movie",
+            "release_date": "2026-06-25"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Gold Rush",
+          "tmdb": {
+            "id": 34634,
             "media_type": "tv",
-            "release_date": "2025-10-26"
+            "release_date": "2010-12-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Wolverine",
+          "tmdb": {
+            "id": 76170,
+            "media_type": "movie",
+            "release_date": "2013-07-24"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "National Lampoon's Christmas Vacation",
+          "tmdb": {
+            "id": 5825,
+            "media_type": "movie",
+            "release_date": "1989-11-30"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in the United States on November 8, 2026",
+      "heading": "TOP Overall on Disney+ in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -742,33 +742,15 @@
         },
         {
           "rank": 4,
-          "title": "The Remarried Empress",
+          "title": "Wolves Up Close with Bertie Gregory",
           "tmdb": {
-            "id": 279246,
-            "media_type": "tv",
-            "release_date": "2026-11-03"
+            "id": 1798383,
+            "media_type": "movie",
+            "release_date": "2026-11-06"
           }
         },
         {
           "rank": 5,
-          "title": "The 12 Dates of Christmas",
-          "tmdb": {
-            "id": 1600653,
-            "media_type": "movie",
-            "release_date": "2026-11-05"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Home Alone 4",
-          "tmdb": {
-            "id": 12536,
-            "media_type": "movie",
-            "release_date": "2002-11-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Home Alone",
           "tmdb": {
             "id": 65282,
@@ -777,40 +759,58 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Peanuts Movie",
+          "rank": 6,
+          "title": "The 12 Dates of Christmas",
           "tmdb": {
-            "id": 227973,
+            "id": 1600653,
             "media_type": "movie",
-            "release_date": "2015-11-05"
+            "release_date": "2026-11-05"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Remarried Empress",
+          "tmdb": {
+            "id": 279246,
+            "media_type": "tv",
+            "release_date": "2026-11-03"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Home Alone 4",
+          "tmdb": {
+            "id": 12536,
+            "media_type": "movie",
+            "release_date": "2002-11-03"
           }
         },
         {
           "rank": 9,
-          "title": "Avengers: Age of Ultron",
+          "title": "Toy Story 5",
           "tmdb": {
-            "id": 99861,
+            "id": 1084244,
             "media_type": "movie",
-            "release_date": "2015-04-22"
+            "release_date": "2026-06-17"
           }
         },
         {
           "rank": 10,
-          "title": "All's Fair",
+          "title": "Home Alone 2: Lost in New York",
           "tmdb": {
-            "id": 258742,
-            "media_type": "tv",
-            "release_date": "2025-11-04"
+            "id": 772,
+            "media_type": "movie",
+            "release_date": "1992-11-15"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in the United States on November 8, 2026",
+      "heading": "TOP Movies on Disney+ in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -860,24 +860,6 @@
         },
         {
           "rank": 6,
-          "title": "Monsters, Inc.",
-          "tmdb": {
-            "id": 585,
-            "media_type": "movie",
-            "release_date": "2001-11-01"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Super Troopers 3",
-          "tmdb": {
-            "id": 675871,
-            "media_type": "movie",
-            "release_date": "2026-08-06"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Santa Clause",
           "tmdb": {
             "id": 11395,
@@ -886,7 +868,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Coraline",
           "tmdb": {
             "id": 14836,
@@ -895,22 +877,40 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Frozen",
           "tmdb": {
             "id": 109445,
             "media_type": "movie",
             "release_date": "2013-11-20"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Super Troopers 3",
+          "tmdb": {
+            "id": 675871,
+            "media_type": "movie",
+            "release_date": "2026-08-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Monsters, Inc.",
+          "tmdb": {
+            "id": 585,
+            "media_type": "movie",
+            "release_date": "2001-11-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Disney+ in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -924,42 +924,6 @@
         },
         {
           "rank": 2,
-          "title": "9-1-1",
-          "tmdb": {
-            "id": 75219,
-            "media_type": "tv",
-            "release_date": "2018-01-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Grey's Anatomy",
-          "tmdb": {
-            "id": 1416,
-            "media_type": "tv",
-            "release_date": "2005-03-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "9-1-1: Nashville",
-          "tmdb": {
-            "id": 284838,
-            "media_type": "tv",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Abbott Elementary",
-          "tmdb": {
-            "id": 125935,
-            "media_type": "tv",
-            "release_date": "2021-12-07"
-          }
-        },
-        {
-          "rank": 6,
           "title": "The Remarried Empress",
           "tmdb": {
             "id": 279246,
@@ -968,16 +932,43 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Dancing with the Stars",
+          "rank": 3,
+          "title": "9-1-1",
           "tmdb": {
-            "id": 1508,
+            "id": 75219,
             "media_type": "tv",
-            "release_date": "2005-06-01"
+            "release_date": "2018-01-03"
           }
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "title": "Abbott Elementary",
+          "tmdb": {
+            "id": 125935,
+            "media_type": "tv",
+            "release_date": "2021-12-07"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "20/20",
+          "tmdb": {
+            "id": 2035,
+            "media_type": "tv",
+            "release_date": "1978-06-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Grey's Anatomy",
+          "tmdb": {
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
+          }
+        },
+        {
+          "rank": 7,
           "title": "All's Fair",
           "tmdb": {
             "id": 258742,
@@ -986,31 +977,40 @@
           }
         },
         {
+          "rank": 8,
+          "title": "9-1-1: Nashville",
+          "tmdb": {
+            "id": 284838,
+            "media_type": "tv",
+            "release_date": "2025-10-09"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Dancing with the Stars",
+          "tmdb": {
+            "id": 1508,
+            "media_type": "tv",
+            "release_date": "2005-06-01"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Kardashians",
           "tmdb": {
             "id": 154521,
             "media_type": "tv",
             "release_date": "2022-04-14"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Hell's Kitchen",
-          "tmdb": {
-            "id": 2370,
-            "media_type": "tv",
-            "release_date": "2005-05-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in the United States on November 8, 2026",
+      "heading": "TOP Overall on Amazon Prime in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1033,20 +1033,6 @@
         },
         {
           "rank": 3,
-          "title": "Carrie",
-          "tmdb": {
-            "id": 288673,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Amazon Music Live: Lainey Wilson",
-          "tmdb": null
-        },
-        {
-          "rank": 5,
           "title": "HUNGRY",
           "tmdb": {
             "id": 1382832,
@@ -1055,7 +1041,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "Hunting Season",
           "tmdb": {
             "id": 1387382,
@@ -1064,7 +1050,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "Campus Drivers",
           "tmdb": {
             "id": 303044,
@@ -1073,94 +1059,25 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Total Recall",
-          "tmdb": {
-            "id": 861,
-            "media_type": "movie",
-            "release_date": "1990-06-01"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "First Winter",
-          "tmdb": {
-            "id": 136928,
-            "media_type": "movie",
-            "release_date": "2012-10-11"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Neagley",
-          "tmdb": {
-            "id": 273207,
-            "media_type": "tv",
-            "release_date": "2026-09-16"
-          }
-        }
-      ]
-    },
-    {
-      "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in the United States on November 8, 2026",
-      "category": "movies",
-      "platform": "Amazon Prime",
-      "date": "November 8, 2026",
-      "title_count": 10,
-      "entries": [
-        {
-          "rank": 1,
-          "title": "Amazon Music Live: Lainey Wilson",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
-          "title": "HUNGRY",
-          "tmdb": {
-            "id": 1382832,
-            "media_type": "movie",
-            "release_date": "2026-06-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Hunting Season",
-          "tmdb": {
-            "id": 1387382,
-            "media_type": "movie",
-            "release_date": "2025-12-05"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Total Recall",
-          "tmdb": {
-            "id": 861,
-            "media_type": "movie",
-            "release_date": "1990-06-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "First Winter",
-          "tmdb": {
-            "id": 136928,
-            "media_type": "movie",
-            "release_date": "2012-10-11"
-          }
-        },
-        {
           "rank": 6,
-          "title": "Apocalypse Z: New World",
+          "title": "Carrie",
           "tmdb": {
-            "id": 1507696,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
+            "id": 288673,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
           }
         },
         {
           "rank": 7,
+          "title": "Total Recall",
+          "tmdb": {
+            "id": 861,
+            "media_type": "movie",
+            "release_date": "1990-06-01"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Elf",
           "tmdb": {
             "id": 10719,
@@ -1169,12 +1086,103 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Apocalypse Z: New World",
+          "tmdb": {
+            "id": 1507696,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "First Winter",
+          "tmdb": {
+            "id": 136928,
+            "media_type": "movie",
+            "release_date": "2012-10-11"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "amazon-prime.movies",
+      "heading": "TOP Movies on Amazon Prime in the United States on November 9, 2026",
+      "category": "movies",
+      "platform": "Amazon Prime",
+      "date": "November 9, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "HUNGRY",
+          "tmdb": {
+            "id": 1382832,
+            "media_type": "movie",
+            "release_date": "2026-06-03"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Hunting Season",
+          "tmdb": {
+            "id": 1387382,
+            "media_type": "movie",
+            "release_date": "2025-12-05"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Total Recall",
+          "tmdb": {
+            "id": 861,
+            "media_type": "movie",
+            "release_date": "1990-06-01"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Elf",
+          "tmdb": {
+            "id": 10719,
+            "media_type": "movie",
+            "release_date": "2003-11-07"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Apocalypse Z: New World",
+          "tmdb": {
+            "id": 1507696,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "First Winter",
+          "tmdb": {
+            "id": 136928,
+            "media_type": "movie",
+            "release_date": "2012-10-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Dark Nature",
           "tmdb": {
             "id": 39322,
             "media_type": "movie",
             "release_date": "2010-06-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Drive - The Pretenders",
+          "tmdb": {
+            "id": 1596275,
+            "media_type": "movie",
+            "release_date": "2026-10-27"
           }
         },
         {
@@ -1188,21 +1196,21 @@
         },
         {
           "rank": 10,
-          "title": "Drive - The Pretenders",
+          "title": "Love of Your Life",
           "tmdb": {
-            "id": 1596275,
+            "id": 1381078,
             "media_type": "movie",
-            "release_date": "2026-10-27"
+            "release_date": "2026-10-07"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1225,20 +1233,20 @@
         },
         {
           "rank": 3,
-          "title": "Carrie",
-          "tmdb": {
-            "id": 288673,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Campus Drivers",
           "tmdb": {
             "id": 303044,
             "media_type": "tv",
             "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Carrie",
+          "tmdb": {
+            "id": 288673,
+            "media_type": "tv",
+            "release_date": "2026-10-07"
           }
         },
         {
@@ -1279,30 +1287,30 @@
         },
         {
           "rank": 9,
+          "title": "When Calls the Heart",
+          "tmdb": {
+            "id": 61865,
+            "media_type": "tv",
+            "release_date": "2014-01-11"
+          }
+        },
+        {
+          "rank": 10,
           "title": "On Call",
           "tmdb": {
             "id": 236429,
             "media_type": "tv",
             "release_date": "2025-01-09"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Sight Unseen",
-          "tmdb": {
-            "id": 242535,
-            "media_type": "tv",
-            "release_date": "2024-01-21"
-          }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in the United States on November 8, 2026",
+      "heading": "TOP Movies on Paramount+ in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1352,57 +1360,57 @@
         },
         {
           "rank": 6,
-          "title": "The Italian Job",
+          "title": "The A-Team",
           "tmdb": {
-            "id": 9654,
+            "id": 34544,
             "media_type": "movie",
-            "release_date": "2003-05-30"
+            "release_date": "2010-06-09"
           }
         },
         {
           "rank": 7,
-          "title": "Behind Enemy Lines",
+          "title": "Jeff Dunham: 250th Red, White, and Blue Birthday Special",
           "tmdb": {
-            "id": 8007,
+            "id": 1734155,
             "media_type": "movie",
-            "release_date": "2001-11-30"
+            "release_date": "2026-07-02"
           }
         },
         {
           "rank": 8,
+          "title": "Bad Santa",
+          "tmdb": {
+            "id": 10147,
+            "media_type": "movie",
+            "release_date": "2003-11-26"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "No Strings Attached",
+          "tmdb": {
+            "id": 41630,
+            "media_type": "movie",
+            "release_date": "2011-01-21"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Rush Hour",
           "tmdb": {
             "id": 2109,
             "media_type": "movie",
             "release_date": "1998-09-18"
           }
-        },
-        {
-          "rank": 9,
-          "title": "We're the Millers",
-          "tmdb": {
-            "id": 138832,
-            "media_type": "movie",
-            "release_date": "2013-08-07"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "13 Hours: The Secret Soldiers of Benghazi",
-          "tmdb": {
-            "id": 300671,
-            "media_type": "movie",
-            "release_date": "2016-01-14"
-          }
         }
       ]
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Paramount+ in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1434,17 +1442,21 @@
         },
         {
           "rank": 4,
+          "title": "NCIS",
+          "tmdb": {
+            "id": 4614,
+            "media_type": "tv",
+            "release_date": "2003-09-23"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Fire Country",
           "tmdb": {
             "id": 202297,
             "media_type": "tv",
             "release_date": "2022-10-07"
           }
-        },
-        {
-          "rank": 5,
-          "title": "UFC Fight Night",
-          "tmdb": null
         },
         {
           "rank": 6,
@@ -1457,15 +1469,6 @@
         },
         {
           "rank": 7,
-          "title": "NCIS",
-          "tmdb": {
-            "id": 4614,
-            "media_type": "tv",
-            "release_date": "2003-09-23"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Everybody Loves Raymond",
           "tmdb": {
             "id": 2140,
@@ -1474,7 +1477,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Marshals",
           "tmdb": {
             "id": 290856,
@@ -1483,22 +1486,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Boston Blue",
+          "rank": 9,
+          "title": "Criminal Minds",
           "tmdb": {
-            "id": 284736,
+            "id": 4057,
             "media_type": "tv",
-            "release_date": "2025-10-17"
+            "release_date": "2005-09-22"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Tracker",
+          "tmdb": {
+            "id": 211288,
+            "media_type": "tv",
+            "release_date": "2024-02-11"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Paramount+ in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Paramount+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1521,42 +1533,6 @@
         },
         {
           "rank": 3,
-          "title": "Dexter: Resurrection",
-          "tmdb": {
-            "id": 259909,
-            "media_type": "tv",
-            "release_date": "2025-07-13"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Cupertino",
-          "tmdb": {
-            "id": 303630,
-            "media_type": "tv",
-            "release_date": "2026-10-08"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Sheriff Country",
           "tmdb": {
             "id": 253391,
@@ -1565,7 +1541,52 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Dexter: Resurrection",
+          "tmdb": {
+            "id": 259909,
+            "media_type": "tv",
+            "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Fire Country",
+          "tmdb": {
+            "id": 202297,
+            "media_type": "tv",
+            "release_date": "2022-10-07"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Boston Blue",
+          "tmdb": {
+            "id": 284736,
+            "media_type": "tv",
+            "release_date": "2025-10-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Marshals",
+          "tmdb": {
+            "id": 290856,
+            "media_type": "tv",
+            "release_date": "2026-03-01"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Cupertino",
+          "tmdb": {
+            "id": 303630,
+            "media_type": "tv",
+            "release_date": "2026-10-08"
+          }
+        },
+        {
+          "rank": 9,
           "title": "All the Queen's Men",
           "tmdb": {
             "id": 133174,
@@ -1574,31 +1595,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Eternally Yours",
-          "tmdb": {
-            "id": 313630,
-            "media_type": "tv",
-            "release_date": "2026-10-08"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Fire Country",
+          "title": "Elsbeth",
           "tmdb": {
-            "id": 202297,
+            "id": 226285,
             "media_type": "tv",
-            "release_date": "2022-10-07"
+            "release_date": "2024-02-29"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in the United States on November 8, 2026",
+      "heading": "TOP Movies on Apple TV in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1695,10 +1707,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Apple TV in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1775,30 +1787,30 @@
         },
         {
           "rank": 9,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Awkwafina: The Unlikely Cook",
           "tmdb": {
             "id": 306179,
             "media_type": "tv",
             "release_date": "2026-11-06"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Small Prophets",
+          "tmdb": {
+            "id": 312693,
+            "media_type": "tv",
+            "release_date": "2026-02-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Apple TV in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Apple TV",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1830,20 +1842,20 @@
         },
         {
           "rank": 4,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Nice Guys",
           "tmdb": {
             "id": 290250,
             "media_type": "movie",
             "release_date": "2016-05-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
           }
         },
         {
@@ -1857,15 +1869,6 @@
         },
         {
           "rank": 7,
-          "title": "Small Prophets",
-          "tmdb": {
-            "id": 312693,
-            "media_type": "tv",
-            "release_date": "2026-02-09"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Widow's Bay",
           "tmdb": {
             "id": 270476,
@@ -1874,31 +1877,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Dark Matter",
+          "rank": 8,
+          "title": "Small Prophets",
           "tmdb": {
-            "id": 196322,
+            "id": 312693,
             "media_type": "tv",
-            "release_date": "2024-05-07"
+            "release_date": "2026-02-09"
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "Get Smart",
           "tmdb": {
             "id": 4455,
             "media_type": "tv",
             "release_date": "1965-09-18"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Mayday",
+          "tmdb": {
+            "id": 90,
+            "media_type": "tv",
+            "release_date": "2003-09-03"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon.movies",
-      "heading": "TOP Movies on Amazon in the United States on November 8, 2026",
+      "heading": "TOP Movies on Amazon in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Amazon",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1948,15 +1960,6 @@
         },
         {
           "rank": 6,
-          "title": "Practical Magic 2",
-          "tmdb": {
-            "id": 1302904,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Primetime",
           "tmdb": {
             "id": 1375441,
@@ -1965,7 +1968,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Practical Magic 2",
+          "tmdb": {
+            "id": 1302904,
+            "media_type": "movie",
+            "release_date": "2026-09-09"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Mutiny",
+          "tmdb": {
+            "id": 1288445,
+            "media_type": "movie",
+            "release_date": "2026-08-19"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Runner",
           "tmdb": {
             "id": 1377237,
@@ -1974,31 +1995,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Mutiny",
+          "title": "Sense and Sensibility",
           "tmdb": {
-            "id": 1288445,
+            "id": 1503762,
             "media_type": "movie",
-            "release_date": "2026-08-19"
+            "release_date": "2026-09-23"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon.series",
-      "heading": "TOP TV Shows on Amazon in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Amazon in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Amazon",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2048,20 +2060,20 @@
         },
         {
           "rank": 6,
-          "title": "Tyler Perry's Sistas",
+          "title": "The Rainmaker",
           "tmdb": {
-            "id": 94686,
+            "id": 256711,
             "media_type": "tv",
-            "release_date": "2019-10-23"
+            "release_date": "2025-08-15"
           }
         },
         {
           "rank": 7,
-          "title": "The Real Housewives of Orange County",
+          "title": "The Rainmaker",
           "tmdb": {
-            "id": 10222,
+            "id": 256711,
             "media_type": "tv",
-            "release_date": "2006-03-21"
+            "release_date": "2025-08-15"
           }
         },
         {
@@ -2075,11 +2087,11 @@
         },
         {
           "rank": 9,
-          "title": "Dexter: Resurrection",
+          "title": "The Real Housewives of Orange County",
           "tmdb": {
-            "id": 259909,
+            "id": 10222,
             "media_type": "tv",
-            "release_date": "2025-07-13"
+            "release_date": "2006-03-21"
           }
         },
         {
@@ -2095,10 +2107,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in the United States on November 8, 2026",
+      "heading": "TOP Movies on Apple TV Store in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2121,20 +2133,20 @@
         },
         {
           "rank": 3,
-          "title": "Verity",
-          "tmdb": {
-            "id": 1283515,
-            "media_type": "movie",
-            "release_date": "2026-09-30"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Primetime",
           "tmdb": {
             "id": 1375441,
             "media_type": "movie",
             "release_date": "2026-09-23"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Verity",
+          "tmdb": {
+            "id": 1283515,
+            "media_type": "movie",
+            "release_date": "2026-09-30"
           }
         },
         {
@@ -2175,11 +2187,11 @@
         },
         {
           "rank": 9,
-          "title": "Caddyshack",
+          "title": "The End of Oak Street",
           "tmdb": {
-            "id": 11977,
+            "id": 1101383,
             "media_type": "movie",
-            "release_date": "1980-07-25"
+            "release_date": "2026-08-12"
           }
         },
         {
@@ -2195,10 +2207,10 @@
     },
     {
       "catalog_id": "apple-tv-store.series",
-      "heading": "TOP TV Shows on Apple TV Store in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Apple TV Store in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Apple TV Store",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2221,20 +2233,20 @@
         },
         {
           "rank": 3,
-          "title": "Lanterns",
-          "tmdb": {
-            "id": 95350,
-            "media_type": "tv",
-            "release_date": "2026-08-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Power",
           "tmdb": {
             "id": 54650,
             "media_type": "tv",
             "release_date": "2014-06-07"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Lanterns",
+          "tmdb": {
+            "id": 95350,
+            "media_type": "tv",
+            "release_date": "2026-08-16"
           }
         },
         {
@@ -2248,20 +2260,20 @@
         },
         {
           "rank": 6,
-          "title": "Shameless",
-          "tmdb": {
-            "id": 34307,
-            "media_type": "tv",
-            "release_date": "2011-01-09"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Billions",
           "tmdb": {
             "id": 62852,
             "media_type": "tv",
             "release_date": "2016-01-17"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Shameless",
+          "tmdb": {
+            "id": 34307,
+            "media_type": "tv",
+            "release_date": "2011-01-09"
           }
         },
         {
@@ -2275,30 +2287,30 @@
         },
         {
           "rank": 9,
-          "title": "The Tudors",
-          "tmdb": {
-            "id": 2942,
-            "media_type": "tv",
-            "release_date": "2007-04-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Homeland",
           "tmdb": {
             "id": 1407,
             "media_type": "tv",
             "release_date": "2011-10-02"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Heated Rivalry",
+          "tmdb": {
+            "id": 301507,
+            "media_type": "tv",
+            "release_date": "2025-11-28"
+          }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in the United States on November 8, 2026",
+      "heading": "TOP Movies on Google in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2321,11 +2333,11 @@
         },
         {
           "rank": 3,
-          "title": "Buddy",
+          "title": "Primetime",
           "tmdb": {
-            "id": 1514026,
+            "id": 1375441,
             "media_type": "movie",
-            "release_date": "2026-08-27"
+            "release_date": "2026-09-23"
           }
         },
         {
@@ -2339,6 +2351,15 @@
         },
         {
           "rank": 5,
+          "title": "Buddy",
+          "tmdb": {
+            "id": 1514026,
+            "media_type": "movie",
+            "release_date": "2026-08-27"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -2347,34 +2368,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Primetime",
-          "tmdb": {
-            "id": 1375441,
-            "media_type": "movie",
-            "release_date": "2026-09-23"
-          }
-        },
-        {
           "rank": 7,
-          "title": "V for Vendetta",
+          "title": "The End of Oak Street",
           "tmdb": {
-            "id": 752,
+            "id": 1101383,
             "media_type": "movie",
-            "release_date": "2006-02-23"
+            "release_date": "2026-08-12"
           }
         },
         {
           "rank": 8,
-          "title": "Practical Magic 2",
-          "tmdb": {
-            "id": 1302904,
-            "media_type": "movie",
-            "release_date": "2026-09-09"
-          }
-        },
-        {
-          "rank": 9,
           "title": "By Any Means",
           "tmdb": {
             "id": 1380417,
@@ -2383,31 +2386,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Insidious: Out of the Further",
+          "rank": 9,
+          "title": "Practical Magic 2",
           "tmdb": {
-            "id": 1291595,
+            "id": 1302904,
             "media_type": "movie",
-            "release_date": "2026-08-19"
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Forgotten Island",
+          "tmdb": {
+            "id": 1465063,
+            "media_type": "movie",
+            "release_date": "2026-09-10"
           }
         }
       ]
     },
     {
       "catalog_id": "vudu.movies",
-      "heading": "TOP Movies on Vudu in the United States on November 8, 2026",
+      "heading": "TOP Movies on Vudu in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Vudu",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Becoming Traviata",
+          "title": "Silent Night, Deadly Night",
           "tmdb": {
-            "id": 146592,
+            "id": 801937,
             "media_type": "movie",
-            "release_date": "2012-10-24"
+            "release_date": "2025-12-10"
           }
         },
         {
@@ -2430,6 +2442,15 @@
         },
         {
           "rank": 4,
+          "title": "Godzilla",
+          "tmdb": {
+            "id": 124905,
+            "media_type": "movie",
+            "release_date": "2014-05-14"
+          }
+        },
+        {
+          "rank": 5,
           "title": "The Super Mario Bros. Movie",
           "tmdb": {
             "id": 502356,
@@ -2438,21 +2459,12 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Grinch",
           "tmdb": {
             "id": 360920,
             "media_type": "movie",
             "release_date": "2018-11-08"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Godzilla",
-          "tmdb": {
-            "id": 124905,
-            "media_type": "movie",
-            "release_date": "2014-05-14"
           }
         },
         {
@@ -2466,15 +2478,6 @@
         },
         {
           "rank": 8,
-          "title": "Gladiator",
-          "tmdb": {
-            "id": 98,
-            "media_type": "movie",
-            "release_date": "2000-05-04"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Tombstone",
           "tmdb": {
             "id": 11969,
@@ -2483,22 +2486,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "PAW Patrol: The Dino Movie",
+          "rank": 9,
+          "title": "How the Grinch Stole Christmas",
           "tmdb": {
-            "id": 1185806,
+            "id": 8871,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "2000-11-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Verity",
+          "tmdb": {
+            "id": 1283515,
+            "media_type": "movie",
+            "release_date": "2026-09-30"
           }
         }
       ]
     },
     {
       "catalog_id": "vudu.series",
-      "heading": "TOP TV Shows on Vudu in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Vudu in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Vudu",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2539,20 +2551,20 @@
         },
         {
           "rank": 5,
+          "title": "The Hooters Murders: Deadly Shift",
+          "tmdb": {
+            "id": 1759508,
+            "media_type": "movie",
+            "release_date": "2026-09-07"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Southern Fried Lies",
           "tmdb": {
             "id": 1472372,
             "media_type": "movie",
             "release_date": "2025-04-27"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Big Bang Theory",
-          "tmdb": {
-            "id": 1418,
-            "media_type": "tv",
-            "release_date": "2007-09-24"
           }
         },
         {
@@ -2595,10 +2607,10 @@
     },
     {
       "catalog_id": "starz.movies",
-      "heading": "TOP Movies on Starz in the United States on November 8, 2026",
+      "heading": "TOP Movies on Starz in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Starz",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2648,11 +2660,11 @@
         },
         {
           "rank": 6,
-          "title": "Jurassic World",
+          "title": "Shelter",
           "tmdb": {
-            "id": 135397,
+            "id": 1290821,
             "media_type": "movie",
-            "release_date": "2015-06-06"
+            "release_date": "2026-01-28"
           }
         },
         {
@@ -2666,15 +2678,6 @@
         },
         {
           "rank": 8,
-          "title": "Shelter",
-          "tmdb": {
-            "id": 1290821,
-            "media_type": "movie",
-            "release_date": "2026-01-28"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Alarum",
           "tmdb": {
             "id": 1249289,
@@ -2683,22 +2686,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Oscar Shaw",
+          "rank": 9,
+          "title": "The Preacher's Wife",
           "tmdb": {
-            "id": 1601243,
+            "id": 21539,
             "media_type": "movie",
-            "release_date": "2026-01-09"
+            "release_date": "1996-12-13"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Colombiana",
+          "tmdb": {
+            "id": 62835,
+            "media_type": "movie",
+            "release_date": "2011-07-27"
           }
         }
       ]
     },
     {
       "catalog_id": "starz.series",
-      "heading": "TOP TV Shows on Starz in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Starz in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Starz",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2721,20 +2733,20 @@
         },
         {
           "rank": 3,
-          "title": "Power Book IV: Force",
-          "tmdb": {
-            "id": 119845,
-            "media_type": "tv",
-            "release_date": "2022-02-06"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Power Book II: Ghost",
           "tmdb": {
             "id": 97890,
             "media_type": "tv",
             "release_date": "2020-09-06"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Power Book IV: Force",
+          "tmdb": {
+            "id": 119845,
+            "media_type": "tv",
+            "release_date": "2022-02-06"
           }
         },
         {
@@ -2757,6 +2769,15 @@
         },
         {
           "rank": 7,
+          "title": "Fightland",
+          "tmdb": {
+            "id": 8840,
+            "media_type": "tv",
+            "release_date": "2026-07-31"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Power",
           "tmdb": {
             "id": 54650,
@@ -2765,21 +2786,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Outlander",
           "tmdb": {
             "id": 56570,
             "media_type": "tv",
             "release_date": "2014-08-09"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Fightland",
-          "tmdb": {
-            "id": 8840,
-            "media_type": "tv",
-            "release_date": "2026-07-31"
           }
         },
         {
@@ -2795,10 +2807,10 @@
     },
     {
       "catalog_id": "starz.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Starz in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Starz in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Starz",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -2821,11 +2833,11 @@
         },
         {
           "rank": 3,
-          "title": "Haunted Heist",
+          "title": "A Richer Christmas",
           "tmdb": {
-            "id": 1384040,
+            "id": 1800082,
             "media_type": "movie",
-            "release_date": "2026-07-24"
+            "release_date": "2026-11-01"
           }
         },
         {
@@ -2839,6 +2851,15 @@
         },
         {
           "rank": 5,
+          "title": "Haunted Heist",
+          "tmdb": {
+            "id": 1384040,
+            "media_type": "movie",
+            "release_date": "2026-07-24"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -2847,21 +2868,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Oscar Shaw",
           "tmdb": {
             "id": 1601243,
             "media_type": "movie",
             "release_date": "2026-01-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "A Richer Christmas",
-          "tmdb": {
-            "id": 1800082,
-            "media_type": "movie",
-            "release_date": "2026-11-01"
           }
         },
         {
@@ -2875,61 +2887,43 @@
         },
         {
           "rank": 9,
-          "title": "Shelter",
-          "tmdb": {
-            "id": 1290821,
-            "media_type": "movie",
-            "release_date": "2026-01-28"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Alarum",
           "tmdb": {
             "id": 1249289,
             "media_type": "movie",
             "release_date": "2025-01-16"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Shelter",
+          "tmdb": {
+            "id": 1290821,
+            "media_type": "movie",
+            "release_date": "2026-01-28"
+          }
         }
       ]
     },
     {
       "catalog_id": "hulu.overall",
-      "heading": "TOP Overall on Hulu in the United States on November 8, 2026",
+      "heading": "TOP Overall on Hulu in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Hulu",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Grey's Anatomy",
+          "title": "20/20",
           "tmdb": {
-            "id": 1416,
+            "id": 2035,
             "media_type": "tv",
-            "release_date": "2005-03-27"
+            "release_date": "1978-06-06"
           }
         },
         {
           "rank": 2,
-          "title": "9-1-1",
-          "tmdb": {
-            "id": 75219,
-            "media_type": "tv",
-            "release_date": "2018-01-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "9-1-1: Nashville",
-          "tmdb": {
-            "id": 284838,
-            "media_type": "tv",
-            "release_date": "2025-10-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Super Troopers 3",
           "tmdb": {
             "id": 675871,
@@ -2938,25 +2932,34 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Kardashians",
+          "rank": 3,
+          "title": "9-1-1",
           "tmdb": {
-            "id": 154521,
+            "id": 75219,
             "media_type": "tv",
-            "release_date": "2022-04-14"
+            "release_date": "2018-01-03"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Grey's Anatomy",
+          "tmdb": {
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "9-1-1: Nashville",
+          "tmdb": {
+            "id": 284838,
+            "media_type": "tv",
+            "release_date": "2025-10-09"
           }
         },
         {
           "rank": 6,
-          "title": "Hell's Kitchen",
-          "tmdb": {
-            "id": 2370,
-            "media_type": "tv",
-            "release_date": "2005-05-30"
-          }
-        },
-        {
-          "rank": 7,
           "title": "The 12 Dates of Christmas",
           "tmdb": {
             "id": 1600653,
@@ -2965,12 +2968,21 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "All's Fair",
           "tmdb": {
             "id": 258742,
             "media_type": "tv",
             "release_date": "2025-11-04"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Kardashians",
+          "tmdb": {
+            "id": 154521,
+            "media_type": "tv",
+            "release_date": "2022-04-14"
           }
         },
         {
@@ -2984,21 +2996,21 @@
         },
         {
           "rank": 10,
-          "title": "General Hospital",
+          "title": "Reasonable Doubt",
           "tmdb": {
-            "id": 987,
+            "id": 205272,
             "media_type": "tv",
-            "release_date": "1963-04-01"
+            "release_date": "2022-09-27"
           }
         }
       ]
     },
     {
       "catalog_id": "hulu.movies",
-      "heading": "TOP Movies on Hulu in the United States on November 8, 2026",
+      "heading": "TOP Movies on Hulu in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Hulu",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3030,15 +3042,6 @@
         },
         {
           "rank": 4,
-          "title": "Leviticus",
-          "tmdb": {
-            "id": 1564614,
-            "media_type": "movie",
-            "release_date": "2026-06-17"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Holiday",
           "tmdb": {
             "id": 1581,
@@ -3047,7 +3050,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "The Hunger Games: Catching Fire",
           "tmdb": {
             "id": 101299,
@@ -3056,7 +3059,25 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Babygirl",
+          "tmdb": {
+            "id": 1097549,
+            "media_type": "movie",
+            "release_date": "2024-12-25"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Leviticus",
+          "tmdb": {
+            "id": 1564614,
+            "media_type": "movie",
+            "release_date": "2026-06-17"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Grown Ups",
           "tmdb": {
             "id": 38365,
@@ -3065,49 +3086,40 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "title": "Why Him?",
+          "tmdb": {
+            "id": 356305,
+            "media_type": "movie",
+            "release_date": "2016-12-22"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Monsters University",
           "tmdb": {
             "id": 62211,
             "media_type": "movie",
             "release_date": "2013-06-19"
           }
-        },
-        {
-          "rank": 9,
-          "title": "Coraline",
-          "tmdb": {
-            "id": 14836,
-            "media_type": "movie",
-            "release_date": "2009-02-05"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "A Bad Moms Christmas",
-          "tmdb": {
-            "id": 431530,
-            "media_type": "movie",
-            "release_date": "2017-08-04"
-          }
         }
       ]
     },
     {
       "catalog_id": "hulu.series",
-      "heading": "TOP TV Shows on Hulu in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Hulu in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Hulu",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Grey's Anatomy",
+          "title": "20/20",
           "tmdb": {
-            "id": 1416,
+            "id": 2035,
             "media_type": "tv",
-            "release_date": "2005-03-27"
+            "release_date": "1978-06-06"
           }
         },
         {
@@ -3121,6 +3133,15 @@
         },
         {
           "rank": 3,
+          "title": "Grey's Anatomy",
+          "tmdb": {
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
+          }
+        },
+        {
+          "rank": 4,
           "title": "9-1-1: Nashville",
           "tmdb": {
             "id": 284838,
@@ -3129,30 +3150,21 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Kardashians",
-          "tmdb": {
-            "id": 154521,
-            "media_type": "tv",
-            "release_date": "2022-04-14"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Hell's Kitchen",
-          "tmdb": {
-            "id": 2370,
-            "media_type": "tv",
-            "release_date": "2005-05-30"
-          }
-        },
-        {
-          "rank": 6,
           "title": "All's Fair",
           "tmdb": {
             "id": 258742,
             "media_type": "tv",
             "release_date": "2025-11-04"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Kardashians",
+          "tmdb": {
+            "id": 154521,
+            "media_type": "tv",
+            "release_date": "2022-04-14"
           }
         },
         {
@@ -3166,20 +3178,20 @@
         },
         {
           "rank": 8,
-          "title": "General Hospital",
-          "tmdb": {
-            "id": 987,
-            "media_type": "tv",
-            "release_date": "1963-04-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Reasonable Doubt",
           "tmdb": {
             "id": 205272,
             "media_type": "tv",
             "release_date": "2022-09-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Hell's Kitchen",
+          "tmdb": {
+            "id": 2370,
+            "media_type": "tv",
+            "release_date": "2005-05-30"
           }
         },
         {
@@ -3195,10 +3207,10 @@
     },
     {
       "catalog_id": "peacock.movies",
-      "heading": "TOP Movies on Peacock in the United States on November 8, 2026",
+      "heading": "TOP Movies on Peacock in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Peacock",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3230,20 +3242,20 @@
         },
         {
           "rank": 4,
-          "title": "Disclosure Day",
-          "tmdb": {
-            "id": 1275779,
-            "media_type": "movie",
-            "release_date": "2026-06-10"
-          }
-        },
-        {
-          "rank": 5,
           "title": "How the Grinch Stole Christmas",
           "tmdb": {
             "id": 8871,
             "media_type": "movie",
             "release_date": "2000-11-17"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Disclosure Day",
+          "tmdb": {
+            "id": 1275779,
+            "media_type": "movie",
+            "release_date": "2026-06-10"
           }
         },
         {
@@ -3266,20 +3278,20 @@
         },
         {
           "rank": 8,
-          "title": "The Cat in the Hat",
-          "tmdb": {
-            "id": 1117898,
-            "media_type": "movie",
-            "release_date": "2026-10-31"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Lorax",
           "tmdb": {
             "id": 73723,
             "media_type": "movie",
             "release_date": "2012-03-01"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Cat in the Hat",
+          "tmdb": {
+            "id": 1117898,
+            "media_type": "movie",
+            "release_date": "2026-10-31"
           }
         },
         {
@@ -3295,23 +3307,14 @@
     },
     {
       "catalog_id": "peacock.series",
-      "heading": "TOP TV Shows on Peacock in the United States on November 8, 2026",
+      "heading": "TOP TV Shows on Peacock in the United States on November 9, 2026",
       "category": "tv shows",
       "platform": "Peacock",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Newlyweds",
-          "tmdb": {
-            "id": 322267,
-            "media_type": "tv",
-            "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Law & Order: Special Victims Unit",
           "tmdb": {
             "id": 2734,
@@ -3320,52 +3323,25 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Traitors",
+          "rank": 2,
+          "title": "Saturday Night Live",
           "tmdb": {
-            "id": 215943,
+            "id": 1667,
             "media_type": "tv",
-            "release_date": "2023-01-12"
+            "release_date": "1975-10-11"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Newlyweds",
+          "tmdb": {
+            "id": 322267,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
           }
         },
         {
           "rank": 4,
-          "title": "Chicago P.D.",
-          "tmdb": {
-            "id": 58841,
-            "media_type": "tv",
-            "release_date": "2014-01-08"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Chicago Fire",
-          "tmdb": {
-            "id": 44006,
-            "media_type": "tv",
-            "release_date": "2012-10-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Chicago Med",
-          "tmdb": {
-            "id": 62650,
-            "media_type": "tv",
-            "release_date": "2015-11-17"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Happy's Place",
-          "tmdb": {
-            "id": 253896,
-            "media_type": "tv",
-            "release_date": "2024-10-18"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Fall and Rise of Reggie Dinkins",
           "tmdb": {
             "id": 291334,
@@ -3374,31 +3350,67 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Crystal Lake",
+          "rank": 5,
+          "title": "St. Denis Medical",
           "tmdb": {
-            "id": 213562,
+            "id": 251941,
             "media_type": "tv",
-            "release_date": "2026-10-15"
+            "release_date": "2024-11-12"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Traitors",
+          "tmdb": {
+            "id": 215943,
+            "media_type": "tv",
+            "release_date": "2023-01-12"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Chicago Fire",
+          "tmdb": {
+            "id": 44006,
+            "media_type": "tv",
+            "release_date": "2012-10-10"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Chicago P.D.",
+          "tmdb": {
+            "id": 58841,
+            "media_type": "tv",
+            "release_date": "2014-01-08"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Chicago Med",
+          "tmdb": {
+            "id": 62650,
+            "media_type": "tv",
+            "release_date": "2015-11-17"
           }
         },
         {
           "rank": 10,
-          "title": "Dateline",
+          "title": "Happy's Place",
           "tmdb": {
-            "id": 78,
+            "id": 253896,
             "media_type": "tv",
-            "release_date": "1992-03-31"
+            "release_date": "2024-10-18"
           }
         }
       ]
     },
     {
       "catalog_id": "pluto.movies",
-      "heading": "TOP Movies on Pluto in the United States on November 8, 2026",
+      "heading": "TOP Movies on Pluto in the United States on November 9, 2026",
       "category": "movies",
       "platform": "Pluto",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3495,10 +3507,10 @@
     },
     {
       "catalog_id": "tubi.overall",
-      "heading": "TOP Overall on Tubi in the United States on November 8, 2026",
+      "heading": "TOP Overall on Tubi in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Tubi",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3530,11 +3542,11 @@
         },
         {
           "rank": 4,
-          "title": "The Crow",
+          "title": "The Watch",
           "tmdb": {
-            "id": 9495,
-            "media_type": "movie",
-            "release_date": "1994-05-11"
+            "id": 94235,
+            "media_type": "tv",
+            "release_date": "2021-01-03"
           }
         },
         {
@@ -3548,11 +3560,11 @@
         },
         {
           "rank": 6,
-          "title": "Psycho Side Chick",
+          "title": "The Crow",
           "tmdb": {
-            "id": 1798918,
+            "id": 9495,
             "media_type": "movie",
-            "release_date": "2026-10-16"
+            "release_date": "1994-05-11"
           }
         },
         {
@@ -3566,39 +3578,39 @@
         },
         {
           "rank": 8,
-          "title": "The Waterboy",
-          "tmdb": {
-            "id": 10663,
-            "media_type": "movie",
-            "release_date": "1998-11-06"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Watch",
-          "tmdb": {
-            "id": 94235,
-            "media_type": "tv",
-            "release_date": "2021-01-03"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Mr. Deeds",
           "tmdb": {
             "id": 2022,
             "media_type": "movie",
             "release_date": "2002-06-28"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Born To Race",
+          "tmdb": {
+            "id": 74523,
+            "media_type": "movie",
+            "release_date": "2011-03-19"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "A Little Bit of Heaven",
+          "tmdb": {
+            "id": 45156,
+            "media_type": "movie",
+            "release_date": "2011-02-03"
+          }
         }
       ]
     },
     {
       "catalog_id": "viki-tv.overall",
-      "heading": "TOP Overall on Viki TV in the United States on November 8, 2026",
+      "heading": "TOP Overall on Viki TV in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Viki TV",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3695,10 +3707,10 @@
     },
     {
       "catalog_id": "discovery-plus.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Discovery Plus in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Discovery Plus in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Discovery Plus",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3784,21 +3796,21 @@
         },
         {
           "rank": 10,
-          "title": "Bobby Flay’s The Line",
+          "title": "The Serial Killer Connection",
           "tmdb": {
-            "id": 331164,
+            "id": 337700,
             "media_type": "tv",
-            "release_date": "2026-09-08"
+            "release_date": "2026-10-07"
           }
         }
       ]
     },
     {
       "catalog_id": "amc.overall",
-      "heading": "TOP Overall (from Amazon Channels) on AMC+ in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on AMC+ in the United States on November 9, 2026",
       "category": "overall",
       "platform": "AMC+",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3812,15 +3824,6 @@
         },
         {
           "rank": 2,
-          "title": "Kill Jackie",
-          "tmdb": {
-            "id": 284558,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Motor City",
           "tmdb": {
             "id": 87513,
@@ -3829,16 +3832,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Cycle",
+          "rank": 3,
+          "title": "Kill Jackie",
           "tmdb": {
-            "id": 1290418,
-            "media_type": "movie",
-            "release_date": "2026-09-24"
+            "id": 284558,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Hunting Matthew Nichols",
           "tmdb": {
             "id": 1308388,
@@ -3847,7 +3850,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Archive X: Unexplained Phenomena",
           "tmdb": {
             "id": 332808,
@@ -3856,12 +3859,21 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "Over Your Dead Body",
           "tmdb": {
             "id": 1390300,
             "media_type": "movie",
             "release_date": "2026-03-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Wildling",
+          "tmdb": {
+            "id": 362826,
+            "media_type": "movie",
+            "release_date": "2018-04-13"
           }
         },
         {
@@ -3875,30 +3887,30 @@
         },
         {
           "rank": 9,
-          "title": "Wildling",
-          "tmdb": {
-            "id": 362826,
-            "media_type": "movie",
-            "release_date": "2018-04-13"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Jurassic World Dominion",
           "tmdb": {
             "id": 507086,
             "media_type": "movie",
             "release_date": "2022-06-01"
           }
+        },
+        {
+          "rank": 10,
+          "title": "American Pie",
+          "tmdb": {
+            "id": 2105,
+            "media_type": "movie",
+            "release_date": "1999-07-09"
+          }
         }
       ]
     },
     {
       "catalog_id": "mgm.overall",
-      "heading": "TOP Overall (from Amazon Channels) on MGM in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on MGM in the United States on November 9, 2026",
       "category": "overall",
       "platform": "MGM",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -3912,15 +3924,6 @@
         },
         {
           "rank": 2,
-          "title": "American Hostage",
-          "tmdb": {
-            "id": 239618,
-            "media_type": "tv",
-            "release_date": "2026-09-20"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Treasure Island",
           "tmdb": {
             "id": 333101,
@@ -3929,7 +3932,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Institute",
           "tmdb": {
             "id": 253372,
@@ -3938,12 +3941,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Westies",
+          "rank": 4,
+          "title": "American Hostage",
           "tmdb": {
-            "id": 286709,
+            "id": 239618,
             "media_type": "tv",
-            "release_date": "2026-07-12"
+            "release_date": "2026-09-20"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Step Brothers",
+          "tmdb": {
+            "id": 12133,
+            "media_type": "movie",
+            "release_date": "2008-07-25"
           }
         },
         {
@@ -3957,11 +3969,11 @@
         },
         {
           "rank": 7,
-          "title": "Step Brothers",
+          "title": "The Westies",
           "tmdb": {
-            "id": 12133,
-            "media_type": "movie",
-            "release_date": "2008-07-25"
+            "id": 286709,
+            "media_type": "tv",
+            "release_date": "2026-07-12"
           }
         },
         {
@@ -3975,30 +3987,30 @@
         },
         {
           "rank": 9,
-          "title": "Deep Water",
-          "tmdb": {
-            "id": 1127384,
-            "media_type": "movie",
-            "release_date": "2026-04-30"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Underworld",
           "tmdb": {
             "id": 277,
             "media_type": "movie",
             "release_date": "2003-09-19"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Deep Water",
+          "tmdb": {
+            "id": 1127384,
+            "media_type": "movie",
+            "release_date": "2026-04-30"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-channels.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Amazon Channels in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Amazon Channels",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -4030,24 +4042,6 @@
         },
         {
           "rank": 4,
-          "title": "S.W.A.T. Exiles",
-          "tmdb": {
-            "id": 292742,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Outlander: Blood of My Blood",
-          "tmdb": {
-            "id": 207484,
-            "media_type": "tv",
-            "release_date": "2025-08-08"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Nocturne",
           "tmdb": {
             "id": 292741,
@@ -4056,7 +4050,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 5,
           "title": "All the Queen's Men",
           "tmdb": {
             "id": 133174,
@@ -4065,16 +4059,25 @@
           }
         },
         {
-          "rank": 8,
-          "title": "War",
+          "rank": 6,
+          "title": "S.W.A.T. Exiles",
           "tmdb": {
-            "id": 298852,
+            "id": 292742,
             "media_type": "tv",
-            "release_date": "2026-10-02"
+            "release_date": "2026-09-25"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Outlander: Blood of My Blood",
+          "tmdb": {
+            "id": 207484,
+            "media_type": "tv",
+            "release_date": "2025-08-08"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Ludwig",
           "tmdb": {
             "id": 243360,
@@ -4083,22 +4086,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Beyond the Gates",
+          "rank": 9,
+          "title": "Stick",
           "tmdb": {
-            "id": 248361,
+            "id": 248830,
             "media_type": "tv",
-            "release_date": "2025-02-24"
+            "release_date": "2025-06-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "A Story of Derry",
+          "tmdb": {
+            "id": 1813355,
+            "media_type": "movie",
+            "release_date": "2026-10-31"
           }
         }
       ]
     },
     {
       "catalog_id": "vix.overall",
-      "heading": "TOP Overall on VIX in the United States on November 8, 2026",
+      "heading": "TOP Overall on VIX in the United States on November 9, 2026",
       "category": "overall",
       "platform": "VIX",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -4195,10 +4207,10 @@
     },
     {
       "catalog_id": "crunchyroll.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Crunchyroll in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Crunchyroll",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -4212,33 +4224,6 @@
         },
         {
           "rank": 2,
-          "title": "The Apothecary Diaries",
-          "tmdb": {
-            "id": 220542,
-            "media_type": "tv",
-            "release_date": "2023-10-22"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Exiled Heavy Knight Knows How to Game the System",
-          "tmdb": {
-            "id": 270603,
-            "media_type": "tv",
-            "release_date": "2026-07-03"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Firefly Wedding",
-          "tmdb": {
-            "id": 320909,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Overgeared",
           "tmdb": {
             "id": 324502,
@@ -4247,7 +4232,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 3,
           "title": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
           "tmdb": {
             "id": 333622,
@@ -4256,16 +4241,25 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Romelia War Chronicle",
+          "rank": 4,
+          "title": "The Apothecary Diaries",
           "tmdb": {
-            "id": 305313,
+            "id": 220542,
             "media_type": "tv",
-            "release_date": "2026-10-05"
+            "release_date": "2023-10-22"
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+          "tmdb": {
+            "id": 283692,
+            "media_type": "tv",
+            "release_date": "2026-10-04"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Magical Explorer",
           "tmdb": {
             "id": 335194,
@@ -4274,44 +4268,53 @@
           }
         },
         {
-          "rank": 9,
-          "title": "A Tale of the Secret Saint",
+          "rank": 7,
+          "title": "Dragon Ball Super: Beerus",
           "tmdb": {
-            "id": 285899,
+            "id": 312359,
             "media_type": "tv",
-            "release_date": "2026-10-03"
+            "release_date": "2026-10-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Exiled Heavy Knight Knows How to Game the System",
+          "tmdb": {
+            "id": 270603,
+            "media_type": "tv",
+            "release_date": "2026-07-03"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Full Clearing Another World Under a Goddess with Zero Believers",
+          "tmdb": {
+            "id": 288588,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
           }
         },
         {
           "rank": 10,
-          "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+          "title": "Firefly Wedding",
           "tmdb": {
-            "id": 313346,
+            "id": 320909,
             "media_type": "tv",
-            "release_date": "2026-10-07"
+            "release_date": "2026-10-09"
           }
         }
       ]
     },
     {
       "catalog_id": "shudder.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Shudder in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Shudder in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Shudder",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Cycle",
-          "tmdb": {
-            "id": 1290418,
-            "media_type": "movie",
-            "release_date": "2026-09-24"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Hunting Matthew Nichols",
           "tmdb": {
             "id": 1308388,
@@ -4320,34 +4323,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "The Boulet Brothers' Dragula",
-          "tmdb": {
-            "id": 70940,
-            "media_type": "tv",
-            "release_date": "2016-10-31"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Scary Stories to Tell in the Dark",
-          "tmdb": {
-            "id": 417384,
-            "media_type": "movie",
-            "release_date": "2019-08-08"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "The North Witch",
-          "tmdb": {
-            "id": 1386598,
-            "media_type": "movie",
-            "release_date": "2024-11-01"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "title": "Halloween",
           "tmdb": {
             "id": 948,
@@ -4356,7 +4332,25 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 3,
+          "title": "Scary Stories to Tell in the Dark",
+          "tmdb": {
+            "id": 417384,
+            "media_type": "movie",
+            "release_date": "2019-08-08"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Boulet Brothers' Dragula",
+          "tmdb": {
+            "id": 70940,
+            "media_type": "tv",
+            "release_date": "2016-10-31"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Big Baby",
           "tmdb": {
             "id": 1308972,
@@ -4365,16 +4359,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "V/H/S/Mixtape",
+          "rank": 6,
+          "title": "The North Witch",
           "tmdb": {
-            "id": 1742441,
+            "id": 1386598,
             "media_type": "movie",
-            "release_date": "2026-10-09"
+            "release_date": "2024-11-01"
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Spawn",
           "tmdb": {
             "id": 10331,
@@ -4383,22 +4377,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Halloween 4: The Return of Michael Myers",
+          "rank": 8,
+          "title": "Whistle",
           "tmdb": {
-            "id": 11357,
+            "id": 1193501,
             "media_type": "movie",
-            "release_date": "1988-10-21"
+            "release_date": "2026-01-20"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "This Is Not a Test",
+          "tmdb": {
+            "id": 1428990,
+            "media_type": "movie",
+            "release_date": "2026-02-20"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "V/H/S/Mixtape",
+          "tmdb": {
+            "id": 1742441,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
           }
         }
       ]
     },
     {
       "catalog_id": "sony-pictures-core.overall",
-      "heading": "TOP Overall (from Amazon Channels) on Sony Pictures Core in the United States on November 8, 2026",
+      "heading": "TOP Overall (from Amazon Channels) on Sony Pictures Core in the United States on November 9, 2026",
       "category": "overall",
       "platform": "Sony Pictures Core",
-      "date": "November 8, 2026",
+      "date": "November 9, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -4412,15 +4424,6 @@
         },
         {
           "rank": 2,
-          "title": "Underworld",
-          "tmdb": {
-            "id": 277,
-            "media_type": "movie",
-            "release_date": "2003-09-19"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Insidious",
           "tmdb": {
             "id": 49018,
@@ -4429,16 +4432,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Interview",
+          "rank": 3,
+          "title": "Underworld",
           "tmdb": {
-            "id": 228967,
+            "id": 277,
             "media_type": "movie",
-            "release_date": "2014-12-25"
+            "release_date": "2003-09-19"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Underworld: Rise of the Lycans",
           "tmdb": {
             "id": 12437,
@@ -4447,16 +4450,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Fun with Dick and Jane",
-          "tmdb": {
-            "id": 7552,
-            "media_type": "movie",
-            "release_date": "2005-12-21"
-          }
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "title": "Mr. Deeds",
           "tmdb": {
             "id": 2022,
@@ -4465,21 +4459,39 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Men in Black: International",
+          "rank": 6,
+          "title": "The Interview",
           "tmdb": {
-            "id": 479455,
+            "id": 228967,
             "media_type": "movie",
-            "release_date": "2019-06-12"
+            "release_date": "2014-12-25"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Fun with Dick and Jane",
+          "tmdb": {
+            "id": 7552,
+            "media_type": "movie",
+            "release_date": "2005-12-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Jumanji",
+          "tmdb": {
+            "id": 2118,
+            "media_type": "tv",
+            "release_date": "1996-09-08"
           }
         },
         {
           "rank": 9,
-          "title": "Year One",
+          "title": "Fools Rush In",
           "tmdb": {
-            "id": 17610,
+            "id": 1968,
             "media_type": "movie",
-            "release_date": "2009-06-18"
+            "release_date": "1997-02-14"
           }
         },
         {
