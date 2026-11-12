@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/cambodia/",
-  "page_title": "TOP 10 on Streaming in Cambodia on November 11, 2026",
+  "page_title": "TOP 10 on Streaming in Cambodia on November 12, 2026",
   "region": "cambodia",
-  "date": "November 11, 2026",
-  "scraped_at_utc": "2026-11-11T22:10:57.576001+00:00",
+  "date": "November 12, 2026",
+  "scraped_at_utc": "2026-11-12T21:57:29.460777+00:00",
   "charts": [
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Cambodia on November 11, 2026",
+      "heading": "TOP Movies on Apple TV in Cambodia on November 12, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 11, 2026",
+      "date": "November 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Outcome",
-          "tmdb": {
-            "id": 1049471,
-            "media_type": "movie",
-            "release_date": "2026-04-06"
-          }
-        },
-        {
           "rank": 3,
-          "title": "F1",
+          "title": "Luck",
           "tmdb": {
-            "id": 911430,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-06-25"
+            "release_date": "2022-08-05"
           }
         },
         {
@@ -60,24 +60,6 @@
         },
         {
           "rank": 6,
-          "title": "A Charlie Brown Christmas",
-          "tmdb": {
-            "id": 13187,
-            "media_type": "movie",
-            "release_date": "1965-12-09"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Family Plan",
-          "tmdb": {
-            "id": 1029575,
-            "media_type": "movie",
-            "release_date": "2023-12-14"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Tenzing",
           "tmdb": {
             "id": 1288069,
@@ -86,31 +68,49 @@
           }
         },
         {
+          "rank": 7,
+          "title": "Outcome",
+          "tmdb": {
+            "id": 1049471,
+            "media_type": "movie",
+            "release_date": "2026-04-06"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Matchbox",
+          "tmdb": {
+            "id": 47106,
+            "media_type": "movie",
+            "release_date": "2003-03-14"
+          }
+        },
+        {
           "rank": 9,
+          "title": "Killers of the Flower Moon",
+          "tmdb": {
+            "id": 466420,
+            "media_type": "movie",
+            "release_date": "2023-10-18"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Blush",
           "tmdb": {
             "id": 818350,
             "media_type": "movie",
             "release_date": "2021-06-13"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Cherry",
-          "tmdb": {
-            "id": 544401,
-            "media_type": "movie",
-            "release_date": "2021-02-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Cambodia on November 11, 2026",
+      "heading": "TOP TV Shows on Apple TV in Cambodia on November 12, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 11, 2026",
+      "date": "November 12, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,20 +142,20 @@
         },
         {
           "rank": 4,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Monarch: Legacy of Monsters",
+          "tmdb": {
+            "id": 202411,
+            "media_type": "tv",
+            "release_date": "2023-11-16"
           }
         },
         {
@@ -169,11 +169,11 @@
         },
         {
           "rank": 7,
-          "title": "Your Friends & Neighbors",
+          "title": "Slow Horses",
           "tmdb": {
-            "id": 241609,
+            "id": 95480,
             "media_type": "tv",
-            "release_date": "2025-04-10"
+            "release_date": "2022-04-01"
           }
         },
         {
@@ -187,34 +187,61 @@
         },
         {
           "rank": 9,
-          "title": "Invasion",
+          "title": "The Studio",
           "tmdb": {
-            "id": 127235,
+            "id": 247767,
             "media_type": "tv",
-            "release_date": "2021-10-21"
+            "release_date": "2025-03-25"
           }
         },
         {
           "rank": 10,
-          "title": "Margo's Got Money Troubles",
+          "title": "Your Friends & Neighbors",
           "tmdb": {
-            "id": 245318,
+            "id": 241609,
             "media_type": "tv",
-            "release_date": "2026-04-14"
+            "release_date": "2025-04-10"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Cambodia on November 11, 2026",
+      "heading": "TOP Movies on Apple TV Store in Cambodia on November 12, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 11, 2026",
+      "date": "November 12, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Godzilla: King of the Monsters",
+          "tmdb": {
+            "id": 373571,
+            "media_type": "movie",
+            "release_date": "2019-05-29"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Sinners",
+          "tmdb": {
+            "id": 1233413,
+            "media_type": "movie",
+            "release_date": "2025-04-16"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Matrix Revolutions",
+          "tmdb": {
+            "id": 605,
+            "media_type": "movie",
+            "release_date": "2003-11-05"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Dune: Part Two",
           "tmdb": {
             "id": 693134,
@@ -223,7 +250,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "Dune",
           "tmdb": {
             "id": 438631,
@@ -232,7 +259,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "The Conjuring: The Devil Made Me Do It",
           "tmdb": {
             "id": 423108,
@@ -241,7 +268,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "The Lord of the Rings: The Return of the King",
           "tmdb": {
             "id": 122,
@@ -250,7 +277,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "The Odyssey: The Real Story",
           "tmdb": {
             "id": 1716056,
@@ -259,7 +286,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "Kraven the Hunter",
           "tmdb": {
             "id": 539972,
@@ -268,39 +295,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Sully",
           "tmdb": {
             "id": 363676,
             "media_type": "movie",
             "release_date": "2016-09-07"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Jurassic World Rebirth",
-          "tmdb": {
-            "id": 1234821,
-            "media_type": "movie",
-            "release_date": "2025-06-23"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Lolita",
-          "tmdb": {
-            "id": 9769,
-            "media_type": "movie",
-            "release_date": "1997-09-27"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "The Lord of the Rings: The Two Towers",
-          "tmdb": {
-            "id": 121,
-            "media_type": "movie",
-            "release_date": "2002-12-18"
           }
         }
       ]
