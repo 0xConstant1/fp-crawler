@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/honduras/",
-  "page_title": "TOP 10 on Streaming in Honduras on November 13, 2026",
+  "page_title": "TOP 10 on Streaming in Honduras on November 14, 2026",
   "region": "honduras",
-  "date": "November 13, 2026",
-  "scraped_at_utc": "2026-11-13T21:35:46.382978+00:00",
+  "date": "November 14, 2026",
+  "scraped_at_utc": "2026-11-14T20:06:19.072104+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Netflix in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Never Surrender",
+          "tmdb": {
+            "id": 1616687,
+            "media_type": "movie",
+            "release_date": "2026-11-11"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Ne Zha 2",
           "tmdb": {
             "id": 980477,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The One",
           "tmdb": {
             "id": 10796,
             "media_type": "movie",
             "release_date": "2001-11-02"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Never Surrender",
-          "tmdb": {
-            "id": 1616687,
-            "media_type": "movie",
-            "release_date": "2026-11-12"
           }
         },
         {
@@ -60,15 +60,6 @@
         },
         {
           "rank": 6,
-          "title": "Scream 7",
-          "tmdb": {
-            "id": 1159559,
-            "media_type": "movie",
-            "release_date": "2026-02-25"
-          }
-        },
-        {
-          "rank": 7,
           "title": "A Prince in Paradise: A Royal Wedding",
           "tmdb": {
             "id": 1650100,
@@ -77,16 +68,16 @@
           }
         },
         {
-          "rank": 8,
-          "title": "A Dog's Perfect Christmas",
+          "rank": 7,
+          "title": "Scream 7",
           "tmdb": {
-            "id": 1570488,
+            "id": 1159559,
             "media_type": "movie",
-            "release_date": "2026-11-04"
+            "release_date": "2026-02-25"
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Sing 2",
           "tmdb": {
             "id": 438695,
@@ -95,22 +86,31 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "El Club del Pie Izquierdo",
           "tmdb": {
             "id": 1743695,
             "media_type": "movie",
             "release_date": "2026-09-10"
           }
+        },
+        {
+          "rank": 10,
+          "title": "A Dog's Perfect Christmas",
+          "tmdb": {
+            "id": 1570488,
+            "media_type": "movie",
+            "release_date": "2026-11-04"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Netflix in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -124,24 +124,11 @@
         },
         {
           "rank": 2,
-          "title": "Dead-End Job",
-          "tmdb": {
-            "id": 289517,
-            "media_type": "tv",
-            "release_date": "2026-10-30"
-          }
+          "title": "WWE SmackDown",
+          "tmdb": null
         },
         {
           "rank": 3,
-          "title": "Power",
-          "tmdb": {
-            "id": 54650,
-            "media_type": "tv",
-            "release_date": "2014-06-07"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Body",
           "tmdb": {
             "id": 291507,
@@ -150,16 +137,16 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Empress",
+          "rank": 4,
+          "title": "Dead-End Job",
           "tmdb": {
-            "id": 131488,
+            "id": 289517,
             "media_type": "tv",
-            "release_date": "2022-09-29"
+            "release_date": "2026-10-30"
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Doctor X: Mafia in White",
           "tmdb": {
             "id": 293610,
@@ -168,7 +155,34 @@
           }
         },
         {
+          "rank": 6,
+          "title": "The Empress",
+          "tmdb": {
+            "id": 131488,
+            "media_type": "tv",
+            "release_date": "2022-09-29"
+          }
+        },
+        {
           "rank": 7,
+          "title": "Power",
+          "tmdb": {
+            "id": 54650,
+            "media_type": "tv",
+            "release_date": "2014-06-07"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Murder in Galicia",
+          "tmdb": {
+            "id": 303182,
+            "media_type": "tv",
+            "release_date": "2026-11-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Lupin",
           "tmdb": {
             "id": 96677,
@@ -177,28 +191,10 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Taken: Natalee Holloway",
           "tmdb": {
             "id": 338684,
-            "media_type": "tv",
-            "release_date": "2026-11-04"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Sunshine Through the Rain",
-          "tmdb": {
-            "id": 307853,
-            "media_type": "tv",
-            "release_date": "2026-11-06"
-          }
-        },
-        {
-          "rank": 10,
-          "title": "Anaesthesia",
-          "tmdb": {
-            "id": 312006,
             "media_type": "tv",
             "release_date": "2026-11-04"
           }
@@ -207,32 +203,14 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Honduras on November 13, 2026",
+      "heading": "TOP Movies on HBO Max in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Pout-Pout Fish",
-          "tmdb": {
-            "id": 1146058,
-            "media_type": "movie",
-            "release_date": "2026-01-01"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Legend of Tarzan",
-          "tmdb": {
-            "id": 258489,
-            "media_type": "movie",
-            "release_date": "2016-06-29"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Matilda",
           "tmdb": {
             "id": 10830,
@@ -241,16 +219,25 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Da Vinci Code",
+          "rank": 2,
+          "title": "The Pout-Pout Fish",
           "tmdb": {
-            "id": 591,
+            "id": 1146058,
             "media_type": "movie",
-            "release_date": "2006-05-17"
+            "release_date": "2026-01-01"
           }
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "The Legend of Tarzan",
+          "tmdb": {
+            "id": 258489,
+            "media_type": "movie",
+            "release_date": "2016-06-29"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Reminders of Him",
           "tmdb": {
             "id": 1367642,
@@ -259,7 +246,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "The Da Vinci Code",
+          "tmdb": {
+            "id": 591,
+            "media_type": "movie",
+            "release_date": "2006-05-17"
+          }
+        },
+        {
           "rank": 6,
+          "title": "50 First Dates",
+          "tmdb": {
+            "id": 1824,
+            "media_type": "movie",
+            "release_date": "2004-02-13"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Friend",
           "tmdb": {
             "id": 1186563,
@@ -268,16 +273,16 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Feed",
+          "rank": 8,
+          "title": "Godzilla",
           "tmdb": {
-            "id": 1128204,
+            "id": 124905,
             "media_type": "movie",
-            "release_date": "2026-08-06"
+            "release_date": "2014-05-14"
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Ghostbusters",
           "tmdb": {
             "id": 620,
@@ -286,107 +291,26 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Angels & Demons",
           "tmdb": {
             "id": 13448,
             "media_type": "movie",
             "release_date": "2009-04-20"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Matrix",
-          "tmdb": {
-            "id": 603,
-            "media_type": "movie",
-            "release_date": "1999-03-31"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on HBO Max in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "La Promesa",
-          "tmdb": {
-            "id": 212907,
-            "media_type": "tv",
-            "release_date": "2023-01-12"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "The Gilded Age",
-          "tmdb": {
-            "id": 81723,
-            "media_type": "tv",
-            "release_date": "2022-01-24"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Mother",
-          "tmdb": {
-            "id": 68569,
-            "media_type": "tv",
-            "release_date": "2016-10-25"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "City of God: The Fight Rages On",
-          "tmdb": {
-            "id": 223397,
-            "media_type": "tv",
-            "release_date": "2024-08-25"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "War",
-          "tmdb": {
-            "id": 298852,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Harry Potter: Wizards of Baking",
-          "tmdb": {
-            "id": 254514,
-            "media_type": "tv",
-            "release_date": "2024-11-14"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Dragon Ball Super: Beerus",
-          "tmdb": {
-            "id": 312359,
-            "media_type": "tv",
-            "release_date": "2026-10-11"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Kirli Sepeti",
-          "tmdb": {
-            "id": 233492,
-            "media_type": "tv",
-            "release_date": "2023-09-24"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
@@ -395,22 +319,94 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Collision",
+          "rank": 2,
+          "title": "La Promesa",
           "tmdb": {
-            "id": 331033,
+            "id": 212907,
             "media_type": "tv",
-            "release_date": "2026-09-07"
+            "release_date": "2023-01-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Gilded Age",
+          "tmdb": {
+            "id": 81723,
+            "media_type": "tv",
+            "release_date": "2022-01-24"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "War",
+          "tmdb": {
+            "id": 298852,
+            "media_type": "tv",
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Mother",
+          "tmdb": {
+            "id": 68569,
+            "media_type": "tv",
+            "release_date": "2016-10-25"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Line of Fire",
+          "tmdb": {
+            "id": 321958,
+            "media_type": "tv",
+            "release_date": "2026-09-21"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "City of God: The Fight Rages On",
+          "tmdb": {
+            "id": 223397,
+            "media_type": "tv",
+            "release_date": "2024-08-25"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Harry Potter: Wizards of Baking",
+          "tmdb": {
+            "id": 254514,
+            "media_type": "tv",
+            "release_date": "2024-11-14"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Naked and Afraid: Shipwrecked",
+          "tmdb": {
+            "id": 330417,
+            "media_type": "tv",
+            "release_date": "2026-08-02"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Dragon Ball Super: Beerus",
+          "tmdb": {
+            "id": 312359,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Honduras on November 13, 2026",
+      "heading": "TOP Overall on Disney+ in Honduras on November 14, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,20 +429,20 @@
         },
         {
           "rank": 3,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Grinch",
           "tmdb": {
             "id": 360920,
             "media_type": "movie",
             "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -496,39 +492,39 @@
         },
         {
           "rank": 10,
-          "title": "Storks",
+          "title": "Doctor Strange in the Multiverse of Madness",
           "tmdb": {
-            "id": 332210,
+            "id": 453395,
             "media_type": "movie",
-            "release_date": "2016-09-22"
+            "release_date": "2022-05-04"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Disney+ in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Spider-Man: No Way Home",
           "tmdb": {
             "id": 634649,
             "media_type": "movie",
             "release_date": "2021-12-15"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -569,20 +565,20 @@
         },
         {
           "rank": 7,
-          "title": "How the Grinch Stole Christmas",
-          "tmdb": {
-            "id": 8871,
-            "media_type": "movie",
-            "release_date": "2000-11-17"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Coco",
           "tmdb": {
             "id": 354912,
             "media_type": "movie",
             "release_date": "2017-10-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "How the Grinch Stole Christmas",
+          "tmdb": {
+            "id": 8871,
+            "media_type": "movie",
+            "release_date": "2000-11-17"
           }
         },
         {
@@ -596,21 +592,21 @@
         },
         {
           "rank": 10,
-          "title": "Moana",
+          "title": "Doctor Strange in the Multiverse of Madness",
           "tmdb": {
-            "id": 1108427,
+            "id": 453395,
             "media_type": "movie",
-            "release_date": "2026-07-08"
+            "release_date": "2022-05-04"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Disney+ in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,20 +629,20 @@
         },
         {
           "rank": 3,
-          "title": "Merry Berry Love",
+          "title": "The Secret Lives of Mormon Wives: Orange County",
           "tmdb": {
-            "id": 305551,
+            "id": 320507,
             "media_type": "tv",
-            "release_date": "2026-10-07"
+            "release_date": "2026-11-12"
           }
         },
         {
           "rank": 4,
-          "title": "All's Fair",
+          "title": "The Kardashians",
           "tmdb": {
-            "id": 258742,
+            "id": 154521,
             "media_type": "tv",
-            "release_date": "2025-11-04"
+            "release_date": "2022-04-14"
           }
         },
         {
@@ -660,15 +656,6 @@
         },
         {
           "rank": 6,
-          "title": "Dragon Ball Super: Beerus",
-          "tmdb": {
-            "id": 312359,
-            "media_type": "tv",
-            "release_date": "2026-10-11"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Perfect Crown",
           "tmdb": {
             "id": 278573,
@@ -677,7 +664,25 @@
           }
         },
         {
+          "rank": 7,
+          "title": "All's Fair",
+          "tmdb": {
+            "id": 258742,
+            "media_type": "tv",
+            "release_date": "2025-11-04"
+          }
+        },
+        {
           "rank": 8,
+          "title": "Dragon Ball Super: Beerus",
+          "tmdb": {
+            "id": 312359,
+            "media_type": "tv",
+            "release_date": "2026-10-11"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Dragon Ball Super",
           "tmdb": {
             "id": 62715,
@@ -686,31 +691,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "WandaVision",
-          "tmdb": {
-            "id": 85271,
-            "media_type": "tv",
-            "release_date": "2021-01-15"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Agatha All Along",
+          "title": "Merry Berry Love",
           "tmdb": {
-            "id": 138501,
+            "id": 305551,
             "media_type": "tv",
-            "release_date": "2024-09-18"
+            "release_date": "2026-10-07"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Amazon Prime in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -751,29 +747,29 @@
         },
         {
           "rank": 5,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "title": "Mothers' Instinct",
           "tmdb": {
-            "id": 671,
+            "id": 758679,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2024-01-11"
           }
         },
         {
           "rank": 6,
-          "title": "Harry Potter and the Chamber of Secrets",
-          "tmdb": {
-            "id": 672,
-            "media_type": "movie",
-            "release_date": "2002-11-13"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Saccharine",
           "tmdb": {
             "id": 1363387,
             "media_type": "movie",
             "release_date": "2026-05-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
           }
         },
         {
@@ -787,30 +783,30 @@
         },
         {
           "rank": 9,
-          "title": "Love of Your Life",
-          "tmdb": {
-            "id": 1381078,
-            "media_type": "movie",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Twilight",
           "tmdb": {
             "id": 8966,
             "media_type": "movie",
             "release_date": "2008-11-20"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -878,11 +874,11 @@
         },
         {
           "rank": 8,
-          "title": "The Terminal List",
+          "title": "Off Campus",
           "tmdb": {
-            "id": 120911,
+            "id": 273240,
             "media_type": "tv",
-            "release_date": "2022-06-30"
+            "release_date": "2026-05-13"
           }
         },
         {
@@ -896,21 +892,21 @@
         },
         {
           "rank": 10,
-          "title": "Off Campus",
+          "title": "The Terminal List",
           "tmdb": {
-            "id": 273240,
+            "id": 120911,
             "media_type": "tv",
-            "release_date": "2026-05-13"
+            "release_date": "2022-06-30"
           }
         }
       ]
     },
     {
       "catalog_id": "paramount.movies",
-      "heading": "TOP Movies on Paramount+ in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Paramount+ in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Paramount+",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -924,15 +920,6 @@
         },
         {
           "rank": 2,
-          "title": "Tuner",
-          "tmdb": {
-            "id": 1340206,
-            "media_type": "movie",
-            "release_date": "2026-05-21"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Thieves Highway",
           "tmdb": {
             "id": 1293162,
@@ -941,16 +928,16 @@
           }
         },
         {
-          "rank": 4,
-          "title": "A Score to Settle",
+          "rank": 3,
+          "title": "Tuner",
           "tmdb": {
-            "id": 500922,
+            "id": 1340206,
             "media_type": "movie",
-            "release_date": "2019-08-01"
+            "release_date": "2026-05-21"
           }
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Scary Movie",
           "tmdb": {
             "id": 1273221,
@@ -959,12 +946,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Icefall",
+          "rank": 5,
+          "title": "A Score to Settle",
           "tmdb": {
-            "id": 1242501,
+            "id": 500922,
             "media_type": "movie",
-            "release_date": "2025-10-16"
+            "release_date": "2019-08-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Exit 8",
+          "tmdb": {
+            "id": 1408208,
+            "media_type": "movie",
+            "release_date": "2025-08-03"
           }
         },
         {
@@ -978,20 +974,20 @@
         },
         {
           "rank": 8,
-          "title": "Exit 8",
+          "title": "Icefall",
           "tmdb": {
-            "id": 1408208,
+            "id": 1242501,
             "media_type": "movie",
-            "release_date": "2025-08-03"
+            "release_date": "2025-10-16"
           }
         },
         {
           "rank": 9,
-          "title": "Diablo",
+          "title": "Passenger",
           "tmdb": {
-            "id": 1127110,
+            "id": 1368314,
             "media_type": "movie",
-            "release_date": "2025-06-13"
+            "release_date": "2026-05-20"
           }
         },
         {
@@ -1007,32 +1003,14 @@
     },
     {
       "catalog_id": "paramount.series",
-      "heading": "TOP TV Shows on Paramount+ in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Paramount+ in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Paramount+",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Tulsa King",
-          "tmdb": {
-            "id": 153312,
-            "media_type": "tv",
-            "release_date": "2022-11-13"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "South Park",
-          "tmdb": {
-            "id": 2190,
-            "media_type": "tv",
-            "release_date": "1997-08-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "MobLand",
           "tmdb": {
             "id": 247718,
@@ -1041,7 +1019,34 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Tulsa King",
+          "tmdb": {
+            "id": 153312,
+            "media_type": "tv",
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "South Park",
+          "tmdb": {
+            "id": 2190,
+            "media_type": "tv",
+            "release_date": "1997-08-13"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Dexter: Resurrection",
+          "tmdb": {
+            "id": 259909,
+            "media_type": "tv",
+            "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Yellowstone",
           "tmdb": {
             "id": 73586,
@@ -1050,7 +1055,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Dexter",
           "tmdb": {
             "id": 1405,
@@ -1059,21 +1064,12 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Lioness",
           "tmdb": {
             "id": 113962,
             "media_type": "tv",
             "release_date": "2023-07-23"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Legend of Korra",
-          "tmdb": {
-            "id": 33880,
-            "media_type": "tv",
-            "release_date": "2012-04-14"
           }
         },
         {
@@ -1087,30 +1083,30 @@
         },
         {
           "rank": 9,
+          "title": "The Legend of Korra",
+          "tmdb": {
+            "id": 33880,
+            "media_type": "tv",
+            "release_date": "2012-04-14"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Avatar: Seven Havens",
           "tmdb": {
             "id": 284833,
             "media_type": "tv",
             "release_date": "2026-10-09"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Sabrina, the Teenage Witch",
-          "tmdb": {
-            "id": 605,
-            "media_type": "tv",
-            "release_date": "1996-09-27"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Apple TV in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1124,6 +1120,15 @@
         },
         {
           "rank": 2,
+          "title": "Snoopy Presents: 12 Days of Snoopy",
+          "tmdb": {
+            "id": 1780407,
+            "media_type": "movie",
+            "release_date": "2026-11-12"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Matchbox",
           "tmdb": {
             "id": 47106,
@@ -1132,43 +1137,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Killers of the Flower Moon",
-          "tmdb": {
-            "id": 466420,
-            "media_type": "movie",
-            "release_date": "2023-10-18"
-          }
-        },
-        {
           "rank": 4,
-          "title": "Wolfs",
-          "tmdb": {
-            "id": 877817,
-            "media_type": "movie",
-            "release_date": "2024-09-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Echo Valley",
-          "tmdb": {
-            "id": 1097311,
-            "media_type": "movie",
-            "release_date": "2025-06-13"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Mayday",
-          "tmdb": {
-            "id": 1137844,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Tenzing",
           "tmdb": {
             "id": 1288069,
@@ -1177,7 +1146,25 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "title": "Being Heumann",
+          "tmdb": {
+            "id": 1050981,
+            "media_type": "movie",
+            "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Wolfs",
+          "tmdb": {
+            "id": 877817,
+            "media_type": "movie",
+            "release_date": "2024-09-20"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1186,40 +1173,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Family Plan 2",
+          "rank": 8,
+          "title": "Echo Valley",
           "tmdb": {
-            "id": 1363123,
+            "id": 1097311,
             "media_type": "movie",
-            "release_date": "2025-11-11"
+            "release_date": "2025-06-13"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Mayday",
+          "tmdb": {
+            "id": 1137844,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
           }
         },
         {
           "rank": 10,
-          "title": "Palmer",
+          "title": "The Instigators",
           "tmdb": {
-            "id": 458220,
+            "id": 1059064,
             "media_type": "movie",
-            "release_date": "2021-01-28"
+            "release_date": "2024-08-02"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Apple TV in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Stick",
+          "title": "12 12 12",
           "tmdb": {
-            "id": 248830,
+            "id": 254630,
             "media_type": "tv",
-            "release_date": "2025-06-03"
+            "release_date": "2026-11-12"
           }
         },
         {
@@ -1233,6 +1229,15 @@
         },
         {
           "rank": 3,
+          "title": "Stick",
+          "tmdb": {
+            "id": 248830,
+            "media_type": "tv",
+            "release_date": "2025-06-03"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
@@ -1241,21 +1246,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
           }
         },
         {
@@ -1269,20 +1265,20 @@
         },
         {
           "rank": 7,
-          "title": "12 12 12",
+          "title": "Slow Horses",
           "tmdb": {
-            "id": 254630,
+            "id": 95480,
             "media_type": "tv",
-            "release_date": "2026-11-12"
+            "release_date": "2022-04-01"
           }
         },
         {
           "rank": 8,
-          "title": "Awkwafina: The Unlikely Cook",
+          "title": "Severance",
           "tmdb": {
-            "id": 306179,
+            "id": 95396,
             "media_type": "tv",
-            "release_date": "2026-11-06"
+            "release_date": "2022-02-17"
           }
         },
         {
@@ -1296,21 +1292,21 @@
         },
         {
           "rank": 10,
-          "title": "Brothers",
+          "title": "Your Friends & Neighbors",
           "tmdb": {
-            "id": 66515,
+            "id": 241609,
             "media_type": "tv",
-            "release_date": "2015-09-28"
+            "release_date": "2025-04-10"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Apple TV Store in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1324,15 +1320,6 @@
         },
         {
           "rank": 2,
-          "title": "Resident Evil",
-          "tmdb": {
-            "id": 1423191,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Man: Brand New Day",
           "tmdb": {
             "id": 969681,
@@ -1341,7 +1328,43 @@
           }
         },
         {
+          "rank": 3,
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "tmdb": {
+            "id": 131631,
+            "media_type": "movie",
+            "release_date": "2014-11-19"
+          }
+        },
+        {
           "rank": 4,
+          "title": "Resident Evil",
+          "tmdb": {
+            "id": 1423191,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Pressure",
+          "tmdb": {
+            "id": 1318413,
+            "media_type": "movie",
+            "release_date": "2026-05-28"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Hunger Games",
+          "tmdb": {
+            "id": 70160,
+            "media_type": "movie",
+            "release_date": "2012-03-12"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -1350,67 +1373,40 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Enemy at the Gates",
-          "tmdb": {
-            "id": 853,
-            "media_type": "movie",
-            "release_date": "2001-02-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "The Super Mario Bros. Movie",
-          "tmdb": {
-            "id": 502356,
-            "media_type": "movie",
-            "release_date": "2023-04-05"
-          }
-        },
-        {
           "rank": 8,
-          "title": "Music for Montserrat",
+          "title": "The Wolf of Wall Street",
           "tmdb": {
-            "id": 40542,
+            "id": 106646,
             "media_type": "movie",
-            "release_date": "1997-09-15"
+            "release_date": "2013-12-25"
           }
         },
         {
           "rank": 9,
-          "title": "The Hunger Games: Catching Fire",
+          "title": "Coyote vs. Acme",
           "tmdb": {
-            "id": 101299,
+            "id": 1204680,
             "media_type": "movie",
-            "release_date": "2013-11-15"
+            "release_date": "2026-08-20"
           }
         },
         {
           "rank": 10,
-          "title": "The Polar Express",
+          "title": "Sound of Freedom",
           "tmdb": {
-            "id": 5255,
+            "id": 678512,
             "media_type": "movie",
-            "release_date": "2004-11-10"
+            "release_date": "2023-07-03"
           }
         }
       ]
     },
     {
       "catalog_id": "claro-video.movies",
-      "heading": "TOP Movies on Claro Video in Honduras on November 13, 2026",
+      "heading": "TOP Movies on Claro Video in Honduras on November 14, 2026",
       "category": "movies",
       "platform": "Claro Video",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1507,10 +1503,10 @@
     },
     {
       "catalog_id": "claro-video.series",
-      "heading": "TOP TV Shows on Claro Video in Honduras on November 13, 2026",
+      "heading": "TOP TV Shows on Claro Video in Honduras on November 14, 2026",
       "category": "tv shows",
       "platform": "Claro Video",
-      "date": "November 13, 2026",
+      "date": "November 14, 2026",
       "title_count": 10,
       "entries": [
         {
