@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/bulgaria/",
-  "page_title": "TOP 10 on Streaming in Bulgaria on November 14, 2026",
+  "page_title": "TOP 10 on Streaming in Bulgaria on November 15, 2026",
   "region": "bulgaria",
-  "date": "November 14, 2026",
-  "scraped_at_utc": "2026-11-14T20:04:08.506943+00:00",
+  "date": "November 15, 2026",
+  "scraped_at_utc": "2026-11-15T20:32:16.243637+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on Netflix in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,20 +33,20 @@
         },
         {
           "rank": 3,
+          "title": "Heartland",
+          "tmdb": {
+            "id": 1543469,
+            "media_type": "movie",
+            "release_date": "2026-11-13"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Good Lawyer",
           "tmdb": {
             "id": 1616419,
             "media_type": "movie",
             "release_date": "2026-09-11"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Rush Hour",
-          "tmdb": {
-            "id": 2109,
-            "media_type": "movie",
-            "release_date": "1998-09-18"
           }
         },
         {
@@ -60,33 +60,15 @@
         },
         {
           "rank": 6,
-          "title": "Sex and the City",
+          "title": "Rush Hour",
           "tmdb": {
-            "id": 4564,
+            "id": 2109,
             "media_type": "movie",
-            "release_date": "2008-05-12"
+            "release_date": "1998-09-18"
           }
         },
         {
           "rank": 7,
-          "title": "In the Heart of the Sea",
-          "tmdb": {
-            "id": 205775,
-            "media_type": "movie",
-            "release_date": "2015-12-03"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Heartland",
-          "tmdb": {
-            "id": 1543469,
-            "media_type": "movie",
-            "release_date": "2026-11-13"
-          }
-        },
-        {
-          "rank": 9,
           "title": "A Dog's Perfect Christmas",
           "tmdb": {
             "id": 1570488,
@@ -95,22 +77,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Rush Hour 2",
+          "rank": 8,
+          "title": "In the Heart of the Sea",
           "tmdb": {
-            "id": 5175,
+            "id": 205775,
             "media_type": "movie",
-            "release_date": "2001-08-03"
+            "release_date": "2015-12-03"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Sex and the City",
+          "tmdb": {
+            "id": 4564,
+            "media_type": "movie",
+            "release_date": "2008-05-12"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "How the Grinch Stole Christmas",
+          "tmdb": {
+            "id": 8871,
+            "media_type": "movie",
+            "release_date": "2000-11-17"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on Netflix in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -142,33 +142,11 @@
         },
         {
           "rank": 4,
-          "title": "Lupin",
-          "tmdb": {
-            "id": 96677,
-            "media_type": "tv",
-            "release_date": "2021-01-08"
-          }
+          "title": "WWE SmackDown",
+          "tmdb": null
         },
         {
           "rank": 5,
-          "title": "Power",
-          "tmdb": {
-            "id": 54650,
-            "media_type": "tv",
-            "release_date": "2014-06-07"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "JoJo's Bizarre Adventure",
-          "tmdb": {
-            "id": 45790,
-            "media_type": "tv",
-            "release_date": "2012-10-06"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Murder in Galicia",
           "tmdb": {
             "id": 303182,
@@ -177,40 +155,58 @@
           }
         },
         {
+          "rank": 6,
+          "title": "Lupin",
+          "tmdb": {
+            "id": 96677,
+            "media_type": "tv",
+            "release_date": "2021-01-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Power",
+          "tmdb": {
+            "id": 54650,
+            "media_type": "tv",
+            "release_date": "2014-06-07"
+          }
+        },
+        {
           "rank": 8,
-          "title": "The Gentlemen",
-          "tmdb": {
-            "id": 236235,
-            "media_type": "tv",
-            "release_date": "2024-03-07"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Nobody Wants This",
-          "tmdb": {
-            "id": 250923,
-            "media_type": "tv",
-            "release_date": "2024-09-26"
-          }
-        },
-        {
-          "rank": 10,
           "title": "East of Eden",
           "tmdb": {
             "id": 258165,
             "media_type": "tv",
             "release_date": "2026-10-01"
           }
+        },
+        {
+          "rank": 9,
+          "title": "ChiaroScuro",
+          "tmdb": {
+            "id": 336243,
+            "media_type": "tv",
+            "release_date": "2026-11-11"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Gentlemen",
+          "tmdb": {
+            "id": 236235,
+            "media_type": "tv",
+            "release_date": "2024-03-07"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on HBO Max in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -233,6 +229,15 @@
         },
         {
           "rank": 3,
+          "title": "The Wild Robot",
+          "tmdb": {
+            "id": 1184918,
+            "media_type": "movie",
+            "release_date": "2024-09-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Terminator",
           "tmdb": {
             "id": 218,
@@ -241,7 +246,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
           "tmdb": {
             "id": 695721,
@@ -250,21 +255,12 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Bet",
-          "tmdb": {
-            "id": 1442915,
-            "media_type": "movie",
-            "release_date": "2025-03-16"
-          }
-        },
-        {
           "rank": 6,
-          "title": "The Hunger Games: Mockingjay - Part 1",
+          "title": "Practical Magic",
           "tmdb": {
-            "id": 131631,
+            "id": 6435,
             "media_type": "movie",
-            "release_date": "2014-11-19"
+            "release_date": "1998-10-16"
           }
         },
         {
@@ -278,6 +274,15 @@
         },
         {
           "rank": 8,
+          "title": "Bet",
+          "tmdb": {
+            "id": 1442915,
+            "media_type": "movie",
+            "release_date": "2025-03-16"
+          }
+        },
+        {
+          "rank": 9,
           "title": "The Hunger Games: Catching Fire",
           "tmdb": {
             "id": 101299,
@@ -286,31 +291,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Hunger Games: Mockingjay - Part 2",
           "tmdb": {
             "id": 131634,
             "media_type": "movie",
             "release_date": "2015-11-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Terminator Genisys",
-          "tmdb": {
-            "id": 87101,
-            "media_type": "movie",
-            "release_date": "2015-06-23"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on HBO Max in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,20 +338,20 @@
         },
         {
           "rank": 4,
+          "title": "Silent Night",
+          "tmdb": {
+            "id": 305245,
+            "media_type": "tv",
+            "release_date": "2026-11-13"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Georgie & Mandy's First Marriage",
           "tmdb": {
             "id": 243875,
             "media_type": "tv",
             "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "4 Blocks Zero",
-          "tmdb": {
-            "id": 310133,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
           }
         },
         {
@@ -369,6 +365,15 @@
         },
         {
           "rank": 7,
+          "title": "4 Blocks Zero",
+          "tmdb": {
+            "id": 310133,
+            "media_type": "tv",
+            "release_date": "2026-09-25"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Outlander: Blood of My Blood",
           "tmdb": {
             "id": 207484,
@@ -377,7 +382,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Zmora",
           "tmdb": {
             "id": 279185,
@@ -386,36 +391,27 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Crystal Lake",
           "tmdb": {
             "id": 213562,
             "media_type": "tv",
             "release_date": "2026-10-15"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Silent Night",
-          "tmdb": {
-            "id": 305245,
-            "media_type": "tv",
-            "release_date": "2026-11-13"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Bulgaria on November 14, 2026",
+      "heading": "TOP Overall on Disney+ in Bulgaria on November 15, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Avengers Endgame: Encore",
+          "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
             "media_type": "movie",
@@ -507,14 +503,23 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on Disney+ in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Avengers: Endgame",
+          "tmdb": {
+            "id": 299534,
+            "media_type": "movie",
+            "release_date": "2019-04-24"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Grinch",
           "tmdb": {
             "id": 360920,
@@ -523,7 +528,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Home Alone",
           "tmdb": {
             "id": 771,
@@ -532,7 +537,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -541,21 +546,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Home Alone 2: Lost in New York",
           "tmdb": {
             "id": 772,
             "media_type": "movie",
             "release_date": "1992-11-15"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "How the Grinch Stole Christmas",
-          "tmdb": {
-            "id": 8871,
-            "media_type": "movie",
-            "release_date": "2000-11-17"
           }
         },
         {
@@ -569,11 +565,11 @@
         },
         {
           "rank": 7,
-          "title": "Zootopia",
+          "title": "How the Grinch Stole Christmas",
           "tmdb": {
-            "id": 269149,
+            "id": 8871,
             "media_type": "movie",
-            "release_date": "2016-02-11"
+            "release_date": "2000-11-17"
           }
         },
         {
@@ -587,30 +583,30 @@
         },
         {
           "rank": 9,
-          "title": "Coco",
+          "title": "Toy Story 5",
           "tmdb": {
-            "id": 354912,
+            "id": 1084244,
             "media_type": "movie",
-            "release_date": "2017-10-27"
+            "release_date": "2026-06-17"
           }
         },
         {
           "rank": 10,
-          "title": "Frozen II",
+          "title": "Zootopia",
           "tmdb": {
-            "id": 330457,
+            "id": 269149,
             "media_type": "movie",
-            "release_date": "2019-11-20"
+            "release_date": "2016-02-11"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on Disney+ in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -707,28 +703,28 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on Apple TV in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Mayday",
-          "tmdb": {
-            "id": 1137844,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Being Heumann",
           "tmdb": {
             "id": 1050981,
             "media_type": "movie",
             "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Mayday",
+          "tmdb": {
+            "id": 1137844,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
           }
         },
         {
@@ -742,15 +738,6 @@
         },
         {
           "rank": 4,
-          "title": "F1",
-          "tmdb": {
-            "id": 911430,
-            "media_type": "movie",
-            "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Matchbox",
           "tmdb": {
             "id": 47106,
@@ -759,7 +746,25 @@
           }
         },
         {
+          "rank": 5,
+          "title": "F1",
+          "tmdb": {
+            "id": 911430,
+            "media_type": "movie",
+            "release_date": "2025-06-25"
+          }
+        },
+        {
           "rank": 6,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Wolfs",
           "tmdb": {
             "id": 877817,
@@ -768,7 +773,16 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "title": "Highest 2 Lowest",
+          "tmdb": {
+            "id": 1242434,
+            "media_type": "movie",
+            "release_date": "2025-08-14"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Argylle",
           "tmdb": {
             "id": 848538,
@@ -777,58 +791,40 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Greyhound",
-          "tmdb": {
-            "id": 516486,
-            "media_type": "movie",
-            "release_date": "2020-07-09"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Napoleon",
-          "tmdb": {
-            "id": 753342,
-            "media_type": "movie",
-            "release_date": "2023-11-22"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Highest 2 Lowest",
+          "title": "Luck",
           "tmdb": {
-            "id": 1242434,
+            "id": 585511,
             "media_type": "movie",
-            "release_date": "2025-08-14"
+            "release_date": "2022-08-05"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on Apple TV in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Nocturne",
-          "tmdb": {
-            "id": 292741,
-            "media_type": "tv",
-            "release_date": "2026-10-29"
-          }
-        },
-        {
-          "rank": 2,
           "title": "12 12 12",
           "tmdb": {
             "id": 254630,
             "media_type": "tv",
             "release_date": "2026-11-12"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Nocturne",
+          "tmdb": {
+            "id": 292741,
+            "media_type": "tv",
+            "release_date": "2026-10-29"
           }
         },
         {
@@ -878,20 +874,20 @@
         },
         {
           "rank": 8,
-          "title": "For All Mankind",
-          "tmdb": {
-            "id": 87917,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Your Friends & Neighbors",
           "tmdb": {
             "id": 241609,
             "media_type": "tv",
             "release_date": "2025-04-10"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "For All Mankind",
+          "tmdb": {
+            "id": 87917,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
           }
         },
         {
@@ -907,41 +903,14 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on Apple TV Store in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Odyssey",
-          "tmdb": {
-            "id": 1368337,
-            "media_type": "movie",
-            "release_date": "2026-07-15"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Obsession",
-          "tmdb": {
-            "id": 1339713,
-            "media_type": "movie",
-            "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Resident Evil",
-          "tmdb": {
-            "id": 1423191,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Disclosure Day",
           "tmdb": {
             "id": 1275779,
@@ -950,7 +919,16 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 2,
+          "title": "The Odyssey",
+          "tmdb": {
+            "id": 1368337,
+            "media_type": "movie",
+            "release_date": "2026-07-15"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Michael",
           "tmdb": {
             "id": 936075,
@@ -959,21 +937,39 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Eastern Promises",
+          "rank": 4,
+          "title": "Practical Magic 2",
           "tmdb": {
-            "id": 2252,
+            "id": 1302904,
             "media_type": "movie",
-            "release_date": "2007-09-14"
+            "release_date": "2026-09-09"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Obsession",
+          "tmdb": {
+            "id": 1339713,
+            "media_type": "movie",
+            "release_date": "2026-05-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Resident Evil",
+          "tmdb": {
+            "id": 1423191,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
           }
         },
         {
           "rank": 7,
-          "title": "Home Alone 2: Lost in New York",
+          "title": "Project Hail Mary",
           "tmdb": {
-            "id": 772,
+            "id": 687163,
             "media_type": "movie",
-            "release_date": "1992-11-15"
+            "release_date": "2026-03-15"
           }
         },
         {
@@ -987,30 +983,30 @@
         },
         {
           "rank": 9,
-          "title": "The Last Samurai",
+          "title": "The Mandalorian and Grogu",
           "tmdb": {
-            "id": 616,
+            "id": 1228710,
             "media_type": "movie",
-            "release_date": "2003-12-05"
+            "release_date": "2026-05-20"
           }
         },
         {
           "rank": 10,
-          "title": "Practical Magic 2",
+          "title": "Moana",
           "tmdb": {
-            "id": 1302904,
+            "id": 1108427,
             "media_type": "movie",
-            "release_date": "2026-09-09"
+            "release_date": "2026-07-08"
           }
         }
       ]
     },
     {
       "catalog_id": "voyo.movies",
-      "heading": "TOP Movies on Voyo in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on Voyo in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "Voyo",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1107,10 +1103,10 @@
     },
     {
       "catalog_id": "voyo.series",
-      "heading": "TOP TV Shows on Voyo in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on Voyo in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "Voyo",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1207,37 +1203,37 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Bulgaria on November 14, 2026",
+      "heading": "TOP Movies on SkyShowtime in Bulgaria on November 15, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Oath",
+          "title": "The Super Mario Galaxy Movie",
           "tmdb": {
-            "id": 520596,
+            "id": 1226863,
             "media_type": "movie",
-            "release_date": "2018-10-12"
+            "release_date": "2026-04-01"
           }
         },
         {
           "rank": 2,
-          "title": "Battleship",
+          "title": "King Ivory",
           "tmdb": {
-            "id": 44833,
+            "id": 1155324,
             "media_type": "movie",
-            "release_date": "2012-04-11"
+            "release_date": "2025-05-08"
           }
         },
         {
           "rank": 3,
-          "title": "The Snowman",
+          "title": "Hallow Road",
           "tmdb": {
-            "id": 372343,
+            "id": 1205656,
             "media_type": "movie",
-            "release_date": "2017-08-24"
+            "release_date": "2025-04-16"
           }
         },
         {
@@ -1251,24 +1247,33 @@
         },
         {
           "rank": 5,
-          "title": "Hallow Road",
+          "title": "Battleship",
           "tmdb": {
-            "id": 1205656,
+            "id": 44833,
             "media_type": "movie",
-            "release_date": "2025-04-16"
+            "release_date": "2012-04-11"
           }
         },
         {
           "rank": 6,
-          "title": "The Naked Gun: From the Files of Police Squad!",
+          "title": "The Oath",
           "tmdb": {
-            "id": 37136,
+            "id": 520596,
             "media_type": "movie",
-            "release_date": "1988-12-02"
+            "release_date": "2018-10-12"
           }
         },
         {
           "rank": 7,
+          "title": "The Snowman",
+          "tmdb": {
+            "id": 372343,
+            "media_type": "movie",
+            "release_date": "2017-08-24"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Oblivion",
           "tmdb": {
             "id": 75612,
@@ -1277,40 +1282,31 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Spell",
-          "tmdb": {
-            "id": 621151,
-            "media_type": "movie",
-            "release_date": "2020-10-30"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Daylight",
+          "title": "Wanted",
           "tmdb": {
-            "id": 11228,
+            "id": 8909,
             "media_type": "movie",
-            "release_date": "1996-12-06"
+            "release_date": "2008-06-19"
           }
         },
         {
           "rank": 10,
-          "title": "Meet the Fockers",
+          "title": "The Naked Gun: From the Files of Police Squad!",
           "tmdb": {
-            "id": 693,
+            "id": 37136,
             "media_type": "movie",
-            "release_date": "2004-12-22"
+            "release_date": "1988-12-02"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Bulgaria on November 14, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Bulgaria on November 15, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "November 14, 2026",
+      "date": "November 15, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1333,20 +1329,20 @@
         },
         {
           "rank": 3,
-          "title": "The Five Star Weekend",
-          "tmdb": {
-            "id": 283151,
-            "media_type": "tv",
-            "release_date": "2026-07-09"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Dexter: Resurrection",
           "tmdb": {
             "id": 259909,
             "media_type": "tv",
             "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "The Five Star Weekend",
+          "tmdb": {
+            "id": 283151,
+            "media_type": "tv",
+            "release_date": "2026-07-09"
           }
         },
         {
@@ -1360,20 +1356,20 @@
         },
         {
           "rank": 6,
-          "title": "The Paper",
-          "tmdb": {
-            "id": 253941,
-            "media_type": "tv",
-            "release_date": "2025-09-04"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Shades of Blue",
           "tmdb": {
             "id": 64433,
             "media_type": "tv",
             "release_date": "2016-01-07"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Transplant",
+          "tmdb": {
+            "id": 99530,
+            "media_type": "tv",
+            "release_date": "2020-02-26"
           }
         },
         {
@@ -1387,20 +1383,20 @@
         },
         {
           "rank": 9,
-          "title": "Transplant",
+          "title": "The Paper",
           "tmdb": {
-            "id": 99530,
+            "id": 253941,
             "media_type": "tv",
-            "release_date": "2020-02-26"
+            "release_date": "2025-09-04"
           }
         },
         {
           "rank": 10,
-          "title": "The Purge",
+          "title": "Dracula",
           "tmdb": {
-            "id": 80213,
+            "id": 86850,
             "media_type": "tv",
-            "release_date": "2018-09-04"
+            "release_date": "2020-01-01"
           }
         }
       ]
