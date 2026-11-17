@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/portugal/",
-  "page_title": "TOP 10 on Streaming in Portugal on November 15, 2026",
+  "page_title": "TOP 10 on Streaming in Portugal on November 16, 2026",
   "region": "portugal",
-  "date": "November 15, 2026",
-  "scraped_at_utc": "2026-11-15T20:39:27.689662+00:00",
+  "date": "November 16, 2026",
+  "scraped_at_utc": "2026-11-16T23:59:29.820984+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Netflix in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Heartland",
+          "tmdb": {
+            "id": 1543469,
+            "media_type": "movie",
+            "release_date": "2026-11-13"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Unthinkable Daughter",
           "tmdb": {
             "id": 1664682,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Christmas Switch",
           "tmdb": {
             "id": 1757174,
             "media_type": "movie",
             "release_date": "2026-11-12"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "My Best Friend",
-          "tmdb": {
-            "id": 1257147,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
           }
         },
         {
@@ -51,20 +51,20 @@
         },
         {
           "rank": 5,
-          "title": "Heartland",
+          "title": "My Best Friend",
           "tmdb": {
-            "id": 1543469,
+            "id": 1257147,
             "media_type": "movie",
-            "release_date": "2026-11-13"
+            "release_date": "2026-09-03"
           }
         },
         {
           "rank": 6,
-          "title": "The Good Lawyer",
+          "title": "The Grinch",
           "tmdb": {
-            "id": 1616419,
+            "id": 360920,
             "media_type": "movie",
-            "release_date": "2026-09-11"
+            "release_date": "2018-11-08"
           }
         },
         {
@@ -78,11 +78,11 @@
         },
         {
           "rank": 8,
-          "title": "How the Grinch Stole Christmas",
+          "title": "The Good Lawyer",
           "tmdb": {
-            "id": 8871,
+            "id": 1616419,
             "media_type": "movie",
-            "release_date": "2000-11-17"
+            "release_date": "2026-09-11"
           }
         },
         {
@@ -107,10 +107,10 @@
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Portugal on November 15, 2026",
+      "heading": "TOP TV Shows on Netflix in Portugal on November 16, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -178,23 +178,27 @@
         },
         {
           "rank": 8,
-          "title": "Taken: Natalee Holloway",
+          "title": "Cunk on Cinema",
           "tmdb": {
-            "id": 338684,
+            "id": 335981,
             "media_type": "tv",
-            "release_date": "2026-11-04"
+            "release_date": "2026-11-12"
           }
         },
         {
           "rank": 9,
-          "title": "WWE SmackDown",
-          "tmdb": null
+          "title": "ChiaroScuro",
+          "tmdb": {
+            "id": 336243,
+            "media_type": "tv",
+            "release_date": "2026-11-11"
+          }
         },
         {
           "rank": 10,
-          "title": "Anaesthesia",
+          "title": "Taken: Natalee Holloway",
           "tmdb": {
-            "id": 312006,
+            "id": 338684,
             "media_type": "tv",
             "release_date": "2026-11-04"
           }
@@ -203,14 +207,23 @@
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Portugal on November 15, 2026",
+      "heading": "TOP Kids Movies on Netflix in Portugal on November 16, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "How the Grinch Stole Christmas",
           "tmdb": {
             "id": 8871,
@@ -219,21 +232,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Sing 2",
           "tmdb": {
             "id": 438695,
             "media_type": "movie",
             "release_date": "2021-12-01"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Sing",
-          "tmdb": {
-            "id": 335797,
-            "media_type": "movie",
-            "release_date": "2016-11-23"
           }
         },
         {
@@ -265,20 +269,20 @@
         },
         {
           "rank": 7,
+          "title": "Sing",
+          "tmdb": {
+            "id": 335797,
+            "media_type": "movie",
+            "release_date": "2016-11-23"
+          }
+        },
+        {
+          "rank": 8,
           "title": "KPop Demon Hunters",
           "tmdb": {
             "id": 803796,
             "media_type": "movie",
             "release_date": "2025-06-20"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "GOAT",
-          "tmdb": {
-            "id": 1297842,
-            "media_type": "movie",
-            "release_date": "2026-02-11"
           }
         },
         {
@@ -292,21 +296,21 @@
         },
         {
           "rank": 10,
-          "title": "The Ant Bully",
+          "title": "GOAT",
           "tmdb": {
-            "id": 9906,
+            "id": 1297842,
             "media_type": "movie",
-            "release_date": "2006-07-28"
+            "release_date": "2026-02-11"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Portugal on November 15, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Portugal on November 16, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -365,24 +369,6 @@
         },
         {
           "rank": 7,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Simon",
-          "tmdb": {
-            "id": 24588,
-            "media_type": "tv",
-            "release_date": "1995-09-10"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Peppa Pig",
           "tmdb": {
             "id": 12225,
@@ -391,22 +377,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Shaun the Sheep: Adventures from Mossy Bottom",
+          "rank": 8,
+          "title": "Mark Rober's CrunchLabs",
           "tmdb": {
-            "id": 100605,
+            "id": 306074,
             "media_type": "tv",
-            "release_date": "2020-03-16"
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Simon",
+          "tmdb": {
+            "id": 24588,
+            "media_type": "tv",
+            "release_date": "1995-09-10"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Boss Baby: Christmas Bonus",
+          "tmdb": {
+            "id": 1045944,
+            "media_type": "movie",
+            "release_date": "2022-12-06"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Portugal on November 15, 2026",
+      "heading": "TOP Movies on HBO Max in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -420,6 +424,60 @@
         },
         {
           "rank": 2,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Harry Potter and the Prisoner of Azkaban",
+          "tmdb": {
+            "id": 673,
+            "media_type": "movie",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Harry Potter and the Goblet of Fire",
+          "tmdb": {
+            "id": 674,
+            "media_type": "movie",
+            "release_date": "2005-11-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Harry Potter and the Order of the Phoenix",
+          "tmdb": {
+            "id": 675,
+            "media_type": "movie",
+            "release_date": "2007-07-08"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Harry Potter and the Half-Blood Prince",
+          "tmdb": {
+            "id": 767,
+            "media_type": "movie",
+            "release_date": "2009-07-15"
+          }
+        },
+        {
+          "rank": 8,
           "title": "All That We Never Were",
           "tmdb": {
             "id": 1497463,
@@ -428,52 +486,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "London Has Fallen",
-          "tmdb": {
-            "id": 267860,
-            "media_type": "movie",
-            "release_date": "2016-03-02"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "The Whale",
-          "tmdb": {
-            "id": 785084,
-            "media_type": "movie",
-            "release_date": "2022-12-09"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Angel Has Fallen",
-          "tmdb": {
-            "id": 423204,
-            "media_type": "movie",
-            "release_date": "2019-08-21"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Twisters",
-          "tmdb": {
-            "id": 718821,
-            "media_type": "movie",
-            "release_date": "2024-07-10"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Balas & Bolinhos: Só Mais Uma Coisa",
-          "tmdb": {
-            "id": 1323894,
-            "media_type": "movie",
-            "release_date": "2024-08-15"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 9,
           "title": "Security",
           "tmdb": {
             "id": 460846,
@@ -482,44 +495,26 @@
           }
         },
         {
-          "rank": 9,
-          "title": "A Big Bold Beautiful Journey",
-          "tmdb": {
-            "id": 1241921,
-            "media_type": "movie",
-            "release_date": "2025-09-17"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Sorry, Baby",
+          "title": "London Has Fallen",
           "tmdb": {
-            "id": 1205515,
+            "id": 267860,
             "media_type": "movie",
-            "release_date": "2025-06-27"
+            "release_date": "2016-03-02"
           }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Portugal on November 15, 2026",
+      "heading": "TOP TV Shows on HBO Max in Portugal on November 16, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "The Gilded Age",
-          "tmdb": {
-            "id": 81723,
-            "media_type": "tv",
-            "release_date": "2022-01-24"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Good Daughter",
           "tmdb": {
             "id": 249565,
@@ -528,16 +523,16 @@
           }
         },
         {
-          "rank": 3,
-          "title": "YAGA",
+          "rank": 2,
+          "title": "The Gilded Age",
           "tmdb": {
-            "id": 314360,
+            "id": 81723,
             "media_type": "tv",
-            "release_date": "2026-10-23"
+            "release_date": "2022-01-24"
           }
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Institute",
           "tmdb": {
             "id": 253372,
@@ -546,21 +541,30 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
-          "rank": 6,
+          "rank": 4,
           "title": "City of God: The Fight Rages On",
           "tmdb": {
             "id": 223397,
             "media_type": "tv",
             "release_date": "2024-08-25"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "YAGA",
+          "tmdb": {
+            "id": 314360,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
           }
         },
         {
@@ -574,20 +578,20 @@
         },
         {
           "rank": 8,
+          "title": "Get Jiro",
+          "tmdb": {
+            "id": 231801,
+            "media_type": "tv",
+            "release_date": "2026-10-04"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Crystal Lake",
           "tmdb": {
             "id": 213562,
             "media_type": "tv",
             "release_date": "2026-10-15"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "Rage (Furia)",
-          "tmdb": {
-            "id": 280880,
-            "media_type": "tv",
-            "release_date": "2025-07-11"
           }
         },
         {
@@ -603,20 +607,16 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Portugal on November 15, 2026",
+      "heading": "TOP Overall on Disney+ in Portugal on November 16, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
           "title": "Santo António - Lisbon Love",
-          "tmdb": {
-            "id": 1610820,
-            "media_type": "movie",
-            "release_date": "2026-09-10"
-          }
+          "tmdb": null
         },
         {
           "rank": 2,
@@ -629,42 +629,6 @@
         },
         {
           "rank": 3,
-          "title": "Grey's Anatomy",
-          "tmdb": {
-            "id": 1416,
-            "media_type": "tv",
-            "release_date": "2005-03-27"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Bluey",
-          "tmdb": {
-            "id": 82728,
-            "media_type": "tv",
-            "release_date": "2018-10-01"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "VisionQuest",
-          "tmdb": {
-            "id": 213375,
-            "media_type": "tv",
-            "release_date": "2026-10-13"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Modern Family",
-          "tmdb": {
-            "id": 1421,
-            "media_type": "tv",
-            "release_date": "2009-09-23"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Destino Maior",
           "tmdb": {
             "id": 334077,
@@ -673,16 +637,43 @@
           }
         },
         {
-          "rank": 8,
-          "title": "The Grinch",
+          "rank": 4,
+          "title": "Grey's Anatomy",
           "tmdb": {
-            "id": 360920,
-            "media_type": "movie",
-            "release_date": "2018-11-08"
+            "id": 1416,
+            "media_type": "tv",
+            "release_date": "2005-03-27"
           }
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "title": "Bluey",
+          "tmdb": {
+            "id": 82728,
+            "media_type": "tv",
+            "release_date": "2018-10-01"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "VisionQuest",
+          "tmdb": {
+            "id": 213375,
+            "media_type": "tv",
+            "release_date": "2026-10-13"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Modern Family",
+          "tmdb": {
+            "id": 1421,
+            "media_type": "tv",
+            "release_date": "2009-09-23"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Moana",
           "tmdb": {
             "id": 1108427,
@@ -691,22 +682,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Secret Lives of Mormon Wives: Orange County",
+          "rank": 9,
+          "title": "The Grinch",
           "tmdb": {
-            "id": 320507,
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "How I Met Your Mother",
+          "tmdb": {
+            "id": 1100,
             "media_type": "tv",
-            "release_date": "2026-11-12"
+            "release_date": "2005-09-19"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Portugal on November 15, 2026",
+      "heading": "TOP Overall on Amazon Prime in Portugal on November 16, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -729,6 +729,15 @@
         },
         {
           "rank": 3,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Coração de Mãe",
           "tmdb": {
             "id": 334105,
@@ -737,21 +746,12 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Drive - The Pretenders",
           "tmdb": {
             "id": 1596275,
             "media_type": "movie",
             "release_date": "2026-10-27"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Páginas da Vida",
-          "tmdb": {
-            "id": 42789,
-            "media_type": "tv",
-            "release_date": "2006-07-10"
           }
         },
         {
@@ -765,6 +765,15 @@
         },
         {
           "rank": 7,
+          "title": "Páginas da Vida",
+          "tmdb": {
+            "id": 42789,
+            "media_type": "tv",
+            "release_date": "2006-07-10"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
@@ -773,7 +782,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Terminal List",
           "tmdb": {
             "id": 120911,
@@ -782,35 +791,35 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Carrie",
-          "tmdb": {
-            "id": 288673,
-            "media_type": "tv",
-            "release_date": "2026-10-07"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Harry Potter and the Philosopher's Stone",
+          "title": "Love of Your Life",
           "tmdb": {
-            "id": 671,
+            "id": 1381078,
             "media_type": "movie",
-            "release_date": "2001-11-16"
+            "release_date": "2026-10-07"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Amazon Prime in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Now You See Me: Now You Don't",
+          "tmdb": {
+            "id": 425274,
+            "media_type": "movie",
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Drive - The Pretenders",
           "tmdb": {
             "id": 1596275,
@@ -819,7 +828,7 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The Mongoose",
           "tmdb": {
             "id": 1294189,
@@ -828,25 +837,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Harry Potter and the Philosopher's Stone",
-          "tmdb": {
-            "id": 671,
-            "media_type": "movie",
-            "release_date": "2001-11-16"
-          }
-        },
-        {
           "rank": 4,
-          "title": "A Carpenter Christmas Romance",
-          "tmdb": {
-            "id": 1377267,
-            "media_type": "movie",
-            "release_date": "2024-12-21"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Love of Your Life",
           "tmdb": {
             "id": 1381078,
@@ -855,12 +846,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Harry Potter and the Chamber of Secrets",
+          "rank": 5,
+          "title": "A Carpenter Christmas Romance",
           "tmdb": {
-            "id": 672,
+            "id": 1377267,
             "media_type": "movie",
-            "release_date": "2002-11-13"
+            "release_date": "2024-12-21"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "tmdb": {
+            "id": 671,
+            "media_type": "movie",
+            "release_date": "2001-11-16"
           }
         },
         {
@@ -874,6 +874,15 @@
         },
         {
           "rank": 8,
+          "title": "Harry Potter and the Chamber of Secrets",
+          "tmdb": {
+            "id": 672,
+            "media_type": "movie",
+            "release_date": "2002-11-13"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Harry Potter and the Prisoner of Azkaban",
           "tmdb": {
             "id": 673,
@@ -882,31 +891,22 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Now You See Me: Now You Don't",
-          "tmdb": {
-            "id": 425274,
-            "media_type": "movie",
-            "release_date": "2025-11-12"
-          }
-        },
-        {
           "rank": 10,
-          "title": "Harry Potter and the Goblet of Fire",
+          "title": "Dracula",
           "tmdb": {
-            "id": 674,
+            "id": 1246049,
             "media_type": "movie",
-            "release_date": "2005-11-16"
+            "release_date": "2025-07-30"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Portugal on November 15, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Portugal on November 16, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -929,20 +929,20 @@
         },
         {
           "rank": 3,
-          "title": "Coração de Mãe",
-          "tmdb": {
-            "id": 334105,
-            "media_type": "tv",
-            "release_date": "2026-09-07"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Páginas da Vida",
           "tmdb": {
             "id": 42789,
             "media_type": "tv",
             "release_date": "2006-07-10"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Coração de Mãe",
+          "tmdb": {
+            "id": 334105,
+            "media_type": "tv",
+            "release_date": "2026-09-07"
           }
         },
         {
@@ -992,21 +992,21 @@
         },
         {
           "rank": 10,
-          "title": "Love in Disguise",
+          "title": "Final Table",
           "tmdb": {
-            "id": 303745,
+            "id": 316702,
             "media_type": "tv",
-            "release_date": "2026-10-19"
+            "release_date": "2026-10-24"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Apple TV in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1083,30 +1083,30 @@
         },
         {
           "rank": 9,
+          "title": "The Instigators",
+          "tmdb": {
+            "id": 1059064,
+            "media_type": "movie",
+            "release_date": "2024-08-02"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Eat Pray Love",
           "tmdb": {
             "id": 38167,
             "media_type": "movie",
             "release_date": "2010-08-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Snoopy Presents: 12 Days of Snoopy",
-          "tmdb": {
-            "id": 1780407,
-            "media_type": "movie",
-            "release_date": "2026-11-12"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Portugal on November 15, 2026",
+      "heading": "TOP TV Shows on Apple TV in Portugal on November 16, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1203,10 +1203,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Apple TV Store in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1220,6 +1220,15 @@
         },
         {
           "rank": 2,
+          "title": "Resident Evil",
+          "tmdb": {
+            "id": 1423191,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Runner",
           "tmdb": {
             "id": 1377237,
@@ -1228,25 +1237,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Resident Evil",
-          "tmdb": {
-            "id": 1423191,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
           "rank": 4,
-          "title": "The Odyssey",
-          "tmdb": {
-            "id": 1368337,
-            "media_type": "movie",
-            "release_date": "2026-07-15"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Hunger Games: Mockingjay - Part 1",
           "tmdb": {
             "id": 131631,
@@ -1255,12 +1246,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "PAW Patrol: The Dino Movie",
+          "rank": 5,
+          "title": "Minions & Monsters",
           "tmdb": {
-            "id": 1185806,
+            "id": 1315772,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "2026-06-24"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Dog Stars",
+          "tmdb": {
+            "id": 1384216,
+            "media_type": "movie",
+            "release_date": "2026-08-26"
           }
         },
         {
@@ -1274,39 +1274,39 @@
         },
         {
           "rank": 8,
-          "title": "Minions & Monsters",
+          "title": "Michael",
           "tmdb": {
-            "id": 1315772,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2026-06-24"
+            "release_date": "2026-04-22"
           }
         },
         {
           "rank": 9,
-          "title": "Coraline",
+          "title": "Backrooms",
           "tmdb": {
-            "id": 14836,
+            "id": 1083381,
             "media_type": "movie",
-            "release_date": "2009-02-05"
+            "release_date": "2026-05-27"
           }
         },
         {
           "rank": 10,
-          "title": "The Super Mario Galaxy Movie",
+          "title": "PAW Patrol: The Dino Movie",
           "tmdb": {
-            "id": 1226863,
+            "id": 1185806,
             "media_type": "movie",
-            "release_date": "2026-04-01"
+            "release_date": "2026-07-23"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Google in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1329,84 +1329,84 @@
         },
         {
           "rank": 3,
-          "title": "The Dog Stars",
+          "title": "SPECTRE",
           "tmdb": {
-            "id": 1384216,
+            "id": 206647,
             "media_type": "movie",
-            "release_date": "2026-08-26"
+            "release_date": "2015-10-26"
           }
         },
         {
           "rank": 4,
-          "title": "Minions & Monsters",
+          "title": "A Bug's Life",
           "tmdb": {
-            "id": 1315772,
+            "id": 9487,
             "media_type": "movie",
-            "release_date": "2026-06-24"
+            "release_date": "1998-11-25"
           }
         },
         {
           "rank": 5,
-          "title": "PAW Patrol: The Dino Movie",
+          "title": "Aladdin",
           "tmdb": {
-            "id": 1185806,
+            "id": 812,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "1992-11-25"
           }
         },
         {
           "rank": 6,
-          "title": "Obsession",
+          "title": "Star Wars: The Rise of Skywalker",
           "tmdb": {
-            "id": 1339713,
+            "id": 181812,
             "media_type": "movie",
-            "release_date": "2026-05-13"
+            "release_date": "2019-12-18"
           }
         },
         {
           "rank": 7,
-          "title": "Frozen",
+          "title": "Spider-Man",
           "tmdb": {
-            "id": 109445,
+            "id": 557,
             "media_type": "movie",
-            "release_date": "2013-11-20"
+            "release_date": "2002-05-01"
           }
         },
         {
           "rank": 8,
-          "title": "Disclosure Day",
+          "title": "Snow White",
           "tmdb": {
-            "id": 1275779,
+            "id": 447273,
             "media_type": "movie",
-            "release_date": "2026-06-10"
+            "release_date": "2025-03-19"
           }
         },
         {
           "rank": 9,
-          "title": "The Drama",
+          "title": "Ant-Man",
           "tmdb": {
-            "id": 1325734,
+            "id": 102899,
             "media_type": "movie",
-            "release_date": "2026-04-01"
+            "release_date": "2015-07-14"
           }
         },
         {
           "rank": 10,
-          "title": "Moana",
+          "title": "Home Alone",
           "tmdb": {
-            "id": 1108427,
+            "id": 771,
             "media_type": "movie",
-            "release_date": "2026-07-08"
+            "release_date": "1990-11-16"
           }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Portugal on November 15, 2026",
+      "heading": "TOP Movies on Rakuten TV in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1429,33 +1429,15 @@
         },
         {
           "rank": 3,
-          "title": "Spider-Man: Brand New Day",
+          "title": "Runner",
           "tmdb": {
-            "id": 969681,
+            "id": 1377237,
             "media_type": "movie",
-            "release_date": "2026-07-29"
+            "release_date": "2026-09-07"
           }
         },
         {
           "rank": 4,
-          "title": "Resident Evil",
-          "tmdb": {
-            "id": 1423191,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "PAW Patrol: The Dino Movie",
-          "tmdb": {
-            "id": 1185806,
-            "media_type": "movie",
-            "release_date": "2026-07-23"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Tuner",
           "tmdb": {
             "id": 1340206,
@@ -1464,12 +1446,30 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Motor City",
+          "rank": 5,
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 87513,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2026-07-23"
+            "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Resident Evil",
+          "tmdb": {
+            "id": 1423191,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Playback",
+          "tmdb": {
+            "id": 84907,
+            "media_type": "movie",
+            "release_date": "2012-03-09"
           }
         },
         {
@@ -1483,30 +1483,30 @@
         },
         {
           "rank": 9,
-          "title": "All That We Never Were",
+          "title": "I Want Your Sex",
           "tmdb": {
-            "id": 1497463,
+            "id": 1288059,
             "media_type": "movie",
-            "release_date": "2026-06-04"
+            "release_date": "2026-07-29"
           }
         },
         {
           "rank": 10,
-          "title": "Cocorico 2",
+          "title": "Pressure",
           "tmdb": {
-            "id": 1437939,
+            "id": 1318413,
             "media_type": "movie",
-            "release_date": "2026-04-08"
+            "release_date": "2026-05-28"
           }
         }
       ]
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Portugal on November 15, 2026",
+      "heading": "TOP Movies on SkyShowtime in Portugal on November 16, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1538,20 +1538,20 @@
         },
         {
           "rank": 4,
-          "title": "Passenger",
-          "tmdb": {
-            "id": 1368314,
-            "media_type": "movie",
-            "release_date": "2026-05-20"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Reminders of Him",
           "tmdb": {
             "id": 1367642,
             "media_type": "movie",
             "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Passenger",
+          "tmdb": {
+            "id": 1368314,
+            "media_type": "movie",
+            "release_date": "2026-05-20"
           }
         },
         {
@@ -1603,10 +1603,10 @@
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Portugal on November 15, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Portugal on November 16, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "November 15, 2026",
+      "date": "November 16, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1620,15 +1620,6 @@
         },
         {
           "rank": 2,
-          "title": "Tulsa King",
-          "tmdb": {
-            "id": 153312,
-            "media_type": "tv",
-            "release_date": "2022-11-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Dexter: Resurrection",
           "tmdb": {
             "id": 259909,
@@ -1637,34 +1628,34 @@
           }
         },
         {
-          "rank": 4,
-          "title": "The Five Star Weekend",
+          "rank": 3,
+          "title": "Tulsa King",
           "tmdb": {
-            "id": 283151,
+            "id": 153312,
             "media_type": "tv",
-            "release_date": "2026-07-09"
+            "release_date": "2022-11-13"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Shades of Blue",
+          "tmdb": {
+            "id": 64433,
+            "media_type": "tv",
+            "release_date": "2016-01-07"
           }
         },
         {
           "rank": 5,
-          "title": "The Paper",
+          "title": "The Purge",
           "tmdb": {
-            "id": 253941,
+            "id": 80213,
             "media_type": "tv",
-            "release_date": "2025-09-04"
+            "release_date": "2018-09-04"
           }
         },
         {
           "rank": 6,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
-          }
-        },
-        {
-          "rank": 7,
           "title": "La Brea",
           "tmdb": {
             "id": 128839,
@@ -1673,30 +1664,39 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Dexter: New Blood",
+          "rank": 7,
+          "title": "Bad Blood",
           "tmdb": {
-            "id": 131927,
+            "id": 72742,
             "media_type": "tv",
-            "release_date": "2021-11-07"
+            "release_date": "2017-09-21"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Lioness",
+          "tmdb": {
+            "id": 113962,
+            "media_type": "tv",
+            "release_date": "2023-07-23"
           }
         },
         {
           "rank": 9,
-          "title": "All Her Fault",
+          "title": "The Good Fight",
           "tmdb": {
-            "id": 246386,
+            "id": 69158,
             "media_type": "tv",
-            "release_date": "2025-11-07"
+            "release_date": "2017-02-19"
           }
         },
         {
           "rank": 10,
-          "title": "Yellowstone",
+          "title": "The Agency",
           "tmdb": {
-            "id": 73586,
+            "id": 219971,
             "media_type": "tv",
-            "release_date": "2018-06-20"
+            "release_date": "2024-12-01"
           }
         }
       ]
