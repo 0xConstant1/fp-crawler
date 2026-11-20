@@ -20,6 +20,10 @@ on:
         description: Refresh selected regions even if their chart date is current
         type: boolean
         default: false
+      fetch_title_details:
+        description: Use FlixPatrol title pages to resolve ambiguous TMDB matches (slower)
+        type: boolean
+        default: false
       comparison_order:
         description: Reverse on a subsequent comparison to check order effects
         type: choice
@@ -51,6 +55,7 @@ jobs:
       FLIXPATROL_TRANSPORT: ${{ inputs.transport || 'auto' }}
       INPUT_REGIONS: ${{ inputs.regions }}
       INPUT_FORCE: ${{ inputs.force }}
+      INPUT_FETCH_TITLE_DETAILS: ${{ github.event_name == 'schedule' || inputs.fetch_title_details }}
       COMPARISON_ORDER: ${{ inputs.comparison_order || 'http-first' }}
     steps:
       - name: Check out repository
@@ -100,6 +105,7 @@ jobs:
           args=()
           if [ -n "$INPUT_REGIONS" ]; then args+=(--region "$INPUT_REGIONS"); fi
           if [ "$INPUT_FORCE" = "true" ]; then args+=(--force); fi
+          if [ "$INPUT_FETCH_TITLE_DETAILS" = "true" ]; then args+=(--fetch-title-details); fi
           xvfb-run -a python scripts/update_catalogs.py "${args[@]}"
 
       - name: Compare fetching transports
