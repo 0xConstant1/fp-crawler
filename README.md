@@ -46,6 +46,12 @@ Resolve TMDB IDs while scraping:
 python -m flixpatrol_scraper --all-regions --output exports --resolve-tmdb --tmdb-api-key YOUR_TMDB_API_KEY
 ```
 
+Resolve ambiguous TMDB matches using FlixPatrol title details. At a request rate of `0.5`, chart requests are spaced two seconds apart. Up to five title detail requests can start in a rolling two-second window, with 0–500 ms of jitter between starts.
+
+```bash
+python -m flixpatrol_scraper --region global --output global.json --resolve-tmdb --tmdb-api-key YOUR_TMDB_API_KEY --fetch-title-details --requests-per-second 0.5
+```
+
 ## GitHub Actions
 
 The repo includes a scheduled workflow in [.github/workflows/update-catalogs.yml](.github/workflows/update-catalogs.yml).

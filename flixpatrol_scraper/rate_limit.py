@@ -14,6 +14,10 @@ class RateLimiter:
         self._next_allowed_at = 0.0
         self._lock = threading.Lock()
 
+    @property
+    def interval_seconds(self) -> float:
+        return self._interval_seconds
+
     def acquire(self) -> None:
         with self._lock:
             now = time.monotonic()

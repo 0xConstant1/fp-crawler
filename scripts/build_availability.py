@@ -12,7 +12,7 @@ Shape::
       "generated_at": "2026-07-20T16:00:00Z",
       "variantLabels": { "hi": "Hindi", ... },
       "regions": {
-        "india": { "hotstar": { "overall": ["hi", "mr"] }, ... },
+        "sample-region": { "sample-stream": { "overall": ["hi", "mr"] }, ... },
         ...
       }
     }
@@ -31,7 +31,9 @@ import json
 from pathlib import Path
 import sys
 
+from flixpatrol_scraper.catalogs import catalog_paths_for_index
 from flixpatrol_scraper.scraper import CANONICAL_CATEGORIES, split_catalog_id
+from flixpatrol_scraper.storage import atomic_write_json, catalog_publication_lock
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CATALOG_DIR = REPO_ROOT / "catalogs"
@@ -82,11 +84,9 @@ def build_index(paths: list[Path]) -> dict:
 
 
 def write_index(catalog_dir: Path) -> Path:
-    index = build_index(region_files(catalog_dir))
     output = catalog_dir / AVAILABILITY_FILENAME
-    output.write_text(
-        json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
-    )
+    with catalog_publication_lock(catalog_dir):
+        atomic_write_json(output, build_index(catalog_paths_for_index(region_files(catalog_dir))))
     return output
 
 
