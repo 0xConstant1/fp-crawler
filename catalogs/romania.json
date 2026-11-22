@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/romania/",
-  "page_title": "TOP 10 on Streaming in Romania on November 21, 2026",
+  "page_title": "TOP 10 on Streaming in Romania on November 22, 2026",
   "region": "romania",
-  "date": "November 21, 2026",
-  "scraped_at_utc": "2026-11-21T21:10:11.517669+00:00",
+  "date": "November 22, 2026",
+  "scraped_at_utc": "2026-11-22T21:20:31.368617+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Romania on November 21, 2026",
+      "heading": "TOP Movies on Netflix in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -24,15 +24,6 @@
         },
         {
           "rank": 2,
-          "title": "Heartland",
-          "tmdb": {
-            "id": 1543469,
-            "media_type": "movie",
-            "release_date": "2026-11-13"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Grinch",
           "tmdb": {
             "id": 360920,
@@ -41,30 +32,39 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Kraven the Hunter",
+          "rank": 3,
+          "title": "Steps",
           "tmdb": {
-            "id": 539972,
+            "id": 1595124,
             "media_type": "movie",
-            "release_date": "2024-12-11"
+            "release_date": "2026-11-20"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Heartland",
+          "tmdb": {
+            "id": 1543469,
+            "media_type": "movie",
+            "release_date": "2026-11-13"
           }
         },
         {
           "rank": 5,
-          "title": "Force 10 from Navarone",
-          "tmdb": {
-            "id": 17339,
-            "media_type": "movie",
-            "release_date": "1978-08-16"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Drop",
           "tmdb": {
             "id": 1249213,
             "media_type": "movie",
             "release_date": "2025-04-07"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Kraven the Hunter",
+          "tmdb": {
+            "id": 539972,
+            "media_type": "movie",
+            "release_date": "2024-12-11"
           }
         },
         {
@@ -87,30 +87,30 @@
         },
         {
           "rank": 9,
+          "title": "Oblivion",
+          "tmdb": {
+            "id": 75612,
+            "media_type": "movie",
+            "release_date": "2013-04-10"
+          }
+        },
+        {
+          "rank": 10,
           "title": "The Christmas Switch",
           "tmdb": {
             "id": 1757174,
             "media_type": "movie",
             "release_date": "2026-11-12"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Urban Legends: Bloody Mary",
-          "tmdb": {
-            "id": 10292,
-            "media_type": "movie",
-            "release_date": "2005-07-19"
-          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on Netflix in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -151,12 +151,8 @@
         },
         {
           "rank": 5,
-          "title": "Alicia's Law",
-          "tmdb": {
-            "id": 338562,
-            "media_type": "tv",
-            "release_date": "2026-11-11"
-          }
+          "title": "Blue Road",
+          "tmdb": null
         },
         {
           "rank": 6,
@@ -169,6 +165,15 @@
         },
         {
           "rank": 7,
+          "title": "Alicia's Law",
+          "tmdb": {
+            "id": 338562,
+            "media_type": "tv",
+            "release_date": "2026-11-11"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Black Doves",
           "tmdb": {
             "id": 225385,
@@ -177,40 +182,231 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Power",
-          "tmdb": {
-            "id": 54650,
-            "media_type": "tv",
-            "release_date": "2014-06-07"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Lupin",
-          "tmdb": {
-            "id": 96677,
-            "media_type": "tv",
-            "release_date": "2021-01-08"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Anaesthesia",
           "tmdb": {
             "id": 312006,
             "media_type": "tv",
             "release_date": "2026-11-04"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Power",
+          "tmdb": {
+            "id": 54650,
+            "media_type": "tv",
+            "release_date": "2014-06-07"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-movies",
+      "heading": "TOP Kids Movies on Netflix in Romania on November 22, 2026",
+      "category": "kids movies",
+      "platform": "Netflix",
+      "date": "November 22, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Steps",
+          "tmdb": {
+            "id": 1595124,
+            "media_type": "movie",
+            "release_date": "2026-11-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Tom & Jerry",
+          "tmdb": {
+            "id": 587807,
+            "media_type": "movie",
+            "release_date": "2021-02-10"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "How the Grinch Stole Christmas",
+          "tmdb": {
+            "id": 8871,
+            "media_type": "movie",
+            "release_date": "2000-11-17"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Polar Express",
+          "tmdb": {
+            "id": 5255,
+            "media_type": "movie",
+            "release_date": "2004-11-10"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "The Christmas Chronicles",
+          "tmdb": {
+            "id": 527435,
+            "media_type": "movie",
+            "release_date": "2018-11-22"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "That Christmas",
+          "tmdb": {
+            "id": 645757,
+            "media_type": "movie",
+            "release_date": "2024-11-27"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Christmas Chronicles: Part Two",
+          "tmdb": {
+            "id": 654028,
+            "media_type": "movie",
+            "release_date": "2020-11-18"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "A Cinderella Story",
+          "tmdb": {
+            "id": 11247,
+            "media_type": "movie",
+            "release_date": "2004-07-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Sing 2",
+          "tmdb": {
+            "id": 438695,
+            "media_type": "movie",
+            "release_date": "2021-12-01"
+          }
+        }
+      ]
+    },
+    {
+      "catalog_id": "netflix.kids-tv-shows",
+      "heading": "TOP Kids TV Shows on Netflix in Romania on November 22, 2026",
+      "category": "kids tv shows",
+      "platform": "Netflix",
+      "date": "November 22, 2026",
+      "title_count": 10,
+      "entries": [
+        {
+          "rank": 1,
+          "title": "Doozie's Doghouse",
+          "tmdb": {
+            "id": 336478,
+            "media_type": "tv",
+            "release_date": "2026-11-09"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Sheriff Labrador",
+          "tmdb": {
+            "id": 219799,
+            "media_type": "tv",
+            "release_date": "2022-10-20"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Salish & Jordan Matter",
+          "tmdb": {
+            "id": 318906,
+            "media_type": "tv",
+            "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Gabby's Dollhouse",
+          "tmdb": {
+            "id": 111474,
+            "media_type": "tv",
+            "release_date": "2021-01-05"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Peppa Pig",
+          "tmdb": {
+            "id": 12225,
+            "media_type": "tv",
+            "release_date": "2004-05-31"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Creature Cases",
+          "tmdb": {
+            "id": 195407,
+            "media_type": "tv",
+            "release_date": "2022-04-12"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Man Vs Baby",
+          "tmdb": {
+            "id": 279601,
+            "media_type": "tv",
+            "release_date": "2025-12-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Boss Baby: Christmas Bonus",
+          "tmdb": {
+            "id": 1045944,
+            "media_type": "movie",
+            "release_date": "2022-12-06"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Win the Mall",
+          "tmdb": {
+            "id": 336592,
+            "media_type": "tv",
+            "release_date": "2026-11-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Romania on November 21, 2026",
+      "heading": "TOP Movies on HBO Max in Romania on November 22, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,6 +420,15 @@
         },
         {
           "rank": 2,
+          "title": "Playdate",
+          "tmdb": {
+            "id": 1248226,
+            "media_type": "movie",
+            "release_date": "2025-11-04"
+          }
+        },
+        {
+          "rank": 3,
           "title": "The End of Oak Street",
           "tmdb": {
             "id": 1101383,
@@ -232,7 +437,7 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "How to Make a Killing",
           "tmdb": {
             "id": 467905,
@@ -241,7 +446,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Batman",
           "tmdb": {
             "id": 414906,
@@ -250,7 +455,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The Breadwinner",
           "tmdb": {
             "id": 1440050,
@@ -259,21 +464,12 @@
           }
         },
         {
-          "rank": 6,
-          "title": "RoboCop",
-          "tmdb": {
-            "id": 5548,
-            "media_type": "movie",
-            "release_date": "1987-07-17"
-          }
-        },
-        {
           "rank": 7,
-          "title": "The Terminator",
+          "title": "Have We Met This Christmas?",
           "tmdb": {
-            "id": 218,
+            "id": 1554297,
             "media_type": "movie",
-            "release_date": "1984-10-26"
+            "release_date": "2025-12-13"
           }
         },
         {
@@ -287,34 +483,43 @@
         },
         {
           "rank": 9,
-          "title": "Have We Met This Christmas?",
-          "tmdb": {
-            "id": 1554297,
-            "media_type": "movie",
-            "release_date": "2025-12-13"
-          }
-        },
-        {
-          "rank": 10,
           "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
           "tmdb": {
             "id": 695721,
             "media_type": "movie",
             "release_date": "2023-11-15"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Terminator",
+          "tmdb": {
+            "id": 218,
+            "media_type": "movie",
+            "release_date": "1984-10-26"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on HBO Max in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Outlander: Blood of My Blood",
+          "tmdb": {
+            "id": 207484,
+            "media_type": "tv",
+            "release_date": "2025-08-08"
+          }
+        },
+        {
+          "rank": 2,
           "title": "The Gilded Age",
           "tmdb": {
             "id": 81723,
@@ -323,25 +528,7 @@
           }
         },
         {
-          "rank": 2,
-          "title": "Georgie & Mandy's First Marriage",
-          "tmdb": {
-            "id": 243875,
-            "media_type": "tv",
-            "release_date": "2024-10-17"
-          }
-        },
-        {
           "rank": 3,
-          "title": "YAGA",
-          "tmdb": {
-            "id": 314360,
-            "media_type": "tv",
-            "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Good Daughter",
           "tmdb": {
             "id": 249565,
@@ -350,7 +537,25 @@
           }
         },
         {
+          "rank": 4,
+          "title": "Georgie & Mandy's First Marriage",
+          "tmdb": {
+            "id": 243875,
+            "media_type": "tv",
+            "release_date": "2024-10-17"
+          }
+        },
+        {
           "rank": 5,
+          "title": "YAGA",
+          "tmdb": {
+            "id": 314360,
+            "media_type": "tv",
+            "release_date": "2026-10-23"
+          }
+        },
+        {
+          "rank": 6,
           "title": "This City Is Ours",
           "tmdb": {
             "id": 255570,
@@ -359,7 +564,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Melania Rea",
           "tmdb": {
             "id": 339697,
@@ -368,21 +573,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Silent Night",
           "tmdb": {
             "id": 305245,
             "media_type": "tv",
             "release_date": "2026-11-13"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Outlander: Blood of My Blood",
-          "tmdb": {
-            "id": 207484,
-            "media_type": "tv",
-            "release_date": "2025-08-08"
           }
         },
         {
@@ -407,10 +603,10 @@
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Romania on November 21, 2026",
+      "heading": "TOP Overall on Disney+ in Romania on November 22, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -433,20 +629,20 @@
         },
         {
           "rank": 3,
-          "title": "Percy Jackson and the Olympians",
-          "tmdb": {
-            "id": 103540,
-            "media_type": "tv",
-            "release_date": "2023-12-19"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Home Alone 2: Lost in New York",
           "tmdb": {
             "id": 772,
             "media_type": "movie",
             "release_date": "1992-11-15"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -460,11 +656,11 @@
         },
         {
           "rank": 6,
-          "title": "Moana",
+          "title": "Percy Jackson and the Olympians",
           "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
+            "id": 103540,
+            "media_type": "tv",
+            "release_date": "2023-12-19"
           }
         },
         {
@@ -474,15 +670,6 @@
         },
         {
           "rank": 8,
-          "title": "The Remarried Empress",
-          "tmdb": {
-            "id": 279246,
-            "media_type": "tv",
-            "release_date": "2026-11-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "The Polar Express",
           "tmdb": {
             "id": 5255,
@@ -491,22 +678,31 @@
           }
         },
         {
-          "rank": 10,
-          "title": "VisionQuest",
+          "rank": 9,
+          "title": "The Remarried Empress",
           "tmdb": {
-            "id": 213375,
+            "id": 279246,
             "media_type": "tv",
-            "release_date": "2026-10-13"
+            "release_date": "2026-11-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Devil Wears Prada 2",
+          "tmdb": {
+            "id": 1314481,
+            "media_type": "movie",
+            "release_date": "2026-04-29"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Romania on November 21, 2026",
+      "heading": "TOP Movies on Disney+ in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -603,10 +799,10 @@
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on Disney+ in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -638,15 +834,6 @@
         },
         {
           "rank": 4,
-          "title": "The Kardashians",
-          "tmdb": {
-            "id": 154521,
-            "media_type": "tv",
-            "release_date": "2022-04-14"
-          }
-        },
-        {
-          "rank": 5,
           "title": "9-1-1",
           "tmdb": {
             "id": 75219,
@@ -655,16 +842,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "9-1-1: Nashville",
+          "rank": 5,
+          "title": "The Kardashians",
           "tmdb": {
-            "id": 284838,
+            "id": 154521,
             "media_type": "tv",
-            "release_date": "2025-10-09"
+            "release_date": "2022-04-14"
           }
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "All's Fair",
           "tmdb": {
             "id": 258742,
@@ -673,12 +860,21 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "VisionQuest",
           "tmdb": {
             "id": 213375,
             "media_type": "tv",
             "release_date": "2026-10-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "9-1-1: Nashville",
+          "tmdb": {
+            "id": 284838,
+            "media_type": "tv",
+            "release_date": "2025-10-09"
           }
         },
         {
@@ -692,30 +888,25 @@
         },
         {
           "rank": 10,
-          "title": "Rivals",
+          "title": "Coven Academy",
           "tmdb": {
-            "id": 208921,
+            "id": 298505,
             "media_type": "tv",
-            "release_date": "2024-10-18"
+            "release_date": "2026-10-01"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Romania on November 21, 2026",
+      "heading": "TOP Movies on Amazon Prime in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Last Dinner",
-          "tmdb": null
-        },
-        {
-          "rank": 2,
           "title": "Perfect Liars",
           "tmdb": {
             "id": 1568060,
@@ -724,21 +915,26 @@
           }
         },
         {
-          "rank": 3,
-          "title": "Drive - The Pretenders",
-          "tmdb": {
-            "id": 1596275,
-            "media_type": "movie",
-            "release_date": "2026-10-27"
-          }
+          "rank": 2,
+          "title": "Last Dinner",
+          "tmdb": null
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The Mongoose",
           "tmdb": {
             "id": 1294189,
             "media_type": "movie",
             "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Drive - The Pretenders",
+          "tmdb": {
+            "id": 1596275,
+            "media_type": "movie",
+            "release_date": "2026-10-27"
           }
         },
         {
@@ -779,30 +975,30 @@
         },
         {
           "rank": 9,
+          "title": "Casino Royale",
+          "tmdb": {
+            "id": 36557,
+            "media_type": "movie",
+            "release_date": "2006-11-14"
+          }
+        },
+        {
+          "rank": 10,
           "title": "You+Me – Against the World",
           "tmdb": {
             "id": 1641629,
             "media_type": "movie",
             "release_date": "2026-09-18"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Last Sunrise",
-          "tmdb": {
-            "id": 1516698,
-            "media_type": "movie",
-            "release_date": "2026-08-26"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -843,20 +1039,20 @@
         },
         {
           "rank": 5,
-          "title": "The Greatest",
-          "tmdb": {
-            "id": 258989,
-            "media_type": "tv",
-            "release_date": "2026-11-04"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Love in Disguise",
           "tmdb": {
             "id": 303745,
             "media_type": "tv",
             "release_date": "2026-10-19"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Final Table",
+          "tmdb": {
+            "id": 316702,
+            "media_type": "tv",
+            "release_date": "2026-10-24"
           }
         },
         {
@@ -879,11 +1075,11 @@
         },
         {
           "rank": 9,
-          "title": "Neagley",
+          "title": "Young Sherlock",
           "tmdb": {
-            "id": 273207,
+            "id": 255661,
             "media_type": "tv",
-            "release_date": "2026-09-16"
+            "release_date": "2026-03-04"
           }
         },
         {
@@ -899,14 +1095,23 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Romania on November 21, 2026",
+      "heading": "TOP Movies on Apple TV in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Being Heumann",
+          "tmdb": {
+            "id": 1050981,
+            "media_type": "movie",
+            "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
@@ -915,21 +1120,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "F1",
           "tmdb": {
             "id": 911430,
             "media_type": "movie",
             "release_date": "2025-06-25"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "The Gorge",
-          "tmdb": {
-            "id": 950396,
-            "media_type": "movie",
-            "release_date": "2025-02-13"
           }
         },
         {
@@ -952,11 +1148,11 @@
         },
         {
           "rank": 6,
-          "title": "Being Heumann",
+          "title": "The Gorge",
           "tmdb": {
-            "id": 1050981,
+            "id": 950396,
             "media_type": "movie",
-            "release_date": "2026-11-06"
+            "release_date": "2025-02-13"
           }
         },
         {
@@ -999,28 +1195,28 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on Apple TV in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "12 12 12",
-          "tmdb": {
-            "id": 254630,
-            "media_type": "tv",
-            "release_date": "2026-11-12"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "12 12 12",
+          "tmdb": {
+            "id": 254630,
+            "media_type": "tv",
+            "release_date": "2026-11-12"
           }
         },
         {
@@ -1043,20 +1239,20 @@
         },
         {
           "rank": 5,
-          "title": "Ted Lasso",
-          "tmdb": {
-            "id": 97546,
-            "media_type": "tv",
-            "release_date": "2020-08-14"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Foundation",
           "tmdb": {
             "id": 93740,
             "media_type": "tv",
             "release_date": "2021-09-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Ted Lasso",
+          "tmdb": {
+            "id": 97546,
+            "media_type": "tv",
+            "release_date": "2020-08-14"
           }
         },
         {
@@ -1079,30 +1275,30 @@
         },
         {
           "rank": 9,
-          "title": "The Morning Show",
-          "tmdb": {
-            "id": 90282,
-            "media_type": "tv",
-            "release_date": "2019-11-01"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Dark Matter",
           "tmdb": {
             "id": 196322,
             "media_type": "tv",
             "release_date": "2024-05-07"
           }
+        },
+        {
+          "rank": 10,
+          "title": "The Morning Show",
+          "tmdb": {
+            "id": 90282,
+            "media_type": "tv",
+            "release_date": "2019-11-01"
+          }
         }
       ]
     },
     {
       "catalog_id": "rakuten-tv.movies",
-      "heading": "TOP Movies on Rakuten TV in Romania on November 21, 2026",
+      "heading": "TOP Movies on Rakuten TV in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Rakuten TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1152,6 +1348,15 @@
         },
         {
           "rank": 6,
+          "title": "Plane",
+          "tmdb": {
+            "id": 646389,
+            "media_type": "movie",
+            "release_date": "2023-01-11"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Fix",
           "tmdb": {
             "id": 1228834,
@@ -1160,21 +1365,12 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Resident Evil",
           "tmdb": {
             "id": 1423191,
             "media_type": "movie",
             "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Plane",
-          "tmdb": {
-            "id": 646389,
-            "media_type": "movie",
-            "release_date": "2023-01-11"
           }
         },
         {
@@ -1199,10 +1395,10 @@
     },
     {
       "catalog_id": "voyo.movies",
-      "heading": "TOP Movies on Voyo in Romania on November 21, 2026",
+      "heading": "TOP Movies on Voyo in Romania on November 22, 2026",
       "category": "movies",
       "platform": "Voyo",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1299,10 +1495,10 @@
     },
     {
       "catalog_id": "voyo.series",
-      "heading": "TOP TV Shows on Voyo in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on Voyo in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "Voyo",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1395,10 +1591,10 @@
     },
     {
       "catalog_id": "skyshowtime.movies",
-      "heading": "TOP Movies on SkyShowtime in Romania on November 21, 2026",
+      "heading": "TOP Movies on SkyShowtime in Romania on November 22, 2026",
       "category": "movies",
       "platform": "SkyShowtime",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1412,11 +1608,11 @@
         },
         {
           "rank": 2,
-          "title": "Hallow Road",
+          "title": "King Ivory",
           "tmdb": {
-            "id": 1205656,
+            "id": 1155324,
             "media_type": "movie",
-            "release_date": "2025-04-16"
+            "release_date": "2025-05-08"
           }
         },
         {
@@ -1430,11 +1626,11 @@
         },
         {
           "rank": 4,
-          "title": "King Ivory",
+          "title": "Hallow Road",
           "tmdb": {
-            "id": 1155324,
+            "id": 1205656,
             "media_type": "movie",
-            "release_date": "2025-05-08"
+            "release_date": "2025-04-16"
           }
         },
         {
@@ -1457,15 +1653,6 @@
         },
         {
           "rank": 7,
-          "title": "The Great Raid",
-          "tmdb": {
-            "id": 13922,
-            "media_type": "movie",
-            "release_date": "2005-08-12"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The General's Daughter",
           "tmdb": {
             "id": 2275,
@@ -1474,12 +1661,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Reminders of Him",
           "tmdb": {
             "id": 1367642,
             "media_type": "movie",
             "release_date": "2026-03-11"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "The Great Raid",
+          "tmdb": {
+            "id": 13922,
+            "media_type": "movie",
+            "release_date": "2005-08-12"
           }
         },
         {
@@ -1495,28 +1691,28 @@
     },
     {
       "catalog_id": "skyshowtime.series",
-      "heading": "TOP TV Shows on SkyShowtime in Romania on November 21, 2026",
+      "heading": "TOP TV Shows on SkyShowtime in Romania on November 22, 2026",
       "category": "tv shows",
       "platform": "SkyShowtime",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Dexter: Resurrection",
+          "tmdb": {
+            "id": 259909,
+            "media_type": "tv",
+            "release_date": "2025-07-13"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Tulsa King",
           "tmdb": {
             "id": 153312,
             "media_type": "tv",
             "release_date": "2022-11-13"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Marshals",
-          "tmdb": {
-            "id": 290856,
-            "media_type": "tv",
-            "release_date": "2026-03-01"
           }
         },
         {
@@ -1530,11 +1726,11 @@
         },
         {
           "rank": 4,
-          "title": "Dexter: Resurrection",
+          "title": "Marshals",
           "tmdb": {
-            "id": 259909,
+            "id": 290856,
             "media_type": "tv",
-            "release_date": "2025-07-13"
+            "release_date": "2026-03-01"
           }
         },
         {
@@ -1566,20 +1762,20 @@
         },
         {
           "rank": 8,
-          "title": "Star Trek: Short Treks",
-          "tmdb": {
-            "id": 82491,
-            "media_type": "tv",
-            "release_date": "2018-10-03"
-          }
-        },
-        {
-          "rank": 9,
           "title": "About a Boy",
           "tmdb": {
             "id": 51388,
             "media_type": "tv",
             "release_date": "2014-02-22"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Star Trek: Short Treks",
+          "tmdb": {
+            "id": 82491,
+            "media_type": "tv",
+            "release_date": "2018-10-03"
           }
         },
         {

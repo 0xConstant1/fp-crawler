@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/vietnam/",
-  "page_title": "TOP 10 on Streaming in Vietnam on November 21, 2026",
+  "page_title": "TOP 10 on Streaming in Vietnam on November 22, 2026",
   "region": "vietnam",
-  "date": "November 21, 2026",
-  "scraped_at_utc": "2026-11-21T21:12:52.157533+00:00",
+  "date": "November 22, 2026",
+  "scraped_at_utc": "2026-11-22T21:23:11.116206+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Vietnam on November 21, 2026",
+      "heading": "TOP Movies on Netflix in Vietnam on November 22, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Steps",
+          "tmdb": {
+            "id": 1595124,
+            "media_type": "movie",
+            "release_date": "2026-11-20"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Guarding Stars",
           "tmdb": {
             "id": 1551025,
@@ -23,21 +32,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Never Surrender",
           "tmdb": {
             "id": 1616687,
             "media_type": "movie",
             "release_date": "2026-11-11"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Force 10 from Navarone",
-          "tmdb": {
-            "id": 17339,
-            "media_type": "movie",
-            "release_date": "1978-08-16"
           }
         },
         {
@@ -51,15 +51,6 @@
         },
         {
           "rank": 5,
-          "title": "Heartland",
-          "tmdb": {
-            "id": 1543469,
-            "media_type": "movie",
-            "release_date": "2026-11-13"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Mai",
           "tmdb": {
             "id": 1210973,
@@ -68,12 +59,21 @@
           }
         },
         {
-          "rank": 7,
-          "title": "Kijsada Paradise",
+          "rank": 6,
+          "title": "Fish, Fists and Ambergris",
           "tmdb": {
-            "id": 1419036,
+            "id": 1569555,
             "media_type": "movie",
-            "release_date": "2026-06-11"
+            "release_date": "2025-11-12"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Heartland",
+          "tmdb": {
+            "id": 1543469,
+            "media_type": "movie",
+            "release_date": "2026-11-13"
           }
         },
         {
@@ -96,34 +96,25 @@
         },
         {
           "rank": 10,
-          "title": "Final Destination Bloodlines",
+          "title": "Force 10 from Navarone",
           "tmdb": {
-            "id": 574475,
+            "id": 17339,
             "media_type": "movie",
-            "release_date": "2025-05-14"
+            "release_date": "1978-08-16"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Vietnam on November 21, 2026",
+      "heading": "TOP TV Shows on Netflix in Vietnam on November 22, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Doctor X: Mafia in White",
-          "tmdb": {
-            "id": 293610,
-            "media_type": "tv",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 2,
           "title": "100 Days of Deception",
           "tmdb": {
             "id": 293607,
@@ -132,21 +123,26 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Blue Road",
+          "tmdb": null
+        },
+        {
           "rank": 3,
+          "title": "Doctor X: Mafia in White",
+          "tmdb": {
+            "id": 293610,
+            "media_type": "tv",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 4,
           "title": "The Body",
           "tmdb": {
             "id": 291507,
             "media_type": "tv",
             "release_date": "2026-11-11"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Sunshine Through the Rain",
-          "tmdb": {
-            "id": 307853,
-            "media_type": "tv",
-            "release_date": "2026-11-06"
           }
         },
         {
@@ -160,11 +156,11 @@
         },
         {
           "rank": 6,
-          "title": "Where the Mask Ends",
+          "title": "Sunshine Through the Rain",
           "tmdb": {
-            "id": 300146,
+            "id": 307853,
             "media_type": "tv",
-            "release_date": "2026-10-16"
+            "release_date": "2026-11-06"
           }
         },
         {
@@ -178,43 +174,52 @@
         },
         {
           "rank": 8,
-          "title": "Sword & Silence",
+          "title": "The Apothecary Diaries",
           "tmdb": {
-            "id": 301354,
+            "id": 220542,
             "media_type": "tv",
-            "release_date": "2026-11-14"
+            "release_date": "2023-10-22"
           }
         },
         {
           "rank": 9,
-          "title": "Tomb Raider King",
+          "title": "Firefly Wedding",
           "tmdb": {
-            "id": 297826,
+            "id": 320909,
             "media_type": "tv",
-            "release_date": "2026-07-09"
+            "release_date": "2026-10-09"
           }
         },
         {
           "rank": 10,
-          "title": "Dragon Ball Super: Beerus",
+          "title": "Where the Mask Ends",
           "tmdb": {
-            "id": 312359,
+            "id": 300146,
             "media_type": "tv",
-            "release_date": "2026-10-11"
+            "release_date": "2026-10-16"
           }
         }
       ]
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Vietnam on November 21, 2026",
+      "heading": "TOP Movies on Apple TV in Vietnam on November 22, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Being Heumann",
+          "tmdb": {
+            "id": 1050981,
+            "media_type": "movie",
+            "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 2,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -223,21 +228,12 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Mayday",
           "tmdb": {
             "id": 1137844,
             "media_type": "movie",
             "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Snoopy Presents: 12 Days of Snoopy",
-          "tmdb": {
-            "id": 1780407,
-            "media_type": "movie",
-            "release_date": "2026-11-12"
           }
         },
         {
@@ -251,6 +247,15 @@
         },
         {
           "rank": 5,
+          "title": "Snoopy Presents: 12 Days of Snoopy",
+          "tmdb": {
+            "id": 1780407,
+            "media_type": "movie",
+            "release_date": "2026-11-12"
+          }
+        },
+        {
+          "rank": 6,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -259,25 +264,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Being Heumann",
-          "tmdb": {
-            "id": 1050981,
-            "media_type": "movie",
-            "release_date": "2026-11-06"
-          }
-        },
-        {
           "rank": 7,
-          "title": "Tenzing",
-          "tmdb": {
-            "id": 1288069,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Napoleon",
           "tmdb": {
             "id": 753342,
@@ -286,12 +273,21 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "Greyhound",
           "tmdb": {
             "id": 516486,
             "media_type": "movie",
             "release_date": "2020-07-09"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Tenzing",
+          "tmdb": {
+            "id": 1288069,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
           }
         },
         {
@@ -307,10 +303,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Vietnam on November 21, 2026",
+      "heading": "TOP TV Shows on Apple TV in Vietnam on November 22, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -342,20 +338,20 @@
         },
         {
           "rank": 4,
-          "title": "Dark Matter",
-          "tmdb": {
-            "id": 196322,
-            "media_type": "tv",
-            "release_date": "2024-05-07"
-          }
-        },
-        {
-          "rank": 5,
           "title": "Stick",
           "tmdb": {
             "id": 248830,
             "media_type": "tv",
             "release_date": "2025-06-03"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Dark Matter",
+          "tmdb": {
+            "id": 196322,
+            "media_type": "tv",
+            "release_date": "2024-05-07"
           }
         },
         {
@@ -407,10 +403,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Vietnam on November 21, 2026",
+      "heading": "TOP Movies on Apple TV Store in Vietnam on November 22, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -442,15 +438,6 @@
         },
         {
           "rank": 4,
-          "title": "Interstellar",
-          "tmdb": {
-            "id": 157336,
-            "media_type": "movie",
-            "release_date": "2014-11-04"
-          }
-        },
-        {
-          "rank": 5,
           "title": "The Hunger Games: Mockingjay - Part 1",
           "tmdb": {
             "id": 131631,
@@ -459,12 +446,21 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
             "media_type": "movie",
             "release_date": "2001-11-16"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Interstellar",
+          "tmdb": {
+            "id": 157336,
+            "media_type": "movie",
+            "release_date": "2014-11-04"
           }
         },
         {
@@ -478,15 +474,6 @@
         },
         {
           "rank": 8,
-          "title": "Dune: Part Two",
-          "tmdb": {
-            "id": 693134,
-            "media_type": "movie",
-            "release_date": "2024-02-27"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Harry Potter and the Prisoner of Azkaban",
           "tmdb": {
             "id": 673,
@@ -495,12 +482,21 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Oppenheimer",
+          "rank": 9,
+          "title": "The Godfather",
           "tmdb": {
-            "id": 872585,
+            "id": 238,
             "media_type": "movie",
-            "release_date": "2023-07-19"
+            "release_date": "1972-03-14"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Hunger Games: Mockingjay - Part 2",
+          "tmdb": {
+            "id": 131634,
+            "media_type": "movie",
+            "release_date": "2015-11-18"
           }
         }
       ]

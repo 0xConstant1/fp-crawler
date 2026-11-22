@@ -1,16 +1,16 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/estonia/",
-  "page_title": "TOP 10 on Streaming in Estonia on November 21, 2026",
+  "page_title": "TOP 10 on Streaming in Estonia on November 22, 2026",
   "region": "estonia",
-  "date": "November 21, 2026",
-  "scraped_at_utc": "2026-11-21T21:04:17.272674+00:00",
+  "date": "November 22, 2026",
+  "scraped_at_utc": "2026-11-22T21:14:30.876776+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Estonia on November 21, 2026",
+      "heading": "TOP Movies on Netflix in Estonia on November 22, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -33,6 +33,15 @@
         },
         {
           "rank": 3,
+          "title": "Steps",
+          "tmdb": {
+            "id": 1595124,
+            "media_type": "movie",
+            "release_date": "2026-11-20"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Heartland",
           "tmdb": {
             "id": 1543469,
@@ -41,52 +50,7 @@
           }
         },
         {
-          "rank": 4,
-          "title": "Russell Brand: Open Secret",
-          "tmdb": {
-            "id": 1823907,
-            "media_type": "movie",
-            "release_date": "2026-11-13"
-          }
-        },
-        {
           "rank": 5,
-          "title": "Anora",
-          "tmdb": {
-            "id": 1064213,
-            "media_type": "movie",
-            "release_date": "2024-10-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "The Christmas Switch",
-          "tmdb": {
-            "id": 1757174,
-            "media_type": "movie",
-            "release_date": "2026-11-12"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "How the Grinch Stole Christmas",
-          "tmdb": {
-            "id": 8871,
-            "media_type": "movie",
-            "release_date": "2000-11-17"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Force 10 from Navarone",
-          "tmdb": {
-            "id": 17339,
-            "media_type": "movie",
-            "release_date": "1978-08-16"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Oblivion",
           "tmdb": {
             "id": 75612,
@@ -95,22 +59,58 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Unthinkable Daughter",
+          "rank": 6,
+          "title": "Anora",
           "tmdb": {
-            "id": 1664682,
+            "id": 1064213,
             "media_type": "movie",
-            "release_date": "2026-11-11"
+            "release_date": "2024-10-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "Russell Brand: Open Secret",
+          "tmdb": {
+            "id": 1823907,
+            "media_type": "movie",
+            "release_date": "2026-11-13"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "The Christmas Switch",
+          "tmdb": {
+            "id": 1757174,
+            "media_type": "movie",
+            "release_date": "2026-11-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "How the Grinch Stole Christmas",
+          "tmdb": {
+            "id": 8871,
+            "media_type": "movie",
+            "release_date": "2000-11-17"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Primetime Preacher$",
+          "tmdb": {
+            "id": 1791730,
+            "media_type": "movie",
+            "release_date": "2026-11-14"
           }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Estonia on November 21, 2026",
+      "heading": "TOP TV Shows on Netflix in Estonia on November 22, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -133,15 +133,6 @@
         },
         {
           "rank": 3,
-          "title": "Black Doves",
-          "tmdb": {
-            "id": 225385,
-            "media_type": "tv",
-            "release_date": "2024-12-05"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Law of Beasts",
           "tmdb": {
             "id": 332839,
@@ -150,12 +141,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "The Empress",
+          "rank": 4,
+          "title": "Black Doves",
           "tmdb": {
-            "id": 131488,
+            "id": 225385,
             "media_type": "tv",
-            "release_date": "2022-09-29"
+            "release_date": "2024-12-05"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Altruists",
+          "tmdb": {
+            "id": 308007,
+            "media_type": "tv",
+            "release_date": "2026-11-19"
           }
         },
         {
@@ -169,6 +169,24 @@
         },
         {
           "rank": 7,
+          "title": "The Empress",
+          "tmdb": {
+            "id": 131488,
+            "media_type": "tv",
+            "release_date": "2022-09-29"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Win the Mall",
+          "tmdb": {
+            "id": 336592,
+            "media_type": "tv",
+            "release_date": "2026-11-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Nobody Wants This",
           "tmdb": {
             "id": 250923,
@@ -177,40 +195,22 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Taken: Natalee Holloway",
-          "tmdb": {
-            "id": 338684,
-            "media_type": "tv",
-            "release_date": "2026-11-04"
-          }
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "Lupin",
           "tmdb": {
             "id": 96677,
             "media_type": "tv",
             "release_date": "2021-01-08"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Win the Mall",
-          "tmdb": {
-            "id": 336592,
-            "media_type": "tv",
-            "release_date": "2026-11-18"
-          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.overall",
-      "heading": "TOP Overall on HBO Max in Estonia on November 21, 2026",
+      "heading": "TOP Overall on HBO Max in Estonia on November 22, 2026",
       "category": "overall",
       "platform": "HBO Max",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -224,20 +224,20 @@
         },
         {
           "rank": 2,
-          "title": "The Gilded Age",
-          "tmdb": {
-            "id": 81723,
-            "media_type": "tv",
-            "release_date": "2022-01-24"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The End of Oak Street",
           "tmdb": {
             "id": 1101383,
             "media_type": "movie",
             "release_date": "2026-08-12"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "The Gilded Age",
+          "tmdb": {
+            "id": 81723,
+            "media_type": "tv",
+            "release_date": "2022-01-24"
           }
         },
         {
@@ -251,20 +251,20 @@
         },
         {
           "rank": 5,
-          "title": "Normal",
-          "tmdb": {
-            "id": 1242332,
-            "media_type": "movie",
-            "release_date": "2026-04-16"
-          }
-        },
-        {
-          "rank": 6,
           "title": "Melania Rea",
           "tmdb": {
             "id": 339697,
             "media_type": "tv",
             "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Normal",
+          "tmdb": {
+            "id": 1242332,
+            "media_type": "movie",
+            "release_date": "2026-04-16"
           }
         },
         {
@@ -278,6 +278,15 @@
         },
         {
           "rank": 8,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
+        },
+        {
+          "rank": 9,
           "title": "Harry Potter: Wizards of Baking",
           "tmdb": {
             "id": 254514,
@@ -286,31 +295,22 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Lazarus",
           "tmdb": {
             "id": 231003,
             "media_type": "tv",
             "release_date": "2025-04-06"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Estonia on November 21, 2026",
+      "heading": "TOP Overall on Disney+ in Estonia on November 22, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -407,10 +407,10 @@
     },
     {
       "catalog_id": "disney.movies",
-      "heading": "TOP Movies on Disney+ in Estonia on November 21, 2026",
+      "heading": "TOP Movies on Disney+ in Estonia on November 22, 2026",
       "category": "movies",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -487,30 +487,30 @@
         },
         {
           "rank": 9,
-          "title": "Zootopia",
+          "title": "Elf",
           "tmdb": {
-            "id": 269149,
+            "id": 10719,
             "media_type": "movie",
-            "release_date": "2016-02-11"
+            "release_date": "2003-11-07"
           }
         },
         {
           "rank": 10,
-          "title": "Ratatouille",
+          "title": "The Mandalorian and Grogu",
           "tmdb": {
-            "id": 2062,
+            "id": 1228710,
             "media_type": "movie",
-            "release_date": "2007-06-28"
+            "release_date": "2026-05-20"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.series",
-      "heading": "TOP TV Shows on Disney+ in Estonia on November 21, 2026",
+      "heading": "TOP TV Shows on Disney+ in Estonia on November 22, 2026",
       "category": "tv shows",
       "platform": "Disney+",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -607,10 +607,10 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Estonia on November 21, 2026",
+      "heading": "TOP Movies on Apple TV in Estonia on November 22, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -633,42 +633,6 @@
         },
         {
           "rank": 3,
-          "title": "Tenzing",
-          "tmdb": {
-            "id": 1288069,
-            "media_type": "movie",
-            "release_date": "2026-10-09"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Mad Max: Fury Road",
-          "tmdb": {
-            "id": 76341,
-            "media_type": "movie",
-            "release_date": "2015-05-13"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Ready Player One",
-          "tmdb": {
-            "id": 333339,
-            "media_type": "movie",
-            "release_date": "2018-03-28"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Mayday",
-          "tmdb": {
-            "id": 1137844,
-            "media_type": "movie",
-            "release_date": "2026-09-03"
-          }
-        },
-        {
-          "rank": 7,
           "title": "F1",
           "tmdb": {
             "id": 911430,
@@ -677,7 +641,34 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 4,
+          "title": "Mayday",
+          "tmdb": {
+            "id": 1137844,
+            "media_type": "movie",
+            "release_date": "2026-09-03"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Mad Max: Fury Road",
+          "tmdb": {
+            "id": 76341,
+            "media_type": "movie",
+            "release_date": "2015-05-13"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Tenzing",
+          "tmdb": {
+            "id": 1288069,
+            "media_type": "movie",
+            "release_date": "2026-10-09"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Matchbox",
           "tmdb": {
             "id": 47106,
@@ -686,12 +677,21 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Spider-Man: Far from Home",
+          "rank": 8,
+          "title": "Eat Pray Love",
           "tmdb": {
-            "id": 429617,
+            "id": 38167,
             "media_type": "movie",
-            "release_date": "2019-06-28"
+            "release_date": "2010-08-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Ready Player One",
+          "tmdb": {
+            "id": 333339,
+            "media_type": "movie",
+            "release_date": "2018-03-28"
           }
         },
         {
@@ -707,10 +707,10 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Estonia on November 21, 2026",
+      "heading": "TOP TV Shows on Apple TV in Estonia on November 22, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -733,20 +733,20 @@
         },
         {
           "rank": 3,
-          "title": "Slow Horses",
-          "tmdb": {
-            "id": 95480,
-            "media_type": "tv",
-            "release_date": "2022-04-01"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Ted Lasso",
           "tmdb": {
             "id": 97546,
             "media_type": "tv",
             "release_date": "2020-08-14"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
           }
         },
         {
@@ -807,10 +807,10 @@
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Estonia on November 21, 2026",
+      "heading": "TOP Movies on Apple TV Store in Estonia on November 22, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -842,33 +842,6 @@
         },
         {
           "rank": 4,
-          "title": "Twilight",
-          "tmdb": {
-            "id": 8966,
-            "media_type": "movie",
-            "release_date": "2008-11-20"
-          }
-        },
-        {
-          "rank": 5,
-          "title": "Casino Royale",
-          "tmdb": {
-            "id": 36557,
-            "media_type": "movie",
-            "release_date": "2006-11-14"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Avatar: Fire and Ash",
-          "tmdb": {
-            "id": 83533,
-            "media_type": "movie",
-            "release_date": "2025-12-17"
-          }
-        },
-        {
-          "rank": 7,
           "title": "PAW Patrol: The Dino Movie",
           "tmdb": {
             "id": 1185806,
@@ -877,62 +850,71 @@
           }
         },
         {
-          "rank": 8,
-          "title": "Coraline",
+          "rank": 5,
+          "title": "Michael",
           "tmdb": {
-            "id": 14836,
+            "id": 936075,
             "media_type": "movie",
-            "release_date": "2009-02-05"
+            "release_date": "2026-04-22"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Casino Royale",
+          "tmdb": {
+            "id": 36557,
+            "media_type": "movie",
+            "release_date": "2006-11-14"
+          }
+        },
+        {
+          "rank": 7,
+          "title": "The Holiday",
+          "tmdb": {
+            "id": 1581,
+            "media_type": "movie",
+            "release_date": "2006-12-05"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Dune",
+          "tmdb": {
+            "id": 438631,
+            "media_type": "movie",
+            "release_date": "2021-09-15"
           }
         },
         {
           "rank": 9,
-          "title": "The Man from U.N.C.L.E.",
+          "title": "Five Nights at Freddy's 2",
           "tmdb": {
-            "id": 203801,
+            "id": 1228246,
             "media_type": "movie",
-            "release_date": "2015-08-13"
+            "release_date": "2025-12-03"
           }
         },
         {
           "rank": 10,
-          "title": "Love Actually",
+          "title": "Quantum of Solace",
           "tmdb": {
-            "id": 508,
+            "id": 10764,
             "media_type": "movie",
-            "release_date": "2003-09-07"
+            "release_date": "2008-10-29"
           }
         }
       ]
     },
     {
       "catalog_id": "go3.movies",
-      "heading": "TOP Movies on GO3 in Estonia on November 21, 2026",
+      "heading": "TOP Movies on GO3 in Estonia on November 22, 2026",
       "category": "movies",
       "platform": "GO3",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Minions & Monsters",
-          "tmdb": {
-            "id": 1315772,
-            "media_type": "movie",
-            "release_date": "2026-06-24"
-          }
-        },
-        {
-          "rank": 2,
-          "title": "Moana",
-          "tmdb": {
-            "id": 1108427,
-            "media_type": "movie",
-            "release_date": "2026-07-08"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Spider-Man: Brand New Day",
           "tmdb": {
             "id": 969681,
@@ -941,12 +923,30 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Minions & Monsters",
+          "tmdb": {
+            "id": 1315772,
+            "media_type": "movie",
+            "release_date": "2026-06-24"
+          }
+        },
+        {
+          "rank": 3,
           "title": "Home Alone",
           "tmdb": {
             "id": 771,
             "media_type": "movie",
             "release_date": "1990-11-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Moana",
+          "tmdb": {
+            "id": 1108427,
+            "media_type": "movie",
+            "release_date": "2026-07-08"
           }
         },
         {
@@ -978,39 +978,39 @@
         },
         {
           "rank": 8,
-          "title": "Coco",
+          "title": "Home Alone 2: Lost in New York",
           "tmdb": {
-            "id": 354912,
+            "id": 772,
             "media_type": "movie",
-            "release_date": "2017-10-27"
+            "release_date": "1992-11-15"
           }
         },
         {
           "rank": 9,
-          "title": "The Devil Wears Prada 2",
-          "tmdb": {
-            "id": 1314481,
-            "media_type": "movie",
-            "release_date": "2026-04-29"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Zootopia 2",
           "tmdb": {
             "id": 1084242,
             "media_type": "movie",
             "release_date": "2025-11-26"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Frozen II",
+          "tmdb": {
+            "id": 330457,
+            "media_type": "movie",
+            "release_date": "2019-11-20"
+          }
         }
       ]
     },
     {
       "catalog_id": "telia.overall",
-      "heading": "TOP Overall on Telia in Estonia on November 21, 2026",
+      "heading": "TOP Overall on Telia in Estonia on November 22, 2026",
       "category": "overall",
       "platform": "Telia",
-      "date": "November 21, 2026",
+      "date": "November 22, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1024,12 +1024,8 @@
         },
         {
           "rank": 2,
-          "title": "S.W.A.T. Exiles",
-          "tmdb": {
-            "id": 292742,
-            "media_type": "tv",
-            "release_date": "2026-09-25"
-          }
+          "title": "Isiklik asi",
+          "tmdb": null
         },
         {
           "rank": 3,
@@ -1042,34 +1038,24 @@
         },
         {
           "rank": 4,
-          "title": "Isiklik asi",
-          "tmdb": null
+          "title": "S.W.A.T. Exiles",
+          "tmdb": {
+            "id": 292742,
+            "media_type": "tv",
+            "release_date": "2026-09-25"
+          }
         },
         {
           "rank": 5,
-          "title": "This City Is Ours",
+          "title": "Outlander: Blood of My Blood",
           "tmdb": {
-            "id": 255570,
+            "id": 207484,
             "media_type": "tv",
-            "release_date": "2025-03-23"
+            "release_date": "2025-08-08"
           }
         },
         {
           "rank": 6,
-          "title": "Beauty Massage",
-          "tmdb": null
-        },
-        {
-          "rank": 7,
-          "title": "All's Fair",
-          "tmdb": {
-            "id": 258742,
-            "media_type": "tv",
-            "release_date": "2025-11-04"
-          }
-        },
-        {
-          "rank": 8,
           "title": "9-1-1",
           "tmdb": {
             "id": 75219,
@@ -1078,21 +1064,39 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Will Trent",
-          "tmdb": {
-            "id": 208569,
-            "media_type": "tv",
-            "release_date": "2023-01-03"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "title": "Mutiny",
           "tmdb": {
             "id": 1288445,
             "media_type": "movie",
             "release_date": "2026-08-19"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Love Story",
+          "tmdb": {
+            "id": 131142,
+            "media_type": "tv",
+            "release_date": "2026-02-12"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "All's Fair",
+          "tmdb": {
+            "id": 258742,
+            "media_type": "tv",
+            "release_date": "2025-11-04"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
           }
         }
       ]
