@@ -1,20 +1,29 @@
 {
   "source": "https://flixpatrol.com/top10/streaming/singapore/",
-  "page_title": "TOP 10 on Streaming in Singapore on November 25, 2026",
+  "page_title": "TOP 10 on Streaming in Singapore on November 26, 2026",
   "region": "singapore",
-  "date": "November 25, 2026",
-  "scraped_at_utc": "2026-11-25T23:54:58.144412+00:00",
+  "date": "November 26, 2026",
+  "scraped_at_utc": "2026-11-27T00:08:35.366226+00:00",
   "charts": [
     {
       "catalog_id": "netflix.movies",
-      "heading": "TOP Movies on Netflix in Singapore on November 25, 2026",
+      "heading": "TOP Movies on Netflix in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "Netflix",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
+          "title": "Spider-Man: Brand New Day",
+          "tmdb": {
+            "id": 969681,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
+          }
+        },
+        {
+          "rank": 2,
           "title": "Steps",
           "tmdb": {
             "id": 1595124,
@@ -23,7 +32,25 @@
           }
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "The Mosquito Bowl",
+          "tmdb": {
+            "id": 1458300,
+            "media_type": "movie",
+            "release_date": "2026-10-29"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Drop",
+          "tmdb": {
+            "id": 1249213,
+            "media_type": "movie",
+            "release_date": "2025-04-07"
+          }
+        },
+        {
+          "rank": 5,
           "title": "Guarding Stars",
           "tmdb": {
             "id": 1551025,
@@ -32,7 +59,16 @@
           }
         },
         {
-          "rank": 3,
+          "rank": 6,
+          "title": "Sihir Tanah Kubur",
+          "tmdb": {
+            "id": 1706004,
+            "media_type": "movie",
+            "release_date": "2026-07-23"
+          }
+        },
+        {
+          "rank": 7,
           "title": "418",
           "tmdb": {
             "id": 1606527,
@@ -41,7 +77,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "Tower Heist",
           "tmdb": {
             "id": 59108,
@@ -50,67 +86,31 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Tom & Jerry",
-          "tmdb": {
-            "id": 587807,
-            "media_type": "movie",
-            "release_date": "2021-02-10"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Children of Heaven",
-          "tmdb": {
-            "id": 1415360,
-            "media_type": "movie",
-            "release_date": "2026-05-27"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Oblivion",
-          "tmdb": {
-            "id": 75612,
-            "media_type": "movie",
-            "release_date": "2013-04-10"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Rumor Has It...",
-          "tmdb": {
-            "id": 2800,
-            "media_type": "movie",
-            "release_date": "2005-12-22"
-          }
-        },
-        {
           "rank": 9,
-          "title": "Haiku",
-          "tmdb": {
-            "id": 1593350,
-            "media_type": "movie",
-            "release_date": "2026-10-23"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Ninja Assassin",
           "tmdb": {
             "id": 22832,
             "media_type": "movie",
             "release_date": "2009-09-29"
           }
+        },
+        {
+          "rank": 10,
+          "title": "Tom & Jerry",
+          "tmdb": {
+            "id": 587807,
+            "media_type": "movie",
+            "release_date": "2021-02-10"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.series",
-      "heading": "TOP TV Shows on Netflix in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on Netflix in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "Netflix",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -120,20 +120,20 @@
         },
         {
           "rank": 2,
-          "title": "Raw",
-          "tmdb": {
-            "id": 4656,
-            "media_type": "tv",
-            "release_date": "1993-01-11"
-          }
-        },
-        {
-          "rank": 3,
           "title": "The Devil's Plan",
           "tmdb": {
             "id": 214582,
             "media_type": "tv",
             "release_date": "2023-09-26"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "From",
+          "tmdb": {
+            "id": 124364,
+            "media_type": "tv",
+            "release_date": "2022-02-20"
           }
         },
         {
@@ -156,15 +156,6 @@
         },
         {
           "rank": 6,
-          "title": "From",
-          "tmdb": {
-            "id": 124364,
-            "media_type": "tv",
-            "release_date": "2022-02-20"
-          }
-        },
-        {
-          "rank": 7,
           "title": "100 Days of Deception",
           "tmdb": {
             "id": 293607,
@@ -173,7 +164,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "The Body",
           "tmdb": {
             "id": 291507,
@@ -182,31 +173,40 @@
           }
         },
         {
-          "rank": 9,
-          "title": "Mark Rober's CrunchLabs",
-          "tmdb": {
-            "id": 306074,
-            "media_type": "tv",
-            "release_date": "2025-11-19"
-          }
-        },
-        {
-          "rank": 10,
+          "rank": 8,
           "title": "Sunshine Through the Rain",
           "tmdb": {
             "id": 307853,
             "media_type": "tv",
             "release_date": "2026-11-06"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Where the Mask Ends",
+          "tmdb": {
+            "id": 300146,
+            "media_type": "tv",
+            "release_date": "2026-10-16"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "Mark Rober's CrunchLabs",
+          "tmdb": {
+            "id": 306074,
+            "media_type": "tv",
+            "release_date": "2025-11-19"
+          }
         }
       ]
     },
     {
       "catalog_id": "netflix.kids-movies",
-      "heading": "TOP Kids Movies on Netflix in Singapore on November 25, 2026",
+      "heading": "TOP Kids Movies on Netflix in Singapore on November 26, 2026",
       "category": "kids movies",
       "platform": "Netflix",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -265,6 +265,15 @@
         },
         {
           "rank": 7,
+          "title": "KPop Demon Hunters",
+          "tmdb": {
+            "id": 803796,
+            "media_type": "movie",
+            "release_date": "2025-06-20"
+          }
+        },
+        {
+          "rank": 8,
           "title": "Sing",
           "tmdb": {
             "id": 335797,
@@ -273,21 +282,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "How to Train Your Dragon 2",
           "tmdb": {
             "id": 82702,
             "media_type": "movie",
             "release_date": "2014-06-05"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "KPop Demon Hunters",
-          "tmdb": {
-            "id": 803796,
-            "media_type": "movie",
-            "release_date": "2025-06-20"
           }
         },
         {
@@ -303,10 +303,10 @@
     },
     {
       "catalog_id": "netflix.kids-tv-shows",
-      "heading": "TOP Kids TV Shows on Netflix in Singapore on November 25, 2026",
+      "heading": "TOP Kids TV Shows on Netflix in Singapore on November 26, 2026",
       "category": "kids tv shows",
       "platform": "Netflix",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -320,20 +320,20 @@
         },
         {
           "rank": 2,
-          "title": "Bread Barbershop",
-          "tmdb": {
-            "id": 129832,
-            "media_type": "tv",
-            "release_date": "2019-01-03"
-          }
-        },
-        {
-          "rank": 3,
           "title": "Danny Go!",
           "tmdb": {
             "id": 258124,
             "media_type": "tv",
             "release_date": "2019-08-21"
+          }
+        },
+        {
+          "rank": 3,
+          "title": "Bread Barbershop",
+          "tmdb": {
+            "id": 129832,
+            "media_type": "tv",
+            "release_date": "2019-01-03"
           }
         },
         {
@@ -356,15 +356,6 @@
         },
         {
           "rank": 6,
-          "title": "Ms. Rachel",
-          "tmdb": {
-            "id": 282238,
-            "media_type": "tv",
-            "release_date": "2025-01-27"
-          }
-        },
-        {
-          "rank": 7,
           "title": "Hot Wheels Let's Race: Attack of the T-Rex",
           "tmdb": {
             "id": 1802674,
@@ -373,12 +364,21 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "Salish & Jordan Matter",
           "tmdb": {
             "id": 318906,
             "media_type": "tv",
             "release_date": "2026-04-11"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Ms. Rachel",
+          "tmdb": {
+            "id": 282238,
+            "media_type": "tv",
+            "release_date": "2025-01-27"
           }
         },
         {
@@ -403,10 +403,10 @@
     },
     {
       "catalog_id": "hbo-max.movies",
-      "heading": "TOP Movies on HBO Max in Singapore on November 25, 2026",
+      "heading": "TOP Movies on HBO Max in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "HBO Max",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -456,24 +456,6 @@
         },
         {
           "rank": 6,
-          "title": "Se7en",
-          "tmdb": {
-            "id": 807,
-            "media_type": "movie",
-            "release_date": "1995-09-22"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Crawlspace",
-          "tmdb": {
-            "id": 879538,
-            "media_type": "movie",
-            "release_date": "2022-03-31"
-          }
-        },
-        {
-          "rank": 8,
           "title": "The Super Mario Galaxy Movie",
           "tmdb": {
             "id": 1226863,
@@ -482,7 +464,7 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 7,
           "title": "Ghost in the Shell",
           "tmdb": {
             "id": 315837,
@@ -491,35 +473,44 @@
           }
         },
         {
-          "rank": 10,
+          "rank": 8,
           "title": "Rise of the Guardians",
           "tmdb": {
             "id": 81188,
             "media_type": "movie",
             "release_date": "2012-11-21"
           }
+        },
+        {
+          "rank": 9,
+          "title": "The Cat in the Hat",
+          "tmdb": {
+            "id": 1117898,
+            "media_type": "movie",
+            "release_date": "2026-10-31"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Grinch",
+          "tmdb": {
+            "id": 360920,
+            "media_type": "movie",
+            "release_date": "2018-11-08"
+          }
         }
       ]
     },
     {
       "catalog_id": "hbo-max.series",
-      "heading": "TOP TV Shows on HBO Max in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on HBO Max in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "HBO Max",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "MobLand",
-          "tmdb": {
-            "id": 247718,
-            "media_type": "tv",
-            "release_date": "2025-03-30"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Gilded Age",
           "tmdb": {
             "id": 81723,
@@ -528,25 +519,7 @@
           }
         },
         {
-          "rank": 3,
-          "title": "War",
-          "tmdb": {
-            "id": 298852,
-            "media_type": "tv",
-            "release_date": "2026-10-02"
-          }
-        },
-        {
-          "rank": 4,
-          "title": "Line of Fire",
-          "tmdb": {
-            "id": 321958,
-            "media_type": "tv",
-            "release_date": "2026-09-21"
-          }
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "title": "Dig",
           "tmdb": {
             "id": 290826,
@@ -555,25 +528,16 @@
           }
         },
         {
-          "rank": 6,
-          "title": "The Substitute",
+          "rank": 3,
+          "title": "MobLand",
           "tmdb": {
-            "id": 303552,
+            "id": 247718,
             "media_type": "tv",
-            "release_date": "2026-11-23"
+            "release_date": "2025-03-30"
           }
         },
         {
-          "rank": 7,
-          "title": "Cupertino",
-          "tmdb": {
-            "id": 303630,
-            "media_type": "tv",
-            "release_date": "2026-10-08"
-          }
-        },
-        {
-          "rank": 8,
+          "rank": 4,
           "title": "MasterChef Asia",
           "tmdb": {
             "id": 333025,
@@ -582,7 +546,25 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "title": "The Substitute",
+          "tmdb": {
+            "id": 303552,
+            "media_type": "tv",
+            "release_date": "2026-11-23"
+          }
+        },
+        {
+          "rank": 6,
+          "title": "Line of Fire",
+          "tmdb": {
+            "id": 321958,
+            "media_type": "tv",
+            "release_date": "2026-09-21"
+          }
+        },
+        {
+          "rank": 7,
           "title": "Make Me Tingle",
           "tmdb": {
             "id": 311648,
@@ -591,35 +573,44 @@
           }
         },
         {
-          "rank": 10,
-          "title": "Tokyo Vice",
+          "rank": 8,
+          "title": "War",
           "tmdb": {
-            "id": 90296,
+            "id": 298852,
             "media_type": "tv",
-            "release_date": "2022-04-07"
+            "release_date": "2026-10-02"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Cupertino",
+          "tmdb": {
+            "id": 303630,
+            "media_type": "tv",
+            "release_date": "2026-10-08"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "La Brea",
+          "tmdb": {
+            "id": 128839,
+            "media_type": "tv",
+            "release_date": "2021-09-28"
           }
         }
       ]
     },
     {
       "catalog_id": "disney.overall",
-      "heading": "TOP Overall on Disney+ in Singapore on November 25, 2026",
+      "heading": "TOP Overall on Disney+ in Singapore on November 26, 2026",
       "category": "overall",
       "platform": "Disney+",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Modern Family",
-          "tmdb": {
-            "id": 1421,
-            "media_type": "tv",
-            "release_date": "2009-09-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "The Remarried Empress",
           "tmdb": {
             "id": 279246,
@@ -628,7 +619,21 @@
           }
         },
         {
+          "rank": 2,
+          "title": "Modern Family",
+          "tmdb": {
+            "id": 1421,
+            "media_type": "tv",
+            "release_date": "2009-09-23"
+          }
+        },
+        {
           "rank": 3,
+          "title": "The Remarried Empress: A Special Look",
+          "tmdb": null
+        },
+        {
+          "rank": 4,
           "title": "Grey's Anatomy",
           "tmdb": {
             "id": 1416,
@@ -637,7 +642,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "VisionQuest",
           "tmdb": {
             "id": 213375,
@@ -646,7 +651,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Avengers: Endgame",
           "tmdb": {
             "id": 299534,
@@ -655,30 +660,21 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Percy Jackson and the Olympians",
-          "tmdb": {
-            "id": 103540,
-            "media_type": "tv",
-            "release_date": "2023-12-19"
-          }
-        },
-        {
           "rank": 7,
-          "title": "9-1-1",
-          "tmdb": {
-            "id": 75219,
-            "media_type": "tv",
-            "release_date": "2018-01-03"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Taming the Husband",
           "tmdb": {
             "id": 318349,
             "media_type": "tv",
             "release_date": "2026-11-18"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "9-1-1",
+          "tmdb": {
+            "id": 75219,
+            "media_type": "tv",
+            "release_date": "2018-01-03"
           }
         },
         {
@@ -692,21 +688,21 @@
         },
         {
           "rank": 10,
-          "title": "Tigers Sniff the Rose",
+          "title": "Percy Jackson and the Olympians",
           "tmdb": {
-            "id": 286171,
+            "id": 103540,
             "media_type": "tv",
-            "release_date": "2026-10-23"
+            "release_date": "2023-12-19"
           }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.overall",
-      "heading": "TOP Overall on Amazon Prime in Singapore on November 25, 2026",
+      "heading": "TOP Overall on Amazon Prime in Singapore on November 26, 2026",
       "category": "overall",
       "platform": "Amazon Prime",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -729,15 +725,6 @@
         },
         {
           "rank": 3,
-          "title": "Clashing Through the Snow",
-          "tmdb": {
-            "id": 1611767,
-            "media_type": "movie",
-            "release_date": "2026-11-23"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Jailer 2",
           "tmdb": {
             "id": 1234139,
@@ -746,12 +733,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Final Table",
+          "rank": 4,
+          "title": "Clashing Through the Snow",
           "tmdb": {
-            "id": 316702,
+            "id": 1611767,
+            "media_type": "movie",
+            "release_date": "2026-11-23"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "Blade Runner 2099",
+          "tmdb": {
+            "id": 171802,
             "media_type": "tv",
-            "release_date": "2026-10-24"
+            "release_date": "2026-11-24"
           }
         },
         {
@@ -761,6 +757,15 @@
         },
         {
           "rank": 7,
+          "title": "Final Table",
+          "tmdb": {
+            "id": 316702,
+            "media_type": "tv",
+            "release_date": "2026-10-24"
+          }
+        },
+        {
+          "rank": 8,
           "title": "The Hunger Games: Catching Fire",
           "tmdb": {
             "id": 101299,
@@ -769,7 +774,7 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Hunger Games",
           "tmdb": {
             "id": 70160,
@@ -778,49 +783,40 @@
           }
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "The Hunger Games: Mockingjay - Part 1",
           "tmdb": {
             "id": 131631,
             "media_type": "movie",
             "release_date": "2014-11-19"
           }
-        },
-        {
-          "rank": 10,
-          "title": "The Terminal List",
-          "tmdb": {
-            "id": 120911,
-            "media_type": "tv",
-            "release_date": "2022-06-30"
-          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.movies",
-      "heading": "TOP Movies on Amazon Prime in Singapore on November 25, 2026",
+      "heading": "TOP Movies on Amazon Prime in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "Amazon Prime",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Clashing Through the Snow",
-          "tmdb": {
-            "id": 1611767,
-            "media_type": "movie",
-            "release_date": "2026-11-23"
-          }
-        },
-        {
-          "rank": 2,
           "title": "Jailer 2",
           "tmdb": {
             "id": 1234139,
             "media_type": "movie",
             "release_date": "2026-10-14"
+          }
+        },
+        {
+          "rank": 2,
+          "title": "Clashing Through the Snow",
+          "tmdb": {
+            "id": 1611767,
+            "media_type": "movie",
+            "release_date": "2026-11-23"
           }
         },
         {
@@ -866,39 +862,39 @@
         },
         {
           "rank": 8,
-          "title": "Harry Potter and the Goblet of Fire",
-          "tmdb": {
-            "id": 674,
-            "media_type": "movie",
-            "release_date": "2005-11-16"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Housemaid",
-          "tmdb": {
-            "id": 1368166,
-            "media_type": "movie",
-            "release_date": "2025-12-18"
-          }
-        },
-        {
-          "rank": 10,
           "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
             "id": 671,
             "media_type": "movie",
             "release_date": "2001-11-16"
           }
+        },
+        {
+          "rank": 9,
+          "title": "Harry Potter and the Half-Blood Prince",
+          "tmdb": {
+            "id": 767,
+            "media_type": "movie",
+            "release_date": "2009-07-15"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Housemaid",
+          "tmdb": {
+            "id": 1368166,
+            "media_type": "movie",
+            "release_date": "2025-12-18"
+          }
         }
       ]
     },
     {
       "catalog_id": "amazon-prime.series",
-      "heading": "TOP TV Shows on Amazon Prime in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on Amazon Prime in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "Amazon Prime",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -921,6 +917,15 @@
         },
         {
           "rank": 3,
+          "title": "Blade Runner 2099",
+          "tmdb": {
+            "id": 171802,
+            "media_type": "tv",
+            "release_date": "2026-11-24"
+          }
+        },
+        {
+          "rank": 4,
           "title": "Final Table",
           "tmdb": {
             "id": 316702,
@@ -929,7 +934,7 @@
           }
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Terminal List",
           "tmdb": {
             "id": 120911,
@@ -938,7 +943,7 @@
           }
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Campus Drivers",
           "tmdb": {
             "id": 303044,
@@ -947,7 +952,7 @@
           }
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Reacher",
           "tmdb": {
             "id": 108978,
@@ -956,7 +961,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Neagley",
           "tmdb": {
             "id": 273207,
@@ -965,21 +970,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Off Campus",
           "tmdb": {
             "id": 273240,
             "media_type": "tv",
             "release_date": "2026-05-13"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "A Love Other Than Yours",
-          "tmdb": {
-            "id": 314939,
-            "media_type": "tv",
-            "release_date": "2026-09-12"
           }
         },
         {
@@ -995,19 +991,19 @@
     },
     {
       "catalog_id": "apple-tv.movies",
-      "heading": "TOP Movies on Apple TV in Singapore on November 25, 2026",
+      "heading": "TOP Movies on Apple TV in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "Apple TV",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Being Heumann",
+          "title": "Way of the Warrior Kid",
           "tmdb": {
-            "id": 1050981,
+            "id": 1280115,
             "media_type": "movie",
-            "release_date": "2026-11-06"
+            "release_date": "2026-11-24"
           }
         },
         {
@@ -1048,6 +1044,15 @@
         },
         {
           "rank": 6,
+          "title": "Being Heumann",
+          "tmdb": {
+            "id": 1050981,
+            "media_type": "movie",
+            "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 7,
           "title": "The Family Plan 2",
           "tmdb": {
             "id": 1363123,
@@ -1056,7 +1061,7 @@
           }
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Gorge",
           "tmdb": {
             "id": 950396,
@@ -1065,21 +1070,12 @@
           }
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Snoopy Presents: 12 Days of Snoopy",
           "tmdb": {
             "id": 1780407,
             "media_type": "movie",
             "release_date": "2026-11-12"
-          }
-        },
-        {
-          "rank": 9,
-          "title": "The Instigators",
-          "tmdb": {
-            "id": 1059064,
-            "media_type": "movie",
-            "release_date": "2024-08-02"
           }
         },
         {
@@ -1095,19 +1091,19 @@
     },
     {
       "catalog_id": "apple-tv.series",
-      "heading": "TOP TV Shows on Apple TV in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on Apple TV in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "Apple TV",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
           "rank": 1,
-          "title": "Ted Lasso",
+          "title": "Stick",
           "tmdb": {
-            "id": 97546,
+            "id": 248830,
             "media_type": "tv",
-            "release_date": "2020-08-14"
+            "release_date": "2025-06-03"
           }
         },
         {
@@ -1121,11 +1117,11 @@
         },
         {
           "rank": 3,
-          "title": "Slow Horses",
+          "title": "Ted Lasso",
           "tmdb": {
-            "id": 95480,
+            "id": 97546,
             "media_type": "tv",
-            "release_date": "2022-04-01"
+            "release_date": "2020-08-14"
           }
         },
         {
@@ -1139,20 +1135,20 @@
         },
         {
           "rank": 5,
+          "title": "Slow Horses",
+          "tmdb": {
+            "id": 95480,
+            "media_type": "tv",
+            "release_date": "2022-04-01"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Silo",
           "tmdb": {
             "id": 125988,
             "media_type": "tv",
             "release_date": "2023-05-04"
-          }
-        },
-        {
-          "rank": 6,
-          "title": "Stick",
-          "tmdb": {
-            "id": 248830,
-            "media_type": "tv",
-            "release_date": "2025-06-03"
           }
         },
         {
@@ -1175,30 +1171,30 @@
         },
         {
           "rank": 9,
+          "title": "Awkwafina: The Unlikely Cook",
+          "tmdb": {
+            "id": 306179,
+            "media_type": "tv",
+            "release_date": "2026-11-06"
+          }
+        },
+        {
+          "rank": 10,
           "title": "Monarch: Legacy of Monsters",
           "tmdb": {
             "id": 202411,
             "media_type": "tv",
             "release_date": "2023-11-16"
           }
-        },
-        {
-          "rank": 10,
-          "title": "Dark Matter",
-          "tmdb": {
-            "id": 196322,
-            "media_type": "tv",
-            "release_date": "2024-05-07"
-          }
         }
       ]
     },
     {
       "catalog_id": "apple-tv-store.movies",
-      "heading": "TOP Movies on Apple TV Store in Singapore on November 25, 2026",
+      "heading": "TOP Movies on Apple TV Store in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "Apple TV Store",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1221,15 +1217,6 @@
         },
         {
           "rank": 3,
-          "title": "The Hunger Games: Catching Fire",
-          "tmdb": {
-            "id": 101299,
-            "media_type": "movie",
-            "release_date": "2013-11-15"
-          }
-        },
-        {
-          "rank": 4,
           "title": "The Hunger Games",
           "tmdb": {
             "id": 70160,
@@ -1238,12 +1225,21 @@
           }
         },
         {
-          "rank": 5,
-          "title": "Spider-Man: Brand New Day",
+          "rank": 4,
+          "title": "The Hunger Games: Catching Fire",
           "tmdb": {
-            "id": 969681,
+            "id": 101299,
             "media_type": "movie",
-            "release_date": "2026-07-29"
+            "release_date": "2013-11-15"
+          }
+        },
+        {
+          "rank": 5,
+          "title": "The Hunger Games: Mockingjay - Part 2",
+          "tmdb": {
+            "id": 131634,
+            "media_type": "movie",
+            "release_date": "2015-11-18"
           }
         },
         {
@@ -1257,48 +1253,48 @@
         },
         {
           "rank": 7,
-          "title": "The Hunger Games: Mockingjay - Part 2",
+          "title": "Spider-Man: Brand New Day",
           "tmdb": {
-            "id": 131634,
+            "id": 969681,
             "media_type": "movie",
-            "release_date": "2015-11-18"
+            "release_date": "2026-07-29"
           }
         },
         {
           "rank": 8,
-          "title": "Resident Evil",
+          "title": "Dune: Part Two",
           "tmdb": {
-            "id": 1423191,
+            "id": 693134,
             "media_type": "movie",
-            "release_date": "2026-09-16"
+            "release_date": "2024-02-27"
           }
         },
         {
           "rank": 9,
-          "title": "Heart of the Beast",
+          "title": "Harry Potter and the Philosopher's Stone",
           "tmdb": {
-            "id": 1263337,
+            "id": 671,
             "media_type": "movie",
-            "release_date": "2026-09-23"
+            "release_date": "2001-11-16"
           }
         },
         {
           "rank": 10,
-          "title": "Charlie and the Chocolate Factory",
+          "title": "Dune",
           "tmdb": {
-            "id": 118,
+            "id": 438631,
             "media_type": "movie",
-            "release_date": "2005-07-13"
+            "release_date": "2021-09-15"
           }
         }
       ]
     },
     {
       "catalog_id": "google.movies",
-      "heading": "TOP Movies on Google in Singapore on November 25, 2026",
+      "heading": "TOP Movies on Google in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "Google",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1312,24 +1308,6 @@
         },
         {
           "rank": 2,
-          "title": "Resident Evil",
-          "tmdb": {
-            "id": 1423191,
-            "media_type": "movie",
-            "release_date": "2026-09-16"
-          }
-        },
-        {
-          "rank": 3,
-          "title": "Spider-Man: Brand New Day",
-          "tmdb": {
-            "id": 969681,
-            "media_type": "movie",
-            "release_date": "2026-07-29"
-          }
-        },
-        {
-          "rank": 4,
           "title": "Heart of the Beast",
           "tmdb": {
             "id": 1263337,
@@ -1338,7 +1316,34 @@
           }
         },
         {
+          "rank": 3,
+          "title": "Resident Evil",
+          "tmdb": {
+            "id": 1423191,
+            "media_type": "movie",
+            "release_date": "2026-09-16"
+          }
+        },
+        {
+          "rank": 4,
+          "title": "Spider-Man: Brand New Day",
+          "tmdb": {
+            "id": 969681,
+            "media_type": "movie",
+            "release_date": "2026-07-29"
+          }
+        },
+        {
           "rank": 5,
+          "title": "The Social Reckoning",
+          "tmdb": {
+            "id": 1281331,
+            "media_type": "movie",
+            "release_date": "2026-10-07"
+          }
+        },
+        {
+          "rank": 6,
           "title": "Obsession",
           "tmdb": {
             "id": 1339713,
@@ -1347,34 +1352,7 @@
           }
         },
         {
-          "rank": 6,
-          "title": "Insidious: Out of the Further",
-          "tmdb": {
-            "id": 1291595,
-            "media_type": "movie",
-            "release_date": "2026-08-19"
-          }
-        },
-        {
           "rank": 7,
-          "title": "The Hunger Games: Mockingjay - Part 1",
-          "tmdb": {
-            "id": 131631,
-            "media_type": "movie",
-            "release_date": "2014-11-19"
-          }
-        },
-        {
-          "rank": 8,
-          "title": "Harry Potter and the Order of the Phoenix",
-          "tmdb": {
-            "id": 675,
-            "media_type": "movie",
-            "release_date": "2007-07-08"
-          }
-        },
-        {
-          "rank": 9,
           "title": "Harry Potter and the Half-Blood Prince",
           "tmdb": {
             "id": 767,
@@ -1383,22 +1361,40 @@
           }
         },
         {
-          "rank": 10,
-          "title": "The Hunger Games: Catching Fire",
+          "rank": 8,
+          "title": "Meet the Parents",
           "tmdb": {
-            "id": 101299,
+            "id": 1597,
             "media_type": "movie",
-            "release_date": "2013-11-15"
+            "release_date": "2000-10-06"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Bullet Train",
+          "tmdb": {
+            "id": 718930,
+            "media_type": "movie",
+            "release_date": "2022-08-03"
+          }
+        },
+        {
+          "rank": 10,
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "tmdb": {
+            "id": 131631,
+            "media_type": "movie",
+            "release_date": "2014-11-19"
           }
         }
       ]
     },
     {
       "catalog_id": "mewatch.movies",
-      "heading": "TOP Movies on meWatch in Singapore on November 25, 2026",
+      "heading": "TOP Movies on meWatch in Singapore on November 26, 2026",
       "category": "movies",
       "platform": "meWatch",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1421,11 +1417,11 @@
         },
         {
           "rank": 3,
-          "title": "Circle Line",
+          "title": "The Shallows",
           "tmdb": {
-            "id": 1055733,
+            "id": 332567,
             "media_type": "movie",
-            "release_date": "2023-01-05"
+            "release_date": "2016-06-24"
           }
         },
         {
@@ -1439,33 +1435,15 @@
         },
         {
           "rank": 5,
-          "title": "Gone Case",
+          "title": "Circle Line",
           "tmdb": {
-            "id": 808617,
+            "id": 1055733,
             "media_type": "movie",
-            "release_date": "2014-01-01"
+            "release_date": "2023-01-05"
           }
         },
         {
           "rank": 6,
-          "title": "Middle Class",
-          "tmdb": {
-            "id": 1566666,
-            "media_type": "movie",
-            "release_date": "2025-11-21"
-          }
-        },
-        {
-          "rank": 7,
-          "title": "Maybe I Do",
-          "tmdb": {
-            "id": 972230,
-            "media_type": "movie",
-            "release_date": "2023-01-27"
-          }
-        },
-        {
-          "rank": 8,
           "title": "Puss in Boots",
           "tmdb": {
             "id": 417859,
@@ -1474,31 +1452,49 @@
           }
         },
         {
-          "rank": 9,
-          "title": "The Shallows",
+          "rank": 7,
+          "title": "Gone Case",
           "tmdb": {
-            "id": 332567,
+            "id": 808617,
             "media_type": "movie",
-            "release_date": "2016-06-24"
+            "release_date": "2014-01-01"
+          }
+        },
+        {
+          "rank": 8,
+          "title": "Thaai Kizhavi",
+          "tmdb": {
+            "id": 1602783,
+            "media_type": "movie",
+            "release_date": "2026-02-27"
+          }
+        },
+        {
+          "rank": 9,
+          "title": "Maybe I Do",
+          "tmdb": {
+            "id": 972230,
+            "media_type": "movie",
+            "release_date": "2023-01-27"
           }
         },
         {
           "rank": 10,
-          "title": "Kottai Vaasal",
+          "title": "Dear You",
           "tmdb": {
-            "id": 322091,
+            "id": 1671548,
             "media_type": "movie",
-            "release_date": "1992-08-15"
+            "release_date": "2026-04-30"
           }
         }
       ]
     },
     {
       "catalog_id": "mewatch.series",
-      "heading": "TOP TV Shows on meWatch in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on meWatch in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "meWatch",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
@@ -1595,10 +1591,10 @@
     },
     {
       "catalog_id": "viu.series",
-      "heading": "TOP TV Shows on Viu in Singapore on November 25, 2026",
+      "heading": "TOP TV Shows on Viu in Singapore on November 26, 2026",
       "category": "tv shows",
       "platform": "Viu",
-      "date": "November 25, 2026",
+      "date": "November 26, 2026",
       "title_count": 10,
       "entries": [
         {
