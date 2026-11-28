@@ -71,7 +71,11 @@ def main(argv: list[str] | None = None) -> int:
             ):
                 if not isinstance(result, Exception):
                     try:
-                        validate_catalog(result.to_dict(output_region=target), target)
+                        validate_catalog(
+                            result.to_dict(output_region=target),
+                            target,
+                            source_rank_counts=result.expected_rank_counts,
+                        )
                     except ScraperError as exc:
                         result = exc
                 row = {

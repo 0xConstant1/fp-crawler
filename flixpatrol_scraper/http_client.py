@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import math
 import random
 import time
 from collections.abc import Callable, Iterable
@@ -72,14 +73,18 @@ def _sleep_before_retry(
     attempt: int,
     backoff_factor: float,
 ) -> None:
-    retry_after_seconds = (
-        _parse_retry_after(response.headers.get("retry-after")) if response else None
+    retry_after_seconds = retry_delay(
+        response.headers.get("retry-after") if response is not None else None,
+        attempt,
+        backoff_factor,
     )
-    if retry_after_seconds is None:
-        retry_after_seconds = backoff_factor * (2**attempt) + random.uniform(0.0, 0.5)
-
     if retry_after_seconds > 0:
         time.sleep(retry_after_seconds)
+
+
+def retry_delay(retry_after: str | None, attempt: int, backoff_factor: float) -> float:
+    delay = _parse_retry_after(retry_after)
+    return delay if delay is not None else backoff_factor * (2**attempt) + random.uniform(0.0, 0.5)
 
 
 def _parse_retry_after(value: str | None) -> float | None:
@@ -87,7 +92,8 @@ def _parse_retry_after(value: str | None) -> float | None:
         return None
 
     try:
-        return max(0.0, float(value))
+        delay = float(value)
+        return max(0.0, delay) if math.isfinite(delay) else None
     except ValueError:
         pass
 

@@ -129,20 +129,25 @@ def scrape_region_targets(
             print(
                 f"[{completed_count}/{total_targets}] Skipped {target}: no TOP 10 charts available"
             )
-        elif isinstance(result, Exception):
-            failures.append((target, result))
-            print(
-                f"[{completed_count}/{total_targets}] Failed {target}: {result}",
-                file=sys.stderr,
-            )
-        else:
+            continue
+        if not isinstance(result, Exception):
             output_path = build_output_path_for_target(output_dir, target)
-            write_result(result, output_path, output_region=target)
-            print(
-                f"[{completed_count}/{total_targets}] "
-                f"Wrote {len(result.charts)} charts to {output_path}"
-            )
-            written_count += 1
+            try:
+                write_result(result, output_path, output_region=target)
+            except ScraperError as exc:
+                result = exc
+            else:
+                print(
+                    f"[{completed_count}/{total_targets}] "
+                    f"Wrote {len(result.charts)} charts to {output_path}"
+                )
+                written_count += 1
+                continue
+        failures.append((target, result))
+        print(
+            f"[{completed_count}/{total_targets}] Failed {target}: {result}",
+            file=sys.stderr,
+        )
     if failures:
         target, error = failures[0]
         raise ScraperError(
@@ -262,6 +267,11 @@ def build_parser() -> argparse.ArgumentParser:
         help="Resolve scraped titles to TMDB IDs. Requires TMDB credentials.",
     )
     parser.add_argument(
+        "--fetch-title-details",
+        action="store_true",
+        help="Use FlixPatrol title pages to resolve ambiguous TMDB matches (slower).",
+    )
+    parser.add_argument(
         "--tmdb-access-token",
         help="TMDB v4 bearer token. Falls back to TMDB_ACCESS_TOKEN when omitted.",
     )
@@ -338,7 +348,7 @@ def main(argv: list[str] | None = None) -> int:
             language=args.tmdb_language,
         )
 
-    if args.resolve_tmdb and tmdb_resolver is None:
+    if (args.resolve_tmdb or args.fetch_title_details) and tmdb_resolver is None:
         parser.exit(
             status=1,
             message=(
@@ -351,6 +361,7 @@ def main(argv: list[str] | None = None) -> int:
     scraper = FlixPatrolScraper(
         timeout_seconds=args.timeout,
         tmdb_resolver=tmdb_resolver,
+        fetch_title_details=args.fetch_title_details,
         cf_clearance=args.cf_clearance or os.getenv("FLIXPATROL_CF_CLEARANCE"),
         user_agent=args.user_agent or os.getenv("FLIXPATROL_USER_AGENT"),
         solve_cf=args.solve_cf or _env_flag("FLIXPATROL_SOLVE_CF"),

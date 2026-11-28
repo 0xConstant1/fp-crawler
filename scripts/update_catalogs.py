@@ -38,6 +38,11 @@ def main(argv: list[str] | None = None) -> int:
         "--force", action="store_true", help="Refresh even regions already current."
     )
     parser.add_argument(
+        "--fetch-title-details",
+        action="store_true",
+        help="Use FlixPatrol title pages to resolve ambiguous TMDB matches (slower).",
+    )
+    parser.add_argument(
         "--transport",
         choices=("auto", "http", "browser"),
         default=os.getenv("FLIXPATROL_TRANSPORT", "auto"),
@@ -63,6 +68,7 @@ def main(argv: list[str] | None = None) -> int:
             )
         scraper = FlixPatrolScraper(
             tmdb_resolver=resolver,
+            fetch_title_details=args.fetch_title_details,
             transport=args.transport,
             solve_cf=_env_flag("FLIXPATROL_SOLVE_CF"),
             solve_headless=not _env_flag("FLIXPATROL_SOLVE_HEADED"),
